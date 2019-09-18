@@ -43,6 +43,7 @@ import os
 import joblib
 from keras.layers import TimeDistributed
 from sklearn.model_selection import train_test_split
+from scipy.stats import shapiro
 
 # ======================= generate the normal rmses.pkl and rmses_dict.pkl ================================
 # ==================== Step 1 =====================
@@ -327,7 +328,7 @@ fd = pd.read_csv('../data/System_logs/log_value_vector.csv')
 #
 # ===================== step 3 =======================
 # ========================= Anomaly Detection Part =======================
-#
+
 
 def mean_squared_error_modified(y_true, y_pred):
     d_matrix = subtract(y_true, y_pred)
@@ -360,6 +361,7 @@ def training_data_generate(matrix, n_steps):
     print("the shape of X is:",X.shape)
     return X, Y
 
+
 def LSTM_model(trainx, trainy):
     # use the train
     model = Sequential()
@@ -382,7 +384,7 @@ if __name__ == "__main__":
     # r=root, d = directories, f=files
     for r, d, f in os.walk(root_dir):
         for file in f:
-            if '.npy' in file:
+            if file.endswith('.npy'):
                 filenames.append(os.path.join(r, file))
     rmses = []
     rmses_dict = {}
@@ -402,13 +404,13 @@ if __name__ == "__main__":
             if matrix.shape[0] >= 8:
                 n_steps = 3
                 X, Y = training_data_generate(matrix, n_steps)
-                train_x, test_x, train_y, test_y = train_test_split(X, Y, test_size=0.4, random_state=0)
+                train_x, test_x, train_y, test_y = train_test_split(X, Y, test_size=0.4, random_state=7)
 
             elif matrix.shape[0]>=4:
                 n_steps = 1
                 X, Y = training_data_generate(matrix, n_steps)
                 # test_x and
-                train_x, test_x, train_y, test_y = train_test_split(X, Y, test_size=0.5, random_state=0)
+                train_x, test_x, train_y, test_y = train_test_split(X, Y, test_size=0.5, random_state=7)
             else:
                 continue
             # get the model
@@ -423,15 +425,6 @@ if __name__ == "__main__":
             # rmse, meams = mean_squared_error(test_y, yhat)
             rmse = sqrt(rmse)
             print('Test RMSE: %.3f' % rmse)
-            # plt.hist(means, bins=yhat.shape[1])
-            # x_list = []
-            # for i in range(yhat.shape[1]):
-            #     x_list.append(i)
-            # plt.bar(x_list, means)
-            # plt.ylabel("Errors Values")
-            # plt.title('Errors Distribution')
-            # plt.show()
-
             # use the mean square error to compare the difference between predicted y and validation y
             # the error follows the Gaussian distribution ---- normal, otherwise abnormal
             rmses.append(rmse)
@@ -440,14 +433,34 @@ if __name__ == "__main__":
             # save the results to files
             joblib.dump(rmses, file+'_rmses.pkl')
             joblib.dump(rmses_dict, file+'_rmses_dict.pkl')
+
+        # part to calculate the similarity between the data and a Gaussian distribution
+        if len(rmses)>=3:
+            stat, p = shapiro(rmses)
+            print("Statistics = %.3f, p = %.3f"%(stat, p))
+            # the threshold for similarity
+            alpha = 0.05
+            normal_key_log = []
+            abnormal_key_log = []
+            if p > alpha:
+                print("Sample looks Gaussian and {} is like the normal log".format(file))
+                normal_key_log.append(file)
+            else:
+                print("Sample does not look Gaussian and {} might be abnormal log".format(file))
+                abnormal_key_log.append(file)
+            print("the normal key log list is:", normal_key_log)
+            print("the abnormal key log list is:", abnormal_key_log)
+        else:
+            continue
+        # part to print the picture of means
         # create the x axis labels for plot
-        x_list = []
-        for i in range(len(rmses)):
-            x_list.append(i)
-        plt.bar(x_list, rmses)
-        plt.ylabel("Errors Values")
-        plt.title('Errors Distribution')
-        plt.show()
+        # x_list = []
+        # for i in range(len(rmses)):
+        #     x_list.append(i)
+        # plt.bar(x_list, rmses)
+        # plt.ylabel("Errors Values")
+        # plt.title(file+' '+'Errors Distribution')
+        # plt.show()
         print("the rmses_dict is {}".format(rmses_dict))
         print("the mean of rmses is: {}".format(np.mean(rmses)))
 
