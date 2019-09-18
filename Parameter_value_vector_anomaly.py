@@ -388,7 +388,9 @@ if __name__ == "__main__":
                 filenames.append(os.path.join(r, file))
     rmses = []
     rmses_dict = {}
-
+    # define the normal and abnormal log lists
+    normal_key_log = []
+    abnormal_key_log = []
     # identify whether result file has been generated before
     for file in filenames:
         if os.path.isfile(file+'_rmses.pkl'):
@@ -440,8 +442,7 @@ if __name__ == "__main__":
             print("Statistics = %.3f, p = %.3f"%(stat, p))
             # the threshold for similarity
             alpha = 0.05
-            normal_key_log = []
-            abnormal_key_log = []
+
             if p > alpha:
                 print("Sample looks Gaussian and {} is like the normal log".format(file))
                 normal_key_log.append(file)
@@ -463,17 +464,11 @@ if __name__ == "__main__":
         # plt.ylabel("Errors Values")
         # plt.title(file+' '+'Errors Distribution')
         # plt.show()
-        
+
 
     '''
-    normalization first for the whole dataset
-    the mean of rmses is: 0.38624247585884824
-
-    normalization after the split: normalize the train_x and test_x
-    the mean of rmses is: 3320.1835964733777
+    with history--3, random_state--7, threshold_alpha--0.05
+        we got the result: the normal key log list is: ['Event_npy/E0.npy', 'Event_npy/E12.npy', 'Event_npy/E117.npy']
+    
     '''
 
-# import joblib
-
-# print(joblib.load('Event_npy/rmses.pkl'))
-# print(joblib.load('Event_npy/rmses_dict.pkl'))
