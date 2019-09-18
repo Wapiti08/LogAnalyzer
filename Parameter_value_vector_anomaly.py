@@ -24,10 +24,10 @@ please execute a part every time
 
 import pandas as pd
 from datetime import datetime, timedelta
-import re
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import normalize, MinMaxScaler
+import re
 from keras.preprocessing.text import text_to_word_sequence, Tokenizer
 from keras.metrics import mean_squared_error
 from pandas import Series
@@ -388,12 +388,12 @@ if __name__ == "__main__":
     rmses_dict = {}
 
     # identify whether result file has been generated before
-    if os.path.isfile('Event_npy/rmses.pkl'):
-        rmses = joblib.load('Event_npy/rmses.pkl')
+    for file in filenames:
+        if os.path.isfile(file+'_rmses.pkl'):
+            rmses = joblib.load(file+'_rmses.pkl')
 
-    else:
-        # looping read single file
-        for file in filenames:
+        else:
+            # looping read single file
             print("we are processing matrix:", file)
             matrix = np.load(file)
             # set n_steps_in and n_steps_out depending on the sequence length of matrix
@@ -437,19 +437,19 @@ if __name__ == "__main__":
             rmses.append(rmse)
             # save the result
             rmses_dict[file] = rmse
-        # save the results to files
-        joblib.dump(rmses, 'Event_npy/rmses.pkl')
-        joblib.dump(rmses_dict, 'Event_npy/rmses_dict.pkl')
-    # create the x axis labels for plot
-    x_list = []
-    for i in range(len(rmses)):
-        x_list.append(i)
-    plt.bar(x_list, rmses)
-    plt.ylabel("Errors Values")
-    plt.title('Errors Distribution')
-    plt.show()
-    print("the rmses_dict is {}".format(rmses_dict))
-    print("the mean of rmses is: {}".format(np.mean(rmses)))
+            # save the results to files
+            joblib.dump(rmses, file+'_rmses.pkl')
+            joblib.dump(rmses_dict, file+'_rmses_dict.pkl')
+        # create the x axis labels for plot
+        x_list = []
+        for i in range(len(rmses)):
+            x_list.append(i)
+        plt.bar(x_list, rmses)
+        plt.ylabel("Errors Values")
+        plt.title('Errors Distribution')
+        plt.show()
+        print("the rmses_dict is {}".format(rmses_dict))
+        print("the mean of rmses is: {}".format(np.mean(rmses)))
 
     '''
     normalization first for the whole dataset
