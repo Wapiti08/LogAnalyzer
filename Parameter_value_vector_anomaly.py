@@ -43,7 +43,7 @@ import os
 import joblib
 from keras.layers import TimeDistributed
 from sklearn.model_selection import train_test_split
-from scipy.stats import shapiro
+from scipy.stats import shapiro, normaltest
 
 # ======================= generate the normal rmses.pkl and rmses_dict.pkl ================================
 # ==================== Step 1 =====================
@@ -436,7 +436,8 @@ if __name__ == "__main__":
             joblib.dump(rmses, file+'_rmses.pkl')
             joblib.dump(rmses_dict, file+'_rmses_dict.pkl')
 
-        # part to calculate the similarity between the data and a Gaussian distribution
+        # use shapiro to calculate the similarity between the errors and a Gaussian distribution
+        # suitable for examples above 3
         if len(rmses)>=3:
             stat, p = shapiro(rmses)
             print("Statistics = %.3f, p = %.3f"%(stat, p))
@@ -451,6 +452,23 @@ if __name__ == "__main__":
                 abnormal_key_log.append(file)
         else:
             continue
+
+        #  use normaltest to calculate the similarity between the errors and a Gaussian distribution
+        #  suitable for examples above 8
+        # if len(rmses) >= 3:
+        #     stat, p = normaltest(rmses)
+        #     print("Statistics = %.3f, p = %.3f"%(stat, p))
+        #     # the threshold for similarity
+        #     alpha = 0.05
+        # 
+        #     if p > alpha:
+        #         print("Sample looks Gaussian and {} is like the normal log".format(file))
+        #         normal_key_log.append(file)
+        #     else:
+        #         print("Sample does not look Gaussian and {} might be abnormal log".format(file))
+        #         abnormal_key_log.append(file)
+        # else:
+        #     continue
         print("the rmses_dict is {}".format(rmses_dict))
         print("the mean of rmses is: {}".format(np.mean(rmses)))
     print("the normal key log list is:", normal_key_log)
@@ -467,8 +485,7 @@ if __name__ == "__main__":
 
 
     '''
-    with history--3, random_state--7, threshold_alpha--0.05
+    with history--3, random_state--7, threshold_alpha--0.05, simulation -- shapiro
         we got the result: the normal key log list is: ['Event_npy/E0.npy', 'Event_npy/E12.npy', 'Event_npy/E117.npy']
     
     '''
-
