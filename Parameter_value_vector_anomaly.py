@@ -448,10 +448,12 @@ if __name__ == "__main__":
             else:
                 print("Sample does not look Gaussian and {} might be abnormal log".format(file))
                 abnormal_key_log.append(file)
-            print("the normal key log list is:", normal_key_log)
-            print("the abnormal key log list is:", abnormal_key_log)
         else:
             continue
+        print("the rmses_dict is {}".format(rmses_dict))
+        print("the mean of rmses is: {}".format(np.mean(rmses)))
+    print("the normal key log list is:", normal_key_log)
+    print("the abnormal key log list is:", abnormal_key_log)
         # part to print the picture of means
         # create the x axis labels for plot
         # x_list = []
@@ -461,8 +463,7 @@ if __name__ == "__main__":
         # plt.ylabel("Errors Values")
         # plt.title(file+' '+'Errors Distribution')
         # plt.show()
-        print("the rmses_dict is {}".format(rmses_dict))
-        print("the mean of rmses is: {}".format(np.mean(rmses)))
+        
 
     '''
     normalization first for the whole dataset
