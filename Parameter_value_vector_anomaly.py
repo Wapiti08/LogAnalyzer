@@ -28,7 +28,6 @@ import re
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import normalize, MinMaxScaler
-import re
 from keras.preprocessing.text import text_to_word_sequence, Tokenizer
 from keras.metrics import mean_squared_error
 from pandas import Series
