@@ -388,53 +388,67 @@ if __name__ == "__main__":
     rmses = []
     rmses_dict = {}
 
-    # looping read single file
-    for file in filenames:
-        print("we are processing matrix:", file)
-        matrix = np.load(file)
-        # set n_steps_in and n_steps_out depending on the sequence length of matrix
-        # we set the test_size=0.4, the length of matrix should be at least 8
-        # Here, I will change the length of history to see the performance
-        if matrix.shape[0] >= 8:
-            n_steps = 3
-            X, Y = training_data_generate(matrix, n_steps)
-            train_x, test_x, train_y, test_y = train_test_split(X, Y, test_size=0.4, random_state=0)
+    # identify whether result file has been generated before
+    if os.path.isfile('Event_npy/rmses.pkl'):
+        rmses = joblib.load('Event_npy/rmses.pkl')
 
-        elif matrix.shape[0]>=4:
-            n_steps = 1
-            X, Y = training_data_generate(matrix, n_steps)
-            # test_x and
-            train_x, test_x, train_y, test_y = train_test_split(X, Y, test_size=0.5, random_state=0)
-        else:
-            continue
-        # get the model
-        model = LSTM_model(train_x, train_y)
-        print("the test_x is:", test_x)
-        # make a prediction
-        yhat = model.predict(test_x)
-        # delete the time step element
-        print("the predicted y is:", yhat)
+    else:
+        # looping read single file
+        for file in filenames:
+            print("we are processing matrix:", file)
+            matrix = np.load(file)
+            # set n_steps_in and n_steps_out depending on the sequence length of matrix
+            # we set the test_size=0.4, the length of matrix should be at least 8
+            # Here, I will change the length of history to see the performance
+            if matrix.shape[0] >= 8:
+                n_steps = 3
+                X, Y = training_data_generate(matrix, n_steps)
+                train_x, test_x, train_y, test_y = train_test_split(X, Y, test_size=0.4, random_state=0)
 
-        rmse, means = mean_squared_error_modified(test_y, yhat)
-        # rmse, meams = mean_squared_error(test_y, yhat)
-        rmse = sqrt(rmse)
-        print('Test RMSE: %.3f' % rmse)
-        # plt.hist(means, bins=yhat.shape[1])
-        x_list = []
-        for i in range(yhat.shape[1]):
-            x_list.append(i)
-        # plt.bar(x_list, means)
-        # plt.ylabel("Errors Values")
-        # plt.title('Errors Distribution')
-        # plt.show()
+            elif matrix.shape[0]>=4:
+                n_steps = 1
+                X, Y = training_data_generate(matrix, n_steps)
+                # test_x and
+                train_x, test_x, train_y, test_y = train_test_split(X, Y, test_size=0.5, random_state=0)
+            else:
+                continue
+            # get the model
+            model = LSTM_model(train_x, train_y)
+            print("the test_x is:", test_x)
+            # make a prediction
+            yhat = model.predict(test_x)
+            # delete the time step element
+            print("the predicted y is:", yhat)
 
-    # use the mean square error to compare the difference between predicted y and validation y
-    # the error follows the Gaussian distribution ---- normal, otherwise abnormal
-    rmses.append(rmse)
-    # save the result
-    rmses_dict[file] = rmse
+            rmse, means = mean_squared_error_modified(test_y, yhat)
+            # rmse, meams = mean_squared_error(test_y, yhat)
+            rmse = sqrt(rmse)
+            print('Test RMSE: %.3f' % rmse)
+            # plt.hist(means, bins=yhat.shape[1])
+            # x_list = []
+            # for i in range(yhat.shape[1]):
+            #     x_list.append(i)
+            # plt.bar(x_list, means)
+            # plt.ylabel("Errors Values")
+            # plt.title('Errors Distribution')
+            # plt.show()
 
-
+            # use the mean square error to compare the difference between predicted y and validation y
+            # the error follows the Gaussian distribution ---- normal, otherwise abnormal
+            rmses.append(rmse)
+            # save the result
+            rmses_dict[file] = rmse
+        # save the results to files
+        joblib.dump(rmses, 'Event_npy/rmses.pkl')
+        joblib.dump(rmses_dict, 'Event_npy/rmses_dict.pkl')
+    # create the x axis labels for plot
+    x_list = []
+    for i in range(len(rmses)):
+        x_list.append(i)
+    plt.bar(x_list, rmses)
+    plt.ylabel("Errors Values")
+    plt.title('Errors Distribution')
+    plt.show()
     print("the rmses_dict is {}".format(rmses_dict))
     print("the mean of rmses is: {}".format(np.mean(rmses)))
 
@@ -445,9 +459,6 @@ if __name__ == "__main__":
     normalization after the split: normalize the train_x and test_x
     the mean of rmses is: 3320.1835964733777
     '''
-#     joblib.dump(rmses, 'Event_npy/rmses.pkl')
-#     joblib.dump(rmses_dict, 'Event_npy/rmses_dict.pkl')
-#
 
 # import joblib
 
