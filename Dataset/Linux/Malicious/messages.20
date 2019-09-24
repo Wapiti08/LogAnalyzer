@@ -1,0 +1,528 @@
+May 24 04:08:13 ns1 syslogd 1.4-0: restart.
+May 24 04:08:13 ns1 syslogd 1.4-0: restart.
+May 24 04:08:13 ns1 syslogd 1.4-0: restart.
+May 24 04:08:13 ns1 syslogd 1.4-0: restart.
+May 24 04:08:13 ns1 syslogd 1.4-0: restart.
+May 24 04:08:13 ns1 syslogd 1.4-0: restart.
+May 24 07:16:35 ns1 rc: Stopping keytable:  succeeded
+May 24 07:16:35 ns1 Font Server[792]: terminating 
+May 24 07:16:35 ns1 xfs: xfs shutdown succeeded
+May 24 07:16:35 ns1 gpm: gpm shutdown succeeded
+May 24 07:16:35 ns1 httpd: httpd shutdown succeeded
+May 24 07:16:35 ns1 squid: Stopping squid: 
+May 24 07:16:36 ns1 squid[894]: Squid Parent: child process 895 exited with status 0
+May 24 07:16:37 ns1 squid: 
+May 24 07:16:37 ns1 rc: Stopping squid:  succeeded
+May 24 07:16:37 ns1 sshd: sshd -TERM succeeded
+May 24 07:16:38 ns1 sendmail: sendmail shutdown succeeded
+May 24 07:16:38 ns1 smb: smbd shutdown succeeded
+May 24 07:16:38 ns1 smb: nmbd shutdown succeeded
+May 24 07:16:38 ns1 named[909]: shutting down
+May 24 07:16:38 ns1 named[909]: no longer listening on 127.0.0.1#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.67#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.69#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.70#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.71#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.72#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.73#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.75#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.80#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.81#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.82#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.83#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.84#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.85#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.87#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.89#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.90#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.95#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.100#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.105#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.110#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.115#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.120#53
+May 24 07:16:38 ns1 named[909]: no longer listening on 63.126.79.125#53
+May 24 07:16:38 ns1 named[904]: exiting
+May 24 07:16:39 ns1 named: named shutdown succeeded
+May 24 07:16:39 ns1 ucd-snmp[920]: Received TERM or STOP signal...  shutting down... 
+May 24 07:16:39 ns1 snmpd: snmpd shutdown succeeded
+May 24 07:16:39 ns1 xinetd[683]: Exiting...
+May 24 07:16:39 ns1 xinetd: xinetd shutdown succeeded
+May 24 07:16:40 ns1 atd: atd shutdown succeeded
+May 24 07:16:40 ns1 crond: crond shutdown succeeded
+May 24 07:16:40 ns1 identd: identd shutdown succeeded
+May 24 07:16:40 ns1 autofs: automount -USR2 succeeded
+May 24 07:16:40 ns1 automount[636]: shutting down, path = /misc
+May 24 07:16:42 ns1 apmd[587]: Exiting
+May 24 07:16:42 ns1 apmd: apmd shutdown succeeded
+May 24 07:16:42 ns1 ntpd[932]: ntpd exiting on signal 15
+May 24 07:16:42 ns1 ntpd: ntpd shutdown succeeded
+May 24 07:16:42 ns1 dd: 1+0 records in
+May 24 07:16:42 ns1 dd: 1+0 records out
+May 24 07:16:42 ns1 random: Saving random seed:  succeeded
+May 24 07:16:42 ns1 rpc.statd[503]: Caught signal 15, un-registering and exiting.
+May 24 07:16:42 ns1 nfslock: rpc.statd shutdown succeeded
+May 24 07:16:42 ns1 portmap: portmap shutdown succeeded
+May 24 07:16:42 ns1 kernel: Kernel logging (proc) stopped.
+May 24 07:16:42 ns1 kernel: Kernel log daemon terminating.
+May 24 07:16:43 ns1 syslog: klogd shutdown succeeded
+May 24 07:16:43 ns1 exiting on signal 15
+May 24 07:17:45 ns1 syslogd 1.4-0: restart.
+May 24 07:17:45 ns1 syslog: syslogd startup succeeded
+May 24 07:17:45 ns1 syslog: klogd startup succeeded
+May 24 07:17:45 ns1 kernel: klogd 1.4-0, log source = /proc/kmsg started.
+May 24 07:17:45 ns1 kernel: Inspecting /boot/System.map-2.4.2-2
+May 24 07:17:45 ns1 portmap: portmap startup succeeded
+May 24 07:17:45 ns1 kernel: Loaded 14301 symbols from /boot/System.map-2.4.2-2.
+May 24 07:17:45 ns1 kernel: Symbols match kernel version 2.4.2.
+May 24 07:17:45 ns1 kernel: Loaded 135 symbols from 4 modules.
+May 24 07:17:45 ns1 kernel: Linux version 2.4.2-2 (root@porky.devel.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.1 2.96-79)) #1 Sun Apr 8 20:41:30 EDT 2001
+May 24 07:17:45 ns1 kernel: BIOS-provided physical RAM map:
+May 24 07:17:45 ns1 kernel:  BIOS-e820: 00000000000a0000 @ 0000000000000000 (usable)
+May 24 07:17:45 ns1 kernel:  BIOS-e820: 0000000000010000 @ 00000000000f0000 (reserved)
+May 24 07:17:45 ns1 kernel:  BIOS-e820: 0000000007dae000 @ 0000000000100000 (usable)
+May 24 07:17:45 ns1 kernel:  BIOS-e820: 0000000000052000 @ 0000000007eae000 (reserved)
+May 24 07:17:45 ns1 kernel:  BIOS-e820: 0000000000100000 @ 0000000007f00000 (reserved)
+May 24 07:17:45 ns1 kernel:  BIOS-e820: 0000000000500000 @ 00000000ffb00000 (reserved)
+May 24 07:17:45 ns1 kernel: On node 0 totalpages: 32430
+May 24 07:17:45 ns1 kernel: zone(0): 4096 pages.
+May 24 07:17:45 ns1 kernel: zone DMA has max 32 cached pages.
+May 24 07:17:45 ns1 kernel: zone(1): 28334 pages.
+May 24 07:17:45 ns1 kernel: zone Normal has max 221 cached pages.
+May 24 07:17:45 ns1 kernel: zone(2): 0 pages.
+May 24 07:17:45 ns1 kernel: zone HighMem has max 1 cached pages.
+May 24 07:17:45 ns1 kernel: Kernel command line: auto BOOT_IMAGE=linux ro root=308 BOOT_FILE=/boot/vmlinuz-2.4.2-2
+May 24 07:17:45 ns1 kernel: Initializing CPU#0
+May 24 07:17:45 ns1 kernel: Detected 730.981 MHz processor.
+May 24 07:17:45 ns1 kernel: Console: colour VGA+ 80x25
+May 24 07:17:45 ns1 nfslock: rpc.statd startup succeeded
+May 24 07:17:45 ns1 rpc.statd[501]: Version 0.3.1 Starting
+May 24 07:17:45 ns1 kernel: Calibrating delay loop... 1458.17 BogoMIPS
+May 24 07:17:45 ns1 kernel: Memory: 125148k/129720k available (1365k kernel code, 4188k reserved, 92k data, 236k init, 0k highmem)
+May 24 07:17:45 ns1 kernel: Dentry-cache hash table entries: 16384 (order: 5, 131072 bytes)
+May 24 07:17:45 ns1 kernel: Buffer-cache hash table entries: 4096 (order: 2, 16384 bytes)
+May 24 07:17:45 ns1 kernel: Page-cache hash table entries: 32768 (order: 6, 262144 bytes)
+May 24 07:17:45 ns1 kernel: Inode-cache hash table entries: 8192 (order: 4, 65536 bytes)
+May 24 07:17:45 ns1 kernel: VFS: Diskquotas version dquot_6.5.0 initialized
+May 24 07:17:45 ns1 kernel: CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0
+May 24 07:17:45 ns1 kernel: CPU: L1 I cache: 16K, L1 D cache: 16K
+May 24 07:17:46 ns1 keytable: Loading keymap: 
+May 24 07:17:46 ns1 kernel: CPU: L2 cache: 256K
+May 24 07:17:46 ns1 kernel: Intel machine check architecture supported.
+May 24 07:17:46 ns1 kernel: Intel machine check reporting enabled on CPU#0.
+May 24 07:17:46 ns1 keytable: 
+May 24 07:17:46 ns1 kernel: CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000
+May 24 07:17:46 ns1 keytable: Loading system font: 
+May 24 07:17:46 ns1 kernel: CPU: After generic, caps: 0383f9ff 00000000 00000000 00000000
+May 24 07:17:46 ns1 kernel: CPU: Common caps: 0383f9ff 00000000 00000000 00000000
+May 24 07:17:46 ns1 kernel: CPU: Intel Pentium III (Coppermine) stepping 06
+May 24 07:17:46 ns1 kernel: Enabling fast FPU save and restore... done.
+May 24 07:17:46 ns1 keytable: 
+May 24 07:17:46 ns1 kernel: Enabling unmasked SIMD FPU exception support... done.
+May 24 07:17:46 ns1 rc: Starting keytable:  succeeded
+May 24 07:17:46 ns1 kernel: Checking 'hlt' instruction... OK.
+May 24 07:17:46 ns1 kernel: POSIX conformance testing by UNIFIX
+May 24 07:17:46 ns1 kernel: mtrr: v1.37 (20001109) Richard Gooch (rgooch@atnf.csiro.au)
+May 24 07:17:46 ns1 kernel: mtrr: detected mtrr type: Intel
+May 24 07:17:46 ns1 kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+May 24 07:17:46 ns1 kernel: PCI: Using configuration type 1
+May 24 07:17:46 ns1 kernel: PCI: Probing PCI hardware
+May 24 07:17:46 ns1 kernel: PCI: Using IRQ router PIIX [8086/2410] at 00:1f.0
+May 24 07:17:46 ns1 kernel: isapnp: Scanning for PnP cards...
+May 24 07:17:46 ns1 kernel: isapnp: No Plug & Play device found
+May 24 07:17:46 ns1 kernel: Linux NET4.0 for Linux 2.4
+May 24 07:17:46 ns1 kernel: Based upon Swansea University Computer Society NET3.039
+May 24 07:17:46 ns1 kernel: Initializing RT netlink socket
+May 24 07:17:46 ns1 kernel: apm: BIOS version 1.2 Flags 0x03 (Driver version 1.14)
+May 24 07:17:46 ns1 kernel: Starting kswapd v1.8
+May 24 07:17:46 ns1 kernel: pty: 256 Unix98 ptys configured
+May 24 07:17:46 ns1 kernel: block: queued sectors max/low 83026kB/27675kB, 256 slots per queue
+May 24 07:17:46 ns1 kernel: RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize
+May 24 07:17:46 ns1 kernel: Uniform Multi-Platform E-IDE driver Revision: 6.31
+May 24 07:17:46 ns1 kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+May 24 07:17:46 ns1 kernel: PIIX4: IDE controller on PCI bus 00 dev f9
+May 24 07:17:46 ns1 kernel: PIIX4: chipset revision 2
+May 24 07:17:46 ns1 kernel: PIIX4: not 100%% native mode: will probe irqs later
+May 24 07:17:46 ns1 kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+May 24 07:17:46 ns1 kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+May 24 07:17:46 ns1 random: Initializing random number generator:  succeeded
+May 24 07:17:46 ns1 kernel: hda: IBM-DTLA-307015, ATA DISK drive
+May 24 07:17:46 ns1 kernel: hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive
+May 24 07:17:46 ns1 kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+May 24 07:17:46 ns1 kernel: ide1 at 0x170-0x177,0x376 on irq 15
+May 24 07:17:46 ns1 kernel: hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=1826/255/63, UDMA(66)
+May 24 07:17:46 ns1 kernel: Partition check:
+May 24 07:17:46 ns1 kernel:  hda: hda1 hda2 < hda5 hda6 hda7 hda8 hda9 >
+May 24 07:17:46 ns1 kernel: Floppy drive(s): fd0 is 1.44M
+May 24 07:17:46 ns1 kernel: FDC 0 is a National Semiconductor PC87306
+May 24 07:17:46 ns1 kernel: Serial driver version 5.02 (2000-08-09) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled
+May 24 07:17:46 ns1 kernel: ttyS00 at 0x03f8 (irq = 4) is a 16550A
+May 24 07:17:46 ns1 kernel: ttyS01 at 0x02f8 (irq = 3) is a 16550A
+May 24 07:17:46 ns1 kernel: Real Time Clock Driver v1.10d
+May 24 07:17:46 ns1 kernel: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27
+May 24 07:17:46 ns1 kernel: md.c: sizeof(mdp_super_t) = 4096
+May 24 07:17:46 ns1 kernel: autodetecting RAID arrays
+May 24 07:17:46 ns1 kernel: autorun ...
+May 24 07:17:46 ns1 kernel: ... autorun DONE.
+May 24 07:17:46 ns1 kernel: NET4: Linux TCP/IP 1.0 for NET4.0
+May 24 07:17:46 ns1 kernel: IP Protocols: ICMP, UDP, TCP, IGMP
+May 24 07:17:46 ns1 kernel: IP: routing cache hash table of 512 buckets, 4Kbytes
+May 24 07:17:46 ns1 kernel: TCP: Hash tables configured (established 8192 bind 8192)
+May 24 07:17:46 ns1 kernel: Linux IP multicast router 0.06 plus PIM-SM
+May 24 07:17:46 ns1 kernel: NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.
+May 24 07:17:46 ns1 kernel: VFS: Mounted root (ext2 filesystem) readonly.
+May 24 07:17:46 ns1 kernel: Freeing unused kernel memory: 236k freed
+May 24 07:17:46 ns1 kernel: Adding Swap: 265032k swap-space (priority -1)
+May 24 07:17:46 ns1 kernel: usb.c: registered new driver usbdevfs
+May 24 07:17:46 ns1 kernel: usb.c: registered new driver hub
+May 24 07:17:47 ns1 kernel: usb-uhci.c: $Revision: 1.251 $ time 20:53:29 Apr  8 2001
+May 24 07:17:47 ns1 kernel: usb-uhci.c: High bandwidth mode enabled
+May 24 07:17:47 ns1 netfs: Mounting other filesystems:  succeeded
+May 24 07:17:47 ns1 kernel: PCI: Found IRQ 11 for device 00:1f.2
+May 24 07:17:47 ns1 kernel: PCI: Setting latency timer of device 00:1f.2 to 64
+May 24 07:17:47 ns1 kernel: usb-uhci.c: USB UHCI at I/O 0xff80, IRQ 11
+May 24 07:17:47 ns1 kernel: usb-uhci.c: Detected 2 ports
+May 24 07:17:47 ns1 kernel: usb.c: new USB bus registered, assigned bus number 1
+May 24 07:17:47 ns1 kernel: hub.c: USB hub found
+May 24 07:17:47 ns1 kernel: hub.c: 2 ports detected
+May 24 07:17:47 ns1 kernel: Winbond Super-IO detection, now testing ports 3F0,370,250,4E,2E ...
+May 24 07:17:47 ns1 apmd: apmd startup succeeded
+May 24 07:17:47 ns1 apmd[585]: Version 3.0final (APM BIOS 1.2, Linux driver 1.14)
+May 24 07:17:47 ns1 kernel: SMSC Super-IO detection, now testing Ports 2F0, 370 ...
+May 24 07:17:47 ns1 kernel: 0x378: FIFO is 16 bytes
+May 24 07:17:47 ns1 kernel: 0x378: writeIntrThreshold is 8
+May 24 07:17:47 ns1 kernel: 0x378: readIntrThreshold is 8
+May 24 07:17:47 ns1 kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,COMPAT,EPP,ECP]
+May 24 07:17:47 ns1 kernel: parport0: irq 7 detected
+May 24 07:17:29 ns1 rc.sysinit: Mounting proc filesystem:  succeeded 
+May 24 07:17:29 ns1 sysctl: net.ipv4.ip_forward = 0 
+May 24 07:17:47 ns1 kernel: ip_conntrack (1013 buckets, 8104 max)
+May 24 07:17:29 ns1 sysctl: net.ipv4.conf.all.rp_filter = 1 
+May 24 07:17:47 ns1 kernel: PCI: Found IRQ 5 for device 01:0c.0
+May 24 07:17:29 ns1 sysctl: kernel.sysrq = 0 
+May 24 07:17:47 ns1 apmd[585]: Charge: * * * (-1% unknown)
+May 24 07:17:47 ns1 kernel: 3c59x.c:LK1.1.13 27 Jan 2001  Donald Becker and others. http://www.scyld.com/network/vortex.html
+May 24 07:17:29 ns1 rc.sysinit: Configuring kernel parameters:  succeeded 
+May 24 07:17:47 ns1 kernel: See Documentation/networking/vortex.txt
+May 24 07:17:29 ns1 date: Mon May 24 07:17:23 EDT 2004 
+May 24 07:17:47 ns1 kernel: eth0: 3Com PCI 3c905C Tornado at 0xec80,  00:b0:d0:87:85:c3, IRQ 5
+May 24 07:17:29 ns1 rc.sysinit: Setting clock  (localtime): Mon May 24 07:17:22 EDT 2004 succeeded 
+May 24 07:17:47 ns1 kernel:   product code 0000 rev 00.14 date 07-16-104
+May 24 07:17:29 ns1 rc.sysinit: Loading default keymap succeeded 
+May 24 07:17:47 ns1 kernel:   8K byte-wide RAM 5:3 Rx:Tx split, autoselect/Autonegotiate interface.
+May 24 07:17:29 ns1 rc.sysinit: Setting default font (lat0-sun16):  succeeded 
+May 24 07:17:47 ns1 kernel:   MII transceiver found at address 24, status 782d.
+May 24 07:17:29 ns1 rc.sysinit: Activating swap partitions:  succeeded 
+May 24 07:17:47 ns1 kernel:   Enabling bus-master transmits and whole-frame receives.
+May 24 07:17:29 ns1 rc.sysinit: Setting hostname ns1.bkwconsulting.com:  succeeded 
+May 24 07:17:47 ns1 kernel: eth0: scatter/gather disabled. h/w checksums enabled
+May 24 07:17:29 ns1 rc.sysinit: Mounting USB filesystem:  succeeded 
+May 24 07:17:47 ns1 kernel: eth0: using NWAY device table, not 8
+May 24 07:17:29 ns1 rc.sysinit: Initializing USB controller (usb-uhci):  succeeded 
+May 24 07:17:29 ns1 fsck: /: clean, 17042/66264 files, 63456/265041 blocks 
+May 24 07:17:29 ns1 rc.sysinit: Checking root filesystem succeeded 
+May 24 07:17:29 ns1 rc.sysinit: Remounting root filesystem in read-write mode:  succeeded 
+May 24 07:17:30 ns1 rc.sysinit: Finding module dependencies:  succeeded 
+May 24 07:17:30 ns1 fsck: /boot: clean, 26/14056 files, 5265/56196 blocks 
+May 24 07:17:30 ns1 fsck: /home: clean, 908/780288 files, 200157/1560305 blocks 
+May 24 07:17:30 ns1 fsck: /usr: clean, 51695/780288 files, 240668/1560305 blocks 
+May 24 07:17:30 ns1 rc.sysinit: Checking filesystems succeeded 
+May 24 07:17:30 ns1 fsck: /var: clean, 11201/66264 files, 99608/265041 blocks 
+May 24 07:17:48 ns1 automount[634]: starting automounter version 3.1.7, path = /misc, maptype = file, mapname = /etc/auto.misc
+May 24 07:17:48 ns1 autofs: autofs startup succeeded
+May 24 07:17:31 ns1 rc.sysinit: Mounting local filesystems:  succeeded 
+May 24 07:17:31 ns1 rc.sysinit: Turning on process accounting succeeded 
+May 24 07:17:31 ns1 rc.sysinit: Turning on user and group quotas for local filesystems:  succeeded 
+May 24 07:17:32 ns1 rc.sysinit: Enabling swap space:  succeeded 
+May 24 07:17:48 ns1 atd: atd startup succeeded
+May 24 07:17:33 ns1 init: Entering runlevel: 3 
+May 24 07:17:33 ns1 kudzu: Updating /etc/fstab succeeded 
+May 24 07:17:44 ns1 kudzu:  succeeded 
+May 24 07:17:44 ns1 sysctl: net.ipv4.ip_forward = 0 
+May 24 07:17:48 ns1 sshd: Starting sshd:
+May 24 07:17:44 ns1 sysctl: net.ipv4.conf.all.rp_filter = 1 
+May 24 07:17:44 ns1 sysctl: kernel.sysrq = 0 
+May 24 07:17:44 ns1 network: Setting network parameters:  succeeded 
+May 24 07:17:48 ns1 automount[634]: using kernel protocol version 3
+May 24 07:17:44 ns1 network: Bringing up interface lo:  succeeded 
+May 24 07:17:45 ns1 network: Bringing up interface eth0:  succeeded 
+May 24 07:17:49 ns1 sshd:  succeeded
+May 24 07:17:49 ns1 sshd: 
+May 24 07:17:49 ns1 rc: Starting sshd:  succeeded
+May 24 07:17:50 ns1 xinetd[681]: chargen disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: chargen-udp disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: time disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: time disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: daytime disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: talk disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: rsync disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: shell disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: login disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: exec disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: pop3s disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: ntalk disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: daytime-udp disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: pop2 disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: imaps disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: echo disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: finger disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: echo-udp disabled, removing
+May 24 07:17:50 ns1 xinetd[681]: xinetd Version 2.1.8.9pre14 started with 
+May 24 07:17:50 ns1 xinetd[681]: libwrap 
+May 24 07:17:50 ns1 xinetd[681]: options compiled in.
+May 24 07:17:50 ns1 xinetd[681]: Started working: 4 available services
+May 24 07:17:52 ns1 xinetd: xinetd startup succeeded
+May 24 07:17:54 ns1 sendmail: sendmail startup succeeded
+May 24 07:17:54 ns1 gpm: gpm startup succeeded
+May 24 07:17:55 ns1 crond: crond startup succeeded
+May 24 07:17:55 ns1 xfs: listening on port 7100 
+May 24 07:17:55 ns1 xfs: xfs startup succeeded
+May 24 07:17:55 ns1 anacron: anacron startup succeeded
+May 24 07:17:58 ns1 httpd: httpd startup succeeded
+May 24 07:17:59 ns1 squid[892]: Squid Parent: child process 893 started
+May 24 07:17:59 ns1 named: named startup succeeded
+May 24 07:17:59 ns1 named[902]: starting BIND 9.1.0 -u named
+May 24 07:17:59 ns1 named[902]: using 1 CPU
+May 24 07:18:00 ns1 named[908]: loading configuration from '/etc/named.conf'
+May 24 07:18:00 ns1 named[908]: the default for the 'auth-nxdomain' option is now 'no'
+May 24 07:18:00 ns1 named[908]: no IPv6 interfaces found
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface lo, 127.0.0.1#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0, 63.126.79.67#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:3, 63.126.79.71#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:5, 63.126.79.73#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:6, 63.126.79.75#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:7, 63.126.79.80#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:8, 63.126.79.81#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:9, 63.126.79.82#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:10, 63.126.79.83#53
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+May 24 07:18:00 ns1 snmpd: snmpd startup succeeded
+May 24 07:18:00 ns1 named[908]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+May 24 07:18:01 ns1 named[908]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+May 24 07:18:01 ns1 named[908]: listening on IPv4 interface eth0:14, 63.126.79.89#53
+May 24 07:18:01 ns1 named[908]: listening on IPv4 interface eth0:15, 63.126.79.90#53
+May 24 07:18:01 ns1 named[908]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+May 24 07:18:01 ns1 named[908]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+May 24 07:18:01 ns1 named[908]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+May 24 07:18:01 ns1 named[908]: listening on IPv4 interface eth0:19, 63.126.79.110#53
+May 24 07:18:01 ns1 ntpd[930]: ntpd 4.0.99k Mon Apr  9 14:50:09 EDT 2001 (1)
+May 24 07:18:01 ns1 ntpd: ntpd startup succeeded
+May 24 07:18:01 ns1 named[908]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+May 24 07:18:02 ns1 named[908]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+May 24 07:18:03 ns1 named[908]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+May 24 07:18:03 ns1 ntpd[930]: precision = 11 usec
+May 24 07:18:03 ns1 ucd-snmp[918]: UCD-SNMP version 4.2 
+May 24 07:18:03 ns1 named[908]: running
+May 24 07:18:03 ns1 smb: smbd startup succeeded
+May 24 07:18:03 ns1 ntpd[930]: using kernel phase-lock loop 0040
+May 24 07:18:04 ns1 ntpd[930]: frequency initialized 0.000 from /etc/ntp/drift
+May 24 07:18:04 ns1 smb: nmbd startup succeeded
+May 24 07:18:04 ns1 ntpd[930]: using kernel phase-lock loop 0041
+May 24 07:18:04 ns1 ntpd[930]: bind() fd 8, family 2, port 123, addr 224.0.1.1, in_classd=1 flags=0 fails: Address already in use
+May 24 07:18:04 ns1 identd: identd startup succeeded
+May 24 07:18:05 ns1 rsyncd[971]: rsyncd version 2.4.6 starting 
+May 28 07:01:43 ns1 ftpd[4363]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4365]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4369]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4367]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4361]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4362]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4364]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4368]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4371]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4372]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4370]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4360]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:01:43 ns1 ftpd[4366]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4374]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4375]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4377]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4378]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4373]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4376]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4380]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4379]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4381]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:13 ns1 ftpd[4382]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 07:02:14 ns1 ftpd[4360]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4365]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4364]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4371]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4367]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4361]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4372]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4370]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4366]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4368]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4362]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4363]: FTP session closed
+May 28 07:02:22 ns1 ftpd[4369]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4375]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4374]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4378]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4377]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4373]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4380]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4381]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4379]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4376]: FTP session closed
+May 28 07:02:37 ns1 ftpd[4382]: FTP session closed
+May 28 12:35:50 ns1 login(pam_unix)[975]: session opened for user tguy by LOGIN(uid=0)
+May 28 12:35:51 ns1  -- tguy[975]: LOGIN ON tty2 BY tguy
+May 28 12:35:54 ns1 su(pam_unix)[4565]: session opened for user root by tguy(uid=500)
+May 28 12:36:07 ns1 su(pam_unix)[4565]: session closed for user root
+May 28 12:36:43 ns1 login(pam_unix)[975]: session closed for user tguy
+May 28 18:41:12 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May 28 18:41:13 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May 28 18:41:14 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May 28 19:11:36 ns1 ftpd[8663]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:37 ns1 xinetd[8664]: Bad line received from identity server at 61.218.164.170: 3665 
+May 28 19:11:37 ns1 ftpd[8664]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:37 ns1 xinetd[8665]: Bad line received from identity server at 61.218.164.170: 3664 
+May 28 19:11:37 ns1 ftpd[8665]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:37 ns1 xinetd[8666]: Bad line received from identity server at 61.218.164.170: 3666 
+May 28 19:11:37 ns1 ftpd[8666]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:37 ns1 xinetd[8667]: Bad line received from identity server at 61.218.164.170: 3667 
+May 28 19:11:37 ns1 ftpd[8667]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:38 ns1 xinetd[8669]: Bad line received from identity server at 61.218.164.170: 3671 
+May 28 19:11:38 ns1 ftpd[8669]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:38 ns1 xinetd[8670]: Bad line received from identity server at 61.218.164.170: 3677 
+May 28 19:11:39 ns1 ftpd[8670]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:39 ns1 xinetd[8671]: Bad line received from identity server at 61.218.164.170: 3679 
+May 28 19:11:39 ns1 ftpd[8671]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:39 ns1 xinetd[8672]: Bad line received from identity server at 61.218.164.170: 3678 
+May 28 19:11:39 ns1 ftpd[8672]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:39 ns1 xinetd[8673]: Bad line received from identity server at 61.218.164.170: 3903 
+May 28 19:11:39 ns1 ftpd[8673]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:40 ns1 xinetd[8674]: Bad line received from identity server at 61.218.164.170: 3904 
+May 28 19:11:40 ns1 ftpd[8674]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:40 ns1 xinetd[8675]: Bad line received from identity server at 61.218.164.170: 3905 
+May 28 19:11:40 ns1 ftpd[8675]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:11:41 ns1 xinetd[8668]: Bad line received from identity server at 61.218.164.170: 3668 
+May 28 19:11:41 ns1 ftpd[8668]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:01 ns1 ftpd[8663]: FTP session closed
+May 28 19:12:06 ns1 ftpd[8678]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:06 ns1 ftpd[8676]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:06 ns1 ftpd[8680]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:06 ns1 ftpd[8681]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:06 ns1 ftpd[8677]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:06 ns1 ftpd[8683]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:06 ns1 ftpd[8682]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:06 ns1 ftpd[8679]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:06 ns1 ftpd[8685]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:06 ns1 ftpd[8684]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 28 19:12:09 ns1 ftpd[8665]: FTP session closed
+May 28 19:12:09 ns1 ftpd[8664]: FTP session closed
+May 28 19:12:09 ns1 ftpd[8666]: FTP session closed
+May 28 19:12:10 ns1 ftpd[8667]: FTP session closed
+May 28 19:12:11 ns1 ftpd[8669]: FTP session closed
+May 28 19:12:11 ns1 ftpd[8670]: FTP session closed
+May 28 19:12:11 ns1 ftpd[8671]: FTP session closed
+May 28 19:12:11 ns1 ftpd[8672]: FTP session closed
+May 28 19:12:12 ns1 ftpd[8673]: FTP session closed
+May 28 19:12:12 ns1 ftpd[8674]: FTP session closed
+May 28 19:12:12 ns1 ftpd[8675]: FTP session closed
+May 28 19:12:13 ns1 ftpd[8668]: FTP session closed
+May 28 19:12:38 ns1 ftpd[8676]: FTP session closed
+May 28 19:12:38 ns1 ftpd[8681]: FTP session closed
+May 28 19:12:38 ns1 ftpd[8679]: FTP session closed
+May 28 19:12:38 ns1 ftpd[8677]: FTP session closed
+May 28 19:12:38 ns1 ftpd[8680]: FTP session closed
+May 28 19:12:39 ns1 ftpd[8685]: FTP session closed
+May 28 19:12:39 ns1 ftpd[8682]: FTP session closed
+May 28 19:12:39 ns1 ftpd[8683]: FTP session closed
+May 28 19:12:39 ns1 ftpd[8684]: FTP session closed
+May 28 19:12:39 ns1 ftpd[8678]: FTP session closed
+May 29 00:22:10 ns1 ftpd[16122]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16121]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16123]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16124]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16129]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16128]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16127]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16126]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16125]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16133]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16131]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:10 ns1 ftpd[16132]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:40 ns1 ftpd[16130]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:40 ns1 ftpd[16134]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:40 ns1 ftpd[16135]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:40 ns1 ftpd[16137]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:40 ns1 ftpd[16138]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:40 ns1 ftpd[16141]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:40 ns1 ftpd[16140]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:40 ns1 ftpd[16139]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:41 ns1 ftpd[16142]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:22:41 ns1 ftpd[16143]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 29 00:24:02 ns1 ftpd[16121]: FTP session closed
+May 29 00:24:08 ns1 ftpd[16123]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16122]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16124]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16125]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16129]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16128]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16127]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16126]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16131]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16132]: FTP session closed
+May 29 00:24:11 ns1 ftpd[16133]: FTP session closed
+May 29 00:24:40 ns1 ftpd[16130]: FTP session closed
+May 29 00:24:40 ns1 ftpd[16134]: FTP session closed
+May 29 00:24:40 ns1 ftpd[16135]: FTP session closed
+May 29 00:24:41 ns1 ftpd[16137]: FTP session closed
+May 29 00:24:41 ns1 ftpd[16138]: FTP session closed
+May 29 00:24:41 ns1 ftpd[16141]: FTP session closed
+May 29 00:24:41 ns1 ftpd[16139]: FTP session closed
+May 29 00:24:41 ns1 ftpd[16142]: FTP session closed
+May 29 00:24:41 ns1 ftpd[16140]: FTP session closed
+May 29 00:24:41 ns1 ftpd[16143]: FTP session closed
+May 29 21:11:31 ns1 telnetd[13709]: ttloop: peer died: EOF 
+May 29 21:11:31 ns1 telnetd[13711]: ttloop: peer died: EOF 
+May 29 21:11:31 ns1 telnetd[13712]: ttloop: peer died: EOF 
+May 29 21:11:32 ns1 telnetd[13724]: ttloop: peer died: EOF 
+May 29 21:11:32 ns1 telnetd[13725]: ttloop: peer died: EOF 
+May 29 21:11:32 ns1 telnetd[13726]: ttloop: peer died: EOF 
+May 29 21:11:32 ns1 telnetd[13727]: ttloop: peer died: EOF 
+May 29 21:11:32 ns1 telnetd[13728]: ttloop: peer died: EOF 
+May 29 21:11:32 ns1 telnetd[13729]: ttloop: peer died: EOF 
+May 29 21:11:32 ns1 telnetd[13730]: ttloop: peer died: EOF 
+May 29 21:11:37 ns1 telnetd[13714]: ttloop: peer died: EOF 
+May 29 21:11:37 ns1 telnetd[13713]: ttloop: peer died: EOF 
+May 29 21:11:37 ns1 telnetd[13708]: ttloop: peer died: EOF 
+May 29 21:11:37 ns1 telnetd[13710]: ttloop: peer died: EOF 
+May 29 21:11:43 ns1 telnetd[13717]: ttloop: peer died: EOF 
+May 29 21:11:43 ns1 telnetd[13718]: ttloop: peer died: EOF 
+May 29 21:11:43 ns1 telnetd[13719]: ttloop: peer died: EOF 
+May 29 21:11:43 ns1 telnetd[13715]: ttloop: peer died: EOF 
+May 29 21:11:43 ns1 telnetd[13716]: ttloop: peer died: EOF 
+May 29 21:11:43 ns1 telnetd[13721]: ttloop: peer died: EOF 
+May 29 21:11:43 ns1 telnetd[13720]: ttloop: peer died: EOF 
+May 29 21:11:43 ns1 telnetd[13723]: ttloop: peer died: EOF 
+May 29 21:11:43 ns1 telnetd[13722]: ttloop: peer died: EOF 
+May 30 00:20:09 ns1 telnetd[19659]: ttloop: peer died: EOF 
+May 30 00:20:10 ns1 telnetd[19661]: ttloop: peer died: EOF 
+May 30 00:20:10 ns1 telnetd[19663]: ttloop: peer died: EOF 
+May 30 00:20:10 ns1 telnetd[19660]: ttloop: peer died: EOF 
+May 30 00:20:10 ns1 telnetd[19664]: ttloop: peer died: EOF 
+May 30 00:20:10 ns1 telnetd[19662]: ttloop: peer died: EOF 
+May 30 00:20:10 ns1 telnetd[19665]: ttloop: peer died: EOF 
+May 30 00:20:10 ns1 telnetd[19666]: ttloop: peer died: EOF 
+May 30 00:20:10 ns1 telnetd[19667]: ttloop: peer died: EOF 
+May 30 00:20:10 ns1 telnetd[19668]: ttloop: peer died: EOF 
+May 30 00:20:12 ns1 telnetd[19669]: ttloop: peer died: EOF 
+May 30 00:20:12 ns1 telnetd[19670]: ttloop: peer died: EOF 
+May 30 00:20:12 ns1 telnetd[19671]: ttloop: peer died: EOF 
+May 30 00:20:12 ns1 telnetd[19672]: ttloop: peer died: EOF 
+May 30 00:20:13 ns1 telnetd[19673]: ttloop: peer died: EOF 
+May 30 00:20:13 ns1 telnetd[19674]: ttloop: peer died: EOF 
+May 30 00:20:13 ns1 telnetd[19675]: ttloop: peer died: EOF 
+May 30 00:20:23 ns1 telnetd[19653]: ttloop: peer died: EOF 
+May 30 00:20:23 ns1 telnetd[19654]: ttloop: peer died: EOF 
+May 30 00:20:23 ns1 telnetd[19656]: ttloop: peer died: EOF 
+May 30 00:20:23 ns1 telnetd[19655]: ttloop: peer died: EOF 
+May 30 00:20:23 ns1 telnetd[19657]: ttloop: peer died: EOF 
+May 30 00:20:23 ns1 telnetd[19658]: ttloop: peer died: EOF 

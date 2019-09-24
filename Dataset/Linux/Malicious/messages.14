@@ -1,0 +1,210 @@
+Jul  4 04:02:03 ns1 syslogd 1.4-0: restart.
+Jul  4 04:02:03 ns1 syslogd 1.4-0: restart.
+Jul  4 04:02:03 ns1 syslogd 1.4-0: restart.
+Jul  4 04:02:03 ns1 syslogd 1.4-0: restart.
+Jul  4 06:42:31 ns1 ftpd[13257]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13255]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13254]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13253]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13258]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13256]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13250]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13252]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13251]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13246]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13249]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13247]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:42:31 ns1 ftpd[13248]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13260]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13259]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13261]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13262]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13264]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13265]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13268]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13263]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13267]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:01 ns1 ftpd[13266]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  4 06:43:10 ns1 ftpd[13246]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13253]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13254]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13255]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13258]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13257]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13256]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13251]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13249]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13250]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13252]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13247]: FTP session closed
+Jul  4 06:43:18 ns1 ftpd[13248]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13260]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13259]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13261]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13262]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13265]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13264]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13263]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13267]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13266]: FTP session closed
+Jul  4 06:43:25 ns1 ftpd[13268]: FTP session closed
+Jul  5 11:46:10 ns1 ftpd[26666]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26663]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26659]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26654]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26664]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26661]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26657]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26665]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26660]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26656]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26655]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26658]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:10 ns1 ftpd[26662]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26667]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26669]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26668]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26672]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26671]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26670]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26673]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26674]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26675]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:39 ns1 ftpd[26676]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 11:46:49 ns1 ftpd[26663]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26661]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26659]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26656]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26660]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26666]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26654]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26662]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26658]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26665]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26655]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26664]: FTP session closed
+Jul  5 11:46:57 ns1 ftpd[26657]: FTP session closed
+Jul  5 11:47:03 ns1 ftpd[26667]: FTP session closed
+Jul  5 11:47:03 ns1 ftpd[26668]: FTP session closed
+Jul  5 11:47:03 ns1 ftpd[26671]: FTP session closed
+Jul  5 11:47:03 ns1 ftpd[26669]: FTP session closed
+Jul  5 11:47:03 ns1 ftpd[26670]: FTP session closed
+Jul  5 11:47:03 ns1 ftpd[26672]: FTP session closed
+Jul  5 11:47:04 ns1 ftpd[26674]: FTP session closed
+Jul  5 11:47:04 ns1 ftpd[26673]: FTP session closed
+Jul  5 11:47:04 ns1 ftpd[26675]: FTP session closed
+Jul  5 11:47:04 ns1 ftpd[26676]: FTP session closed
+Jul  5 12:25:09 ns1 kernel: hda: timeout waiting for DMA
+Jul  5 12:25:09 ns1 kernel: ide_dmaproc: chipset supported ide_dma_timeout func only: 14
+Jul  5 12:25:09 ns1 kernel: hda: irq timeout: status=0x50 { DriveReady SeekComplete }
+Jul  5 14:40:51 ns1 ftpd[26990]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26986]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26984]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26992]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26987]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26985]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26989]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26988]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26993]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26991]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26996]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26994]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:40:51 ns1 ftpd[26995]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:41:21 ns1 ftpd[26997]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:41:21 ns1 ftpd[26998]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:41:22 ns1 ftpd[26984]: FTP session closed
+Jul  5 14:41:24 ns1 ftpd[26999]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 14:41:30 ns1 ftpd[26987]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26988]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26985]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26992]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26991]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26990]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26986]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26989]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26994]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26993]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26996]: FTP session closed
+Jul  5 14:41:30 ns1 ftpd[26995]: FTP session closed
+Jul  5 14:41:45 ns1 ftpd[26998]: FTP session closed
+Jul  5 14:41:45 ns1 ftpd[26997]: FTP session closed
+Jul  5 14:41:48 ns1 ftpd[26999]: FTP session closed
+Jul  5 16:44:32 ns1 ftpd[27373]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:32 ns1 ftpd[27368]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:32 ns1 ftpd[27370]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:32 ns1 ftpd[27371]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:32 ns1 ftpd[27372]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:32 ns1 ftpd[27374]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:33 ns1 ftpd[27379]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:33 ns1 ftpd[27376]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:33 ns1 ftpd[27377]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:33 ns1 ftpd[27378]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:44:57 ns1 ftpd[27374]: FTP session closed
+Jul  5 16:44:57 ns1 ftpd[27376]: FTP session closed
+Jul  5 16:44:57 ns1 ftpd[27377]: FTP session closed
+Jul  5 16:44:57 ns1 ftpd[27379]: FTP session closed
+Jul  5 16:44:57 ns1 ftpd[27378]: FTP session closed
+Jul  5 16:45:01 ns1 ftpd[27367]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:45:01 ns1 ftpd[27369]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:45:02 ns1 ftpd[27375]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  5 16:45:10 ns1 ftpd[27372]: FTP session closed
+Jul  5 16:45:10 ns1 ftpd[27371]: FTP session closed
+Jul  5 16:45:10 ns1 ftpd[27370]: FTP session closed
+Jul  5 16:45:10 ns1 ftpd[27373]: FTP session closed
+Jul  5 16:45:10 ns1 ftpd[27368]: FTP session closed
+Jul  5 16:45:17 ns1 ftpd[27367]: FTP session closed
+Jul  5 16:45:25 ns1 ftpd[27369]: FTP session closed
+Jul  5 16:45:26 ns1 ftpd[27375]: FTP session closed
+Jul  5 18:23:49 ns1 telnetd[27764]: ttloop: peer died: EOF 
+Jul  6 10:09:42 ns1 ftpd[4547]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  6 10:09:42 ns1 ftpd[4548]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jul  6 10:11:23 ns1 ftpd[4547]: ANONYMOUS FTP LOGIN FROM 61.152.201.55 [61.152.201.55], anonymous
+Jul  6 10:11:23 ns1 ftpd[4548]: ANONYMOUS FTP LOGIN FROM 61.152.201.55 [61.152.201.55], anonymous
+Jul  6 10:11:25 ns1 ftpd[4547]: lost connection to 61.152.201.55 [61.152.201.55]
+Jul  6 10:11:25 ns1 ftpd[4547]: FTP session closed
+Jul  6 10:11:25 ns1 ftpd[4548]: lost connection to 61.152.201.55 [61.152.201.55]
+Jul  6 10:11:25 ns1 ftpd[4548]: FTP session closed
+Jul  6 15:37:25 ns1 telnetd[5667]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5675]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5674]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5676]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5677]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5678]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5679]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5668]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5680]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5669]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5670]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5671]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5673]: ttloop: peer died: EOF 
+Jul  6 15:37:25 ns1 telnetd[5672]: ttloop: peer died: EOF 
+Jul  6 15:37:28 ns1 telnetd[5681]: ttloop: peer died: EOF 
+Jul  6 15:37:28 ns1 telnetd[5682]: ttloop: peer died: EOF 
+Jul  6 15:37:28 ns1 telnetd[5683]: ttloop: peer died: EOF 
+Jul  6 15:37:28 ns1 telnetd[5684]: ttloop: peer died: EOF 
+Jul  6 15:37:28 ns1 telnetd[5685]: ttloop: peer died: EOF 
+Jul  6 15:37:28 ns1 telnetd[5686]: ttloop: peer died: EOF 
+Jul  6 15:37:28 ns1 telnetd[5687]: ttloop: peer died: EOF 
+Jul  6 15:37:29 ns1 telnetd[5688]: ttloop: peer died: EOF 
+Jul  6 15:58:39 ns1 telnetd[5737]: ttloop: peer died: EOF 
+Jul  6 15:58:43 ns1 telnetd[5739]: ttloop: peer died: EOF 
+Jul  6 15:58:50 ns1 telnetd[5741]: ttloop: peer died: EOF 
+Jul  6 15:59:00 ns1 telnetd[5742]: ttloop: peer died: EOF 
+Jul  6 15:59:07 ns1 telnetd[5743]: ttloop: peer died: EOF 
+Jul  6 15:59:14 ns1 telnetd[5744]: ttloop: peer died: EOF 
+Jul  6 15:59:25 ns1 telnetd[5746]: ttloop: peer died: EOF 
+Jul  6 15:59:28 ns1 telnetd[5747]: ttloop: peer died: EOF 
+Jul  6 15:59:35 ns1 telnetd[5748]: ttloop: peer died: EOF 
+Jul  6 15:59:42 ns1 telnetd[5749]: ttloop: peer died: EOF 
+Jul  6 15:59:49 ns1 telnetd[5750]: ttloop: peer died: EOF 
+Jul  6 15:59:59 ns1 telnetd[5752]: ttloop: peer died: EOF 
+Jul  6 16:00:03 ns1 telnetd[5753]: ttloop: peer died: EOF 
+Jul  6 16:00:13 ns1 telnetd[5756]: ttloop: peer died: EOF 
+Jul  6 16:00:24 ns1 telnetd[5757]: ttloop: peer died: EOF 
+Jul  6 16:00:31 ns1 telnetd[5759]: ttloop: peer died: EOF 
+Jul  6 16:00:41 ns1 telnetd[5760]: ttloop: peer died: EOF 
+Jul  6 16:00:45 ns1 telnetd[5761]: ttloop: peer died: EOF 
+Jul  6 16:00:52 ns1 telnetd[5762]: ttloop: peer died: EOF 
+Jul  6 16:00:59 ns1 telnetd[5763]: ttloop: peer died: EOF 
+Jul  6 16:01:06 ns1 telnetd[5764]: ttloop: peer died: EOF 
+Jul  6 16:01:13 ns1 telnetd[5780]: ttloop: peer died: EOF 

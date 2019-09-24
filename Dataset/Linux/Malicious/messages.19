@@ -1,0 +1,139 @@
+May 30 04:02:01 ns1 syslogd 1.4-0: restart.
+May 30 04:02:01 ns1 syslogd 1.4-0: restart.
+May 30 04:02:01 ns1 syslogd 1.4-0: restart.
+May 30 04:02:01 ns1 syslogd 1.4-0: restart.
+May 30 04:02:01 ns1 syslogd 1.4-0: restart.
+May 30 04:59:00 ns1 ftpd[32319]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32322]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32321]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32318]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32317]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32323]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32326]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32325]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32324]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32328]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32329]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32320]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:00 ns1 ftpd[32327]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32330]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32332]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32331]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32333]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32334]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32335]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32336]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32337]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32338]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:30 ns1 ftpd[32339]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 30 04:59:39 ns1 ftpd[32317]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32322]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32321]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32324]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32329]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32327]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32318]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32326]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32328]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32320]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32319]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32325]: FTP session closed
+May 30 04:59:47 ns1 ftpd[32323]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32335]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32331]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32338]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32337]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32332]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32334]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32330]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32336]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32339]: FTP session closed
+May 30 05:00:03 ns1 ftpd[32333]: FTP session closed
+May 31 11:57:43 ns1 ftpd[2553]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2546]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2548]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2547]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2552]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2550]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2549]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2544]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2545]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2554]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2555]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2556]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:57:43 ns1 ftpd[2551]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:58:08 ns1 ftpd[2544]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2553]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2555]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2554]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2549]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2547]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2548]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2550]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2545]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2546]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2551]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2552]: FTP session closed
+May 31 11:58:08 ns1 ftpd[2556]: FTP session closed
+May 31 11:58:13 ns1 ftpd[2557]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:58:13 ns1 ftpd[2558]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:58:13 ns1 ftpd[2559]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:58:13 ns1 ftpd[2560]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:58:13 ns1 ftpd[2561]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:58:13 ns1 ftpd[2562]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:58:14 ns1 ftpd[2563]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:58:14 ns1 ftpd[2564]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 11:58:29 ns1 ftpd[2558]: FTP session closed
+May 31 11:58:37 ns1 ftpd[2557]: FTP session closed
+May 31 11:58:37 ns1 ftpd[2559]: FTP session closed
+May 31 11:58:37 ns1 ftpd[2560]: FTP session closed
+May 31 11:58:38 ns1 ftpd[2561]: FTP session closed
+May 31 11:58:38 ns1 ftpd[2562]: FTP session closed
+May 31 11:58:38 ns1 ftpd[2563]: FTP session closed
+May 31 11:58:38 ns1 ftpd[2564]: FTP session closed
+May 31 13:35:43 ns1 ftpd[2913]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2914]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2916]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2915]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2917]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2918]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2919]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2922]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2923]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2925]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2920]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2924]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:35:43 ns1 ftpd[2921]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2926]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2928]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2929]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2930]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2927]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2931]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2932]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2933]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2934]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:13 ns1 ftpd[2935]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May 31 13:36:32 ns1 ftpd[2914]: FTP session closed
+May 31 13:36:33 ns1 ftpd[2920]: FTP session closed
+May 31 13:36:33 ns1 ftpd[2917]: FTP session closed
+May 31 13:36:33 ns1 ftpd[2923]: FTP session closed
+May 31 13:36:34 ns1 ftpd[2921]: FTP session closed
+May 31 13:36:43 ns1 ftpd[2913]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2926]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2928]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2929]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2930]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2931]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2927]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2933]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2934]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2932]: FTP session closed
+May 31 13:36:45 ns1 ftpd[2935]: FTP session closed
+May 31 13:36:51 ns1 ftpd[2915]: FTP session closed
+May 31 13:36:51 ns1 ftpd[2916]: FTP session closed
+May 31 13:36:51 ns1 ftpd[2918]: FTP session closed
+May 31 13:36:51 ns1 ftpd[2922]: FTP session closed
+May 31 13:36:51 ns1 ftpd[2919]: FTP session closed
+May 31 13:36:51 ns1 ftpd[2924]: FTP session closed
+May 31 13:36:51 ns1 ftpd[2925]: FTP session closed

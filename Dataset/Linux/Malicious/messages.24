@@ -1,0 +1,1207 @@
+Apr 25 04:02:01 ns1 syslogd 1.4-0: restart.
+Apr 25 04:02:01 ns1 syslogd 1.4-0: restart.
+Apr 25 04:02:01 ns1 syslogd 1.4-0: restart.
+Apr 25 04:02:01 ns1 syslogd 1.4-0: restart.
+Apr 25 04:02:01 ns1 syslogd 1.4-0: restart.
+Apr 25 05:42:01 ns1 ftpd[25359]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25360]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25356]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25358]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25357]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25361]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25366]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25362]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25363]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25364]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:01 ns1 ftpd[25365]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:03 ns1 ftpd[25367]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:04 ns1 ftpd[25368]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:34 ns1 ftpd[25369]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 05:42:39 ns1 ftpd[25356]: FTP session closed
+Apr 25 05:42:41 ns1 ftpd[25367]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25359]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25361]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25360]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25357]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25358]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25364]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25363]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25366]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25365]: FTP session closed
+Apr 25 05:42:47 ns1 ftpd[25362]: FTP session closed
+Apr 25 05:42:51 ns1 ftpd[25368]: FTP session closed
+Apr 25 05:43:06 ns1 ftpd[25369]: FTP session closed
+Apr 25 14:25:32 ns1 ftpd[25670]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25671]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25672]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25673]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25674]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25675]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25676]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25677]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25679]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25680]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25681]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25682]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25678]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25683]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25685]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25684]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25686]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25687]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25688]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25689]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25690]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25691]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:25:32 ns1 ftpd[25692]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 14:26:04 ns1 ftpd[25670]: FTP session closed
+Apr 25 14:26:13 ns1 ftpd[25675]: FTP session closed
+Apr 25 14:26:13 ns1 ftpd[25676]: FTP session closed
+Apr 25 14:26:13 ns1 ftpd[25672]: FTP session closed
+Apr 25 14:26:13 ns1 ftpd[25673]: FTP session closed
+Apr 25 14:26:13 ns1 ftpd[25674]: FTP session closed
+Apr 25 14:26:13 ns1 ftpd[25671]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25681]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25682]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25683]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25685]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25679]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25680]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25686]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25684]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25678]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25677]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25688]: FTP session closed
+Apr 25 14:26:18 ns1 ftpd[25687]: FTP session closed
+Apr 25 14:26:19 ns1 ftpd[25689]: FTP session closed
+Apr 25 14:26:19 ns1 ftpd[25690]: FTP session closed
+Apr 25 14:26:19 ns1 ftpd[25691]: FTP session closed
+Apr 25 14:26:19 ns1 ftpd[25692]: FTP session closed
+Apr 25 17:19:00 ns1 ftpd[26021]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26022]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26026]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26033]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26023]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26027]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26025]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26024]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26029]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26030]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26028]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26032]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:00 ns1 ftpd[26031]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:30 ns1 ftpd[26035]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:30 ns1 ftpd[26034]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:30 ns1 ftpd[26036]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:30 ns1 ftpd[26037]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 25 17:19:33 ns1 ftpd[26024]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26031]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26028]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26026]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26033]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26022]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26027]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26025]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26032]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26023]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26029]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26021]: FTP session closed
+Apr 25 17:19:33 ns1 ftpd[26030]: FTP session closed
+Apr 25 17:20:02 ns1 ftpd[26035]: FTP session closed
+Apr 25 17:20:02 ns1 ftpd[26036]: FTP session closed
+Apr 25 17:20:02 ns1 ftpd[26034]: FTP session closed
+Apr 25 17:20:02 ns1 ftpd[26037]: FTP session closed
+Apr 26 01:55:33 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 01:55:33 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 01:55:34 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 01:55:34 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 01:55:35 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 02:23:06 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 02:23:06 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 02:23:07 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 02:23:09 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 04:37:48 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 04:37:49 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 04:37:50 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 04:37:51 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 04:37:52 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 04:37:53 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 05:18:47 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 26 07:24:08 ns1 ftpd[32002]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32005]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32004]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32003]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32007]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32006]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32008]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32010]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32009]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32013]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:08 ns1 ftpd[32012]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:11 ns1 ftpd[32011]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 07:24:25 ns1 ftpd[32002]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32004]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32005]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32007]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32003]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32008]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32006]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32010]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32009]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32012]: FTP session closed
+Apr 26 07:24:33 ns1 ftpd[32013]: FTP session closed
+Apr 26 07:24:35 ns1 ftpd[32011]: FTP session closed
+Apr 26 22:24:19 ns1 ftpd[433]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:19 ns1 ftpd[432]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:19 ns1 ftpd[430]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:19 ns1 ftpd[431]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:20 ns1 ftpd[438]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:20 ns1 ftpd[437]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:20 ns1 ftpd[436]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:20 ns1 ftpd[441]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:20 ns1 ftpd[435]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:20 ns1 ftpd[434]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:20 ns1 ftpd[442]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:20 ns1 ftpd[440]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:20 ns1 ftpd[439]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:49 ns1 ftpd[443]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:49 ns1 ftpd[444]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:49 ns1 ftpd[445]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:49 ns1 ftpd[447]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:49 ns1 ftpd[446]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:49 ns1 ftpd[448]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:50 ns1 ftpd[449]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:51 ns1 ftpd[450]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:52 ns1 ftpd[451]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:54 ns1 ftpd[452]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:24:57 ns1 ftpd[441]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[441]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[430]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[433]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[433]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[436]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[436]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[438]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[438]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[435]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[435]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[434]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[434]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[440]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[440]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[442]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[442]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[432]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[432]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[437]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[437]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[431]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[431]: FTP session closed
+Apr 26 22:24:57 ns1 ftpd[439]: lost connection to 211.250.194.194 [211.250.194.194]
+Apr 26 22:24:57 ns1 ftpd[439]: FTP session closed
+Apr 26 22:25:07 ns1 ftpd[453]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 26 22:25:14 ns1 ftpd[443]: FTP session closed
+Apr 26 22:25:14 ns1 ftpd[444]: FTP session closed
+Apr 26 22:25:14 ns1 ftpd[445]: FTP session closed
+Apr 26 22:25:14 ns1 ftpd[447]: FTP session closed
+Apr 26 22:25:14 ns1 ftpd[446]: FTP session closed
+Apr 26 22:25:14 ns1 ftpd[448]: FTP session closed
+Apr 26 22:25:15 ns1 ftpd[449]: FTP session closed
+Apr 26 22:25:15 ns1 ftpd[450]: FTP session closed
+Apr 26 22:25:17 ns1 ftpd[451]: FTP session closed
+Apr 26 22:25:18 ns1 ftpd[452]: FTP session closed
+Apr 26 22:25:23 ns1 ftpd[453]: FTP session closed
+Apr 27 11:05:42 ns1 ftpd[4891]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4890]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4887]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4886]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4894]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4884]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4883]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4892]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4893]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4895]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4885]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4889]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:05:42 ns1 ftpd[4888]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:00 ns1 ftpd[4887]: FTP session closed
+Apr 27 11:06:07 ns1 ftpd[4891]: FTP session closed
+Apr 27 11:06:07 ns1 ftpd[4884]: FTP session closed
+Apr 27 11:06:07 ns1 ftpd[4889]: FTP session closed
+Apr 27 11:06:07 ns1 ftpd[4888]: FTP session closed
+Apr 27 11:06:08 ns1 ftpd[4890]: FTP session closed
+Apr 27 11:06:08 ns1 ftpd[4883]: FTP session closed
+Apr 27 11:06:08 ns1 ftpd[4894]: FTP session closed
+Apr 27 11:06:08 ns1 ftpd[4892]: FTP session closed
+Apr 27 11:06:08 ns1 ftpd[4885]: FTP session closed
+Apr 27 11:06:08 ns1 ftpd[4893]: FTP session closed
+Apr 27 11:06:09 ns1 ftpd[4886]: FTP session closed
+Apr 27 11:06:09 ns1 ftpd[4895]: FTP session closed
+Apr 27 11:06:12 ns1 ftpd[4897]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:12 ns1 ftpd[4900]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:12 ns1 ftpd[4899]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:12 ns1 ftpd[4903]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:12 ns1 ftpd[4902]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:12 ns1 ftpd[4901]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:12 ns1 ftpd[4905]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:12 ns1 ftpd[4904]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:12 ns1 ftpd[4898]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:12 ns1 ftpd[4896]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 11:06:36 ns1 ftpd[4902]: FTP session closed
+Apr 27 11:06:36 ns1 ftpd[4898]: FTP session closed
+Apr 27 11:06:36 ns1 ftpd[4897]: FTP session closed
+Apr 27 11:06:36 ns1 ftpd[4905]: FTP session closed
+Apr 27 11:06:36 ns1 ftpd[4896]: FTP session closed
+Apr 27 11:06:36 ns1 ftpd[4904]: FTP session closed
+Apr 27 11:06:36 ns1 ftpd[4899]: FTP session closed
+Apr 27 11:06:36 ns1 ftpd[4901]: FTP session closed
+Apr 27 11:06:36 ns1 ftpd[4903]: FTP session closed
+Apr 27 11:06:36 ns1 ftpd[4900]: FTP session closed
+Apr 27 15:53:30 ns1 ftpd[9633]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:30 ns1 ftpd[9631]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:30 ns1 ftpd[9632]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:30 ns1 ftpd[9630]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:30 ns1 ftpd[9629]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:30 ns1 ftpd[9628]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:30 ns1 ftpd[9627]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:31 ns1 ftpd[9636]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:31 ns1 ftpd[9635]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:31 ns1 ftpd[9634]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:31 ns1 ftpd[9639]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:31 ns1 ftpd[9637]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:31 ns1 ftpd[9638]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:59 ns1 ftpd[9641]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:59 ns1 ftpd[9642]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:59 ns1 ftpd[9643]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:53:59 ns1 ftpd[9640]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:54:00 ns1 ftpd[9645]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:54:00 ns1 ftpd[9644]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:54:01 ns1 ftpd[9646]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:54:01 ns1 ftpd[9647]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:54:01 ns1 ftpd[9634]: FTP session closed
+Apr 27 15:54:01 ns1 ftpd[9648]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:54:01 ns1 ftpd[9649]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 27 15:54:04 ns1 ftpd[9638]: FTP session closed
+Apr 27 15:54:04 ns1 ftpd[9635]: FTP session closed
+Apr 27 15:54:04 ns1 ftpd[9639]: FTP session closed
+Apr 27 15:54:04 ns1 ftpd[9637]: FTP session closed
+Apr 27 15:54:04 ns1 ftpd[9636]: FTP session closed
+Apr 27 15:54:08 ns1 ftpd[9627]: FTP session closed
+Apr 27 15:54:16 ns1 ftpd[9632]: FTP session closed
+Apr 27 15:54:16 ns1 ftpd[9628]: FTP session closed
+Apr 27 15:54:16 ns1 ftpd[9631]: FTP session closed
+Apr 27 15:54:16 ns1 ftpd[9630]: FTP session closed
+Apr 27 15:54:16 ns1 ftpd[9629]: FTP session closed
+Apr 27 15:54:16 ns1 ftpd[9633]: FTP session closed
+Apr 27 15:54:32 ns1 ftpd[9642]: FTP session closed
+Apr 27 15:54:32 ns1 ftpd[9641]: FTP session closed
+Apr 27 15:54:32 ns1 ftpd[9643]: FTP session closed
+Apr 27 15:54:32 ns1 ftpd[9640]: FTP session closed
+Apr 27 15:54:32 ns1 ftpd[9645]: FTP session closed
+Apr 27 15:54:32 ns1 ftpd[9644]: FTP session closed
+Apr 27 15:54:33 ns1 ftpd[9646]: FTP session closed
+Apr 27 15:54:33 ns1 ftpd[9647]: FTP session closed
+Apr 27 15:54:33 ns1 ftpd[9648]: FTP session closed
+Apr 27 15:54:34 ns1 ftpd[9649]: FTP session closed
+Apr 28 02:54:48 ns1 xinetd[19421]: Bad line received from identity server at 61.218.164.170: 2228 
+Apr 28 02:54:48 ns1 ftpd[19421]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 28 02:54:50 ns1 xinetd[19427]: Bad line received from identity server at 61.218.164.170: 2760 
+Apr 28 02:54:50 ns1 ftpd[19427]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 28 02:54:51 ns1 xinetd[19425]: Bad line received from identity server at 61.218.164.170: 2747 
+Apr 28 02:54:51 ns1 ftpd[19425]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 28 02:54:51 ns1 xinetd[19422]: Bad line received from identity server at 61.218.164.170: 2233 
+Apr 28 02:54:51 ns1 ftpd[19422]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 28 02:54:52 ns1 xinetd[19424]: Bad line received from identity server at 61.218.164.170: 2250 
+Apr 28 02:54:52 ns1 ftpd[19424]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 28 02:54:54 ns1 xinetd[19426]: Bad line received from identity server at 61.218.164.170: 2755 
+Apr 28 02:54:54 ns1 ftpd[19426]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 28 02:54:57 ns1 xinetd[19423]: Bad line received from identity server at 61.218.164.170: 2243 
+Apr 28 02:54:57 ns1 ftpd[19423]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 28 02:55:20 ns1 ftpd[19421]: FTP session closed
+Apr 28 02:55:23 ns1 ftpd[19427]: FTP session closed
+Apr 28 02:55:23 ns1 ftpd[19425]: FTP session closed
+Apr 28 02:55:23 ns1 ftpd[19422]: FTP session closed
+Apr 28 02:55:25 ns1 ftpd[19424]: FTP session closed
+Apr 28 02:55:27 ns1 ftpd[19426]: FTP session closed
+Apr 28 02:55:30 ns1 ftpd[19423]: FTP session closed
+Apr 28 05:49:15 ns1 telnetd[20412]: ttloop: peer died: EOF 
+Apr 28 05:49:15 ns1 telnetd[20411]: ttloop: peer died: EOF 
+Apr 28 05:49:18 ns1 telnetd[20413]: ttloop: read: Connection reset by peer 
+Apr 28 05:49:18 ns1 telnetd[20420]: ttloop: peer died: EOF 
+Apr 28 05:49:22 ns1 telnetd[20414]: ttloop: read: Connection reset by peer 
+Apr 28 05:49:22 ns1 telnetd[20422]: ttloop: peer died: EOF 
+Apr 28 05:49:26 ns1 telnetd[20415]: ttloop: read: Connection reset by peer 
+Apr 28 05:49:26 ns1 telnetd[20423]: ttloop: peer died: EOF 
+Apr 28 05:49:30 ns1 telnetd[20416]: ttloop: read: Connection reset by peer 
+Apr 28 05:49:30 ns1 telnetd[20424]: ttloop: peer died: EOF 
+Apr 28 05:49:34 ns1 telnetd[20421]: ttloop: read: Connection reset by peer 
+Apr 28 05:49:34 ns1 telnetd[20410]: ttloop: read: Connection reset by peer 
+Apr 28 05:49:34 ns1 telnetd[20425]: ttloop: peer died: EOF 
+Apr 28 05:49:38 ns1 telnetd[20417]: ttloop: read: Connection reset by peer 
+Apr 28 05:49:38 ns1 telnetd[20426]: ttloop: peer died: EOF 
+Apr 28 05:49:38 ns1 telnetd[20427]: ttloop: peer died: EOF 
+Apr 28 05:49:39 ns1 telnetd[20428]: ttloop: peer died: EOF 
+Apr 28 05:49:39 ns1 telnetd[20429]: ttloop: peer died: EOF 
+Apr 28 05:49:42 ns1 telnetd[20418]: ttloop: read: Connection reset by peer 
+Apr 28 05:49:42 ns1 telnetd[20430]: ttloop: peer died: EOF 
+Apr 28 05:49:46 ns1 telnetd[20419]: ttloop: read: Connection reset by peer 
+Apr 28 05:49:46 ns1 telnetd[20432]: ttloop: peer died: EOF 
+Apr 28 05:49:50 ns1 telnetd[20433]: ttloop: peer died: EOF 
+Apr 28 05:49:54 ns1 telnetd[20434]: ttloop: peer died: EOF 
+Apr 28 05:49:58 ns1 telnetd[20435]: ttloop: peer died: EOF 
+Apr 28 05:49:58 ns1 telnetd[20436]: ttloop: peer died: EOF 
+Apr 28 05:49:58 ns1 telnetd[20437]: ttloop: peer died: EOF 
+Apr 28 05:49:58 ns1 telnetd[20440]: ttloop: peer died: EOF 
+Apr 28 05:50:02 ns1 telnetd[20438]: ttloop: read: Connection reset by peer 
+Apr 28 05:50:02 ns1 telnetd[20444]: ttloop: peer died: EOF 
+Apr 28 05:50:06 ns1 telnetd[20439]: ttloop: read: Connection reset by peer 
+Apr 28 05:50:06 ns1 telnetd[20447]: ttloop: peer died: EOF 
+Apr 28 05:50:10 ns1 telnetd[20442]: ttloop: read: Connection reset by peer 
+Apr 28 05:50:10 ns1 telnetd[20450]: ttloop: peer died: EOF 
+Apr 28 05:50:14 ns1 telnetd[20453]: ttloop: peer died: EOF 
+Apr 28 05:50:18 ns1 telnetd[20458]: ttloop: peer died: EOF 
+Apr 28 07:49:47 ns1 telnetd[20431]: ttloop: read: Connection reset by peer 
+Apr 28 10:56:58 ns1 samba(pam_unix)[22261]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:03 ns1 samba(pam_unix)[22261]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:03 ns1 samba(pam_unix)[22261]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:08 ns1 samba(pam_unix)[22261]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:16 ns1 samba(pam_unix)[22263]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:20 ns1 samba(pam_unix)[22263]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:20 ns1 samba(pam_unix)[22263]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:25 ns1 samba(pam_unix)[22263]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:33 ns1 samba(pam_unix)[22265]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:37 ns1 samba(pam_unix)[22265]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:37 ns1 samba(pam_unix)[22265]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:42 ns1 samba(pam_unix)[22265]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:50 ns1 samba(pam_unix)[22266]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:54 ns1 samba(pam_unix)[22266]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:54 ns1 samba(pam_unix)[22266]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:57:59 ns1 samba(pam_unix)[22266]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:07 ns1 samba(pam_unix)[22267]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:12 ns1 samba(pam_unix)[22267]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:12 ns1 samba(pam_unix)[22267]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:16 ns1 samba(pam_unix)[22267]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:24 ns1 samba(pam_unix)[22269]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:29 ns1 samba(pam_unix)[22269]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:29 ns1 samba(pam_unix)[22269]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:34 ns1 samba(pam_unix)[22269]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:42 ns1 samba(pam_unix)[22270]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:47 ns1 samba(pam_unix)[22270]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:47 ns1 samba(pam_unix)[22270]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:58:52 ns1 samba(pam_unix)[22270]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:59:00 ns1 samba(pam_unix)[22271]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:59:04 ns1 samba(pam_unix)[22271]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:59:04 ns1 samba(pam_unix)[22271]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:59:09 ns1 samba(pam_unix)[22271]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:59:16 ns1 samba(pam_unix)[22272]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:59:21 ns1 samba(pam_unix)[22272]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:59:21 ns1 samba(pam_unix)[22272]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 10:59:26 ns1 samba(pam_unix)[22272]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:12:14 ns1 samba(pam_unix)[22635]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:18 ns1 samba(pam_unix)[22635]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:18 ns1 samba(pam_unix)[22635]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:23 ns1 samba(pam_unix)[22635]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:33 ns1 samba(pam_unix)[22637]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:37 ns1 samba(pam_unix)[22637]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:37 ns1 samba(pam_unix)[22637]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:42 ns1 samba(pam_unix)[22637]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:50 ns1 samba(pam_unix)[22638]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:55 ns1 samba(pam_unix)[22638]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:55 ns1 samba(pam_unix)[22638]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:12:59 ns1 samba(pam_unix)[22638]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:07 ns1 samba(pam_unix)[22639]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:12 ns1 samba(pam_unix)[22639]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:12 ns1 samba(pam_unix)[22639]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:17 ns1 samba(pam_unix)[22639]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:25 ns1 samba(pam_unix)[22640]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:30 ns1 samba(pam_unix)[22640]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:30 ns1 samba(pam_unix)[22640]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:34 ns1 samba(pam_unix)[22640]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:43 ns1 samba(pam_unix)[22641]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:48 ns1 samba(pam_unix)[22641]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:48 ns1 samba(pam_unix)[22641]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:13:52 ns1 samba(pam_unix)[22641]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:00 ns1 samba(pam_unix)[22642]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:05 ns1 samba(pam_unix)[22642]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:05 ns1 samba(pam_unix)[22642]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:10 ns1 samba(pam_unix)[22642]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:18 ns1 samba(pam_unix)[22643]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:23 ns1 samba(pam_unix)[22643]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:23 ns1 samba(pam_unix)[22643]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:27 ns1 samba(pam_unix)[22643]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:37 ns1 samba(pam_unix)[22644]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:42 ns1 samba(pam_unix)[22644]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:42 ns1 samba(pam_unix)[22644]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:14:46 ns1 samba(pam_unix)[22644]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:36:13 ns1 samba(pam_unix)[23229]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:17 ns1 samba(pam_unix)[23229]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:17 ns1 samba(pam_unix)[23229]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:22 ns1 samba(pam_unix)[23229]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:39 ns1 samba(pam_unix)[23232]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:44 ns1 samba(pam_unix)[23232]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:44 ns1 samba(pam_unix)[23232]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:49 ns1 samba(pam_unix)[23232]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:51 ns1 samba(pam_unix)[23233]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:56 ns1 samba(pam_unix)[23233]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:36:56 ns1 samba(pam_unix)[23233]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:00 ns1 samba(pam_unix)[23233]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:03 ns1 samba(pam_unix)[23235]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:08 ns1 samba(pam_unix)[23235]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:08 ns1 samba(pam_unix)[23235]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:12 ns1 samba(pam_unix)[23235]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:15 ns1 samba(pam_unix)[23236]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:19 ns1 samba(pam_unix)[23236]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:19 ns1 samba(pam_unix)[23236]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:24 ns1 samba(pam_unix)[23236]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:36 ns1 samba(pam_unix)[23238]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:40 ns1 samba(pam_unix)[23238]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:40 ns1 samba(pam_unix)[23238]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:45 ns1 samba(pam_unix)[23238]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:47 ns1 samba(pam_unix)[23240]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:52 ns1 samba(pam_unix)[23240]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:52 ns1 samba(pam_unix)[23240]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:37:57 ns1 samba(pam_unix)[23240]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:38:02 ns1 samba(pam_unix)[23241]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:38:07 ns1 samba(pam_unix)[23241]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:38:07 ns1 samba(pam_unix)[23241]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:38:11 ns1 samba(pam_unix)[23241]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:38:13 ns1 samba(pam_unix)[23243]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:38:18 ns1 samba(pam_unix)[23243]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:38:18 ns1 samba(pam_unix)[23243]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:38:23 ns1 samba(pam_unix)[23243]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 11:54:42 ns1 samba(pam_unix)[23856]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:54:46 ns1 samba(pam_unix)[23856]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:54:46 ns1 samba(pam_unix)[23856]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:54:51 ns1 samba(pam_unix)[23856]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:54:55 ns1 samba(pam_unix)[23858]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:00 ns1 samba(pam_unix)[23858]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:00 ns1 samba(pam_unix)[23858]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:05 ns1 samba(pam_unix)[23858]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:15 ns1 samba(pam_unix)[23882]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:19 ns1 samba(pam_unix)[23882]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:19 ns1 samba(pam_unix)[23882]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:24 ns1 samba(pam_unix)[23882]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:26 ns1 samba(pam_unix)[23897]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:31 ns1 samba(pam_unix)[23897]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:31 ns1 samba(pam_unix)[23897]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:36 ns1 samba(pam_unix)[23897]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:37 ns1 samba(pam_unix)[23913]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:42 ns1 samba(pam_unix)[23913]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:42 ns1 samba(pam_unix)[23913]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:47 ns1 samba(pam_unix)[23913]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:49 ns1 samba(pam_unix)[23914]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:54 ns1 samba(pam_unix)[23914]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:54 ns1 samba(pam_unix)[23914]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:55:58 ns1 samba(pam_unix)[23914]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:10 ns1 samba(pam_unix)[23916]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:15 ns1 samba(pam_unix)[23916]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:15 ns1 samba(pam_unix)[23916]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:20 ns1 samba(pam_unix)[23916]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:22 ns1 samba(pam_unix)[23918]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:26 ns1 samba(pam_unix)[23918]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:26 ns1 samba(pam_unix)[23918]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:31 ns1 samba(pam_unix)[23918]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:33 ns1 samba(pam_unix)[23920]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:37 ns1 samba(pam_unix)[23920]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:37 ns1 samba(pam_unix)[23920]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 11:56:42 ns1 samba(pam_unix)[23920]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:17:19 ns1 samba(pam_unix)[24468]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:23 ns1 samba(pam_unix)[24468]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:23 ns1 samba(pam_unix)[24468]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:28 ns1 samba(pam_unix)[24468]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:34 ns1 samba(pam_unix)[24470]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:39 ns1 samba(pam_unix)[24470]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:39 ns1 samba(pam_unix)[24470]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:44 ns1 samba(pam_unix)[24470]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:46 ns1 samba(pam_unix)[24471]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:50 ns1 samba(pam_unix)[24471]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:50 ns1 samba(pam_unix)[24471]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:55 ns1 samba(pam_unix)[24471]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:17:57 ns1 samba(pam_unix)[24472]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:02 ns1 samba(pam_unix)[24472]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:02 ns1 samba(pam_unix)[24472]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:06 ns1 samba(pam_unix)[24472]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:08 ns1 samba(pam_unix)[24473]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:13 ns1 samba(pam_unix)[24473]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:13 ns1 samba(pam_unix)[24473]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:18 ns1 samba(pam_unix)[24473]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:20 ns1 samba(pam_unix)[24474]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:24 ns1 samba(pam_unix)[24474]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:24 ns1 samba(pam_unix)[24474]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:29 ns1 samba(pam_unix)[24474]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:38 ns1 samba(pam_unix)[24475]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:42 ns1 samba(pam_unix)[24475]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:42 ns1 samba(pam_unix)[24475]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:47 ns1 samba(pam_unix)[24475]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:49 ns1 samba(pam_unix)[24476]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:54 ns1 samba(pam_unix)[24476]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:54 ns1 samba(pam_unix)[24476]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:18:59 ns1 samba(pam_unix)[24476]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:19:00 ns1 samba(pam_unix)[24477]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:19:05 ns1 samba(pam_unix)[24477]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:19:05 ns1 samba(pam_unix)[24477]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:19:10 ns1 samba(pam_unix)[24477]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:31:32 ns1 samba(pam_unix)[24805]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:31:36 ns1 samba(pam_unix)[24805]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:31:36 ns1 samba(pam_unix)[24805]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:31:41 ns1 samba(pam_unix)[24805]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:31:46 ns1 samba(pam_unix)[24807]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:31:51 ns1 samba(pam_unix)[24807]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:31:51 ns1 samba(pam_unix)[24807]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:31:56 ns1 samba(pam_unix)[24807]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:31:58 ns1 samba(pam_unix)[24808]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:02 ns1 samba(pam_unix)[24808]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:02 ns1 samba(pam_unix)[24808]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:07 ns1 samba(pam_unix)[24808]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:12 ns1 samba(pam_unix)[24809]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:16 ns1 samba(pam_unix)[24809]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:16 ns1 samba(pam_unix)[24809]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:21 ns1 samba(pam_unix)[24809]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:24 ns1 samba(pam_unix)[24810]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:29 ns1 samba(pam_unix)[24810]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:29 ns1 samba(pam_unix)[24810]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:34 ns1 samba(pam_unix)[24810]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:48 ns1 samba(pam_unix)[24811]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:53 ns1 samba(pam_unix)[24811]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:53 ns1 samba(pam_unix)[24811]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:32:58 ns1 samba(pam_unix)[24811]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:00 ns1 samba(pam_unix)[24812]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:04 ns1 samba(pam_unix)[24812]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:04 ns1 samba(pam_unix)[24812]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:09 ns1 samba(pam_unix)[24812]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:11 ns1 samba(pam_unix)[24813]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:16 ns1 samba(pam_unix)[24813]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:16 ns1 samba(pam_unix)[24813]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:21 ns1 samba(pam_unix)[24813]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:23 ns1 samba(pam_unix)[24814]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:27 ns1 samba(pam_unix)[24814]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:27 ns1 samba(pam_unix)[24814]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:33:32 ns1 samba(pam_unix)[24814]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 12:52:00 ns1 samba(pam_unix)[25285]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:05 ns1 samba(pam_unix)[25285]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:05 ns1 samba(pam_unix)[25285]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:10 ns1 samba(pam_unix)[25285]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:11 ns1 samba(pam_unix)[25287]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:16 ns1 samba(pam_unix)[25287]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:16 ns1 samba(pam_unix)[25287]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:21 ns1 samba(pam_unix)[25287]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:22 ns1 samba(pam_unix)[25288]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:26 ns1 samba(pam_unix)[25288]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:26 ns1 samba(pam_unix)[25288]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:31 ns1 samba(pam_unix)[25288]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:32 ns1 samba(pam_unix)[25289]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:37 ns1 samba(pam_unix)[25289]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:37 ns1 samba(pam_unix)[25289]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:42 ns1 samba(pam_unix)[25289]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:44 ns1 samba(pam_unix)[25290]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:48 ns1 samba(pam_unix)[25290]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:48 ns1 samba(pam_unix)[25290]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:52:53 ns1 samba(pam_unix)[25290]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:03 ns1 samba(pam_unix)[25291]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:07 ns1 samba(pam_unix)[25291]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:07 ns1 samba(pam_unix)[25291]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:12 ns1 samba(pam_unix)[25291]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:14 ns1 samba(pam_unix)[25292]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:18 ns1 samba(pam_unix)[25292]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:18 ns1 samba(pam_unix)[25292]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:23 ns1 samba(pam_unix)[25292]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:32 ns1 samba(pam_unix)[25293]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:36 ns1 samba(pam_unix)[25293]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:36 ns1 samba(pam_unix)[25293]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:41 ns1 samba(pam_unix)[25293]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:43 ns1 samba(pam_unix)[25294]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:47 ns1 samba(pam_unix)[25294]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:47 ns1 samba(pam_unix)[25294]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 12:53:52 ns1 samba(pam_unix)[25294]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:03:33 ns1 samba(pam_unix)[25635]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:03:38 ns1 samba(pam_unix)[25635]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:03:38 ns1 samba(pam_unix)[25635]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:03:43 ns1 samba(pam_unix)[25635]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:03:55 ns1 samba(pam_unix)[25637]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:03:59 ns1 samba(pam_unix)[25637]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:03:59 ns1 samba(pam_unix)[25637]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:04 ns1 samba(pam_unix)[25637]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:05 ns1 samba(pam_unix)[25638]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:10 ns1 samba(pam_unix)[25638]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:10 ns1 samba(pam_unix)[25638]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:14 ns1 samba(pam_unix)[25638]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:15 ns1 samba(pam_unix)[25639]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:20 ns1 samba(pam_unix)[25639]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:20 ns1 samba(pam_unix)[25639]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:25 ns1 samba(pam_unix)[25639]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:27 ns1 samba(pam_unix)[25640]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:32 ns1 samba(pam_unix)[25640]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:32 ns1 samba(pam_unix)[25640]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:37 ns1 samba(pam_unix)[25640]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:38 ns1 samba(pam_unix)[25641]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:42 ns1 samba(pam_unix)[25641]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:42 ns1 samba(pam_unix)[25641]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:47 ns1 samba(pam_unix)[25641]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:48 ns1 samba(pam_unix)[25642]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:53 ns1 samba(pam_unix)[25642]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:53 ns1 samba(pam_unix)[25642]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:04:58 ns1 samba(pam_unix)[25642]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:05:01 ns1 samba(pam_unix)[25643]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:05:05 ns1 samba(pam_unix)[25643]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:05:05 ns1 samba(pam_unix)[25643]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:05:10 ns1 samba(pam_unix)[25643]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:05:12 ns1 samba(pam_unix)[25644]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:05:17 ns1 samba(pam_unix)[25644]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:05:17 ns1 samba(pam_unix)[25644]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:05:21 ns1 samba(pam_unix)[25644]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:18:30 ns1 samba(pam_unix)[26110]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:34 ns1 samba(pam_unix)[26110]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:34 ns1 samba(pam_unix)[26110]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:39 ns1 samba(pam_unix)[26110]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:41 ns1 samba(pam_unix)[26112]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:46 ns1 samba(pam_unix)[26112]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:46 ns1 samba(pam_unix)[26112]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:51 ns1 samba(pam_unix)[26112]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:52 ns1 samba(pam_unix)[26113]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:56 ns1 samba(pam_unix)[26113]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:18:56 ns1 samba(pam_unix)[26113]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:01 ns1 samba(pam_unix)[26113]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:03 ns1 samba(pam_unix)[26114]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:08 ns1 samba(pam_unix)[26114]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:08 ns1 samba(pam_unix)[26114]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:12 ns1 samba(pam_unix)[26114]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:22 ns1 samba(pam_unix)[26115]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:26 ns1 samba(pam_unix)[26115]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:26 ns1 samba(pam_unix)[26115]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:31 ns1 samba(pam_unix)[26115]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:32 ns1 samba(pam_unix)[26116]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:37 ns1 samba(pam_unix)[26116]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:37 ns1 samba(pam_unix)[26116]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:41 ns1 samba(pam_unix)[26116]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:42 ns1 samba(pam_unix)[26117]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:47 ns1 samba(pam_unix)[26117]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:47 ns1 samba(pam_unix)[26117]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:51 ns1 samba(pam_unix)[26117]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:19:59 ns1 samba(pam_unix)[26118]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:20:03 ns1 samba(pam_unix)[26118]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:20:03 ns1 samba(pam_unix)[26118]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:20:08 ns1 samba(pam_unix)[26118]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:20:09 ns1 samba(pam_unix)[26121]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:20:14 ns1 samba(pam_unix)[26121]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:20:14 ns1 samba(pam_unix)[26121]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:20:18 ns1 samba(pam_unix)[26121]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Apr 28 13:30:05 ns1 samba(pam_unix)[26447]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:10 ns1 samba(pam_unix)[26447]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:10 ns1 samba(pam_unix)[26447]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:15 ns1 samba(pam_unix)[26447]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:19 ns1 samba(pam_unix)[26449]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:23 ns1 samba(pam_unix)[26449]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:23 ns1 samba(pam_unix)[26449]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:28 ns1 samba(pam_unix)[26449]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:33 ns1 samba(pam_unix)[26450]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:38 ns1 samba(pam_unix)[26450]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:38 ns1 samba(pam_unix)[26450]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:43 ns1 samba(pam_unix)[26450]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:44 ns1 samba(pam_unix)[26451]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:49 ns1 samba(pam_unix)[26451]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:49 ns1 samba(pam_unix)[26451]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:54 ns1 samba(pam_unix)[26451]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:30:57 ns1 samba(pam_unix)[26452]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:02 ns1 samba(pam_unix)[26452]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:02 ns1 samba(pam_unix)[26452]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:06 ns1 samba(pam_unix)[26452]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:11 ns1 samba(pam_unix)[26453]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:15 ns1 samba(pam_unix)[26453]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:15 ns1 samba(pam_unix)[26453]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:20 ns1 samba(pam_unix)[26453]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:21 ns1 samba(pam_unix)[26454]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:26 ns1 samba(pam_unix)[26454]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:26 ns1 samba(pam_unix)[26454]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:30 ns1 samba(pam_unix)[26454]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:39 ns1 samba(pam_unix)[26455]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:44 ns1 samba(pam_unix)[26455]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:44 ns1 samba(pam_unix)[26455]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:48 ns1 samba(pam_unix)[26455]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:49 ns1 samba(pam_unix)[26456]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:54 ns1 samba(pam_unix)[26456]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:54 ns1 samba(pam_unix)[26456]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 28 13:31:59 ns1 samba(pam_unix)[26456]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=mysql
+Apr 30 07:31:42 ns1 ftpd[6881]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:42 ns1 ftpd[6883]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:42 ns1 ftpd[6884]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:42 ns1 ftpd[6882]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:42 ns1 ftpd[6885]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:42 ns1 ftpd[6886]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:42 ns1 ftpd[6887]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:43 ns1 ftpd[6893]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:43 ns1 ftpd[6891]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:43 ns1 ftpd[6890]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:43 ns1 ftpd[6889]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:43 ns1 ftpd[6888]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:31:43 ns1 ftpd[6892]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:04 ns1 ftpd[6883]: FTP session closed
+Apr 30 07:32:07 ns1 ftpd[6881]: FTP session closed
+Apr 30 07:32:12 ns1 ftpd[6896]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:12 ns1 ftpd[6894]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:12 ns1 ftpd[6898]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:12 ns1 ftpd[6897]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:12 ns1 ftpd[6901]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:12 ns1 ftpd[6899]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:12 ns1 ftpd[6895]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:12 ns1 ftpd[6903]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:12 ns1 ftpd[6902]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:12 ns1 ftpd[6900]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 07:32:15 ns1 ftpd[6884]: FTP session closed
+Apr 30 07:32:15 ns1 ftpd[6887]: FTP session closed
+Apr 30 07:32:15 ns1 ftpd[6886]: FTP session closed
+Apr 30 07:32:15 ns1 ftpd[6885]: FTP session closed
+Apr 30 07:32:15 ns1 ftpd[6882]: FTP session closed
+Apr 30 07:32:21 ns1 ftpd[6893]: FTP session closed
+Apr 30 07:32:21 ns1 ftpd[6892]: FTP session closed
+Apr 30 07:32:21 ns1 ftpd[6888]: FTP session closed
+Apr 30 07:32:21 ns1 ftpd[6891]: FTP session closed
+Apr 30 07:32:21 ns1 ftpd[6889]: FTP session closed
+Apr 30 07:32:21 ns1 ftpd[6890]: FTP session closed
+Apr 30 07:32:36 ns1 ftpd[6894]: FTP session closed
+Apr 30 07:32:37 ns1 ftpd[6898]: FTP session closed
+Apr 30 07:32:37 ns1 ftpd[6897]: FTP session closed
+Apr 30 07:32:37 ns1 ftpd[6895]: FTP session closed
+Apr 30 07:32:37 ns1 ftpd[6896]: FTP session closed
+Apr 30 07:32:37 ns1 ftpd[6899]: FTP session closed
+Apr 30 07:32:37 ns1 ftpd[6901]: FTP session closed
+Apr 30 07:32:37 ns1 ftpd[6900]: FTP session closed
+Apr 30 07:32:37 ns1 ftpd[6903]: FTP session closed
+Apr 30 07:32:37 ns1 ftpd[6902]: FTP session closed
+Apr 30 11:41:48 ns1 syslogd 1.4-0: restart.
+Apr 30 11:41:48 ns1 syslog: syslogd startup succeeded
+Apr 30 11:41:48 ns1 kernel: klogd 1.4-0, log source = /proc/kmsg started.
+Apr 30 11:41:48 ns1 kernel: Inspecting /boot/System.map-2.4.2-2
+Apr 30 11:41:48 ns1 syslog: klogd startup succeeded
+Apr 30 11:41:49 ns1 portmap: portmap startup succeeded
+Apr 30 11:41:49 ns1 kernel: Loaded 14301 symbols from /boot/System.map-2.4.2-2.
+Apr 30 11:41:49 ns1 kernel: Symbols match kernel version 2.4.2.
+Apr 30 11:41:49 ns1 kernel: Loaded 135 symbols from 4 modules.
+Apr 30 11:41:49 ns1 kernel: Linux version 2.4.2-2 (root@porky.devel.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.1 2.96-79)) #1 Sun Apr 8 20:41:30 EDT 2001
+Apr 30 11:41:49 ns1 kernel: BIOS-provided physical RAM map:
+Apr 30 11:41:49 ns1 kernel:  BIOS-e820: 00000000000a0000 @ 0000000000000000 (usable)
+Apr 30 11:41:49 ns1 kernel:  BIOS-e820: 0000000000010000 @ 00000000000f0000 (reserved)
+Apr 30 11:41:49 ns1 kernel:  BIOS-e820: 0000000007dae000 @ 0000000000100000 (usable)
+Apr 30 11:41:49 ns1 kernel:  BIOS-e820: 0000000000052000 @ 0000000007eae000 (reserved)
+Apr 30 11:41:49 ns1 kernel:  BIOS-e820: 0000000000100000 @ 0000000007f00000 (reserved)
+Apr 30 11:41:49 ns1 kernel:  BIOS-e820: 0000000000500000 @ 00000000ffb00000 (reserved)
+Apr 30 11:41:49 ns1 kernel: On node 0 totalpages: 32430
+Apr 30 11:41:49 ns1 kernel: zone(0): 4096 pages.
+Apr 30 11:41:49 ns1 nfslock: rpc.statd startup succeeded
+Apr 30 11:41:49 ns1 kernel: zone DMA has max 32 cached pages.
+Apr 30 11:41:49 ns1 rpc.statd[526]: Version 0.3.1 Starting
+Apr 30 11:41:49 ns1 kernel: zone(1): 28334 pages.
+Apr 30 11:41:49 ns1 kernel: zone Normal has max 221 cached pages.
+Apr 30 11:41:49 ns1 kernel: zone(2): 0 pages.
+Apr 30 11:41:49 ns1 keytable: Loading keymap: 
+Apr 30 11:41:49 ns1 kernel: zone HighMem has max 1 cached pages.
+Apr 30 11:41:49 ns1 kernel: Kernel command line: auto BOOT_IMAGE=linux ro root=308 BOOT_FILE=/boot/vmlinuz-2.4.2-2
+Apr 30 11:41:49 ns1 kernel: Initializing CPU#0
+Apr 30 11:41:50 ns1 kernel: Detected 730.980 MHz processor.
+Apr 30 11:41:50 ns1 kernel: Console: colour VGA+ 80x25
+Apr 30 11:41:50 ns1 kernel: Calibrating delay loop... 1458.17 BogoMIPS
+Apr 30 11:41:50 ns1 kernel: Memory: 125148k/129720k available (1365k kernel code, 4188k reserved, 92k data, 236k init, 0k highmem)
+Apr 30 11:41:50 ns1 kernel: Dentry-cache hash table entries: 16384 (order: 5, 131072 bytes)
+Apr 30 11:41:50 ns1 kernel: Buffer-cache hash table entries: 4096 (order: 2, 16384 bytes)
+Apr 30 11:41:50 ns1 kernel: Page-cache hash table entries: 32768 (order: 6, 262144 bytes)
+Apr 30 11:41:50 ns1 kernel: Inode-cache hash table entries: 8192 (order: 4, 65536 bytes)
+Apr 30 11:41:50 ns1 kernel: VFS: Diskquotas version dquot_6.5.0 initialized
+Apr 30 11:41:50 ns1 kernel: CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0
+Apr 30 11:41:50 ns1 keytable: 
+Apr 30 11:41:50 ns1 kernel: CPU: L1 I cache: 16K, L1 D cache: 16K
+Apr 30 11:41:50 ns1 keytable: Loading system font: 
+Apr 30 11:41:50 ns1 kernel: CPU: L2 cache: 256K
+Apr 30 11:41:50 ns1 kernel: Intel machine check architecture supported.
+Apr 30 11:41:50 ns1 kernel: Intel machine check reporting enabled on CPU#0.
+Apr 30 11:41:50 ns1 kernel: CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000
+Apr 30 11:41:50 ns1 kernel: CPU: After generic, caps: 0383f9ff 00000000 00000000 00000000
+Apr 30 11:41:50 ns1 kernel: CPU: Common caps: 0383f9ff 00000000 00000000 00000000
+Apr 30 11:41:50 ns1 kernel: CPU: Intel Pentium III (Coppermine) stepping 06
+Apr 30 11:41:50 ns1 kernel: Enabling fast FPU save and restore... done.
+Apr 30 11:41:50 ns1 kernel: Enabling unmasked SIMD FPU exception support... done.
+Apr 30 11:41:50 ns1 kernel: Checking 'hlt' instruction... OK.
+Apr 30 11:41:50 ns1 keytable: 
+Apr 30 11:41:50 ns1 kernel: POSIX conformance testing by UNIFIX
+Apr 30 11:41:50 ns1 rc: Starting keytable:  succeeded
+Apr 30 11:41:50 ns1 kernel: mtrr: v1.37 (20001109) Richard Gooch (rgooch@atnf.csiro.au)
+Apr 30 11:41:50 ns1 kernel: mtrr: detected mtrr type: Intel
+Apr 30 11:41:50 ns1 kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+Apr 30 11:41:50 ns1 kernel: PCI: Using configuration type 1
+Apr 30 11:41:50 ns1 kernel: PCI: Probing PCI hardware
+Apr 30 11:41:50 ns1 kernel: PCI: Using IRQ router PIIX [8086/2410] at 00:1f.0
+Apr 30 11:41:50 ns1 kernel: isapnp: Scanning for PnP cards...
+Apr 30 11:41:50 ns1 kernel: isapnp: No Plug & Play device found
+Apr 30 11:41:50 ns1 kernel: Linux NET4.0 for Linux 2.4
+Apr 30 11:41:50 ns1 kernel: Based upon Swansea University Computer Society NET3.039
+Apr 30 11:41:50 ns1 kernel: Initializing RT netlink socket
+Apr 30 11:41:50 ns1 kernel: apm: BIOS version 1.2 Flags 0x03 (Driver version 1.14)
+Apr 30 11:41:50 ns1 kernel: Starting kswapd v1.8
+Apr 30 11:41:50 ns1 kernel: pty: 256 Unix98 ptys configured
+Apr 30 11:41:50 ns1 kernel: block: queued sectors max/low 83026kB/27675kB, 256 slots per queue
+Apr 30 11:41:50 ns1 kernel: RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize
+Apr 30 11:41:50 ns1 kernel: Uniform Multi-Platform E-IDE driver Revision: 6.31
+Apr 30 11:41:50 ns1 kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Apr 30 11:41:50 ns1 kernel: PIIX4: IDE controller on PCI bus 00 dev f9
+Apr 30 11:41:50 ns1 random: Initializing random number generator:  succeeded
+Apr 30 11:41:50 ns1 kernel: PIIX4: chipset revision 2
+Apr 30 11:41:50 ns1 kernel: PIIX4: not 100%% native mode: will probe irqs later
+Apr 30 11:41:50 ns1 kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+Apr 30 11:41:50 ns1 kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Apr 30 11:41:50 ns1 kernel: hda: IBM-DTLA-307015, ATA DISK drive
+Apr 30 11:41:50 ns1 kernel: hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive
+Apr 30 11:41:51 ns1 kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Apr 30 11:41:51 ns1 kernel: ide1 at 0x170-0x177,0x376 on irq 15
+Apr 30 11:41:51 ns1 kernel: hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=1826/255/63, UDMA(66)
+Apr 30 11:41:51 ns1 kernel: Partition check:
+Apr 30 11:41:51 ns1 kernel:  hda: hda1 hda2 < hda5 hda6 hda7 hda8 hda9 >
+Apr 30 11:41:51 ns1 kernel: Floppy drive(s): fd0 is 1.44M
+Apr 30 11:41:51 ns1 kernel: FDC 0 is a National Semiconductor PC87306
+Apr 30 11:41:51 ns1 kernel: Serial driver version 5.02 (2000-08-09) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled
+Apr 30 11:41:51 ns1 kernel: ttyS00 at 0x03f8 (irq = 4) is a 16550A
+Apr 30 11:41:51 ns1 kernel: ttyS01 at 0x02f8 (irq = 3) is a 16550A
+Apr 30 11:41:51 ns1 kernel: Real Time Clock Driver v1.10d
+Apr 30 11:41:51 ns1 kernel: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27
+Apr 30 11:41:51 ns1 kernel: md.c: sizeof(mdp_super_t) = 4096
+Apr 30 11:40:59 ns1 rc.sysinit: Mounting proc filesystem:  succeeded 
+Apr 30 11:41:51 ns1 kernel: autodetecting RAID arrays
+Apr 30 11:40:59 ns1 sysctl: net.ipv4.ip_forward = 0 
+Apr 30 11:41:51 ns1 kernel: autorun ...
+Apr 30 11:40:59 ns1 sysctl: net.ipv4.conf.all.rp_filter = 1 
+Apr 30 11:41:51 ns1 kernel: ... autorun DONE.
+Apr 30 11:40:59 ns1 sysctl: kernel.sysrq = 0 
+Apr 30 11:41:51 ns1 kernel: NET4: Linux TCP/IP 1.0 for NET4.0
+Apr 30 11:40:59 ns1 rc.sysinit: Configuring kernel parameters:  succeeded 
+Apr 30 11:41:51 ns1 kernel: IP Protocols: ICMP, UDP, TCP, IGMP
+Apr 30 11:40:59 ns1 date: Fri Apr 30 11:40:50 EDT 2004 
+Apr 30 11:41:51 ns1 kernel: IP: routing cache hash table of 512 buckets, 4Kbytes
+Apr 30 11:40:59 ns1 rc.sysinit: Setting clock  (localtime): Fri Apr 30 11:40:50 EDT 2004 succeeded 
+Apr 30 11:41:51 ns1 kernel: TCP: Hash tables configured (established 8192 bind 8192)
+Apr 30 11:40:59 ns1 rc.sysinit: Loading default keymap succeeded 
+Apr 30 11:41:51 ns1 kernel: Linux IP multicast router 0.06 plus PIM-SM
+Apr 30 11:40:59 ns1 rc.sysinit: Setting default font (lat0-sun16):  succeeded 
+Apr 30 11:41:51 ns1 kernel: NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.
+Apr 30 11:40:59 ns1 rc.sysinit: Activating swap partitions:  succeeded 
+Apr 30 11:41:51 ns1 kernel: VFS: Mounted root (ext2 filesystem) readonly.
+Apr 30 11:40:59 ns1 rc.sysinit: Setting hostname ns1.bkwconsulting.com:  succeeded 
+Apr 30 11:41:51 ns1 kernel: Freeing unused kernel memory: 236k freed
+Apr 30 11:40:59 ns1 rc.sysinit: Mounting USB filesystem:  succeeded 
+Apr 30 11:41:51 ns1 kernel: Adding Swap: 265032k swap-space (priority -1)
+Apr 30 11:40:59 ns1 rc.sysinit: Initializing USB controller (usb-uhci):  succeeded 
+Apr 30 11:41:51 ns1 kernel: usb.c: registered new driver usbdevfs
+Apr 30 11:40:59 ns1 fsck: / was not cleanly unmounted, check forced. 
+Apr 30 11:41:51 ns1 netfs: Mounting other filesystems:  succeeded
+Apr 30 11:41:51 ns1 kernel: usb.c: registered new driver hub
+Apr 30 11:40:59 ns1 fsck: /: 17052/66264 files (0.2% non-contiguous), 63475/265041 blocks 
+Apr 30 11:41:51 ns1 kernel: usb-uhci.c: $Revision: 1.251 $ time 20:53:29 Apr  8 2001
+Apr 30 11:40:59 ns1 rc.sysinit: Checking root filesystem succeeded 
+Apr 30 11:41:51 ns1 kernel: usb-uhci.c: High bandwidth mode enabled
+Apr 30 11:40:59 ns1 rc.sysinit: Remounting root filesystem in read-write mode:  succeeded 
+Apr 30 11:41:51 ns1 kernel: PCI: Found IRQ 11 for device 00:1f.2
+Apr 30 11:40:59 ns1 rc.sysinit: Finding module dependencies:  succeeded 
+Apr 30 11:41:51 ns1 kernel: PCI: Setting latency timer of device 00:1f.2 to 64
+Apr 30 11:40:59 ns1 fsck: /boot was not cleanly unmounted, check forced. 
+Apr 30 11:41:51 ns1 kernel: usb-uhci.c: USB UHCI at I/O 0xff80, IRQ 11
+Apr 30 11:40:59 ns1 fsck: /boot: 26/14056 files (0.0% non-contiguous), 5265/56196 blocks 
+Apr 30 11:41:51 ns1 kernel: usb-uhci.c: Detected 2 ports
+Apr 30 11:40:59 ns1 fsck: /home was not cleanly unmounted, check forced. 
+Apr 30 11:41:51 ns1 kernel: usb.c: new USB bus registered, assigned bus number 1
+Apr 30 11:41:00 ns1 fsck: /home:  
+Apr 30 11:41:51 ns1 kernel: hub.c: USB hub found
+Apr 30 11:41:00 ns1 fsck: Inode 32523, i_blocks is 680, should be 672.  FIXED. 
+Apr 30 11:41:51 ns1 kernel: hub.c: 2 ports detected
+Apr 30 11:41:51 ns1 kernel: Winbond Super-IO detection, now testing ports 3F0,370,250,4E,2E ...
+Apr 30 11:41:08 ns1 fsck: /home: 908/780288 files (1.0% non-contiguous), 200024/1560305 blocks 
+Apr 30 11:41:51 ns1 kernel: SMSC Super-IO detection, now testing Ports 2F0, 370 ...
+Apr 30 11:41:51 ns1 apmd: apmd startup succeeded
+Apr 30 11:41:08 ns1 fsck: /usr was not cleanly unmounted, check forced. 
+Apr 30 11:41:29 ns1 fsck: /usr: 51694/780288 files (0.1% non-contiguous), 240667/1560305 blocks 
+Apr 30 11:41:51 ns1 kernel: 0x378: FIFO is 16 bytes
+Apr 30 11:41:29 ns1 fsck: /var was not cleanly unmounted, check forced. 
+Apr 30 11:41:52 ns1 kernel: 0x378: writeIntrThreshold is 8
+Apr 30 11:41:52 ns1 kernel: 0x378: readIntrThreshold is 8
+Apr 30 11:41:29 ns1 fsck: Inode 6331, i_blocks is 16, should be 2.  FIXED. 
+Apr 30 11:41:29 ns1 fsck: /var: Inode 6332, i_blocks is 16, should be 2.  FIXED. 
+Apr 30 11:41:30 ns1 fsck: Inode 10373, i_blocks is 16, should be 4.  FIXED. 
+Apr 30 11:41:30 ns1 fsck: /var:  
+Apr 30 11:41:51 ns1 apmd[610]: Version 3.0final (APM BIOS 1.2, Linux driver 1.14)
+Apr 30 11:41:30 ns1 fsck: Inode 10350, i_blocks is 288, should be 278.  FIXED. 
+Apr 30 11:41:52 ns1 kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,COMPAT,EPP,ECP]
+Apr 30 11:41:30 ns1 fsck: /var: Inode 12066, i_blocks is 32, should be 20.  FIXED. 
+Apr 30 11:41:52 ns1 kernel: parport0: irq 7 detected
+Apr 30 11:41:30 ns1 fsck: /var:  
+Apr 30 11:41:30 ns1 fsck: Inode 12062, i_blocks is 674, should be 666.  FIXED. 
+Apr 30 11:41:52 ns1 apmd[610]: Charge: * * * (-1% unknown)
+Apr 30 11:41:30 ns1 fsck: /var: Inode 12357, i_blocks is 128, should be 122.  FIXED. 
+Apr 30 11:41:30 ns1 fsck: /var: Inode 12063, i_blocks is 194, should be 180.  FIXED. 
+Apr 30 11:41:30 ns1 fsck: /var: Inode 12064, i_blocks is 64, should be 60.  FIXED. 
+Apr 30 11:41:52 ns1 kernel: ip_conntrack (1013 buckets, 8104 max)
+Apr 30 11:41:30 ns1 fsck: /var:  
+Apr 30 11:41:52 ns1 kernel: PCI: Found IRQ 5 for device 01:0c.0
+Apr 30 11:41:30 ns1 fsck: Inode 14362, i_blocks is 16, should be 14.  FIXED. 
+Apr 30 11:41:52 ns1 kernel: 3c59x.c:LK1.1.13 27 Jan 2001  Donald Becker and others. http://www.scyld.com/network/vortex.html
+Apr 30 11:41:30 ns1 fsck: /var: Inode 14363, i_blocks is 16, should be 14.  FIXED. 
+Apr 30 11:41:52 ns1 kernel: See Documentation/networking/vortex.txt
+Apr 30 11:41:30 ns1 fsck: /var: Inode 14364, i_blocks is 32, should be 18.  FIXED. 
+Apr 30 11:41:52 ns1 kernel: eth0: 3Com PCI 3c905C Tornado at 0xec80,  00:b0:d0:87:85:c3, IRQ 5
+Apr 30 11:41:30 ns1 fsck: Inode 16070, i_blocks is 132, should be 118.  FIXED. 
+Apr 30 11:41:52 ns1 kernel:   product code 0000 rev 00.14 date 07-16-104
+Apr 30 11:41:30 ns1 fsck: /var:  
+Apr 30 11:41:52 ns1 kernel:   8K byte-wide RAM 5:3 Rx:Tx split, autoselect/Autonegotiate interface.
+Apr 30 11:41:30 ns1 fsck: Inode 32439, i_blocks is 2976, should be 2974.  FIXED. 
+Apr 30 11:41:52 ns1 kernel:   MII transceiver found at address 24, status 782d.
+Apr 30 11:41:52 ns1 automount[659]: starting automounter version 3.1.7, path = /misc, maptype = file, mapname = /etc/auto.misc
+Apr 30 11:41:52 ns1 autofs: autofs startup succeeded
+Apr 30 11:41:31 ns1 fsck: Inode 38163, i_blocks is 16, should be 2.  FIXED. 
+Apr 30 11:41:52 ns1 kernel:   Enabling bus-master transmits and whole-frame receives.
+Apr 30 11:41:31 ns1 fsck: /var: Inode 38169, i_blocks is 16, should be 2.  FIXED. 
+Apr 30 11:41:52 ns1 kernel: eth0: scatter/gather disabled. h/w checksums enabled
+Apr 30 11:41:33 ns1 fsck: /var: 10641/66264 files (1.1% non-contiguous), 70700/265041 blocks 
+Apr 30 11:41:52 ns1 kernel: eth0: using NWAY device table, not 8
+Apr 30 11:41:52 ns1 atd: atd startup succeeded
+Apr 30 11:41:33 ns1 rc.sysinit: Checking filesystems succeeded 
+Apr 30 11:41:34 ns1 rc.sysinit: Mounting local filesystems:  succeeded 
+Apr 30 11:41:34 ns1 rc.sysinit: Turning on process accounting succeeded 
+Apr 30 11:41:34 ns1 rc.sysinit: Turning on user and group quotas for local filesystems:  succeeded 
+Apr 30 11:41:35 ns1 rc.sysinit: Enabling swap space:  succeeded 
+Apr 30 11:41:37 ns1 init: Entering runlevel: 3 
+Apr 30 11:41:37 ns1 kudzu: Updating /etc/fstab succeeded 
+Apr 30 11:41:47 ns1 kudzu:  succeeded 
+Apr 30 11:41:47 ns1 sysctl: net.ipv4.ip_forward = 0 
+Apr 30 11:41:47 ns1 sysctl: net.ipv4.conf.all.rp_filter = 1 
+Apr 30 11:41:47 ns1 sysctl: kernel.sysrq = 0 
+Apr 30 11:41:47 ns1 network: Setting network parameters:  succeeded 
+Apr 30 11:41:48 ns1 network: Bringing up interface lo:  succeeded 
+Apr 30 11:41:48 ns1 network: Bringing up interface eth0:  succeeded 
+Apr 30 11:41:53 ns1 sshd: Starting sshd:
+Apr 30 11:41:53 ns1 automount[659]: using kernel protocol version 3
+Apr 30 11:41:54 ns1 sshd:  succeeded
+Apr 30 11:41:54 ns1 sshd: 
+Apr 30 11:41:54 ns1 rc: Starting sshd:  succeeded
+Apr 30 11:41:55 ns1 xinetd[706]: chargen disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: chargen-udp disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: time disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: time disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: daytime disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: talk disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: rsync disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: shell disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: login disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: exec disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: pop3s disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: ntalk disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: daytime-udp disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: pop2 disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: imaps disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: echo disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: finger disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: echo-udp disabled, removing
+Apr 30 11:41:55 ns1 xinetd[706]: xinetd Version 2.1.8.9pre14 started with 
+Apr 30 11:41:55 ns1 xinetd[706]: libwrap 
+Apr 30 11:41:55 ns1 xinetd[706]: options compiled in.
+Apr 30 11:41:55 ns1 xinetd[706]: Started working: 4 available services
+Apr 30 11:41:57 ns1 xinetd: xinetd startup succeeded
+Apr 30 11:41:59 ns1 sendmail: sendmail startup succeeded
+Apr 30 11:41:59 ns1 gpm: gpm startup succeeded
+Apr 30 11:42:00 ns1 crond: crond startup succeeded
+Apr 30 11:42:00 ns1 xfs: listening on port 7100 
+Apr 30 11:42:00 ns1 xfs: xfs startup succeeded
+Apr 30 11:42:01 ns1 anacron: anacron startup succeeded
+Apr 30 11:42:05 ns1 httpd: httpd startup succeeded
+Apr 30 11:42:06 ns1 squid[917]: Squid Parent: child process 918 started
+Apr 30 11:42:07 ns1 named: named startup succeeded
+Apr 30 11:42:07 ns1 named[919]: starting BIND 9.1.0 -u named
+Apr 30 11:42:07 ns1 named[919]: using 1 CPU
+Apr 30 11:42:07 ns1 named[924]: loading configuration from '/etc/named.conf'
+Apr 30 11:42:08 ns1 named[924]: the default for the 'auth-nxdomain' option is now 'no'
+Apr 30 11:42:08 ns1 named[924]: no IPv6 interfaces found
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface lo, 127.0.0.1#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0, 63.126.79.67#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:3, 63.126.79.71#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:5, 63.126.79.73#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:6, 63.126.79.75#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:7, 63.126.79.80#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:8, 63.126.79.81#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:9, 63.126.79.82#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:10, 63.126.79.83#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:14, 63.126.79.89#53
+Apr 30 11:42:08 ns1 snmpd: snmpd startup succeeded
+Apr 30 11:42:08 ns1 ucd-snmp[935]: Creating directory: /var/agentx 
+Apr 30 11:42:08 ns1 named[924]: listening on IPv4 interface eth0:15, 63.126.79.90#53
+Apr 30 11:42:09 ns1 named[924]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+Apr 30 11:42:09 ns1 ntpd[947]: ntpd 4.0.99k Mon Apr  9 14:50:09 EDT 2001 (1)
+Apr 30 11:42:09 ns1 ntpd: ntpd startup succeeded
+Apr 30 11:42:09 ns1 named[924]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+Apr 30 11:42:09 ns1 named[924]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+Apr 30 11:42:09 ns1 named[924]: listening on IPv4 interface eth0:19, 63.126.79.110#53
+Apr 30 11:42:10 ns1 named[924]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+Apr 30 11:42:10 ns1 ntpd[947]: precision = 12 usec
+Apr 30 11:42:10 ns1 named[924]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+Apr 30 11:42:10 ns1 named[924]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+Apr 30 11:42:11 ns1 ntpd[947]: frequency initialized 0.000 from /etc/ntp/drift
+Apr 30 11:42:11 ns1 smb: smbd startup succeeded
+Apr 30 11:42:11 ns1 named[924]: running
+Apr 30 11:42:11 ns1 ntpd[947]: using kernel phase-lock loop 0041
+Apr 30 11:42:11 ns1 ntpd[947]: bind() fd 8, family 2, port 123, addr 224.0.1.1, in_classd=1 flags=0 fails: Address already in use
+Apr 30 11:42:11 ns1 smb: nmbd startup succeeded
+Apr 30 11:42:12 ns1 identd: identd startup succeeded
+Apr 30 11:42:12 ns1 rsyncd[988]: rsyncd version 2.4.6 starting 
+Apr 30 16:24:11 ns1 ftpd[2377]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2380]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2378]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2379]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2381]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2382]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2383]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2384]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2385]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2386]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2389]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2387]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:11 ns1 ftpd[2388]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:35 ns1 ftpd[2377]: FTP session closed
+Apr 30 16:24:41 ns1 ftpd[2390]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:41 ns1 ftpd[2391]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:41 ns1 ftpd[2392]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:41 ns1 ftpd[2393]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:41 ns1 ftpd[2394]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:41 ns1 ftpd[2395]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:41 ns1 ftpd[2396]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:41 ns1 ftpd[2397]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:41 ns1 ftpd[2398]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:41 ns1 ftpd[2399]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 30 16:24:43 ns1 ftpd[2387]: FTP session closed
+Apr 30 16:24:43 ns1 ftpd[2380]: FTP session closed
+Apr 30 16:24:43 ns1 ftpd[2386]: FTP session closed
+Apr 30 16:24:44 ns1 ftpd[2379]: FTP session closed
+Apr 30 16:24:44 ns1 ftpd[2383]: FTP session closed
+Apr 30 16:24:44 ns1 ftpd[2388]: FTP session closed
+Apr 30 16:24:44 ns1 ftpd[2384]: FTP session closed
+Apr 30 16:24:44 ns1 ftpd[2378]: FTP session closed
+Apr 30 16:24:44 ns1 ftpd[2389]: FTP session closed
+Apr 30 16:24:44 ns1 ftpd[2382]: FTP session closed
+Apr 30 16:24:44 ns1 ftpd[2381]: FTP session closed
+Apr 30 16:24:44 ns1 ftpd[2385]: FTP session closed
+Apr 30 16:25:13 ns1 ftpd[2390]: FTP session closed
+Apr 30 16:25:13 ns1 ftpd[2391]: FTP session closed
+Apr 30 16:25:13 ns1 ftpd[2392]: FTP session closed
+Apr 30 16:25:13 ns1 ftpd[2393]: FTP session closed
+Apr 30 16:25:14 ns1 ftpd[2394]: FTP session closed
+Apr 30 16:25:14 ns1 ftpd[2395]: FTP session closed
+Apr 30 16:25:14 ns1 ftpd[2396]: FTP session closed
+Apr 30 16:25:14 ns1 ftpd[2398]: FTP session closed
+Apr 30 16:25:14 ns1 ftpd[2397]: FTP session closed
+Apr 30 16:25:14 ns1 ftpd[2399]: FTP session closed
+May  1 04:46:53 ns1 ftpd[17324]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17325]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17328]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17320]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17321]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17329]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17330]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17332]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17322]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17327]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17323]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17326]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:46:53 ns1 ftpd[17331]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17336]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17337]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17333]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17335]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17334]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17338]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17339]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17340]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17341]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:23 ns1 ftpd[17342]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 04:47:24 ns1 ftpd[17320]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17325]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17323]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17332]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17326]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17329]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17324]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17321]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17327]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17331]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17322]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17330]: FTP session closed
+May  1 04:47:32 ns1 ftpd[17328]: FTP session closed
+May  1 04:47:47 ns1 ftpd[17337]: FTP session closed
+May  1 04:47:47 ns1 ftpd[17333]: FTP session closed
+May  1 04:47:47 ns1 ftpd[17334]: FTP session closed
+May  1 04:47:47 ns1 ftpd[17336]: FTP session closed
+May  1 04:47:47 ns1 ftpd[17338]: FTP session closed
+May  1 04:47:47 ns1 ftpd[17335]: FTP session closed
+May  1 04:47:48 ns1 ftpd[17339]: FTP session closed
+May  1 04:47:48 ns1 ftpd[17340]: FTP session closed
+May  1 04:47:48 ns1 ftpd[17342]: FTP session closed
+May  1 04:47:48 ns1 ftpd[17341]: FTP session closed
+May  1 10:27:44 ns1 ftpd[21547]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 10:27:58 ns1 ftpd[21547]: ANONYMOUS FTP LOGIN FROM 61.139.42.74 [61.139.42.74], mozilla@
+May  1 10:27:59 ns1 ftpd[21547]: FTP session closed
+May  1 13:53:38 ns1 ftpd[23054]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 13:53:38 ns1 ftpd[23059]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 13:53:38 ns1 ftpd[23057]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 13:53:38 ns1 ftpd[23055]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 13:53:38 ns1 ftpd[23056]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 13:53:38 ns1 ftpd[23058]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 13:54:00 ns1 ftpd[23054]: FTP session closed
+May  1 13:54:04 ns1 ftpd[23060]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  1 13:54:05 ns1 ftpd[23055]: FTP session closed
+May  1 13:54:08 ns1 ftpd[23057]: FTP session closed
+May  1 13:54:08 ns1 ftpd[23056]: FTP session closed
+May  1 13:54:08 ns1 ftpd[23059]: FTP session closed
+May  1 13:54:08 ns1 ftpd[23058]: FTP session closed
+May  1 13:54:37 ns1 ftpd[23060]: FTP session closed
+May  2 00:49:55 ns1 ftpd[29768]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:49:55 ns1 ftpd[29766]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:49:55 ns1 ftpd[29765]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:49:55 ns1 ftpd[29763]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:49:55 ns1 ftpd[29767]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:49:55 ns1 ftpd[29764]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:20 ns1 ftpd[29763]: FTP session closed
+May  2 00:50:25 ns1 ftpd[29769]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29773]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29775]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29771]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29778]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29777]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29776]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29781]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29780]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29779]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29774]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29772]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29770]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29783]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29782]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29784]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:25 ns1 ftpd[29785]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+May  2 00:50:28 ns1 ftpd[29768]: FTP session closed
+May  2 00:50:28 ns1 ftpd[29766]: FTP session closed
+May  2 00:50:28 ns1 ftpd[29765]: FTP session closed
+May  2 00:50:28 ns1 ftpd[29764]: FTP session closed
+May  2 00:50:28 ns1 ftpd[29767]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29769]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29771]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29775]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29773]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29770]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29772]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29774]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29778]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29779]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29781]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29780]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29776]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29777]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29783]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29784]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29782]: FTP session closed
+May  2 00:50:58 ns1 ftpd[29785]: FTP session closed

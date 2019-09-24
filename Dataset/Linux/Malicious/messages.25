@@ -1,0 +1,633 @@
+Apr 21 08:51:17 ns1 syslogd 1.4-0: restart.
+Apr 21 08:51:17 ns1 syslog: syslogd startup succeeded
+Apr 21 08:51:17 ns1 kernel: klogd 1.4-0, log source = /proc/kmsg started.
+Apr 21 08:51:17 ns1 kernel: Inspecting /boot/System.map-2.4.2-2
+Apr 21 08:51:17 ns1 syslog: klogd startup succeeded
+Apr 21 08:51:17 ns1 portmap: portmap startup succeeded
+Apr 21 08:51:17 ns1 kernel: Loaded 14301 symbols from /boot/System.map-2.4.2-2.
+Apr 21 08:51:17 ns1 kernel: Symbols match kernel version 2.4.2.
+Apr 21 08:51:17 ns1 kernel: Loaded 135 symbols from 4 modules.
+Apr 21 08:51:17 ns1 kernel: Linux version 2.4.2-2 (root@porky.devel.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.1 2.96-79)) #1 Sun Apr 8 20:41:30 EDT 2001
+Apr 21 08:51:17 ns1 kernel: BIOS-provided physical RAM map:
+Apr 21 08:51:17 ns1 kernel:  BIOS-e820: 00000000000a0000 @ 0000000000000000 (usable)
+Apr 21 08:51:17 ns1 kernel:  BIOS-e820: 0000000000010000 @ 00000000000f0000 (reserved)
+Apr 21 08:51:17 ns1 kernel:  BIOS-e820: 0000000007dae000 @ 0000000000100000 (usable)
+Apr 21 08:51:17 ns1 kernel:  BIOS-e820: 0000000000052000 @ 0000000007eae000 (reserved)
+Apr 21 08:51:17 ns1 kernel:  BIOS-e820: 0000000000100000 @ 0000000007f00000 (reserved)
+Apr 21 08:51:17 ns1 kernel:  BIOS-e820: 0000000000500000 @ 00000000ffb00000 (reserved)
+Apr 21 08:51:17 ns1 kernel: On node 0 totalpages: 32430
+Apr 21 08:51:17 ns1 kernel: zone(0): 4096 pages.
+Apr 21 08:51:17 ns1 kernel: zone DMA has max 32 cached pages.
+Apr 21 08:51:17 ns1 kernel: zone(1): 28334 pages.
+Apr 21 08:51:17 ns1 kernel: zone Normal has max 221 cached pages.
+Apr 21 08:51:17 ns1 rpc.statd[500]: Version 0.3.1 Starting
+Apr 21 08:51:17 ns1 nfslock: rpc.statd startup succeeded
+Apr 21 08:51:17 ns1 kernel: zone(2): 0 pages.
+Apr 21 08:51:17 ns1 keytable: Loading keymap: 
+Apr 21 08:51:17 ns1 kernel: zone HighMem has max 1 cached pages.
+Apr 21 08:51:17 ns1 kernel: Kernel command line: auto BOOT_IMAGE=linux ro root=308 BOOT_FILE=/boot/vmlinuz-2.4.2-2
+Apr 21 08:51:17 ns1 keytable: 
+Apr 21 08:51:17 ns1 kernel: Initializing CPU#0
+Apr 21 08:51:17 ns1 keytable: Loading system font: 
+Apr 21 08:51:17 ns1 kernel: Detected 730.971 MHz processor.
+Apr 21 08:51:17 ns1 kernel: Console: colour VGA+ 80x25
+Apr 21 08:51:17 ns1 kernel: Calibrating delay loop... 1458.17 BogoMIPS
+Apr 21 08:51:17 ns1 kernel: Memory: 125148k/129720k available (1365k kernel code, 4188k reserved, 92k data, 236k init, 0k highmem)
+Apr 21 08:51:17 ns1 kernel: Dentry-cache hash table entries: 16384 (order: 5, 131072 bytes)
+Apr 21 08:51:17 ns1 kernel: Buffer-cache hash table entries: 4096 (order: 2, 16384 bytes)
+Apr 21 08:51:17 ns1 kernel: Page-cache hash table entries: 32768 (order: 6, 262144 bytes)
+Apr 21 08:51:17 ns1 kernel: Inode-cache hash table entries: 8192 (order: 4, 65536 bytes)
+Apr 21 08:51:17 ns1 kernel: VFS: Diskquotas version dquot_6.5.0 initialized
+Apr 21 08:51:17 ns1 kernel: CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0
+Apr 21 08:51:17 ns1 kernel: CPU: L1 I cache: 16K, L1 D cache: 16K
+Apr 21 08:51:17 ns1 kernel: CPU: L2 cache: 256K
+Apr 21 08:51:17 ns1 kernel: Intel machine check architecture supported.
+Apr 21 08:51:17 ns1 keytable: 
+Apr 21 08:51:17 ns1 kernel: Intel machine check reporting enabled on CPU#0.
+Apr 21 08:51:17 ns1 rc: Starting keytable:  succeeded
+Apr 21 08:51:17 ns1 kernel: CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000
+Apr 21 08:51:17 ns1 kernel: CPU: After generic, caps: 0383f9ff 00000000 00000000 00000000
+Apr 21 08:51:17 ns1 kernel: CPU: Common caps: 0383f9ff 00000000 00000000 00000000
+Apr 21 08:51:17 ns1 kernel: CPU: Intel Pentium III (Coppermine) stepping 06
+Apr 21 08:51:17 ns1 kernel: Enabling fast FPU save and restore... done.
+Apr 21 08:51:17 ns1 kernel: Enabling unmasked SIMD FPU exception support... done.
+Apr 21 08:51:17 ns1 kernel: Checking 'hlt' instruction... OK.
+Apr 21 08:51:17 ns1 kernel: POSIX conformance testing by UNIFIX
+Apr 21 08:51:17 ns1 kernel: mtrr: v1.37 (20001109) Richard Gooch (rgooch@atnf.csiro.au)
+Apr 21 08:51:17 ns1 kernel: mtrr: detected mtrr type: Intel
+Apr 21 08:51:17 ns1 kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+Apr 21 08:51:17 ns1 kernel: PCI: Using configuration type 1
+Apr 21 08:51:17 ns1 kernel: PCI: Probing PCI hardware
+Apr 21 08:51:17 ns1 kernel: PCI: Using IRQ router PIIX [8086/2410] at 00:1f.0
+Apr 21 08:51:17 ns1 kernel: isapnp: Scanning for PnP cards...
+Apr 21 08:51:17 ns1 random: Initializing random number generator:  succeeded
+Apr 21 08:51:18 ns1 kernel: isapnp: No Plug & Play device found
+Apr 21 08:51:18 ns1 kernel: Linux NET4.0 for Linux 2.4
+Apr 21 08:51:18 ns1 kernel: Based upon Swansea University Computer Society NET3.039
+Apr 21 08:51:18 ns1 kernel: Initializing RT netlink socket
+Apr 21 08:51:18 ns1 kernel: apm: BIOS version 1.2 Flags 0x03 (Driver version 1.14)
+Apr 21 08:51:18 ns1 kernel: Starting kswapd v1.8
+Apr 21 08:51:18 ns1 kernel: pty: 256 Unix98 ptys configured
+Apr 21 08:51:18 ns1 kernel: block: queued sectors max/low 83026kB/27675kB, 256 slots per queue
+Apr 21 08:51:18 ns1 kernel: RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize
+Apr 21 08:51:18 ns1 kernel: Uniform Multi-Platform E-IDE driver Revision: 6.31
+Apr 21 08:51:18 ns1 kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Apr 21 08:51:18 ns1 kernel: PIIX4: IDE controller on PCI bus 00 dev f9
+Apr 21 08:51:18 ns1 kernel: PIIX4: chipset revision 2
+Apr 21 08:51:18 ns1 kernel: PIIX4: not 100%% native mode: will probe irqs later
+Apr 21 08:51:18 ns1 kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+Apr 21 08:51:18 ns1 kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Apr 21 08:51:18 ns1 kernel: hda: IBM-DTLA-307015, ATA DISK drive
+Apr 21 08:51:18 ns1 kernel: hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive
+Apr 21 08:51:18 ns1 kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Apr 21 08:51:18 ns1 kernel: ide1 at 0x170-0x177,0x376 on irq 15
+Apr 21 08:51:18 ns1 kernel: hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=1826/255/63, UDMA(66)
+Apr 21 08:51:18 ns1 kernel: Partition check:
+Apr 21 08:51:18 ns1 kernel:  hda: hda1 hda2 < hda5 hda6 hda7 hda8 hda9 >
+Apr 21 08:51:18 ns1 kernel: Floppy drive(s): fd0 is 1.44M
+Apr 21 08:51:18 ns1 kernel: FDC 0 is a National Semiconductor PC87306
+Apr 21 08:51:18 ns1 kernel: Serial driver version 5.02 (2000-08-09) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled
+Apr 21 08:51:18 ns1 kernel: ttyS00 at 0x03f8 (irq = 4) is a 16550A
+Apr 21 08:51:18 ns1 kernel: ttyS01 at 0x02f8 (irq = 3) is a 16550A
+Apr 21 08:51:18 ns1 kernel: Real Time Clock Driver v1.10d
+Apr 21 08:51:18 ns1 kernel: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27
+Apr 21 08:51:18 ns1 kernel: md.c: sizeof(mdp_super_t) = 4096
+Apr 21 08:51:18 ns1 kernel: autodetecting RAID arrays
+Apr 21 08:51:18 ns1 kernel: autorun ...
+Apr 21 08:51:18 ns1 kernel: ... autorun DONE.
+Apr 21 08:51:18 ns1 kernel: NET4: Linux TCP/IP 1.0 for NET4.0
+Apr 21 08:51:18 ns1 kernel: IP Protocols: ICMP, UDP, TCP, IGMP
+Apr 21 08:51:18 ns1 kernel: IP: routing cache hash table of 512 buckets, 4Kbytes
+Apr 21 08:51:18 ns1 kernel: TCP: Hash tables configured (established 8192 bind 8192)
+Apr 21 08:51:18 ns1 kernel: Linux IP multicast router 0.06 plus PIM-SM
+Apr 21 08:51:18 ns1 kernel: NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.
+Apr 21 08:51:18 ns1 kernel: VFS: Mounted root (ext2 filesystem) readonly.
+Apr 21 08:51:18 ns1 kernel: Freeing unused kernel memory: 236k freed
+Apr 21 08:51:18 ns1 kernel: Adding Swap: 265032k swap-space (priority -1)
+Apr 21 08:51:18 ns1 kernel: usb.c: registered new driver usbdevfs
+Apr 21 08:51:18 ns1 kernel: usb.c: registered new driver hub
+Apr 21 08:51:18 ns1 kernel: usb-uhci.c: $Revision: 1.251 $ time 20:53:29 Apr  8 2001
+Apr 21 08:51:18 ns1 kernel: usb-uhci.c: High bandwidth mode enabled
+Apr 21 08:51:18 ns1 kernel: PCI: Found IRQ 11 for device 00:1f.2
+Apr 21 08:51:18 ns1 netfs: Mounting other filesystems:  succeeded
+Apr 21 08:51:18 ns1 kernel: PCI: Setting latency timer of device 00:1f.2 to 64
+Apr 21 08:51:18 ns1 kernel: usb-uhci.c: USB UHCI at I/O 0xff80, IRQ 11
+Apr 21 08:51:18 ns1 kernel: usb-uhci.c: Detected 2 ports
+Apr 21 08:51:18 ns1 kernel: usb.c: new USB bus registered, assigned bus number 1
+Apr 21 08:51:18 ns1 kernel: hub.c: USB hub found
+Apr 21 08:51:18 ns1 kernel: hub.c: 2 ports detected
+Apr 21 08:51:18 ns1 kernel: Winbond Super-IO detection, now testing ports 3F0,370,250,4E,2E ...
+Apr 21 08:51:18 ns1 kernel: SMSC Super-IO detection, now testing Ports 2F0, 370 ...
+Apr 21 08:51:19 ns1 kernel: 0x378: FIFO is 16 bytes
+Apr 21 08:51:19 ns1 kernel: 0x378: writeIntrThreshold is 8
+Apr 21 08:51:19 ns1 kernel: 0x378: readIntrThreshold is 8
+Apr 21 08:51:19 ns1 kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,COMPAT,EPP,ECP]
+Apr 21 08:51:19 ns1 kernel: parport0: irq 7 detected
+Apr 21 08:51:19 ns1 apmd: apmd startup succeeded
+Apr 21 08:51:19 ns1 apmd[584]: Version 3.0final (APM BIOS 1.2, Linux driver 1.14)
+Apr 21 08:51:19 ns1 apmd[584]: Charge: * * * (-1% unknown)
+Apr 21 08:51:19 ns1 kernel: ip_conntrack (1013 buckets, 8104 max)
+Apr 21 08:51:19 ns1 kernel: PCI: Found IRQ 5 for device 01:0c.0
+Apr 21 08:51:19 ns1 kernel: 3c59x.c:LK1.1.13 27 Jan 2001  Donald Becker and others. http://www.scyld.com/network/vortex.html
+Apr 21 08:51:19 ns1 kernel: See Documentation/networking/vortex.txt
+Apr 21 08:51:19 ns1 kernel: eth0: 3Com PCI 3c905C Tornado at 0xec80,  00:b0:d0:87:85:c3, IRQ 5
+Apr 21 08:51:19 ns1 kernel:   product code 0000 rev 00.14 date 07-16-104
+Apr 21 08:51:19 ns1 kernel:   8K byte-wide RAM 5:3 Rx:Tx split, autoselect/Autonegotiate interface.
+Apr 21 08:51:19 ns1 kernel:   MII transceiver found at address 24, status 782d.
+Apr 21 08:51:19 ns1 kernel:   Enabling bus-master transmits and whole-frame receives.
+Apr 21 08:51:19 ns1 kernel: eth0: scatter/gather disabled. h/w checksums enabled
+Apr 21 08:51:19 ns1 kernel: eth0: using NWAY device table, not 8
+Apr 21 08:51:01 ns1 rc.sysinit: Mounting proc filesystem:  succeeded 
+Apr 21 08:51:01 ns1 sysctl: net.ipv4.ip_forward = 0 
+Apr 21 08:51:01 ns1 sysctl: net.ipv4.conf.all.rp_filter = 1 
+Apr 21 08:51:01 ns1 sysctl: kernel.sysrq = 0 
+Apr 21 08:51:01 ns1 rc.sysinit: Configuring kernel parameters:  succeeded 
+Apr 21 08:51:01 ns1 date: Wed Apr 21 08:50:55 EDT 2004 
+Apr 21 08:51:01 ns1 rc.sysinit: Setting clock  (localtime): Wed Apr 21 08:50:55 EDT 2004 succeeded 
+Apr 21 08:51:01 ns1 rc.sysinit: Loading default keymap succeeded 
+Apr 21 08:51:01 ns1 rc.sysinit: Setting default font (lat0-sun16):  succeeded 
+Apr 21 08:51:01 ns1 rc.sysinit: Activating swap partitions:  succeeded 
+Apr 21 08:51:01 ns1 rc.sysinit: Setting hostname ns1.bkwconsulting.com:  succeeded 
+Apr 21 08:51:01 ns1 rc.sysinit: Mounting USB filesystem:  succeeded 
+Apr 21 08:51:01 ns1 rc.sysinit: Initializing USB controller (usb-uhci):  succeeded 
+Apr 21 08:51:01 ns1 fsck: /: clean, 17049/66264 files, 63472/265041 blocks 
+Apr 21 08:51:01 ns1 rc.sysinit: Checking root filesystem succeeded 
+Apr 21 08:51:01 ns1 rc.sysinit: Remounting root filesystem in read-write mode:  succeeded 
+Apr 21 08:51:02 ns1 rc.sysinit: Finding module dependencies:  succeeded 
+Apr 21 08:51:02 ns1 fsck: /boot: clean, 26/14056 files, 5265/56196 blocks 
+Apr 21 08:51:02 ns1 fsck: /home: clean, 907/780288 files, 199940/1560305 blocks 
+Apr 21 08:51:02 ns1 fsck: /usr: clean, 51693/780288 files, 240666/1560305 blocks 
+Apr 21 08:51:02 ns1 fsck: /var: clean, 10276/66264 files, 58448/265041 blocks 
+Apr 21 08:51:02 ns1 rc.sysinit: Checking filesystems succeeded 
+Apr 21 08:51:03 ns1 rc.sysinit: Mounting local filesystems:  succeeded 
+Apr 21 08:51:03 ns1 rc.sysinit: Turning on process accounting succeeded 
+Apr 21 08:51:03 ns1 rc.sysinit: Turning on user and group quotas for local filesystems:  succeeded 
+Apr 21 08:51:04 ns1 rc.sysinit: Enabling swap space:  succeeded 
+Apr 21 08:51:05 ns1 init: Entering runlevel: 3 
+Apr 21 08:51:05 ns1 kudzu: Updating /etc/fstab succeeded 
+Apr 21 08:51:16 ns1 kudzu:  succeeded 
+Apr 21 08:51:16 ns1 sysctl: net.ipv4.ip_forward = 0 
+Apr 21 08:51:16 ns1 sysctl: net.ipv4.conf.all.rp_filter = 1 
+Apr 21 08:51:16 ns1 sysctl: kernel.sysrq = 0 
+Apr 21 08:51:16 ns1 network: Setting network parameters:  succeeded 
+Apr 21 08:51:16 ns1 network: Bringing up interface lo:  succeeded 
+Apr 21 08:51:19 ns1 automount[633]: starting automounter version 3.1.7, path = /misc, maptype = file, mapname = /etc/auto.misc
+Apr 21 08:51:19 ns1 autofs: autofs startup succeeded
+Apr 21 08:51:16 ns1 network: Bringing up interface eth0:  succeeded 
+Apr 21 08:51:19 ns1 atd: atd startup succeeded
+Apr 21 08:51:20 ns1 sshd: Starting sshd:
+Apr 21 08:51:20 ns1 automount[633]: using kernel protocol version 3
+Apr 21 08:51:21 ns1 sshd:  succeeded
+Apr 21 08:51:21 ns1 sshd: 
+Apr 21 08:51:21 ns1 rc: Starting sshd:  succeeded
+Apr 21 08:51:22 ns1 xinetd[680]: chargen disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: chargen-udp disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: time disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: time disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: daytime disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: talk disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: rsync disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: shell disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: login disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: exec disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: pop3s disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: ntalk disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: daytime-udp disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: pop2 disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: imaps disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: echo disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: finger disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: echo-udp disabled, removing
+Apr 21 08:51:22 ns1 xinetd[680]: xinetd Version 2.1.8.9pre14 started with 
+Apr 21 08:51:22 ns1 xinetd[680]: libwrap 
+Apr 21 08:51:22 ns1 xinetd[680]: options compiled in.
+Apr 21 08:51:22 ns1 xinetd[680]: Started working: 4 available services
+Apr 21 08:51:24 ns1 xinetd: xinetd startup succeeded
+Apr 21 08:51:25 ns1 sendmail: sendmail startup succeeded
+Apr 21 08:51:25 ns1 gpm: gpm startup succeeded
+Apr 21 08:51:26 ns1 crond: crond startup succeeded
+Apr 21 08:51:27 ns1 xfs: xfs startup succeeded
+Apr 21 08:51:27 ns1 xfs: listening on port 7100 
+Apr 21 08:51:27 ns1 anacron: anacron startup succeeded
+Apr 21 08:51:30 ns1 httpd: httpd startup succeeded
+Apr 21 08:51:30 ns1 squid[899]: Squid Parent: child process 900 started
+Apr 21 08:51:30 ns1 named: named startup succeeded
+Apr 21 08:51:30 ns1 named[909]: starting BIND 9.1.0 -u named
+Apr 21 08:51:30 ns1 named[909]: using 1 CPU
+Apr 21 08:51:31 ns1 named[914]: loading configuration from '/etc/named.conf'
+Apr 21 08:51:31 ns1 named[914]: the default for the 'auth-nxdomain' option is now 'no'
+Apr 21 08:51:31 ns1 named[914]: no IPv6 interfaces found
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface lo, 127.0.0.1#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0, 63.126.79.67#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:3, 63.126.79.71#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:5, 63.126.79.73#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:6, 63.126.79.75#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:7, 63.126.79.80#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:8, 63.126.79.81#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:9, 63.126.79.82#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:10, 63.126.79.83#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:14, 63.126.79.89#53
+Apr 21 08:51:31 ns1 named[914]: listening on IPv4 interface eth0:15, 63.126.79.90#53
+Apr 21 08:51:31 ns1 ucd-snmp[926]: Creating directory: /var/agentx 
+Apr 21 08:51:32 ns1 snmpd: snmpd startup succeeded
+Apr 21 08:51:32 ns1 named[914]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+Apr 21 08:51:32 ns1 named[914]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+Apr 21 08:51:32 ns1 named[914]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+Apr 21 08:51:32 ns1 named[914]: listening on IPv4 interface eth0:19, 63.126.79.110#53
+Apr 21 08:51:32 ns1 named[914]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+Apr 21 08:51:32 ns1 named[914]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+Apr 21 08:51:32 ns1 named[914]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+Apr 21 08:51:32 ns1 named[914]: running
+Apr 21 08:51:32 ns1 ntpd: ntpd startup succeeded
+Apr 21 08:51:32 ns1 ntpd[937]: ntpd 4.0.99k Mon Apr  9 14:50:09 EDT 2001 (1)
+Apr 21 08:51:32 ns1 ntpd[937]: precision = 11 usec
+Apr 21 08:51:32 ns1 ntpd[937]: using kernel phase-lock loop 0040
+Apr 21 08:51:32 ns1 ntpd[937]: Un-parsable frequency in /etc/ntp/drift
+Apr 21 08:51:33 ns1 ntpd[937]: bind() fd 8, family 2, port 123, addr 224.0.1.1, in_classd=1 flags=0 fails: Address already in use
+Apr 21 08:51:33 ns1 ntpd[937]: ...multicast address 224.0.1.1 using wildcard socket
+Apr 21 08:51:33 ns1 smb: smbd startup succeeded
+Apr 21 08:51:34 ns1 smb: nmbd startup succeeded
+Apr 21 08:51:34 ns1 identd: Generating ident key:  succeeded
+Apr 21 08:51:34 ns1 identd: identd startup succeeded
+Apr 21 08:51:34 ns1 rsyncd[983]: rsyncd version 2.4.6 starting 
+Apr 21 10:48:34 ns1 login(pam_unix)[986]: session opened for user tguy by LOGIN(uid=0)
+Apr 21 10:48:34 ns1  -- tguy[986]: LOGIN ON tty1 BY tguy
+Apr 21 10:48:44 ns1 su(pam_unix)[1089]: session opened for user root by tguy(uid=500)
+Apr 21 10:48:54 ns1 httpd: httpd startup succeeded
+Apr 21 10:50:08 ns1 httpd: httpd shutdown succeeded
+Apr 21 10:50:13 ns1 httpd: httpd startup succeeded
+Apr 21 10:54:20 ns1 su(pam_unix)[1089]: session closed for user root
+Apr 21 10:54:21 ns1 login(pam_unix)[986]: session closed for user tguy
+Apr 21 18:08:38 ns1 ftpd[1805]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:08:38 ns1 ftpd[1809]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:08:38 ns1 ftpd[1808]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:08:38 ns1 ftpd[1807]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:08:38 ns1 ftpd[1806]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:08:38 ns1 ftpd[1810]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1811]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1812]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1813]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1816]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1815]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1814]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1817]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1820]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1819]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1818]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1821]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1822]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1824]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1825]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1823]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1826]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:07 ns1 ftpd[1827]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 21 18:09:17 ns1 ftpd[1805]: FTP session closed
+Apr 21 18:09:25 ns1 ftpd[1808]: FTP session closed
+Apr 21 18:09:25 ns1 ftpd[1810]: FTP session closed
+Apr 21 18:09:25 ns1 ftpd[1809]: FTP session closed
+Apr 21 18:09:25 ns1 ftpd[1807]: FTP session closed
+Apr 21 18:09:25 ns1 ftpd[1806]: FTP session closed
+Apr 21 18:09:39 ns1 ftpd[1811]: FTP session closed
+Apr 21 18:09:39 ns1 ftpd[1812]: FTP session closed
+Apr 21 18:09:39 ns1 ftpd[1813]: FTP session closed
+Apr 21 18:09:39 ns1 ftpd[1815]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1817]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1816]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1821]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1822]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1818]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1814]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1819]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1820]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1824]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1825]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1823]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1827]: FTP session closed
+Apr 21 18:09:40 ns1 ftpd[1826]: FTP session closed
+Apr 22 06:43:19 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 06:43:19 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 06:43:20 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 06:43:20 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 06:43:21 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 06:48:43 ns1 ftpd[4032]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4033]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4038]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4037]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4039]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4040]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4031]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4030]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4036]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4035]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4034]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4042]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:48:43 ns1 ftpd[4041]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:08 ns1 ftpd[4030]: FTP session closed
+Apr 22 06:49:13 ns1 ftpd[4044]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:13 ns1 ftpd[4045]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:13 ns1 ftpd[4046]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:13 ns1 ftpd[4043]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:13 ns1 ftpd[4048]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:13 ns1 ftpd[4047]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:13 ns1 ftpd[4050]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:13 ns1 ftpd[4051]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:13 ns1 ftpd[4049]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:13 ns1 ftpd[4052]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 06:49:16 ns1 ftpd[4031]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4038]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4034]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4042]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4040]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4036]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4037]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4041]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4035]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4033]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4032]: FTP session closed
+Apr 22 06:49:16 ns1 ftpd[4039]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4046]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4044]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4045]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4048]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4043]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4051]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4050]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4047]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4049]: FTP session closed
+Apr 22 06:49:45 ns1 ftpd[4052]: FTP session closed
+Apr 22 08:08:19 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 08:08:19 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 08:08:20 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 08:08:20 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 08:08:21 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 08:08:21 ns1 rpc.statd[500]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Apr 22 10:50:39 ns1 login(pam_unix)[1237]: session opened for user tguy by LOGIN(uid=0)
+Apr 22 10:50:40 ns1  -- tguy[1237]: LOGIN ON tty1 BY tguy
+Apr 22 10:50:43 ns1 su(pam_unix)[4905]: session opened for user root by tguy(uid=500)
+Apr 22 10:52:58 ns1 httpd: httpd shutdown succeeded
+Apr 22 10:53:04 ns1 httpd: httpd startup succeeded
+Apr 22 10:53:46 ns1 httpd: httpd shutdown failed
+Apr 22 10:53:47 ns1 httpd: httpd startup succeeded
+Apr 22 10:54:32 ns1 su(pam_unix)[4905]: session closed for user root
+Apr 22 10:54:34 ns1 login(pam_unix)[1237]: session closed for user tguy
+Apr 22 13:48:57 ns1 ftpd[5281]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5277]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5276]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5275]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5273]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5274]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5271]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5270]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5269]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5280]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5278]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5272]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:48:57 ns1 ftpd[5279]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:49:27 ns1 ftpd[5283]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:49:27 ns1 ftpd[5282]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:49:27 ns1 ftpd[5284]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:49:27 ns1 ftpd[5285]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:49:27 ns1 ftpd[5286]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:49:27 ns1 ftpd[5287]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:49:27 ns1 ftpd[5289]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:49:27 ns1 ftpd[5288]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 13:49:28 ns1 ftpd[5275]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5277]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5280]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5270]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5276]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5271]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5269]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5273]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5279]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5278]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5281]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5272]: FTP session closed
+Apr 22 13:49:36 ns1 ftpd[5274]: FTP session closed
+Apr 22 13:49:51 ns1 ftpd[5283]: FTP session closed
+Apr 22 13:49:51 ns1 ftpd[5284]: FTP session closed
+Apr 22 13:49:51 ns1 ftpd[5282]: FTP session closed
+Apr 22 13:49:51 ns1 ftpd[5285]: FTP session closed
+Apr 22 13:49:51 ns1 ftpd[5286]: FTP session closed
+Apr 22 13:49:51 ns1 ftpd[5287]: FTP session closed
+Apr 22 13:49:51 ns1 ftpd[5289]: FTP session closed
+Apr 22 13:49:51 ns1 ftpd[5288]: FTP session closed
+Apr 22 22:44:26 ns1 ftpd[6174]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:26 ns1 ftpd[6175]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:26 ns1 ftpd[6176]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:29 ns1 ftpd[6179]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:29 ns1 ftpd[6180]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:29 ns1 ftpd[6178]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:29 ns1 ftpd[6177]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:56 ns1 ftpd[6169]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:56 ns1 ftpd[6173]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:56 ns1 ftpd[6173]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:56 ns1 ftpd[6172]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:56 ns1 ftpd[6172]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:56 ns1 ftpd[6171]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:56 ns1 ftpd[6171]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:56 ns1 ftpd[6170]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:56 ns1 ftpd[6170]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:56 ns1 ftpd[6169]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:56 ns1 ftpd[6168]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:56 ns1 ftpd[6168]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:59 ns1 ftpd[6182]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:59 ns1 ftpd[6185]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:59 ns1 ftpd[6185]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:59 ns1 ftpd[6182]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:59 ns1 ftpd[6184]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:59 ns1 ftpd[6184]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:59 ns1 ftpd[6183]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:59 ns1 ftpd[6183]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:59 ns1 ftpd[6181]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:59 ns1 ftpd[6181]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:59 ns1 ftpd[6186]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:59 ns1 ftpd[6186]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:59 ns1 ftpd[6187]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:59 ns1 ftpd[6187]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:59 ns1 ftpd[6188]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:59 ns1 ftpd[6188]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:44:59 ns1 ftpd[6189]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:44:59 ns1 ftpd[6189]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:45:00 ns1 ftpd[6190]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 22 22:45:00 ns1 ftpd[6190]: getpeername (in.ftpd): Transport endpoint is not connected
+Apr 22 22:45:07 ns1 ftpd[6174]: lost connection to 66-190-88-54.cpe.ga.charter.com [66.190.88.54]
+Apr 22 22:45:07 ns1 ftpd[6176]: lost connection to 66-190-88-54.cpe.ga.charter.com [66.190.88.54]
+Apr 22 22:45:07 ns1 ftpd[6175]: lost connection to 66-190-88-54.cpe.ga.charter.com [66.190.88.54]
+Apr 22 22:45:07 ns1 ftpd[6176]: FTP session closed
+Apr 22 22:45:07 ns1 ftpd[6175]: FTP session closed
+Apr 22 22:45:07 ns1 ftpd[6174]: FTP session closed
+Apr 22 22:45:15 ns1 ftpd[6179]: lost connection to 66-190-88-54.cpe.ga.charter.com [66.190.88.54]
+Apr 22 22:45:15 ns1 ftpd[6179]: FTP session closed
+Apr 22 22:45:16 ns1 ftpd[6180]: lost connection to 66-190-88-54.cpe.ga.charter.com [66.190.88.54]
+Apr 22 22:45:16 ns1 ftpd[6177]: lost connection to 66-190-88-54.cpe.ga.charter.com [66.190.88.54]
+Apr 22 22:45:16 ns1 ftpd[6178]: lost connection to 66-190-88-54.cpe.ga.charter.com [66.190.88.54]
+Apr 22 22:45:16 ns1 ftpd[6180]: FTP session closed
+Apr 22 22:45:16 ns1 ftpd[6177]: FTP session closed
+Apr 22 22:45:16 ns1 ftpd[6178]: FTP session closed
+Apr 24 05:51:04 ns1 ftpd[14543]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14544]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14549]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14548]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14547]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14546]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14545]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14550]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14553]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14552]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14551]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14554]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:05 ns1 ftpd[14555]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:34 ns1 ftpd[14558]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:34 ns1 ftpd[14557]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:34 ns1 ftpd[14556]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:35 ns1 ftpd[14559]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:36 ns1 ftpd[14560]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:36 ns1 ftpd[14561]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:37 ns1 ftpd[14563]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:37 ns1 ftpd[14562]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:37 ns1 ftpd[14564]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:37 ns1 ftpd[14565]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:42 ns1 ftpd[14543]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14544]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14544]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14547]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14547]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14551]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14551]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14546]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14546]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14550]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14550]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14555]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14555]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14549]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14549]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14545]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14545]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14548]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14548]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14554]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14552]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14553]: lost connection to 61.243.187.40 [61.243.187.40]
+Apr 24 05:51:42 ns1 ftpd[14554]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14553]: FTP session closed
+Apr 24 05:51:42 ns1 ftpd[14552]: FTP session closed
+Apr 24 05:51:52 ns1 ftpd[14568]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 05:51:59 ns1 ftpd[14557]: FTP session closed
+Apr 24 05:51:59 ns1 ftpd[14558]: FTP session closed
+Apr 24 05:51:59 ns1 ftpd[14556]: FTP session closed
+Apr 24 05:51:59 ns1 ftpd[14559]: FTP session closed
+Apr 24 05:52:00 ns1 ftpd[14560]: FTP session closed
+Apr 24 05:52:01 ns1 ftpd[14561]: FTP session closed
+Apr 24 05:52:01 ns1 ftpd[14563]: FTP session closed
+Apr 24 05:52:02 ns1 ftpd[14562]: FTP session closed
+Apr 24 05:52:02 ns1 ftpd[14564]: FTP session closed
+Apr 24 05:52:02 ns1 ftpd[14565]: FTP session closed
+Apr 24 05:52:08 ns1 ftpd[14568]: FTP session closed
+Apr 24 18:49:09 ns1 ftpd[18359]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:09 ns1 ftpd[18360]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:09 ns1 ftpd[18361]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:09 ns1 ftpd[18362]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:09 ns1 ftpd[18363]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:09 ns1 ftpd[18364]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:09 ns1 ftpd[18365]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18366]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18367]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18368]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18369]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18370]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18371]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18372]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18373]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18374]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18375]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18376]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18377]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18378]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18379]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18380]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:10 ns1 ftpd[18381]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 18:49:26 ns1 ftpd[18359]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18363]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18360]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18362]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18365]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18364]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18367]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18369]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18368]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18371]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18370]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18366]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18361]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18374]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18372]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18373]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18375]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18376]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18377]: FTP session closed
+Apr 24 18:49:34 ns1 ftpd[18378]: FTP session closed
+Apr 24 18:49:35 ns1 ftpd[18379]: FTP session closed
+Apr 24 18:49:35 ns1 ftpd[18380]: FTP session closed
+Apr 24 18:49:35 ns1 ftpd[18381]: FTP session closed
+Apr 24 21:08:33 ns1 ftpd[18539]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18538]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18540]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18537]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18535]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18534]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18543]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18542]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18536]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18544]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18541]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:33 ns1 ftpd[18545]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:34 ns1 ftpd[18546]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:08:50 ns1 ftpd[18536]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18540]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18535]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18534]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18538]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18543]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18541]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18537]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18539]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18542]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18544]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18545]: FTP session closed
+Apr 24 21:08:58 ns1 ftpd[18546]: FTP session closed
+Apr 24 21:09:03 ns1 ftpd[18547]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:09:03 ns1 ftpd[18548]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:09:03 ns1 ftpd[18549]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:09:03 ns1 ftpd[18550]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:09:03 ns1 ftpd[18551]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 21:09:28 ns1 ftpd[18549]: FTP session closed
+Apr 24 21:09:28 ns1 ftpd[18551]: FTP session closed
+Apr 24 21:09:28 ns1 ftpd[18550]: FTP session closed
+Apr 24 21:09:42 ns1 ftpd[18547]: FTP session closed
+Apr 24 21:09:42 ns1 ftpd[18548]: FTP session closed
+Apr 24 22:01:25 ns1 ftpd[19267]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 22:01:25 ns1 ftpd[19265]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 22:01:25 ns1 ftpd[19266]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 22:01:25 ns1 ftpd[19272]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 22:01:25 ns1 ftpd[19271]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 22:01:25 ns1 ftpd[19270]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 22:01:25 ns1 ftpd[19273]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 22:01:28 ns1 ftpd[19269]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 22:01:28 ns1 ftpd[19268]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Apr 24 22:01:50 ns1 ftpd[19265]: FTP session closed
+Apr 24 22:01:50 ns1 ftpd[19267]: FTP session closed
+Apr 24 22:01:50 ns1 ftpd[19266]: FTP session closed
+Apr 24 22:01:50 ns1 ftpd[19271]: FTP session closed
+Apr 24 22:01:51 ns1 ftpd[19270]: FTP session closed
+Apr 24 22:01:51 ns1 ftpd[19272]: FTP session closed
+Apr 24 22:01:51 ns1 ftpd[19273]: FTP session closed
+Apr 24 22:01:52 ns1 ftpd[19269]: FTP session closed
+Apr 24 22:01:52 ns1 ftpd[19268]: FTP session closed
