@@ -1,0 +1,91 @@
+{
+  "_index": "winlogbeat-7.2.0-2019.06.27",
+  "_type": "_doc",
+  "_id": "nSCRmGsB43LBDzWPK7s5",
+  "_version": 1,
+  "_score": null,
+  "_source": {
+    "ecs": {
+      "version": "1.0.0"
+    },
+    "winlog": {
+      "task": "",
+      "event_data": {
+        "Target": "ldap/jmon-test-dc.jdeploy.local/jdeploy.local@JDEPLOY.LOCAL"
+      },
+      "provider_name": "LsaSrv",
+      "opcode": "Info",
+      "provider_guid": "{199FE037-2B82-40A9-82AC-E1D46C792B99}",
+      "user": {
+        "domain": "NT AUTHORITY",
+        "type": "User",
+        "identifier": "S-1-5-18",
+        "name": "SYSTEM"
+      },
+      "api": "wineventlog",
+      "record_id": 3599,
+      "event_id": 40961,
+      "channel": "System",
+      "computer_name": "JMon-Test-WEC.jdeploy.local",
+      "process": {
+        "pid": 608,
+        "thread": {
+          "id": 1636
+        }
+      }
+    },
+    "@timestamp": "2019-06-27T10:52:32.313Z",
+    "@version": "1",
+    "agent": {
+      "hostname": "JMon-Test-WEC",
+      "version": "7.2.0",
+      "type": "winlogbeat",
+      "id": "f97a1638-a906-4023-87ca-44f6b32d7fc6",
+      "ephemeral_id": "e31449fa-4445-4d6d-a098-faf4edd480ef"
+    },
+    "log": {
+      "level": "warning"
+    },
+    "tags": [
+      "winlogbeat",
+      "beats_input_codec_plain_applied"
+    ],
+    "host": {
+      "hostname": "JMon-Test-WEC",
+      "architecture": "x86_64",
+      "os": {
+        "kernel": "10.0.14393.576 (rs1_release_inmarket.161208-2252)",
+        "build": "14393.576",
+        "family": "windows",
+        "version": "10.0",
+        "platform": "windows",
+        "name": "Windows Server 2016 Standard"
+      },
+      "id": "200e0fec-4b7f-4d43-814d-ac356b39415e",
+      "name": "JMon-Test-WEC"
+    },
+    "event": {
+      "kind": "event",
+      "created": "2019-06-27T10:52:34.206Z",
+      "code": 40961
+    },
+    "message": "The Security System could not establish a secured connection with the server ldap/jmon-test-dc.jdeploy.local/jdeploy.local@JDEPLOY.LOCAL. No authentication protocol was available.",
+    "hours_mins": "1052"
+  },
+  "fields": {
+    "@timestamp": [
+      "2019-06-27T10:52:32.313Z"
+    ],
+    "event.created": [
+      "2019-06-27T10:52:34.206Z"
+    ]
+  },
+  "highlight": {
+    "winlog.channel": [
+      "@kibana-highlighted-field@System@/kibana-highlighted-field@"
+    ]
+  },
+  "sort": [
+    1561632752313
+  ]
+}

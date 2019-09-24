@@ -1,0 +1,2001 @@
+authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ check pass user unknown
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ authentication failure logname uid euid tty ruser rhost
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from  ---bflonyadelphianet at fri jun   
+ connection from  ---bflonyadelphianet at fri jun   
+ connection from  ---bflonyadelphianet at fri jun   
+ connection from  ---bflonyadelphianet at fri jun   
+ connection from  ---bflonyadelphianet at fri jun   
+ connection from  ---bflonyadelphianet at fri jun   
+ connection from  ---bflonyadelphianet at fri jun   
+ connection from  ---bflonyadelphianet at fri jun   
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user test by uid
+ session closed for user test
+ connection from  lns-vlq--tou----adslproxadnet at fri jun   
+ connection from  lns-vlq--tou----adslproxadnet at fri jun   
+ connection from  lns-vlq--tou----adslproxadnet at fri jun   
+ connection from  lns-vlq--tou----adslproxadnet at fri jun   
+ connection from  lns-vlq--tou----adslproxadnet at fri jun   
+ connection from  lns-vlq--tou----adslproxadnet at fri jun   
+ connection from  lns-vlq--tou----adslproxadnet at fri jun   
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ connection from  lns-vlq--tou----adslproxadnet at sat jun   
+ user unknown timed out after  seconds at sat jun   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ cupsd shutdown succeeded
+ cupsd startup succeeded
+ restart
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ connection from   at mon jun   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ received snmp packets from 
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ connection from   at fri jun   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ connection from   at sat jun   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ cupsd shutdown succeeded
+ cupsd startup succeeded
+ restart
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ connection from   at wed jun   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ permission denied in replay cache code
+ kerberos authentication failed
+ permission denied in replay cache code
+ kerberos authentication failed
+ permission denied in replay cache code
+ kerberos authentication failed
+ permission denied in replay cache code
+ kerberos authentication failed
+ permission denied in replay cache code
+ kerberos authentication failed
+ permission denied in replay cache code
+ kerberos authentication failed
+ permission denied in replay cache code
+ permission denied in replay cache code
+ software caused connection abort
+ kerberos authentication failed
+ kerberos authentication failed
+ kerberos authentication failed
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ software caused connection abort
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ kerberos authentication failed
+ software caused connection abort
+ software caused connection abort
+ kerberos authentication failed
+ kerberos authentication failed
+ kerberos authentication failed
+ kerberos authentication failed
+ session opened for user test by uid
+ session opened for user test by uid
+ session opened for user test by uid
+ session opened for user test by uid
+ session opened for user test by uid
+ session opened for user test by uid
+ session opened for user test by uid
+ session opened for user test by uid
+ session closed for user test
+ session closed for user test
+ session opened for user test by uid
+ session opened for user test by uid
+ session closed for user test
+ session closed for user test
+ session closed for user test
+ session closed for user test
+ session closed for user test
+ session closed for user test
+ session closed for user test
+ session closed for user test
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ session opened for user test by uid
+ session closed for user test
+ session opened for user test by uid
+ session closed for user test
+ session opened for user test by uid
+ session closed for user test
+ session opened for user test by uid
+ session closed for user test
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ session opened for user test by uid
+ session opened for user test by uid
+ session closed for user test
+ session opened for user test by uid
+ session closed for user test
+ session opened for user test by uid
+ session closed for user test
+ session closed for user test
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user test by uid
+ session opened for user test by uid
+ session opened for user test by uid
+ session opened for user test by uid
+ session closed for user test
+ session closed for user test
+ session closed for user test
+ session closed for user test
+ session opened for user test by uid
+ session closed for user test
+ session opened for user test by uid
+ session opened for user test by uid
+ session opened for user test by uid
+ session closed for user test
+ session closed for user test
+ session closed for user test
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ cupsd shutdown succeeded
+ cupsd startup succeeded
+ restart
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ connection from  shinterxioninodeat at sun jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ connection from  adsl----dslmtrypacbellnet at mon jul   
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ connection from   at wed jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ session opened for user test by uid
+ session opened for user test by uid
+ session closed for user test
+ session opened for user test by uid
+ session closed for user test
+ session closed for user test
+ session opened for user test by uid
+ session opened for user test by uid
+ session closed for user test
+ session opened for user test by uid
+ session closed for user test
+ session closed for user test
+ 
+ auto-detected intellimouse ps/
+ session opened for user root by loginuid
+ root login on tty
+ session closed for user root
+ removing device node '/udev/vcsa'
+ removing device node '/udev/vcs'
+ creating device node '/udev/vcs'
+ creating device node '/udev/vcsa'
+ removing device node '/udev/vcs'
+ removing device node '/udev/vcsa'
+ creating device node '/udev/vcs'
+ creating device node '/udev/vcsa'
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from  hostmaximumaspcom at sat jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ cupsd shutdown succeeded
+ cupsd startup succeeded
+ restart
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from  dsl----arcor-ipnet at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ couldn't authenticate user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ session opened for user test by uid
+ session opened for user test by uid
+ session closed for user test
+ session closed for user test
+ session opened for user test by uid
+ session closed for user test
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from   at sat jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ cupsd shutdown succeeded
+ cupsd startup succeeded
+ restart
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from  aml-sfh-badslwanadoonl at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  hosttopspotnet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  dsl-chn-static-touchtelindianet at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from  ---dslin-addrzencouk at sun jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ check pass user unknown
+ authentication failure logname uid euid tty ruser rhost
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ connection from   at thu jul   
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ connection from   at fri jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ anonymous ftp login from , anonymous
+ anonymous ftp login from , anonymous
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ cupsd shutdown succeeded
+ cupsd startup succeeded
+ restart
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ connection from   at sun jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ notify question section contains no soa
+ transport endpoint is not connected
+ transport endpoint is not connected
+ connection reset by peer
+ transport endpoint is not connected
+ connection reset by peer
+ transport endpoint is not connected
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ connection from   at mon jul   
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ connection from   at tue jul   
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ authentication failure logname uid euid tty ruser rhost user
+ session opened for user cyrus by uid
+ session closed for user cyrus
+ alert exited abnormally with []
+ session opened for user news by uid
+ session closed for user news
+ connection from   at wed jul   
+ restart
+ syslogd startup succeeded
+ klogd , log source /proc/kmsg started
+ linux version - bhcompile@bugsbuildredhatcom gcc version   red hat linux - # sat may   edt 
+ bios-provided physical ram map
+  - a usable
+ f -  reserved
+  - eae usable
+ eae -  reserved
+ ffb -  reserved
+ mb highmem available
+ mb lowmem available
+ zapping low mappings
+ klogd startup succeeded
+ 
+  pages, lifo batch
+  pages, lifo batch
+ irqbalance startup succeeded
+  pages, lifo batch
+ dmi  present
+ acpi disabled because your bios is from  and too old
+ you can enable it with acpi
+ built  zonelists
+ ro root rhgb quiet
+ mapped g/g trampoline to ffff
+ initializing cpu#
+ cpu  irqstacks, hard soft
+ portmap startup succeeded
+  bytes
+ detected  mhz processor
+ version  starting
+ using tsc for high-res timesource
+ rpcstatd startup succeeded
+ colour vga+ x
+ k/k available k kernel code, k reserved, k data, k init, k highmem
+ calibrating delay loop  bogomips
+ security scaffold v initialized
+ initializing
+ starting in permissive mode
+ there is already a security framework initialized, register_security failed
+ failure registering capabilities with the kernel
+ registering secondary module capability
+ capability lsm initialized
+ rpcidmapd startup succeeded
+ ,  bytes
+ ,  bytes
+ ,  bytes
+ k
+ k
+ intel machine check architecture supported
+ intel machine check reporting enabled on cpu#
+ intel pentium iii coppermine stepping 
+ enabling fast fpu save and restore done
+ enabling unmasked simd fpu exception support done
+ checking 'hlt' instruction ok
+ succeeded
+ posix conformance testing by unifix
+ registered protocol family 
+ pci bios revision  entry at xfcce, last bus
+ using configuration type 
+ v 
+ subsystem revision 
+ interpreter disabled
+ linux plug and play support v c adam belay
+ succeeded
+ registered new driver usbfs
+ registered new driver hub
+ acpi tables contain no pci irq routing entries
+ invalid acpi-pci irq routing table
+ probing pci hardware
+ probing pci hardware bus 
+ transparent bridge - e
+ using irq router piix/ich [/] at f
+ bios version  flags x driver version ac
+ initializing netlink socket disabled
+ kernelcore_uses_pid 
+ hci daemon ver  started
+ hcid startup succeeded
+ initialized
+ succeeded
+ sdpd startup succeeded
+ sdpd v started
+ total hugetlb memory allocated, 
+ succeeded
+ disk quotas dquot_
+  order ,  bytes
+ registering netfilter hooks
+ initializing cryptographic api
+ 
+ scanning for pnp cards
+ no plug & play device found
+ real time clock driver v
+ linux agpgart interface v c dave jones
+ 
