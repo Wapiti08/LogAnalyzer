@@ -33,6 +33,10 @@
 # output layer:  a standard multinomial logistic function to represent Pr[mt = ki|w]
 
 
+'''
+This version is to modify the model update problem
+'''
+
 import pandas as pd
 from keras.models import Sequential
 import keras
@@ -48,6 +52,7 @@ import tensorflow as tf
 import joblib
 import os
 from sklearn.metrics import mean_squared_error
+from collections import Counter
 
 # =================== build the LSTM part for the first model DeepLog ============================
 
@@ -59,16 +64,16 @@ def load_value_vector(filename):
 
 
 # function to transfer log key into EventId
-def key_to_EventId(df):
+def key_to_EventId(df, dict_filename):
     df_log_trans = df.copy()
     log_key_sequence = df_log_trans['log key']
+    # log_key_sequence = list(log_key_sequence)
     # get the unique list
-    log_key_sequence = set(log_key_sequence)
-    items = list(log_key_sequence)
+    items = set(log_key_sequence)
     # define the total number of log keys
     K = None
     K = len(items)
-    print("the length of log_key_sequence is:", len(items))
+    print("the length of unique log_key_sequence is:", K)
     key_name_dict = {}
 
     for i, item in enumerate(items):
@@ -77,31 +82,36 @@ def key_to_EventId(df):
         for j in range(len(log_key_sequence)):
             if log_key_sequence[j] == item:
                 name = 'E' + str(i)
-                # log_key_sequence[j]='k'+str(i)
-                key_name_dict[name] = log_key_sequence[j].strip('\n')
-    joblib.dump(key_name_dict,'path_key_name_dict.pkl')
+                # we do not replace the string using Exx in the function
+                key_name_dict[name] = item.strip('\n')
+
+    joblib.dump(key_name_dict, dict_filename)
 
     return log_key_sequence, key_name_dict, K
 
 
-# function to replace the log key to eventID in a log key sequence
-def transform_key_k(log_key_sequence, key_name_dict):
-    while set(log_key_sequence) == set(key_name_dict.values()):
-        for key, value in key_name_dict.items():
-            for x in log_key_sequence:
+# function to replace the log key event to eventID (in a log key sequence)
+def transform_key_k(log_key_sequence, dict):
+    print("the length of sequence is {} and the length of dict is {}".format\
+              (len(set(log_key_sequence)), len(set(dict.values()))))
+    # while set(log_key_sequence) == set(dict.values()):
+    for key, value in dict.items():
+        for x in log_key_sequence:
+            # transform the set type to list type
+            log_key_sequence = list(log_key_sequence)
+            if value == x:
+                log_key_sequence[log_key_sequence.index(x)] = str(key)
+            else:
+                continue
+    return log_key_sequence
 
-                if value == x:
 
-                    log_key_sequence[log_key_sequence.index(x)] = str(key)
-                else:
-                    continue
-        return log_key_sequence
-
-# function to filter E in a str and get the sequence with 3:1
+# function to filter E in a str and get the sequence with (history length): 1
 def get_train(log_key_sequence_str):
-    #     # we have the sequence of log keys
-    #     seq = np.array(log_key_sequence)
-    # divide the log sequence into 4 for every unit
+    '''
+    :param log_key_sequence_str: E23,E24,E11,E23....
+    '''
+    # replace the 'E' in eventID to ''
     tokens = log_key_sequence_str.split(' ')
     for i in range(len(tokens)):
         tokens[i] = tokens[i].replace('E', '')
@@ -172,7 +182,7 @@ def model_predict(model, x_test, y_test):
     errors = None
     # predict the x_test
     Y_pred = model.predict(x_test, verbose=0)
-    errors = mean_squared_error(Y_pred, y_test)
+    errors = mean_squared_error(y_test, Y_pred)
     print("the errors are:",errors)
     # for i in range(Y_pred.shape[1]):
         # print("the index of predicted one_hot_labels {} are: {}".format(Y_pred[i],np.argmax(Y_pred[i])))
@@ -181,6 +191,7 @@ def model_predict(model, x_test, y_test):
 def model_predict_trace(model, x_test, y_test, key_name_dict):
     anomaly_log_keys = []
     y_pred = model.predict(x_test, verbose = 0)
+    # get the index (we use the one-hot encoder for y)
     yhat = []
     for i in range(y_pred.shape[0]):
         yhat.append(np.argmax(y_pred[i]))
@@ -198,15 +209,17 @@ def model_predict_trace(model, x_test, y_test, key_name_dict):
     print("There are {} possible anomaly logs, the anomaly rate is {}".format(len(anomaly_log_keys), \
                                                         len(anomaly_log_keys)/len(yhat)))
     print("the anomaly index is:", anomaly_index)
+    print("the total cluster is:", len(key_name_dict.keys()))
     joblib.dump(anomaly_log_keys, 'anomaly_log_key.pkl')
 
 
+
 if __name__ == "__main__":
-    # define the csv path needed to be loaded
-    # log_value_vector_path = '../../../data/System_logs/log_value_vector.csv'
+
+    # ===== generate the training data with large clear logs =====
     log_value_vector_path = '../Dataset/Linux/Malicious_Separate_Structured_Logs/log_value_vector_mali.csv'
     df = load_value_vector(log_value_vector_path)
-
+    df = df.copy()
     # check whether the key_name_dict has been generated
     key_name_dict_path = 'path_key_name_dict.pkl'
 
@@ -215,22 +228,23 @@ if __name__ == "__main__":
         key_name_dict = joblib.load(key_name_dict_path)
         log_key_sequence = df['log key']
         # get the unique log_key_sequence set
-        log_key_sequence = list(log_key_sequence)
-        items = set(log_key_sequence)
+        log_key_sequence = set(log_key_sequence)
+        items = list(log_key_sequence)
         # define the number of clusters
         K = len(items)
     else:
-        log_key_sequence, key_name_dict, K = key_to_EventId(df)
+        dict_filename = 'path_key_name_dict.pkl'
+        log_key_sequence, key_name_dict, K = key_to_EventId(df, dict_filename)
 
     # get the EventID sequence
     log_key_id_sequence = transform_key_k(log_key_sequence, key_name_dict)
 
-    # transfrom the list of data to str data
-    for i in range(len(log_key_sequence)):
-        log_key_sequence_str = ' '.join(log_key_sequence)
+    # transform the list of data to str data
+    for i in range(len(log_key_id_sequence)):
+        log_key_id_sequence_str = ' '.join(log_key_id_sequence)
 
     # get the raw training data
-    X_normal, Y_normal = get_train(log_key_sequence_str)
+    X_normal, Y_normal = get_train(log_key_id_sequence_str)
 
     # reshape the X_normal to make it suitable for training ---- time_steps = 3
     # X_normal = np.reshape(X_normal, (-1, 3, 1))
@@ -240,35 +254,92 @@ if __name__ == "__main__":
 
     # normalize
     X_normal = X_normal / K
-    Y_normal = keras.utils.to_categorical(Y_normal, num_classes=K)
 
-    # use normal splitting method to get the training and testing data
-    x_train, x_test, y_train, y_test = train_test_split(X_normal, Y_normal, test_size=0.3, random_state=30)
-
-    # we will use the clear dataset as the training data and coming dataset as the testing data
+    # make the parameters understandable
+    x_train = X_normal
 
 
-    print("the lengths of training data and testing data is {} and {}".format(x_train.shape[0], x_test.shape[0]))
-    print("the shape of training data is {} and testing data is {}".format(x_train.shape, x_test.shape))
+    # ==== generate the testing data with coming logs ====
+
+    log_value_vector_com_path = '../Dataset/Linux/Coming/log_value_vector.csv'
+    df_com = load_value_vector(log_value_vector_com_path)
+    df_com = df_com.copy()
+
+
+    # === part to compare and update the key_name_dict_path ===
+    # the format of key_name_dict_com is like ---- E95': 'shutting down'
+    dict_filename_com = 'path_key_name_dict_com.pkl'
+
+    if os.path.isfile(dict_filename_com):
+        print("key_name_dict_com file has been generated before")
+        key_name_dict_com = joblib.load(dict_filename_com)
+        log_key_sequence_com = df_com['log key']
+        # get the unique log_key_sequence set
+        log_key_sequence_com = set(log_key_sequence_com)
+        items_com = list(log_key_sequence_com)
+        # define the number of clusters
+        K_com = len(items_com)
+    else:
+        log_key_sequence_com, key_name_dict_com, K_com = key_to_EventId(df_com, dict_filename_com)
+
+
+    # i is the parameter set for new log cluster
+    i = 1
+    # in order to update the coming dict then
+    update_dict = {}
+    for key, value in key_name_dict_com.items():
+        # check whether
+        if value in key_name_dict.values():
+            pass
+        else:
+            # K is the cluster number of normal system logs(training dataset)
+            key = 'E'+ str(K + i)
+            # update the total dict
+            key_name_dict.update({key: value})
+            update_dict.update({key: value})
+            # increasing i if the coming log belongs to a new cluster
+            i += 1
+    # update the coming dict
+    key_name_dict_com.update(update_dict)
+    # return a new key_name_dict
+    joblib.dump(key_name_dict, 'path_key_name_dict_updated.pkl')
+
+    # get the EventID sequence using updated key_name_dict
+    log_key_id_sequence_com = transform_key_k(log_key_sequence_com, key_name_dict)
+
+    # transfrom the list of data to str data
+    for i in range(len(log_key_id_sequence_com)):
+        log_key_id_sequence_str_com = ' '.join(log_key_id_sequence_com)
+
+    # get the raw testing data
+    X_com, Y_com = get_train(log_key_id_sequence_str_com)
+    # reshape the X_normal to make it suitable for training ---- time_steps = 5
+    X_com = np.reshape(X_com, (-1, 5, 1))
+
+    # normalize, there are (K+K_com) classes now
+    X_com = X_com / (K_com + K)
+    Y_com = keras.utils.to_categorical(Y_com, num_classes = (K_com + K))
+    # in order to update the model or rebuild the model with the new output
+    Y_normal = keras.utils.to_categorical(Y_normal, num_classes=(K_com + K))
+    # make the parameters understandable
+    y_train = Y_normal
+    x_test = X_com
+    y_test = Y_com
+
+    # ==== part to predict the anomaly logs (training --- normal, test --- coming logs) ===
+    print("the lengths of training data and testing data is {} and {}".format(X_normal.shape[0], X_com.shape[0]))
+    print("the shape of training data is {} and testing data is {}".format(X_normal.shape, X_com.shape))
     # check whether the model has existed
     filename = 'path_anomaly_model.pkl'
-    # load the callback example
+    # load the callback instance
     callbacks = Mycallback()
     if os.path.isfile(filename):
         print("model has been generated before")
         model = joblib.load(filename)
-        model_predict(model, x_test,y_test)
+        model_predict(model, x_test, y_test)
         model_predict_trace(model, x_test, y_test, key_name_dict)
     else:
         model = lstm_model(x_train, y_train, callbacks)
         model_predict(model, x_test, y_test)
         model_predict_trace(model, x_test, y_test, key_name_dict)
-
-
-'''
-With history 3:
-    There are 77 possible anomaly logs, the anomaly rate is 0.9390243902439024
-With history 5:
-    There are 98 possible anomaly logs, the anomaly rate is 0.8376068376068376
-'''
 
