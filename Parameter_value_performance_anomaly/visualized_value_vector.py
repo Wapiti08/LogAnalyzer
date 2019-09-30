@@ -30,5 +30,5 @@ def visualize_value(filename):
     plt.title('Normal Linux Time Anomaly Detection')
 
 if __name__ == '__main__':
-    filename = '../data/System_logs/log_value_vector.csv'
+    filename = '../Dataset_ML/log_value_vector_value.csv'
     visualize_value(filename)

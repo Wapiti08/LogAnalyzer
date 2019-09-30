@@ -8,7 +8,7 @@ import pandas as pd
 import re
 from keras.preprocessing.text import Tokenizer
 from pandas import Series
-
+import joblib
 
 # module to process the exception in template computation
 def template_filter(parameters):
@@ -52,7 +52,7 @@ def key_to_EventId(df):
 
 
 # ================= get the vocabulary set ==================
-def vocalubary_generate(fd):
+def vocabulary_generate(fd, key_para_dict_filename):
     '''
     :param fd:  pandas dataframe with the log key column in it is hashed values
     :return: fd_id: copied fd dataframe, in order to protect the original data
@@ -80,7 +80,7 @@ def vocalubary_generate(fd):
 
     # padding nan to object without enough length
     df_dict_para = pd.DataFrame(dict([(k,Series(v)) for k,v in key_para_dict.items()]))
-    df_dict_para.to_csv('../Dataset/Linux/Malicious_Separate_Structured_Logs/key_para_dict.csv',index= False, header=key_para_dict.keys())
+    df_dict_para.to_csv(key_para_dict_filename,index= False, header=key_para_dict.keys())
     return key_para_dict, fd_id
 
 
@@ -114,7 +114,8 @@ def tokens_generate(key_para_dict):
 
     return tokens
 
-def token_dict(tokens):
+
+def token_dict(tokens, tokens_dict_filename):
     '''
     :param tokens: all the word tokens in the parameter value vector column
     :return: token_encode_dict: the format is ['fawjeiajet';[32,45,65,..],...]
@@ -128,6 +129,7 @@ def token_dict(tokens):
     token_encode_dict = {}
     for token, encoded_text in zip(tokens, encoded_texts):
         token_encode_dict[token] = encoded_text
+    joblib.dump(token_encode_dict, tokens_dict_filename)
 
     return token_encode_dict
 
@@ -135,6 +137,7 @@ def token_dict(tokens):
 def split_vectors(fd_id, filename):
     '''
     :param fd_id: copied fd dataframe, in order to protect the original data
+    :param filename: the position to store csv
     :return: fd_id: csv with parameter value vector splitted into various columns according to the max length of vector
             list_name: the format is: value0, value1, value2, ....
     '''
@@ -193,23 +196,25 @@ if __name__ == '__main__':
     fd = pd.read_csv(log_value_vector_csv)
 
     # input the normal fd file
-    key_para_dict, fd_id = vocalubary_generate(fd)
-    # input the abnormal fd file
+    key_para_dict_filename = '../Dataset/Linux/Malicious_Separate_Structured_Logs/key_para_dict.csv'
+
+    key_para_dict, fd_id = vocabulary_generate(fd, key_para_dict_filename)
 
     # module to process the exception in template computation
-
-
-
     tokens = tokens_generate(key_para_dict)
+
     # the format is 'ate awte awet':[34,234,13]
-    token_encode_dict = token_dict(tokens)
+    tokens_dict_filename = '../Dataset/Linux/Malicious_Separate_Structured_Logs/tokens_dict.pkl'
+    token_encode_dict = token_dict(tokens, tokens_dict_filename)
 
     # split the parameter value vector into different columns
-    fd_id , list_name = split_vectors(fd_id, log_value_vector_csv)
+    fd_id, list_name = split_vectors(fd_id, log_value_vector_csv)
 
     # replace the textual data to numerical data
     fd_value = map_vectors(fd_id, list_name, log_value_vector_csv)
+
     # integrate the vector lines into one
     integrated_fd_value = integrate_lines(fd_value)
+
     # delete repeated column in csv
     delete_repeated_line(integrated_fd_value, log_value_vector_csv)
