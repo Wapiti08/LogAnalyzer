@@ -97,7 +97,7 @@ if __name__ == "__main__":
                 if file.endswith('.npy'):
                     filenames.append(os.path.join(r, file))
     # set the random seed
-    seed = 7
+    seed = 0
     rmses = []
     rmses_dict = {}
 
@@ -154,20 +154,20 @@ if __name__ == "__main__":
 
         file_number = re.findall('\d+', file)
         threshold1, threshold2, threshold3, suspicious_logs, \
-            fp_logs = anomaly_predict.anomaly_report(rmses, file_number)
+            fp_logs = anomaly_predict.anomaly_report(rmses,file_number)
 
         # part to print the picture of means with bar chart
         # create the x axis labels for plot
         x_list = []
         for i in range(len(rmses)):
             x_list.append(i)
-        # check the length of rmses
-        if len(x_list) <= 1:
+        if len(x_list)<=1:
             pass
         else:
             # part to print the picture of means with line chart
             plt.plot(x_list, rmses)
             # add the threshold lines with percentage
+            print(threshold1,threshold2,threshold3)
             plt.axhline(y=threshold1, linestyle = "-", label = '98%')
             plt.axhline(y=threshold2, linestyle = "-", label = '99%')
             plt.axhline(y=threshold3, linestyle = "-", label = '99.9%')
@@ -177,9 +177,11 @@ if __name__ == "__main__":
             # plt.title(file + ' ' + 'Errors Distribution')
             plt.show()
         # generate the dict about anomaly and false positive logs
-        suspicious_anomaly_dict[file_number[0]] = suspicious_logs
-        fp_logs_dict[file_number[0]] = fp_logs
+        if len(suspicious_logs) == 0 & len(fp_logs) == 0:
+            pass
+        else:
+            suspicious_anomaly_dict[file_number[0]] = suspicious_logs
+            fp_logs_dict[file_number[0]] = fp_logs
     # save the result
     joblib.dump(suspicious_anomaly_dict,'./result/suspicious_anomaly.pkl')
     joblib.dump(fp_logs_dict, './result/fp_logs.pkl')
-
