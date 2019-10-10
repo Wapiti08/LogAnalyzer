@@ -52,35 +52,45 @@ def key_to_EventId(df):
 
 
 # ================= get the vocabulary set ==================
-def vocabulary_generate(fd, key_para_dict_filename):
+def vocabulary_generate(fd, key_para_dict_filename, key_para_dict_index_filename):
     '''
     :param fd:  pandas dataframe with the log key column in it is hashed values
     :return: fd_id: copied fd dataframe, in order to protect the original data
              key_para_dict: the format is {Exx:[textual parameter 1],[textual parameter 2],...}
     '''
 
-    key_para_dict = {}
-
+    key_para_dict, key_para_dict_index = {}, {}
     log_key_sequence, key_name_dict, K = key_to_EventId(fd)
     fd_id = fd.copy()
-    # swith the key and value in a dict
+    # switch the key and value in a dict
     key_name_dict_rev = dict((value,key) for key,value in key_name_dict.items())
     # mapping the value to keyID
     fd_id['log key'] = fd_id['log key'].map(key_name_dict_rev)
 
     uni_log_key_id = list(set(fd_id['log key']))
 
-    parameters = []
+    parameters, parameters_index = [], []
 
     for i in range(len(uni_log_key_id)):
         # get all the parameters with the same eventID
         parameters = fd_id[fd_id['log key'] == uni_log_key_id[i]]['parameter value vector']
+        print(parameters)
+        para_index = parameters.index.values
+        # filter special characters
         parameters = template_filter(parameters)
+        # transform the series object to list type
+        parameters_index = list(parameters)
+        parameters_index.insert(0,str(para_index))
         key_para_dict[uni_log_key_id[i]] = parameters.values[:]
+        key_para_dict_index[uni_log_key_id[i]] = parameters_index
 
     # padding nan to object without enough length
     df_dict_para = pd.DataFrame(dict([(k,Series(v)) for k,v in key_para_dict.items()]))
-    df_dict_para.to_csv(key_para_dict_filename,index= False, header=key_para_dict.keys())
+    df_dict_para_index = pd.DataFrame(dict([(k,Series(v)) for k,v in key_para_dict_index.items()]))
+
+    df_dict_para.to_csv(key_para_dict_filename,index = False, header=key_para_dict.keys())
+    # add the index of original index to the dict
+    df_dict_para_index.to_csv(key_para_dict_index_filename, index = False, header=key_para_dict_index.keys())
     return key_para_dict, fd_id
 
 
@@ -162,7 +172,7 @@ def split_vectors(fd_id, filename):
     return fd_id, list_name
 
 
-def map_vectors(fd_id, list_name, filename):
+def map_vectors(fd_id, list_name, filename, token_encode_dict):
     '''
     :param fd_id: csv with parameter value vector splitted into various columns according to the max length of vector
     :param list_name: the format is: value0, value1, value2, ....
@@ -177,7 +187,7 @@ def map_vectors(fd_id, list_name, filename):
     return fd_value
 
 
-def integrate_lines(fd_value):
+def integrate_lines(fd_value, list_name):
     fd_value['ColumnX'] = fd_value[fd_value.columns[3:19]].apply(lambda x: ','.join(x.dropna().astype(str)),axis=1)
     fd_value = fd_value.drop(['parameter value vector'], axis=1)
     fd_value = fd_value.drop(list_name, axis=1)
@@ -211,10 +221,10 @@ if __name__ == '__main__':
     fd_id, list_name = split_vectors(fd_id, log_value_vector_csv)
 
     # replace the textual data to numerical data
-    fd_value = map_vectors(fd_id, list_name, log_value_vector_csv)
+    fd_value = map_vectors(fd_id, list_name, log_value_vector_csv, token_encode_dict)
 
     # integrate the vector lines into one
-    integrated_fd_value = integrate_lines(fd_value)
+    integrated_fd_value = integrate_lines(fd_value, list_name)
 
     # delete repeated column in csv
     delete_repeated_line(integrated_fd_value, log_value_vector_csv)
