@@ -49,7 +49,10 @@ if __name__ == "__main__":
 # ================== part2 to transform the textual value to numerical data ================
 
     key_para_dict_filename = '../Dataset/Linux/Client/Client_structured/key_para_dict.csv'
-    key_para_dict, fd_id = transform_numerical_data.vocabulary_generate(log_value_vector_csv_fd, key_para_dict_filename)
+    # build the dict with index, in order to trace back then
+    key_para_dict_index_filename = '../Dataset/Linux/Client/Client_structured/key_para_dict_index.csv'
+    key_para_dict, fd_id = transform_numerical_data.vocabulary_generate(log_value_vector_csv_fd, key_para_dict_filename,\
+                                                                        key_para_dict_index_filename)
 
     # module to process the exception in template computation
     tokens = transform_numerical_data.tokens_generate(key_para_dict)
@@ -185,3 +188,5 @@ if __name__ == "__main__":
     # save the result
     joblib.dump(suspicious_anomaly_dict,'./result/suspicious_anomaly.pkl')
     joblib.dump(fp_logs_dict, './result/fp_logs.pkl')
+
+
