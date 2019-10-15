@@ -3,6 +3,7 @@ This is the achievement of core DeepLog
 
 For privacy consideration, the dataset is not provided. You can put your own data into that folder
 
+## Instructions
 This is the instruction how to use the a series of modules to pre-process the raw system logs to key logs
 
 all the inspiration is from the two articles: 
