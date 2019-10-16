@@ -1,1 +1,1 @@
-pip install brew_distance
+brew_distance
