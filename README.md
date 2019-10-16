@@ -36,4 +36,5 @@ Basiclly, we have two modules.
 (3). Finally, we will implement parameter values anomaly detection with Parameter_value_performance_anomaly.py	
 
 
-
+If you want to implement the raw version, please execute:
+pip intsall -r requirement.txt
