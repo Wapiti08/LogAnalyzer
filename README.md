@@ -37,4 +37,4 @@ Basiclly, we have two modules.
 
 
 If you want to implement the raw version, please execute:
-pip intsall -r requirement.txt
+pip install -r requirement.txt
