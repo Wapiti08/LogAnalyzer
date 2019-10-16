@@ -28,9 +28,11 @@ The log_value_vector_1.py will be used to generate the csv file like Parameter_v
 
 ##  4. Model detection:
 Basiclly, we have two modules. 
-	(1). Whereas, before implementing the modules, we will first see whether there is obvious malicious logs, we will report them first.
-	(2). After that, we will first implement execution path anomaly detection with Execution_Path_Anomaly.py
-	(3). Finally, we will implement parameter values anomaly detection with Parameter_value_performance_anomaly.py	
+(1). Whereas, before implementing the modules, we will first see whether there is obvious malicious logs, we will report them first.
+	
+(2). After that, we will first implement execution path anomaly detection with Execution_Path_Anomaly.py
+	
+(3). Finally, we will implement parameter values anomaly detection with Parameter_value_performance_anomaly.py	
 
 
 
