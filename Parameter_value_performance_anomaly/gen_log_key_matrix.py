@@ -7,6 +7,7 @@ import pandas as pd
 import numpy as np
 import re
 from pandas import Series
+import os
 
 
 def log_vectors(fd_values, filename):
