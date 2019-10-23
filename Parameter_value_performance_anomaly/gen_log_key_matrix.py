@@ -9,7 +9,7 @@ import re
 from pandas import Series
 
 
-def log_vectors(fd_values):
+def log_vectors(fd_values, filename):
     '''
     :param fd_values: csv with numerical values in a single parameter value vector column
     :return: key_num_para_dict: the format is {Exx:[numerical parameter 1],[numerical parameter 2],...}
@@ -31,13 +31,14 @@ def log_vectors(fd_values):
     print("the num para dict is:",key_num_para_dict)
 
     df_dict_num_para = pd.DataFrame(dict([(k, Series(v)) for k, v in key_num_para_dict.items()]))
-    df_dict_num_para.to_csv('../Dataset/Linux/Malicious_Separate_Structured_Logs/key_num_para_dict.csv',index= False, header=key_num_para_dict.keys())
+    # df_dict_num_para.to_csv('../Dataset/Linux/Malicious_Separate_Structured_Logs/key_num_para_dict.csv', index= False, header=key_num_para_dict.keys())
+    df_dict_num_para.to_csv(filename, index= False, header=key_num_para_dict.keys())
     return key_num_para_dict
 
 
 # define the module to transform str into matrix
 # the string is like: '10635,[21, 85, 16, 18],[21, 85, 16, 18, 307, 308, 1],[356],[424],[207]'
-def str_array(dict, eventID):
+def str_array(dict, eventID, filename):
     '''
     :param dict: the format is key:[numerical parameter 1],[numerical parameter 2],..
     :param eventID: Exx
@@ -61,20 +62,27 @@ def str_array(dict, eventID):
         except Exception as e:
             print("there is an error like:", e)
             pass
-    np.save('../Dataset/Linux/Malicious_Separate_Structured_Logs/Event_npy/'+eventID+'.npy', list_array)
-
+    # np.save('../Dataset/Linux/Malicious_Separate_Structured_Logs/Event_npy/'+eventID+'.npy', list_array)
+    if os.path.exists(filename):
+        np.save(filename + eventID+'.npy', list_array)
+    else:
+        os.mkdir(filename)
+        np.save(filename + eventID+'.npy', list_array)
 
 
 if __name__ == '__main__':
     # get all the parameter value vector for every unique key log
-    filename = '../Dataset/Linux/Malicious_Separate_Structured_Logs/log_value_vector_mali.csv'
+    filename = '../Dataset/Linux/Client/Client_structured/log_value_vector.csv'
     fd_values = pd.read_csv(filename)
-    key_num_para_dict = log_vectors(fd_values)
+    # create the aim file where the key_num_para_dict.csv will be saved
+    para_dict_filename = input("Please input the folder to save the key_num_para_dict.csv: ")
+    key_num_para_dict = log_vectors(fd_values, para_dict_filename)
 
+    Event_npy_folder = input("Please input the folder to save the event matrix for every log key: ")
     # create all the matrixes for all the eventIDs
     for key in key_num_para_dict.keys():
         print("the key is:", key)
-        str_array(key_num_para_dict, key)
+        str_array(key_num_para_dict, key, Event_npy_folder)
 
 
 '''
