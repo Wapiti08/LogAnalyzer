@@ -1,8 +1,0 @@
-'../../Dataset_ML/Linux/Client/Client_train/structured_log.csv'
-'../../Dataset_ML/Linux/Client/Client_train/Event_dict.pkl'
-'../../Dataset_ML/Linux/Client/Client_train/structured_log_id.csv'
-'../../Dataset_ML/Linux/Client/Client_train/Linux_matrix/log_matrix.npy'
-'../../Dataset_ML/Linux/Client/Client_com/structured_log.csv'
-'../../Dataset_ML/Linux/Client/Client_com/Event_dict.pkl'
-'../../Dataset_ML/Linux/Client/Client_com/structured_log_id.csv'
-'../../Dataset_ML/Linux/Client/Client_com/Linux_matrix/log_matrix.npy'
