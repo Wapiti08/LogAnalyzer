@@ -1,0 +1,415 @@
+LineId,Month,Date,Time,Level,Component,PID,Content,EventId,EventTemplate
+1,Sep,24,09:58:16,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+2,Sep,24,09:59:22,internpc,gnome-keyring-daemon,3875,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+3,Sep,24,09:59:22,internpc,gnome-keyring-daemon,3875,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+4,Sep,24,09:59:46,internpc,dbus-daemon,1225,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+5,Sep,24,10:09:01,internpc,CRON,9249,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+6,Sep,24,10:09:01,internpc,CRON,9249,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+7,Sep,24,10:17:01,internpc,CRON,9614,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+8,Sep,24,10:17:01,internpc,CRON,9614,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+9,Sep,24,10:39:01,internpc,CRON,11248,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+10,Sep,24,10:39:01,internpc,CRON,11248,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+11,Sep,24,11:09:01,internpc,CRON,13477,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+12,Sep,24,11:09:01,internpc,CRON,13477,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+13,Sep,24,11:17:01,internpc,CRON,13951,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+14,Sep,24,11:17:01,internpc,CRON,13951,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+15,Sep,24,11:36:28,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+16,Sep,24,11:39:01,internpc,CRON,14887,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+17,Sep,24,11:39:01,internpc,CRON,14887,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+18,Sep,24,12:09:01,internpc,CRON,16027,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+19,Sep,24,12:09:01,internpc,CRON,16027,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+20,Sep,24,12:17:01,internpc,CRON,16271,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+21,Sep,24,12:17:01,internpc,CRON,16271,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+22,Sep,24,12:39:01,internpc,CRON,16653,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+23,Sep,24,12:39:01,internpc,CRON,16653,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+24,Sep,24,12:44:23,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+25,Sep,24,12:58:42,internpc,dbus-daemon,1225,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+26,Sep,24,12:59:48,internpc,systemd-logind,1384,System is powering down.,7aef767d,System is powering down.
+27,Sep,24,13:03:44,internpc,systemd-logind,1334,New seat seat0.,835560a8,New seat seat0.
+28,Sep,24,13:03:44,internpc,systemd-logind,1334,Watching system buttons on /dev/input/event3 (Power Button),3bf8ba4b,Watching system buttons on   
+29,Sep,24,13:03:44,internpc,systemd-logind,1334,Watching system buttons on /dev/input/event0 (Power Button),3bf8ba4b,Watching system buttons on   
+30,Sep,24,13:03:44,internpc,systemd-logind,1334,Watching system buttons on /dev/input/event2 (Lid Switch),3bf8ba4b,Watching system buttons on   
+31,Sep,24,13:03:44,internpc,systemd-logind,1334,Watching system buttons on /dev/input/event1 (Sleep Button),3bf8ba4b,Watching system buttons on   
+32,Sep,24,13:03:44,internpc,systemd-logind,1334,Watching system buttons on /dev/input/event7 (Logitech USB Receiver),d069e105,Watching system buttons on /dev/input/event7 (Logitech USB Receiver)
+33,Sep,24,13:03:44,internpc,systemd-logind,1334,Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),f12e6680,Watching system buttons on      
+34,Sep,24,13:03:44,internpc,systemd-logind,1334,Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),f12e6680,Watching system buttons on      
+35,Sep,24,13:03:44,internpc,systemd-logind,1334,Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),f12e6680,Watching system buttons on      
+36,Sep,24,13:03:45,internpc,gdm-launch-environment],,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),bb6b9e55,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+37,Sep,24,13:03:45,internpc,systemd-logind,1334,New session c1 of user gdm.,7c473141,New session  of user 
+38,Sep,24,13:03:45,internpc,systemd,,pam_unix(systemd-user:session): session opened for user gdm by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+39,Sep,24,13:03:47,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+40,Sep,24,13:03:54,internpc,gdm-password],,pam_unix(gdm-password:session): session opened for user intern by (uid=0),65359baa,pam_unix(gdm-password:session): session opened for user intern by (uid=0)
+41,Sep,24,13:03:54,internpc,systemd-logind,1334,New session 2 of user intern.,7c473141,New session  of user 
+42,Sep,24,13:03:54,internpc,systemd,,pam_unix(systemd-user:session): session opened for user intern by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+43,Sep,24,13:04:00,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:2 (system bus name :1.83 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+44,Sep,24,13:04:12,internpc,dbus-daemon,1430,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+45,Sep,24,13:05:04,internpc,pkexec,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+46,Sep,24,13:05:04,internpc,pkexec,4232,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+47,Sep,24,13:09:01,internpc,CRON,5236,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+48,Sep,24,13:09:01,internpc,CRON,5236,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+49,Sep,24,13:17:01,internpc,CRON,5495,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+50,Sep,24,13:17:01,internpc,CRON,5495,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+51,Sep,24,13:39:01,internpc,CRON,6344,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+52,Sep,24,13:39:01,internpc,CRON,6344,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+53,Sep,24,13:46:58,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+54,Sep,24,14:09:01,internpc,CRON,9360,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+55,Sep,24,14:09:01,internpc,CRON,9360,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+56,Sep,24,14:17:01,internpc,CRON,9494,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+57,Sep,24,14:17:01,internpc,CRON,9494,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+58,Sep,24,14:36:46,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+59,Sep,24,14:39:01,internpc,CRON,9687,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+60,Sep,24,14:39:01,internpc,CRON,9687,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+61,Sep,24,14:45:52,internpc,systemd-logind,1334,System is powering down.,7aef767d,System is powering down.
+62,Sep,24,14:58:29,internpc,systemd-logind,1340,New seat seat0.,835560a8,New seat seat0.
+63,Sep,24,14:58:29,internpc,systemd-logind,1340,Watching system buttons on /dev/input/event3 (Power Button),3bf8ba4b,Watching system buttons on   
+64,Sep,24,14:58:29,internpc,systemd-logind,1340,Watching system buttons on /dev/input/event0 (Power Button),3bf8ba4b,Watching system buttons on   
+65,Sep,24,14:58:29,internpc,systemd-logind,1340,Watching system buttons on /dev/input/event2 (Lid Switch),3bf8ba4b,Watching system buttons on   
+66,Sep,24,14:58:29,internpc,systemd-logind,1340,Watching system buttons on /dev/input/event1 (Sleep Button),3bf8ba4b,Watching system buttons on   
+67,Sep,24,14:58:29,internpc,systemd-logind,1340,Watching system buttons on /dev/input/event7 (Logitech USB Receiver),d069e105,Watching system buttons on /dev/input/event7 (Logitech USB Receiver)
+68,Sep,24,14:58:29,internpc,systemd-logind,1340,Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),f12e6680,Watching system buttons on      
+69,Sep,24,14:58:29,internpc,systemd-logind,1340,Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),f12e6680,Watching system buttons on      
+70,Sep,24,14:58:29,internpc,systemd-logind,1340,Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),f12e6680,Watching system buttons on      
+71,Sep,24,14:58:30,internpc,gdm-launch-environment],,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),bb6b9e55,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+72,Sep,24,14:58:30,internpc,systemd-logind,1340,New session c1 of user gdm.,7c473141,New session  of user 
+73,Sep,24,14:58:30,internpc,systemd,,pam_unix(systemd-user:session): session opened for user gdm by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+74,Sep,24,14:58:32,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+75,Sep,24,14:58:39,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+76,Sep,24,14:58:47,internpc,gdm-password],,pam_unix(gdm-password:session): session opened for user intern by (uid=0),65359baa,pam_unix(gdm-password:session): session opened for user intern by (uid=0)
+77,Sep,24,14:58:47,internpc,systemd-logind,1340,New session 2 of user intern.,7c473141,New session  of user 
+78,Sep,24,14:58:47,internpc,systemd,,pam_unix(systemd-user:session): session opened for user intern by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+79,Sep,24,14:58:54,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:2 (system bus name :1.79 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+80,Sep,24,14:58:57,internpc,dbus-daemon,1373,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+81,Sep,24,14:59:58,internpc,pkexec,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+82,Sep,24,14:59:58,internpc,pkexec,4249,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+83,Sep,24,15:09:01,internpc,CRON,5132,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+84,Sep,24,15:09:01,internpc,CRON,5132,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+85,Sep,24,15:11:46,internpc,gnome-keyring-daemon,3331,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+86,Sep,24,15:11:46,internpc,gnome-keyring-daemon,3331,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+87,Sep,24,15:12:10,internpc,dbus-daemon,1373,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+88,Sep,24,15:17:01,internpc,CRON,6749,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+89,Sep,24,15:17:01,internpc,CRON,6749,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+90,Sep,24,15:39:01,internpc,CRON,8273,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+91,Sep,24,15:39:01,internpc,CRON,8273,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+92,Sep,24,16:04:21,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+93,Sep,24,16:09:01,internpc,CRON,9786,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+94,Sep,24,16:09:01,internpc,CRON,9786,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+95,Sep,24,16:17:01,internpc,CRON,10185,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+96,Sep,24,16:17:01,internpc,CRON,10185,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+97,Sep,24,16:39:01,internpc,CRON,11991,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+98,Sep,24,16:39:01,internpc,CRON,11991,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+99,Sep,24,17:09:01,internpc,CRON,13343,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+100,Sep,24,17:09:01,internpc,CRON,13343,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+101,Sep,24,17:10:41,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+102,Sep,24,17:17:01,internpc,CRON,13825,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+103,Sep,24,17:17:01,internpc,CRON,13825,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+104,Sep,24,17:24:47,internpc,systemd-logind,1340,System is powering down.,7aef767d,System is powering down.
+105,Sep,25,09:39:14,internpc,systemd-logind,1382,New seat seat0.,835560a8,New seat seat0.
+106,Sep,25,09:39:14,internpc,systemd-logind,1382,Watching system buttons on /dev/input/event3 (Power Button),3bf8ba4b,Watching system buttons on   
+107,Sep,25,09:39:14,internpc,systemd-logind,1382,Watching system buttons on /dev/input/event0 (Power Button),3bf8ba4b,Watching system buttons on   
+108,Sep,25,09:39:14,internpc,systemd-logind,1382,Watching system buttons on /dev/input/event2 (Lid Switch),3bf8ba4b,Watching system buttons on   
+109,Sep,25,09:39:14,internpc,systemd-logind,1382,Watching system buttons on /dev/input/event1 (Sleep Button),3bf8ba4b,Watching system buttons on   
+110,Sep,25,09:39:14,internpc,systemd-logind,1382,Watching system buttons on /dev/input/event7 (Logitech USB Receiver),d069e105,Watching system buttons on /dev/input/event7 (Logitech USB Receiver)
+111,Sep,25,09:39:14,internpc,systemd-logind,1382,Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),f12e6680,Watching system buttons on      
+112,Sep,25,09:39:14,internpc,systemd-logind,1382,Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),f12e6680,Watching system buttons on      
+113,Sep,25,09:39:14,internpc,systemd-logind,1382,Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),f12e6680,Watching system buttons on      
+114,Sep,25,09:39:16,internpc,gdm-launch-environment],,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),bb6b9e55,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+115,Sep,25,09:39:16,internpc,systemd-logind,1382,New session c1 of user gdm.,7c473141,New session  of user 
+116,Sep,25,09:39:16,internpc,systemd,,pam_unix(systemd-user:session): session opened for user gdm by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+117,Sep,25,09:39:18,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+118,Sep,25,09:39:26,internpc,gdm-password],,pam_unix(gdm-password:session): session opened for user intern by (uid=0),65359baa,pam_unix(gdm-password:session): session opened for user intern by (uid=0)
+119,Sep,25,09:39:26,internpc,systemd-logind,1382,New session 2 of user intern.,7c473141,New session  of user 
+120,Sep,25,09:39:26,internpc,systemd,,pam_unix(systemd-user:session): session opened for user intern by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+121,Sep,25,09:39:32,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+122,Sep,25,09:39:42,internpc,dbus-daemon,1313,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+123,Sep,25,09:40:36,internpc,pkexec,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+124,Sep,25,09:40:36,internpc,pkexec,5638,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+125,Sep,25,10:03:57,internpc,sudo,,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,a68eb709,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/
+126,Sep,25,10:03:57,internpc,sudo,,pam_unix(sudo:session): session opened for user root by (uid=0),1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0)
+127,Sep,25,10:03:57,internpc,sudo,,pam_unix(sudo:session): session closed for user root,449b71b3,pam_unix(sudo:session): session closed for user root
+128,Sep,25,10:04:16,internpc,sudo,,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,a68eb709,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/
+129,Sep,25,10:04:16,internpc,sudo,,pam_unix(sudo:session): session opened for user root by (uid=0),1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0)
+130,Sep,25,10:04:16,internpc,sudo,,pam_unix(sudo:session): session closed for user root,449b71b3,pam_unix(sudo:session): session closed for user root
+131,Sep,25,10:04:25,internpc,sudo,,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,a68eb709,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/
+132,Sep,25,10:04:25,internpc,sudo,,pam_unix(sudo:session): session opened for user root by (uid=0),1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0)
+133,Sep,25,10:04:25,internpc,sudo,,pam_unix(sudo:session): session closed for user root,449b71b3,pam_unix(sudo:session): session closed for user root
+134,Sep,25,10:04:34,internpc,pkexec,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+135,Sep,25,10:04:34,internpc,pkexec,7616,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+136,Sep,25,10:05:55,internpc,sudo,,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/ssh-keygen -f /root/.ssh/known_hosts -R 172.24.0.10,88370703,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/ssh-keygen -f /root/.ssh/known_hosts -R <*>
+137,Sep,25,10:05:55,internpc,sudo,,pam_unix(sudo:session): session opened for user root by (uid=0),1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0)
+138,Sep,25,10:05:55,internpc,sudo,,pam_unix(sudo:session): session closed for user root,449b71b3,pam_unix(sudo:session): session closed for user root
+139,Sep,25,10:06:05,internpc,sudo,,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,a68eb709,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/
+140,Sep,25,10:06:05,internpc,sudo,,pam_unix(sudo:session): session opened for user root by (uid=0),1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0)
+141,Sep,25,10:06:17,internpc,sudo,,pam_unix(sudo:session): session closed for user root,449b71b3,pam_unix(sudo:session): session closed for user root
+142,Sep,25,10:06:19,internpc,sudo,,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,a68eb709,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/
+143,Sep,25,10:06:19,internpc,sudo,,pam_unix(sudo:session): session opened for user root by (uid=0),1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0)
+144,Sep,25,10:06:53,internpc,sudo,,pam_unix(sudo:session): session closed for user root,449b71b3,pam_unix(sudo:session): session closed for user root
+145,Sep,25,10:06:55,internpc,sudo,,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,a68eb709,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/
+146,Sep,25,10:06:55,internpc,sudo,,pam_unix(sudo:session): session opened for user root by (uid=0),1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0)
+147,Sep,25,10:07:30,internpc,sudo,,pam_unix(sudo:session): session closed for user root,449b71b3,pam_unix(sudo:session): session closed for user root
+148,Sep,25,10:07:32,internpc,sudo,,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,a68eb709,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/
+149,Sep,25,10:07:32,internpc,sudo,,pam_unix(sudo:session): session opened for user root by (uid=0),1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0)
+150,Sep,25,10:08:38,internpc,sudo,,pam_unix(sudo:session): session closed for user root,449b71b3,pam_unix(sudo:session): session closed for user root
+151,Sep,25,10:09:02,internpc,CRON,7770,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+152,Sep,25,10:09:02,internpc,CRON,7770,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+153,Sep,25,10:13:34,internpc,pkexec,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+154,Sep,25,10:13:34,internpc,pkexec,10798,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+155,Sep,25,10:15:01,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+156,Sep,25,10:17:01,internpc,CRON,10890,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+157,Sep,25,10:17:01,internpc,CRON,10890,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+158,Sep,25,10:39:01,internpc,CRON,12154,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+159,Sep,25,10:39:01,internpc,CRON,12154,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+160,Sep,25,11:09:01,internpc,CRON,13471,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+161,Sep,25,11:09:01,internpc,CRON,13471,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+162,Sep,25,11:17:01,internpc,CRON,13687,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+163,Sep,25,11:17:01,internpc,CRON,13687,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+164,Sep,25,11:39:01,internpc,CRON,14228,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+165,Sep,25,11:39:01,internpc,CRON,14228,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+166,Sep,25,11:54:01,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+167,Sep,25,11:54:34,internpc,gnome-keyring-daemon,3933,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+168,Sep,25,11:54:34,internpc,gnome-keyring-daemon,3933,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+169,Sep,25,11:54:58,internpc,dbus-daemon,1313,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+170,Sep,25,12:09:01,internpc,CRON,15811,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+171,Sep,25,12:09:01,internpc,CRON,15811,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+172,Sep,25,12:17:01,internpc,CRON,16262,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+173,Sep,25,12:17:01,internpc,CRON,16262,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+174,Sep,25,12:39:01,internpc,CRON,16679,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+175,Sep,25,12:39:01,internpc,CRON,16679,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+176,Sep,25,12:41:31,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+177,Sep,25,13:09:01,internpc,CRON,17907,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+178,Sep,25,13:09:01,internpc,CRON,17907,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+179,Sep,25,13:17:01,internpc,CRON,18345,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+180,Sep,25,13:17:01,internpc,CRON,18345,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+181,Sep,25,13:39:01,internpc,CRON,19280,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+182,Sep,25,13:39:01,internpc,CRON,19280,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+183,Sep,25,14:09:01,internpc,CRON,20300,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+184,Sep,25,14:09:01,internpc,CRON,20300,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+185,Sep,25,14:17:01,internpc,CRON,20490,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+186,Sep,25,14:17:01,internpc,CRON,20490,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+187,Sep,25,14:18:10,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+188,Sep,25,14:39:01,internpc,CRON,21318,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+189,Sep,25,14:39:01,internpc,CRON,21318,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+190,Sep,25,15:09:01,internpc,CRON,23019,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+191,Sep,25,15:09:01,internpc,CRON,23019,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+192,Sep,25,15:17:01,internpc,CRON,23479,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+193,Sep,25,15:17:01,internpc,CRON,23479,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+194,Sep,25,15:27:01,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+195,Sep,25,15:39:01,internpc,CRON,23919,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+196,Sep,25,15:39:01,internpc,CRON,23919,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+197,Sep,25,15:57:08,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+198,Sep,25,15:57:15,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+199,Sep,25,15:57:21,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+200,Sep,25,16:09:01,internpc,CRON,26549,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+201,Sep,25,16:09:01,internpc,CRON,26549,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+202,Sep,25,16:17:01,internpc,CRON,27042,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+203,Sep,25,16:17:01,internpc,CRON,27042,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+204,Sep,25,16:39:01,internpc,CRON,27983,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+205,Sep,25,16:39:01,internpc,CRON,27983,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+206,Sep,25,17:09:01,internpc,CRON,29286,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+207,Sep,25,17:09:01,internpc,CRON,29286,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+208,Sep,25,17:17:01,internpc,CRON,29526,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+209,Sep,25,17:17:01,internpc,CRON,29526,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+210,Sep,25,17:25:10,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+211,Sep,25,17:26:53,internpc,systemd-logind,1382,"Delay lock is active (UID 1000/intern, PID 4073/gnome-session-b) but inhibitor timeout is reached.",57db2605,"Delay lock is active (UID 1000/intern, PID 4073/gnome-session-b) but inhibitor timeout is reached."
+212,Sep,25,17:26:53,internpc,systemd-logind,1382,System is powering down.,7aef767d,System is powering down.
+213,Sep,26,09:36:30,internpc,systemd-logind,1512,New seat seat0.,835560a8,New seat seat0.
+214,Sep,26,09:36:30,internpc,systemd-logind,1512,Watching system buttons on /dev/input/event3 (Power Button),3bf8ba4b,Watching system buttons on   
+215,Sep,26,09:36:30,internpc,systemd-logind,1512,Watching system buttons on /dev/input/event0 (Power Button),3bf8ba4b,Watching system buttons on   
+216,Sep,26,09:36:30,internpc,systemd-logind,1512,Watching system buttons on /dev/input/event2 (Lid Switch),3bf8ba4b,Watching system buttons on   
+217,Sep,26,09:36:30,internpc,systemd-logind,1512,Watching system buttons on /dev/input/event1 (Sleep Button),3bf8ba4b,Watching system buttons on   
+218,Sep,26,09:36:30,internpc,systemd-logind,1512,Watching system buttons on /dev/input/event7 (Logitech USB Receiver),d069e105,Watching system buttons on /dev/input/event7 (Logitech USB Receiver)
+219,Sep,26,09:36:30,internpc,systemd-logind,1512,Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),f12e6680,Watching system buttons on      
+220,Sep,26,09:36:30,internpc,systemd-logind,1512,Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),f12e6680,Watching system buttons on      
+221,Sep,26,09:36:30,internpc,systemd-logind,1512,Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),f12e6680,Watching system buttons on      
+222,Sep,26,09:36:32,internpc,gdm-launch-environment],,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),bb6b9e55,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+223,Sep,26,09:36:32,internpc,systemd-logind,1512,New session c1 of user gdm.,7c473141,New session  of user 
+224,Sep,26,09:36:32,internpc,systemd,,pam_unix(systemd-user:session): session opened for user gdm by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+225,Sep,26,09:36:35,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+226,Sep,26,09:36:52,internpc,gdm-password],,pam_unix(gdm-password:session): session opened for user intern by (uid=0),65359baa,pam_unix(gdm-password:session): session opened for user intern by (uid=0)
+227,Sep,26,09:36:52,internpc,systemd-logind,1512,New session 2 of user intern.,7c473141,New session  of user 
+228,Sep,26,09:36:52,internpc,systemd,,pam_unix(systemd-user:session): session opened for user intern by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+229,Sep,26,09:36:59,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:2 (system bus name :1.83 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+230,Sep,26,09:36:59,internpc,dbus-daemon,1345,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+231,Sep,26,09:38:00,internpc,pkexec,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+232,Sep,26,09:38:00,internpc,pkexec,5941,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+233,Sep,26,09:39:01,internpc,CRON,6815,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+234,Sep,26,09:39:01,internpc,CRON,6815,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+235,Sep,26,10:04:58,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+236,Sep,26,10:09:01,internpc,CRON,8190,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+237,Sep,26,10:09:01,internpc,CRON,8190,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+238,Sep,26,10:17:01,internpc,CRON,8445,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+239,Sep,26,10:17:01,internpc,CRON,8445,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+240,Sep,26,10:32:15,internpc,gnome-keyring-daemon,4137,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+241,Sep,26,10:32:15,internpc,gnome-keyring-daemon,4137,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+242,Sep,26,10:32:39,internpc,dbus-daemon,1345,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+243,Sep,26,10:39:01,internpc,CRON,10356,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+244,Sep,26,10:39:01,internpc,CRON,10356,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+245,Sep,26,11:09:01,internpc,CRON,11335,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+246,Sep,26,11:09:01,internpc,CRON,11335,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+247,Sep,26,11:14:57,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+248,Sep,26,11:17:01,internpc,CRON,11504,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+249,Sep,26,11:17:01,internpc,CRON,11504,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+250,Sep,26,11:39:01,internpc,CRON,12071,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+251,Sep,26,11:39:01,internpc,CRON,12071,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+252,Sep,26,11:59:18,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+253,Sep,26,11:59:25,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+254,Sep,26,12:05:06,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+255,Sep,26,12:05:14,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+256,Sep,26,12:05:20,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+257,Sep,26,12:09:01,internpc,CRON,12862,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+258,Sep,26,12:09:01,internpc,CRON,12862,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+259,Sep,26,12:17:01,internpc,CRON,12972,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+260,Sep,26,12:17:01,internpc,CRON,12972,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+261,Sep,26,12:29:19,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+262,Sep,26,12:29:25,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+263,Sep,26,12:29:35,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+264,Sep,26,12:35:35,internpc,gnome-keyring-daemon,4137,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+265,Sep,26,12:35:35,internpc,gnome-keyring-daemon,4137,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+266,Sep,26,12:36:00,internpc,dbus-daemon,1345,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+267,Sep,26,12:39:01,internpc,CRON,14163,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+268,Sep,26,12:39:01,internpc,CRON,14163,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+269,Sep,26,13:09:01,internpc,CRON,15933,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+270,Sep,26,13:09:01,internpc,CRON,15933,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+271,Sep,26,13:17:01,internpc,CRON,16403,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+272,Sep,26,13:17:01,internpc,CRON,16403,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+273,Sep,26,13:20:18,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+274,Sep,26,13:39:01,internpc,CRON,17823,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+275,Sep,26,13:39:01,internpc,CRON,17823,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+276,Sep,26,14:09:01,internpc,CRON,18943,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+277,Sep,26,14:09:01,internpc,CRON,18943,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+278,Sep,26,14:17:01,internpc,CRON,19235,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+279,Sep,26,14:17:01,internpc,CRON,19235,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+280,Sep,26,14:36:42,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+281,Sep,26,14:39:01,internpc,CRON,20014,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+282,Sep,26,14:39:01,internpc,CRON,20014,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+283,Sep,26,15:09:01,internpc,CRON,21252,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+284,Sep,26,15:09:01,internpc,CRON,21252,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+285,Sep,26,15:17:01,internpc,CRON,21807,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+286,Sep,26,15:17:01,internpc,CRON,21807,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+287,Sep,26,15:39:01,internpc,CRON,22363,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+288,Sep,26,15:39:01,internpc,CRON,22363,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+289,Sep,26,15:49:41,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+290,Sep,26,16:09:01,internpc,CRON,23442,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+291,Sep,26,16:09:01,internpc,CRON,23442,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+292,Sep,26,16:10:59,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+293,Sep,26,16:11:08,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+294,Sep,26,16:17:01,internpc,CRON,23760,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+295,Sep,26,16:17:01,internpc,CRON,23760,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+296,Sep,26,16:39:01,internpc,CRON,24833,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+297,Sep,26,16:39:01,internpc,CRON,24833,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+298,Sep,26,16:48:46,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+299,Sep,26,17:09:01,internpc,CRON,26407,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+300,Sep,26,17:09:01,internpc,CRON,26407,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+301,Sep,26,17:09:24,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+302,Sep,26,17:17:01,internpc,CRON,26782,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+303,Sep,26,17:17:01,internpc,CRON,26782,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+304,Sep,26,17:25:51,internpc,systemd-logind,1512,System is powering down.,7aef767d,System is powering down.
+305,Sep,27,09:35:09,internpc,systemd-logind,1546,New seat seat0.,835560a8,New seat seat0.
+306,Sep,27,09:35:09,internpc,systemd-logind,1546,Watching system buttons on /dev/input/event3 (Power Button),3bf8ba4b,Watching system buttons on   
+307,Sep,27,09:35:09,internpc,systemd-logind,1546,Watching system buttons on /dev/input/event0 (Power Button),3bf8ba4b,Watching system buttons on   
+308,Sep,27,09:35:09,internpc,systemd-logind,1546,Watching system buttons on /dev/input/event2 (Lid Switch),3bf8ba4b,Watching system buttons on   
+309,Sep,27,09:35:09,internpc,systemd-logind,1546,Watching system buttons on /dev/input/event1 (Sleep Button),3bf8ba4b,Watching system buttons on   
+310,Sep,27,09:35:09,internpc,systemd-logind,1546,Watching system buttons on /dev/input/event7 (Logitech USB Receiver),d069e105,Watching system buttons on /dev/input/event7 (Logitech USB Receiver)
+311,Sep,27,09:35:09,internpc,systemd-logind,1546,Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),f12e6680,Watching system buttons on      
+312,Sep,27,09:35:09,internpc,systemd-logind,1546,Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),f12e6680,Watching system buttons on      
+313,Sep,27,09:35:09,internpc,systemd-logind,1546,Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),f12e6680,Watching system buttons on      
+314,Sep,27,09:35:10,internpc,gdm-launch-environment],,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),bb6b9e55,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+315,Sep,27,09:35:10,internpc,systemd-logind,1546,New session c1 of user gdm.,7c473141,New session  of user 
+316,Sep,27,09:35:10,internpc,systemd,,pam_unix(systemd-user:session): session opened for user gdm by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+317,Sep,27,09:35:12,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+318,Sep,27,09:35:19,internpc,gdm-password],,pam_unix(gdm-password:session): session opened for user intern by (uid=0),65359baa,pam_unix(gdm-password:session): session opened for user intern by (uid=0)
+319,Sep,27,09:35:19,internpc,systemd-logind,1546,New session 2 of user intern.,7c473141,New session  of user 
+320,Sep,27,09:35:19,internpc,systemd,,pam_unix(systemd-user:session): session opened for user intern by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+321,Sep,27,09:35:26,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+322,Sep,27,09:35:37,internpc,dbus-daemon,1350,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+323,Sep,27,09:36:29,internpc,pkexec,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+324,Sep,27,09:36:29,internpc,pkexec,5556,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+325,Sep,27,09:39:01,internpc,CRON,6048,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+326,Sep,27,09:39:01,internpc,CRON,6048,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+327,Sep,27,10:09:01,internpc,CRON,6660,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+328,Sep,27,10:09:01,internpc,CRON,6660,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+329,Sep,27,10:17:01,internpc,CRON,6751,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+330,Sep,27,10:17:01,internpc,CRON,6751,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+331,Sep,27,10:17:47,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+332,Sep,27,10:39:01,internpc,CRON,7385,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+333,Sep,27,10:39:01,internpc,CRON,7385,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+334,Sep,27,10:49:15,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+335,Sep,27,11:09:01,internpc,CRON,8238,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+336,Sep,27,11:09:01,internpc,CRON,8238,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+337,Sep,27,11:17:01,internpc,CRON,8318,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+338,Sep,27,11:17:01,internpc,CRON,8318,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+339,Sep,27,11:26:51,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+340,Sep,27,11:39:01,internpc,CRON,8769,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+341,Sep,27,11:39:01,internpc,CRON,8769,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+342,Sep,27,12:09:01,internpc,CRON,9855,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+343,Sep,27,12:09:01,internpc,CRON,9855,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+344,Sep,27,12:17:01,internpc,CRON,9938,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+345,Sep,27,12:17:01,internpc,CRON,9938,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+346,Sep,27,12:26:05,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+347,Sep,27,12:39:01,internpc,CRON,10285,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+348,Sep,27,12:39:01,internpc,CRON,10285,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+349,Sep,27,12:39:55,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+350,Sep,27,12:40:01,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+351,Sep,27,12:40:07,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+352,Sep,27,12:43:02,internpc,gnome-keyring-daemon,3891,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+353,Sep,27,12:43:03,internpc,gnome-keyring-daemon,3891,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered"
+354,Sep,27,12:43:27,internpc,dbus-daemon,1350,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+355,Sep,27,13:03:44,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+356,Sep,27,13:04:11,internpc,gdm-password],,message repeated 3 times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern],b1a99b6e,message repeated 3 times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern]
+357,Sep,27,13:04:17,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+358,Sep,27,13:09:01,internpc,CRON,12629,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+359,Sep,27,13:09:01,internpc,CRON,12629,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+360,Sep,27,13:17:01,internpc,CRON,13354,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+361,Sep,27,13:17:01,internpc,CRON,13354,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+362,Sep,27,13:39:01,internpc,CRON,13967,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+363,Sep,27,13:39:01,internpc,CRON,13967,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+364,Sep,27,14:09:01,internpc,CRON,15486,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+365,Sep,27,14:09:01,internpc,CRON,15486,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+366,Sep,27,14:17:01,internpc,CRON,15876,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+367,Sep,27,14:17:01,internpc,CRON,15876,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+368,Sep,27,14:24:54,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+369,Sep,27,14:39:01,internpc,CRON,16686,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+370,Sep,27,14:39:01,internpc,CRON,16686,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+371,Sep,27,15:09:01,internpc,CRON,17953,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+372,Sep,27,15:09:01,internpc,CRON,17953,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+373,Sep,27,15:12:35,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+374,Sep,27,15:16:57,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+375,Sep,27,15:17:02,internpc,CRON,18258,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+376,Sep,27,15:17:02,internpc,CRON,18258,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+377,Sep,27,15:17:04,internpc,gdm-password],,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern
+378,Sep,27,15:17:10,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+379,Sep,27,15:35:44,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+380,Sep,27,15:39:01,internpc,CRON,18947,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+381,Sep,27,15:39:01,internpc,CRON,18947,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+382,Sep,27,16:09:01,internpc,CRON,19798,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+383,Sep,27,16:09:01,internpc,CRON,19798,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+384,Sep,27,16:17:01,internpc,CRON,19992,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+385,Sep,27,16:17:01,internpc,CRON,19992,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+386,Sep,27,16:39:01,internpc,CRON,20310,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+387,Sep,27,16:39:01,internpc,CRON,20310,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+388,Sep,27,17:09:01,internpc,CRON,20888,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+389,Sep,27,17:09:01,internpc,CRON,20888,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root
+390,Sep,27,17:11:58,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+391,Sep,27,17:16:30,internpc,gdm-password],,gkr-pam: unlocked login keyring,93db07cc,gkr-pam: unlocked login keyring
+392,Sep,27,17:16:47,internpc,systemd-logind,1546,System is powering down.,7aef767d,System is powering down.
+393,Sep,30,09:34:55,internpc,systemd-logind,1254,New seat seat0.,835560a8,New seat seat0.
+394,Sep,30,09:34:55,internpc,systemd-logind,1254,Watching system buttons on /dev/input/event3 (Power Button),3bf8ba4b,Watching system buttons on   
+395,Sep,30,09:34:55,internpc,systemd-logind,1254,Watching system buttons on /dev/input/event0 (Power Button),3bf8ba4b,Watching system buttons on   
+396,Sep,30,09:34:55,internpc,systemd-logind,1254,Watching system buttons on /dev/input/event2 (Lid Switch),3bf8ba4b,Watching system buttons on   
+397,Sep,30,09:34:55,internpc,systemd-logind,1254,Watching system buttons on /dev/input/event1 (Sleep Button),3bf8ba4b,Watching system buttons on   
+398,Sep,30,09:34:55,internpc,systemd-logind,1254,Watching system buttons on /dev/input/event7 (Logitech USB Receiver),d069e105,Watching system buttons on /dev/input/event7 (Logitech USB Receiver)
+399,Sep,30,09:34:55,internpc,systemd-logind,1254,Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),f12e6680,Watching system buttons on      
+400,Sep,30,09:34:55,internpc,systemd-logind,1254,Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),f12e6680,Watching system buttons on      
+401,Sep,30,09:34:55,internpc,systemd-logind,1254,Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),f12e6680,Watching system buttons on      
+402,Sep,30,09:34:57,internpc,gdm-launch-environment],,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),bb6b9e55,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+403,Sep,30,09:34:57,internpc,systemd-logind,1254,New session c1 of user gdm.,7c473141,New session  of user 
+404,Sep,30,09:34:57,internpc,systemd,,pam_unix(systemd-user:session): session opened for user gdm by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+405,Sep,30,09:35:00,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+406,Sep,30,09:35:06,internpc,gdm-password],,pam_unix(gdm-password:session): session opened for user intern by (uid=0),65359baa,pam_unix(gdm-password:session): session opened for user intern by (uid=0)
+407,Sep,30,09:35:06,internpc,systemd-logind,1254,New session 2 of user intern.,7c473141,New session  of user 
+408,Sep,30,09:35:06,internpc,systemd,,pam_unix(systemd-user:session): session opened for user intern by (uid=0),37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0)
+409,Sep,30,09:35:14,internpc,polkitd(authority=local),,"Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)"
+410,Sep,30,09:35:24,internpc,dbus-daemon,1259,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+411,Sep,30,09:36:14,internpc,pkexec,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+412,Sep,30,09:36:14,internpc,pkexec,5258,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+413,Sep,30,09:39:01,internpc,CRON,6010,pam_unix(cron:session): session opened for user root by (uid=0),104ec55d,pam_unix(cron:session): session opened for user root by (uid=0)
+414,Sep,30,09:39:01,internpc,CRON,6010,pam_unix(cron:session): session closed for user root,20fe0864,pam_unix(cron:session): session closed for user root

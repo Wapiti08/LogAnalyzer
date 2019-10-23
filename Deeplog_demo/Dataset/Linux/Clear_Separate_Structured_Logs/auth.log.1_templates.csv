@@ -1,0 +1,25 @@
+EventId,EventTemplate,Occurrences
+93db07cc,gkr-pam: unlocked login keyring,37
+4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",12
+cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),13
+104ec55d,pam_unix(cron:session): session opened for user root by (uid=0),94
+20fe0864,pam_unix(cron:session): session closed for user root,94
+7aef767d,System is powering down.,6
+835560a8,New seat seat0.,6
+3bf8ba4b,Watching system buttons on   ,24
+d069e105,Watching system buttons on /dev/input/event7 (Logitech USB Receiver),6
+f12e6680,Watching system buttons on      ,18
+bb6b9e55,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),6
+7c473141,New session  of user ,12
+37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0),12
+57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",12
+65359baa,pam_unix(gdm-password:session): session opened for user intern by (uid=0),6
+a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000),8
+5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],8
+79b76dc6,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,14
+a68eb709,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/,7
+1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0),8
+449b71b3,pam_unix(sudo:session): session closed for user root,8
+88370703,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/ssh-keygen -f /root/.ssh/known_hosts -R <*>,1
+57db2605,"Delay lock is active (UID 1000/intern, PID 4073/gnome-session-b) but inhibitor timeout is reached.",1
+b1a99b6e,message repeated 3 times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern],1

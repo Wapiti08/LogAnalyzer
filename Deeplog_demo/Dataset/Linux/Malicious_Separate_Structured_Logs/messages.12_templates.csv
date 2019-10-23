@@ -1,0 +1,12 @@
+EventId,EventTemplate,Occurrences
+78996bdd,restart.,6
+4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",109
+3262681b,FTP session closed,109
+620623a4,ttloop: peer died: EOF,35
+7fb6ca22,ttloop: read: Connection reset by peer,27
+faf9fd4d,ttloop: read: Connection timed out,7
+6d4620ba,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ieman.uni-paderborn.de user=root,5
+90048e51,lost connection to 1Cust105.tnt2.st-catharines.on.da.uu.net [<*>],23
+78a0ee66,[smux_accept] accepted fd 8 from <*>:4861,1
+f28aceb0,transfer interrupted (code 12) at io.c(171),1
+a3c34dac,read: Connection reset by peer (errno = 104),4

@@ -1,0 +1,856 @@
+Aug  1 04:02:09 ns1 syslogd 1.4-0: restart.
+Aug  1 04:02:10 ns1 syslogd 1.4-0: restart.
+Aug  1 04:02:10 ns1 syslogd 1.4-0: restart.
+Aug  1 04:02:10 ns1 syslogd 1.4-0: restart.
+Aug  1 04:02:10 ns1 syslogd 1.4-0: restart.
+Aug  1 04:13:48 ns1 ftpd[9258]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:13:59 ns1 xinetd[9261]: Bad line received from identity server at 210.49.95.135: 4196 
+Aug  1 04:13:59 ns1 ftpd[9261]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:13:59 ns1 xinetd[9259]: Bad line received from identity server at 210.49.95.135: 4194 
+Aug  1 04:13:59 ns1 ftpd[9259]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:00 ns1 xinetd[9262]: Bad line received from identity server at 210.49.95.135: 4197 
+Aug  1 04:14:00 ns1 ftpd[9262]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:01 ns1 xinetd[9260]: Bad line received from identity server at 210.49.95.135: 4195 
+Aug  1 04:14:01 ns1 ftpd[9260]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:01 ns1 xinetd[9263]: Bad line received from identity server at 210.49.95.135: 4198 
+Aug  1 04:14:01 ns1 ftpd[9263]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:02 ns1 xinetd[9266]: Bad line received from identity server at 210.49.95.135: 4221 
+Aug  1 04:14:02 ns1 ftpd[9266]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:02 ns1 xinetd[9264]: Bad line received from identity server at 210.49.95.135: 4217 
+Aug  1 04:14:02 ns1 ftpd[9264]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:02 ns1 xinetd[9267]: Bad line received from identity server at 210.49.95.135: 4222 
+Aug  1 04:14:02 ns1 ftpd[9267]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:02 ns1 xinetd[9265]: Bad line received from identity server at 210.49.95.135: 4200 
+Aug  1 04:14:02 ns1 ftpd[9265]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:03 ns1 xinetd[9268]: Bad line received from identity server at 210.49.95.135: 4229 
+Aug  1 04:14:03 ns1 ftpd[9268]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:03 ns1 xinetd[9270]: Bad line received from identity server at 210.49.95.135: 4230 
+Aug  1 04:14:03 ns1 ftpd[9270]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:06 ns1 xinetd[9269]: Bad line received from identity server at 210.49.95.135: 4231 
+Aug  1 04:14:06 ns1 ftpd[9269]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:13 ns1 ftpd[9258]: FTP session closed
+Aug  1 04:14:17 ns1 ftpd[9271]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:17 ns1 ftpd[9272]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:17 ns1 ftpd[9273]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:17 ns1 ftpd[9274]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:17 ns1 ftpd[9275]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 04:14:31 ns1 ftpd[9261]: FTP session closed
+Aug  1 04:14:32 ns1 ftpd[9259]: FTP session closed
+Aug  1 04:14:33 ns1 ftpd[9262]: FTP session closed
+Aug  1 04:14:33 ns1 ftpd[9260]: FTP session closed
+Aug  1 04:14:33 ns1 ftpd[9263]: FTP session closed
+Aug  1 04:14:34 ns1 ftpd[9266]: FTP session closed
+Aug  1 04:14:34 ns1 ftpd[9264]: FTP session closed
+Aug  1 04:14:35 ns1 ftpd[9265]: FTP session closed
+Aug  1 04:14:35 ns1 ftpd[9267]: FTP session closed
+Aug  1 04:14:35 ns1 ftpd[9268]: FTP session closed
+Aug  1 04:14:35 ns1 ftpd[9270]: FTP session closed
+Aug  1 04:14:38 ns1 ftpd[9269]: FTP session closed
+Aug  1 04:14:49 ns1 ftpd[9272]: FTP session closed
+Aug  1 04:14:49 ns1 ftpd[9271]: FTP session closed
+Aug  1 04:14:49 ns1 ftpd[9273]: FTP session closed
+Aug  1 04:14:49 ns1 ftpd[9274]: FTP session closed
+Aug  1 04:14:49 ns1 ftpd[9275]: FTP session closed
+Aug  1 07:44:23 ns1 telnetd[5467]: ttloop: read: Connection reset by peer 
+Aug  1 10:00:13 ns1 telnetd[5203]: ttloop: read: Connection reset by peer 
+Aug  1 12:35:24 ns1 ftpd[17214]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17226]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17225]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17224]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17223]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17222]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17221]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17219]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17218]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17216]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17215]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17220]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:25 ns1 ftpd[17217]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:54 ns1 ftpd[17228]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:54 ns1 ftpd[17231]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:54 ns1 ftpd[17230]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:54 ns1 ftpd[17229]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:54 ns1 ftpd[17227]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:54 ns1 ftpd[17233]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:54 ns1 ftpd[17232]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:54 ns1 ftpd[17234]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:55 ns1 ftpd[17235]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 12:35:55 ns1 ftpd[17214]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17222]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17216]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17226]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17215]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17225]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17223]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17221]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17219]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17217]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17220]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17218]: FTP session closed
+Aug  1 12:36:03 ns1 ftpd[17224]: FTP session closed
+Aug  1 12:36:15 ns1 ftpd[17231]: FTP session closed
+Aug  1 12:36:18 ns1 ftpd[17228]: FTP session closed
+Aug  1 12:36:19 ns1 ftpd[17227]: FTP session closed
+Aug  1 12:36:19 ns1 ftpd[17230]: FTP session closed
+Aug  1 12:36:19 ns1 ftpd[17232]: FTP session closed
+Aug  1 12:36:19 ns1 ftpd[17234]: FTP session closed
+Aug  1 12:36:19 ns1 ftpd[17233]: FTP session closed
+Aug  1 12:36:19 ns1 ftpd[17229]: FTP session closed
+Aug  1 12:36:19 ns1 ftpd[17235]: FTP session closed
+Aug  1 21:09:46 ns1 ftpd[18170]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18168]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18167]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18166]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18169]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18175]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18178]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18177]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18173]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18174]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18172]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:09:46 ns1 ftpd[18171]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:04 ns1 ftpd[18167]: FTP session closed
+Aug  1 21:10:10 ns1 ftpd[18168]: FTP session closed
+Aug  1 21:10:11 ns1 ftpd[18173]: FTP session closed
+Aug  1 21:10:11 ns1 ftpd[18177]: FTP session closed
+Aug  1 21:10:11 ns1 ftpd[18169]: FTP session closed
+Aug  1 21:10:11 ns1 ftpd[18178]: FTP session closed
+Aug  1 21:10:12 ns1 ftpd[18171]: FTP session closed
+Aug  1 21:10:12 ns1 ftpd[18166]: FTP session closed
+Aug  1 21:10:12 ns1 ftpd[18172]: FTP session closed
+Aug  1 21:10:12 ns1 ftpd[18170]: FTP session closed
+Aug  1 21:10:15 ns1 ftpd[18176]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:15 ns1 ftpd[18180]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:15 ns1 ftpd[18184]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:15 ns1 ftpd[18183]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:16 ns1 ftpd[18182]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:16 ns1 ftpd[18181]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:16 ns1 ftpd[18179]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:16 ns1 ftpd[18186]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:16 ns1 ftpd[18185]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:16 ns1 ftpd[18187]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  1 21:10:22 ns1 ftpd[18174]: FTP session closed
+Aug  1 21:10:22 ns1 ftpd[18175]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18180]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18176]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18179]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18184]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18183]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18185]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18182]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18181]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18186]: FTP session closed
+Aug  1 21:10:40 ns1 ftpd[18187]: FTP session closed
+Aug  2 01:20:31 ns1 ftpd[18719]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18718]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18717]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18716]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18722]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18721]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18720]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18714]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18713]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18711]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18710]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18712]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:20:31 ns1 ftpd[18715]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18724]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18727]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18726]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18725]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18723]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18729]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18728]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18730]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18732]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18731]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 01:21:01 ns1 ftpd[18710]: FTP session closed
+Aug  2 01:21:07 ns1 ftpd[18718]: FTP session closed
+Aug  2 01:21:09 ns1 ftpd[18722]: FTP session closed
+Aug  2 01:21:09 ns1 ftpd[18714]: FTP session closed
+Aug  2 01:21:09 ns1 ftpd[18719]: FTP session closed
+Aug  2 01:21:09 ns1 ftpd[18717]: FTP session closed
+Aug  2 01:21:09 ns1 ftpd[18713]: FTP session closed
+Aug  2 01:21:09 ns1 ftpd[18720]: FTP session closed
+Aug  2 01:21:09 ns1 ftpd[18711]: FTP session closed
+Aug  2 01:21:09 ns1 ftpd[18716]: FTP session closed
+Aug  2 01:21:09 ns1 ftpd[18721]: FTP session closed
+Aug  2 01:21:10 ns1 ftpd[18715]: FTP session closed
+Aug  2 01:21:10 ns1 ftpd[18712]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18724]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18723]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18729]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18726]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18727]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18728]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18725]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18730]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18732]: FTP session closed
+Aug  2 01:21:25 ns1 ftpd[18731]: FTP session closed
+Aug  2 10:42:24 ns1 samba(pam_unix)[19695]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19694]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19693]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19696]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19697]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19698]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19699]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19700]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19702]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19704]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19703]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19705]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19706]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19707]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19708]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:24 ns1 samba(pam_unix)[19709]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:25 ns1 samba(pam_unix)[19710]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:27 ns1 samba(pam_unix)[19701]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19711]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19695]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19695]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19694]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19694]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19693]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19693]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19696]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19696]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19697]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19697]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19698]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19698]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19699]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19699]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19700]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19700]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19702]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19702]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19704]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19704]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19703]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19703]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19705]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19705]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19706]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19706]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19707]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19707]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19708]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19708]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19709]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19709]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19710]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:29 ns1 samba(pam_unix)[19710]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:31 ns1 samba(pam_unix)[19712]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:31 ns1 samba(pam_unix)[19713]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:31 ns1 samba(pam_unix)[19714]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:31 ns1 samba(pam_unix)[19715]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:32 ns1 samba(pam_unix)[19701]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:32 ns1 samba(pam_unix)[19701]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:33 ns1 samba(pam_unix)[19711]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:33 ns1 samba(pam_unix)[19711]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:33 ns1 samba(pam_unix)[19695]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:33 ns1 samba(pam_unix)[19694]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:33 ns1 samba(pam_unix)[19693]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19696]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19697]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19698]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19699]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19700]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19702]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19704]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19703]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19705]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19706]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19707]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19708]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19709]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:34 ns1 samba(pam_unix)[19710]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:36 ns1 samba(pam_unix)[19712]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:36 ns1 samba(pam_unix)[19712]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:36 ns1 samba(pam_unix)[19713]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:36 ns1 samba(pam_unix)[19713]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:36 ns1 samba(pam_unix)[19714]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:36 ns1 samba(pam_unix)[19714]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:36 ns1 samba(pam_unix)[19715]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:36 ns1 samba(pam_unix)[19715]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:36 ns1 samba(pam_unix)[19701]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:38 ns1 samba(pam_unix)[19711]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:40 ns1 samba(pam_unix)[19712]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:40 ns1 samba(pam_unix)[19713]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:40 ns1 samba(pam_unix)[19714]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 10:42:41 ns1 samba(pam_unix)[19715]: 1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody
+Aug  2 19:56:16 ns1 ftpd[20669]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:16 ns1 ftpd[20670]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:16 ns1 ftpd[20671]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20672]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20676]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20675]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20674]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20673]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20679]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20677]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20678]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20680]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:17 ns1 ftpd[20681]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:42 ns1 ftpd[20678]: FTP session closed
+Aug  2 19:56:42 ns1 ftpd[20680]: FTP session closed
+Aug  2 19:56:42 ns1 ftpd[20681]: FTP session closed
+Aug  2 19:56:42 ns1 ftpd[20679]: FTP session closed
+Aug  2 19:56:42 ns1 ftpd[20677]: FTP session closed
+Aug  2 19:56:48 ns1 ftpd[20682]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:48 ns1 ftpd[20684]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:48 ns1 ftpd[20683]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:48 ns1 ftpd[20687]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:48 ns1 ftpd[20686]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:48 ns1 ftpd[20685]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:48 ns1 ftpd[20688]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:48 ns1 ftpd[20690]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:48 ns1 ftpd[20689]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:48 ns1 ftpd[20691]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 19:56:55 ns1 ftpd[20669]: FTP session closed
+Aug  2 19:56:55 ns1 ftpd[20670]: FTP session closed
+Aug  2 19:56:55 ns1 ftpd[20671]: FTP session closed
+Aug  2 19:56:55 ns1 ftpd[20672]: FTP session closed
+Aug  2 19:56:55 ns1 ftpd[20674]: FTP session closed
+Aug  2 19:56:55 ns1 ftpd[20673]: FTP session closed
+Aug  2 19:56:55 ns1 ftpd[20675]: FTP session closed
+Aug  2 19:56:55 ns1 ftpd[20676]: FTP session closed
+Aug  2 19:57:04 ns1 ftpd[20685]: FTP session closed
+Aug  2 19:57:12 ns1 ftpd[20682]: FTP session closed
+Aug  2 19:57:12 ns1 ftpd[20684]: FTP session closed
+Aug  2 19:57:12 ns1 ftpd[20683]: FTP session closed
+Aug  2 19:57:12 ns1 ftpd[20686]: FTP session closed
+Aug  2 19:57:12 ns1 ftpd[20687]: FTP session closed
+Aug  2 19:57:12 ns1 ftpd[20688]: FTP session closed
+Aug  2 19:57:12 ns1 ftpd[20690]: FTP session closed
+Aug  2 19:57:12 ns1 ftpd[20689]: FTP session closed
+Aug  2 19:57:12 ns1 ftpd[20691]: FTP session closed
+Aug  2 23:09:40 ns1 ftpd[20853]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:09:40 ns1 ftpd[20852]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:09:40 ns1 ftpd[20851]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20845]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20850]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20848]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20846]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20843]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20842]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20841]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20856]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20855]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20854]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20849]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20847]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20844]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20857]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20859]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20862]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20858]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20861]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20860]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:07 ns1 ftpd[20863]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  2 23:10:13 ns1 ftpd[20853]: FTP session closed
+Aug  2 23:10:13 ns1 ftpd[20852]: FTP session closed
+Aug  2 23:10:13 ns1 ftpd[20851]: FTP session closed
+Aug  2 23:10:32 ns1 ftpd[20841]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20850]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20846]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20842]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20845]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20843]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20848]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20847]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20857]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20854]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20844]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20859]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20856]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20855]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20849]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20858]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20861]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20860]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20862]: FTP session closed
+Aug  2 23:10:40 ns1 ftpd[20863]: FTP session closed
+Aug  3 04:07:54 ns1 ftpd[21183]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21184]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21189]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21190]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21188]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21185]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21182]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21186]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21187]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21192]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21191]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21194]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:07:54 ns1 ftpd[21193]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:08:24 ns1 ftpd[21196]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:08:24 ns1 ftpd[21195]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:08:24 ns1 ftpd[21198]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:08:24 ns1 ftpd[21197]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:08:24 ns1 ftpd[21199]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:08:24 ns1 ftpd[21200]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 04:08:25 ns1 ftpd[21182]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21189]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21188]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21187]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21184]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21186]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21183]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21185]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21193]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21194]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21190]: FTP session closed
+Aug  3 04:08:33 ns1 ftpd[21191]: FTP session closed
+Aug  3 04:08:34 ns1 ftpd[21192]: FTP session closed
+Aug  3 04:08:48 ns1 ftpd[21196]: FTP session closed
+Aug  3 04:08:48 ns1 ftpd[21195]: FTP session closed
+Aug  3 04:08:48 ns1 ftpd[21199]: FTP session closed
+Aug  3 04:08:48 ns1 ftpd[21197]: FTP session closed
+Aug  3 04:08:48 ns1 ftpd[21198]: FTP session closed
+Aug  3 04:08:49 ns1 ftpd[21200]: FTP session closed
+Aug  3 07:25:02 ns1 ftpd[21291]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21290]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21293]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21302]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21301]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21300]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21299]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21298]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21297]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21296]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21294]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21292]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:02 ns1 ftpd[21295]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:31 ns1 ftpd[21304]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:31 ns1 ftpd[21310]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:31 ns1 ftpd[21312]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:31 ns1 ftpd[21306]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:31 ns1 ftpd[21305]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:31 ns1 ftpd[21303]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:31 ns1 ftpd[21307]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:31 ns1 ftpd[21309]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:32 ns1 ftpd[21308]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:32 ns1 ftpd[21311]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 07:25:32 ns1 ftpd[21290]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21291]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21293]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21295]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21298]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21300]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21296]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21302]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21301]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21299]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21294]: FTP session closed
+Aug  3 07:25:40 ns1 ftpd[21297]: FTP session closed
+Aug  3 07:25:41 ns1 ftpd[21292]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21304]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21305]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21306]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21303]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21308]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21309]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21307]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21310]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21311]: FTP session closed
+Aug  3 07:25:56 ns1 ftpd[21312]: FTP session closed
+Aug  3 17:18:25 ns1 ftpd[22950]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22952]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22953]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22954]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22957]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22959]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22961]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22963]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22964]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22966]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22969]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22970]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22960]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22958]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22956]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22955]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22951]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22949]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22967]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22962]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22965]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22968]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:25 ns1 ftpd[22971]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  3 17:18:50 ns1 ftpd[22949]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22953]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22954]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22951]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22956]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22957]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22950]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22952]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22958]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22967]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22961]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22959]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22963]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22964]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22966]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22962]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22955]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22970]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22969]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22968]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22965]: FTP session closed
+Aug  3 17:18:58 ns1 ftpd[22971]: FTP session closed
+Aug  3 17:18:59 ns1 ftpd[22960]: FTP session closed
+Aug  3 20:16:37 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Y÷ÿ¿^Y÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿^[÷ÿ¿^[÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%236x%n%137x%n%10x%n%192x%n\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Aug  3 20:16:37 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Y÷ÿ¿^Y÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿^[÷ÿ¿^[÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%236x%n%137x%n%10x%n%192x%n\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Aug  3 20:16:38 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Y÷ÿ¿^Y÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿^[÷ÿ¿^[÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%236x%n%137x%n%10x%n%192x%n\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Aug  3 20:16:38 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Y÷ÿ¿^Y÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿^[÷ÿ¿^[÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%236x%n%137x%n%10x%n%192x%n\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Aug  3 20:16:39 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Y÷ÿ¿^Y÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿^[÷ÿ¿^[÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%236x%n%137x%n%10x%n%192x%n\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Aug  3 20:16:39 ns1 rpc.statd[501]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Y÷ÿ¿^Y÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿^[÷ÿ¿^[÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%236x%n%137x%n%10x%n%192x%n\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Aug  4 05:09:32 ns1 ftpd[32425]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32428]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32424]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32423]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32431]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32433]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32422]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32421]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32426]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32430]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32427]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32429]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:32 ns1 ftpd[32432]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:09:49 ns1 ftpd[32421]: FTP session closed
+Aug  4 05:09:57 ns1 ftpd[32425]: FTP session closed
+Aug  4 05:09:57 ns1 ftpd[32426]: FTP session closed
+Aug  4 05:09:57 ns1 ftpd[32428]: FTP session closed
+Aug  4 05:09:57 ns1 ftpd[32430]: FTP session closed
+Aug  4 05:09:57 ns1 ftpd[32422]: FTP session closed
+Aug  4 05:09:57 ns1 ftpd[32427]: FTP session closed
+Aug  4 05:09:57 ns1 ftpd[32432]: FTP session closed
+Aug  4 05:09:59 ns1 ftpd[32431]: FTP session closed
+Aug  4 05:10:00 ns1 ftpd[32429]: FTP session closed
+Aug  4 05:10:01 ns1 ftpd[32434]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:10:01 ns1 ftpd[32436]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:10:01 ns1 ftpd[32435]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:10:01 ns1 ftpd[32439]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:10:01 ns1 ftpd[32437]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:10:01 ns1 ftpd[32438]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:10:01 ns1 ftpd[32440]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:10:01 ns1 ftpd[32441]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 05:10:10 ns1 ftpd[32424]: FTP session closed
+Aug  4 05:10:10 ns1 ftpd[32423]: FTP session closed
+Aug  4 05:10:10 ns1 ftpd[32433]: FTP session closed
+Aug  4 05:10:26 ns1 ftpd[32434]: FTP session closed
+Aug  4 05:10:26 ns1 ftpd[32436]: FTP session closed
+Aug  4 05:10:26 ns1 ftpd[32435]: FTP session closed
+Aug  4 05:10:26 ns1 ftpd[32437]: FTP session closed
+Aug  4 05:10:26 ns1 ftpd[32439]: FTP session closed
+Aug  4 05:10:26 ns1 ftpd[32438]: FTP session closed
+Aug  4 05:10:26 ns1 ftpd[32441]: FTP session closed
+Aug  4 05:10:26 ns1 ftpd[32440]: FTP session closed
+Aug  4 12:38:49 ns1 sshd(pam_unix)[1370]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:38:54 ns1 sshd(pam_unix)[1374]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:38:55 ns1 sshd(pam_unix)[1375]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:38:55 ns1 sshd(pam_unix)[1376]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:38:58 ns1 sshd(pam_unix)[1378]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:38:59 ns1 sshd(pam_unix)[1380]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:39:02 ns1 sshd(pam_unix)[1381]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:39:48 ns1 sshd(pam_unix)[1422]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:39:54 ns1 sshd(pam_unix)[1426]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:39:54 ns1 sshd(pam_unix)[1427]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:39:54 ns1 sshd(pam_unix)[1428]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:39:57 ns1 sshd(pam_unix)[1430]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:39:58 ns1 sshd(pam_unix)[1432]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:40:02 ns1 sshd(pam_unix)[1434]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:40:47 ns1 sshd(pam_unix)[1477]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:40:53 ns1 sshd(pam_unix)[1481]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:40:53 ns1 sshd(pam_unix)[1482]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:40:53 ns1 sshd(pam_unix)[1483]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:40:57 ns1 sshd(pam_unix)[1484]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:40:57 ns1 sshd(pam_unix)[1486]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:41:01 ns1 sshd(pam_unix)[1488]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 12:41:46 ns1 sshd(pam_unix)[1502]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ti511220a080-0682.bb.online.no  user=root
+Aug  4 14:30:45 ns1 ftpd[2188]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2186]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2187]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2189]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2190]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2191]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2195]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2192]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2194]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2193]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2196]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2197]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:30:45 ns1 ftpd[2198]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 14:31:18 ns1 ftpd[2186]: FTP session closed
+Aug  4 14:31:18 ns1 ftpd[2192]: FTP session closed
+Aug  4 14:31:18 ns1 ftpd[2191]: FTP session closed
+Aug  4 14:31:18 ns1 ftpd[2190]: FTP session closed
+Aug  4 14:31:18 ns1 ftpd[2194]: FTP session closed
+Aug  4 14:31:18 ns1 ftpd[2195]: FTP session closed
+Aug  4 14:31:18 ns1 ftpd[2193]: FTP session closed
+Aug  4 14:31:19 ns1 ftpd[2187]: FTP session closed
+Aug  4 14:31:19 ns1 ftpd[2196]: FTP session closed
+Aug  4 14:31:19 ns1 ftpd[2188]: FTP session closed
+Aug  4 14:31:19 ns1 ftpd[2189]: FTP session closed
+Aug  4 14:31:19 ns1 ftpd[2197]: FTP session closed
+Aug  4 14:31:19 ns1 ftpd[2198]: FTP session closed
+Aug  4 21:40:25 ns1 ftpd[3605]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3604]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3603]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3608]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3607]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3606]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3615]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3613]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3612]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3611]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3610]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3609]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:25 ns1 ftpd[3614]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:44 ns1 ftpd[3604]: FTP session closed
+Aug  4 21:40:49 ns1 ftpd[3608]: FTP session closed
+Aug  4 21:40:49 ns1 ftpd[3603]: FTP session closed
+Aug  4 21:40:49 ns1 ftpd[3606]: FTP session closed
+Aug  4 21:40:49 ns1 ftpd[3607]: FTP session closed
+Aug  4 21:40:50 ns1 ftpd[3612]: FTP session closed
+Aug  4 21:40:50 ns1 ftpd[3610]: FTP session closed
+Aug  4 21:40:50 ns1 ftpd[3615]: FTP session closed
+Aug  4 21:40:50 ns1 ftpd[3614]: FTP session closed
+Aug  4 21:40:52 ns1 ftpd[3609]: FTP session closed
+Aug  4 21:40:52 ns1 ftpd[3613]: FTP session closed
+Aug  4 21:40:52 ns1 ftpd[3605]: FTP session closed
+Aug  4 21:40:52 ns1 ftpd[3611]: FTP session closed
+Aug  4 21:40:54 ns1 ftpd[3618]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:54 ns1 ftpd[3616]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:54 ns1 ftpd[3621]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:54 ns1 ftpd[3619]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:54 ns1 ftpd[3623]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:54 ns1 ftpd[3622]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:54 ns1 ftpd[3617]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:54 ns1 ftpd[3620]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:40:54 ns1 ftpd[3624]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 21:41:19 ns1 ftpd[3616]: FTP session closed
+Aug  4 21:41:19 ns1 ftpd[3618]: FTP session closed
+Aug  4 21:41:19 ns1 ftpd[3617]: FTP session closed
+Aug  4 21:41:19 ns1 ftpd[3620]: FTP session closed
+Aug  4 21:41:19 ns1 ftpd[3621]: FTP session closed
+Aug  4 21:41:19 ns1 ftpd[3619]: FTP session closed
+Aug  4 21:41:19 ns1 ftpd[3622]: FTP session closed
+Aug  4 21:41:19 ns1 ftpd[3623]: FTP session closed
+Aug  4 21:41:19 ns1 ftpd[3624]: FTP session closed
+Aug  4 22:00:12 ns1 ftpd[3633]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:12 ns1 ftpd[3632]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:12 ns1 ftpd[3631]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:12 ns1 ftpd[3630]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:28 ns1 ftpd[3630]: FTP session closed
+Aug  4 22:00:36 ns1 ftpd[3632]: FTP session closed
+Aug  4 22:00:36 ns1 ftpd[3631]: FTP session closed
+Aug  4 22:00:36 ns1 ftpd[3633]: FTP session closed
+Aug  4 22:00:41 ns1 ftpd[3637]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:41 ns1 ftpd[3638]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:41 ns1 ftpd[3635]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:41 ns1 ftpd[3634]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:41 ns1 ftpd[3636]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:41 ns1 ftpd[3640]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:41 ns1 ftpd[3643]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:41 ns1 ftpd[3641]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:41 ns1 ftpd[3646]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:42 ns1 ftpd[3645]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:42 ns1 ftpd[3644]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:42 ns1 ftpd[3639]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:42 ns1 ftpd[3642]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:42 ns1 ftpd[3648]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:42 ns1 ftpd[3647]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:00:42 ns1 ftpd[3649]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  4 22:01:03 ns1 ftpd[3638]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3635]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3640]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3641]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3643]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3634]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3637]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3645]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3646]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3644]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3636]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3642]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3648]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3647]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3639]: FTP session closed
+Aug  4 22:01:06 ns1 ftpd[3649]: FTP session closed
+Aug  6 06:34:13 ns1 ftpd[8147]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:13 ns1 ftpd[8146]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:13 ns1 ftpd[8145]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:13 ns1 ftpd[8144]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:13 ns1 ftpd[8148]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:23 ns1 ftpd[8150]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:23 ns1 ftpd[8149]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:23 ns1 ftpd[8152]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:23 ns1 ftpd[8151]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:23 ns1 ftpd[8153]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:33 ns1 ftpd[8154]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:33 ns1 ftpd[8155]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:33 ns1 ftpd[8156]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 06:34:43 ns1 ftpd[8144]: FTP session closed
+Aug  6 06:34:43 ns1 ftpd[8146]: FTP session closed
+Aug  6 06:34:46 ns1 ftpd[8147]: FTP session closed
+Aug  6 06:34:46 ns1 ftpd[8145]: FTP session closed
+Aug  6 06:34:46 ns1 ftpd[8148]: FTP session closed
+Aug  6 06:34:55 ns1 ftpd[8151]: FTP session closed
+Aug  6 06:34:55 ns1 ftpd[8150]: FTP session closed
+Aug  6 06:34:55 ns1 ftpd[8152]: FTP session closed
+Aug  6 06:34:55 ns1 ftpd[8149]: FTP session closed
+Aug  6 06:34:56 ns1 ftpd[8153]: FTP session closed
+Aug  6 06:35:05 ns1 ftpd[8154]: FTP session closed
+Aug  6 06:35:05 ns1 ftpd[8155]: FTP session closed
+Aug  6 06:35:05 ns1 ftpd[8156]: FTP session closed
+Aug  6 15:18:03 ns1 ftpd[8683]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:03 ns1 ftpd[8684]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:03 ns1 ftpd[8682]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:03 ns1 ftpd[8681]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:03 ns1 ftpd[8680]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:06 ns1 ftpd[8685]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:09 ns1 ftpd[8686]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:11 ns1 ftpd[8687]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:11 ns1 ftpd[8691]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:11 ns1 ftpd[8688]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:11 ns1 ftpd[8689]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:11 ns1 ftpd[8690]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  6 15:18:27 ns1 ftpd[8680]: FTP session closed
+Aug  6 15:18:32 ns1 ftpd[8682]: FTP session closed
+Aug  6 15:18:32 ns1 ftpd[8683]: FTP session closed
+Aug  6 15:18:33 ns1 ftpd[8684]: FTP session closed
+Aug  6 15:18:33 ns1 ftpd[8681]: FTP session closed
+Aug  6 15:18:35 ns1 ftpd[8685]: FTP session closed
+Aug  6 15:18:42 ns1 ftpd[8686]: FTP session closed
+Aug  6 15:18:44 ns1 ftpd[8687]: FTP session closed
+Aug  6 15:18:44 ns1 ftpd[8688]: FTP session closed
+Aug  6 15:18:44 ns1 ftpd[8690]: FTP session closed
+Aug  6 15:18:44 ns1 ftpd[8691]: FTP session closed
+Aug  6 15:18:44 ns1 ftpd[8689]: FTP session closed
+Aug  7 08:37:37 ns1 telnetd[9459]: ttloop: peer died: EOF 
+Aug  7 08:41:03 ns1 telnetd[9463]: ttloop: peer died: EOF 
+Aug  7 09:13:54 ns1 telnetd[9518]: ttloop: peer died: EOF 
+Aug  7 09:15:16 ns1 telnetd[9524]: ttloop: peer died: EOF 
+Aug  7 10:25:11 ns1 telnetd[9525]: ttloop: read: Connection reset by peer 
+Aug  7 10:40:00 ns1 telnetd[10060]: ttloop: peer died: EOF 
+Aug  7 10:41:04 ns1 telnetd[9464]: ttloop: read: Connection reset by peer 
+Aug  7 10:44:56 ns1 telnetd[10139]: ttloop: peer died: EOF 
+Aug  7 11:10:40 ns1 telnetd[10485]: ttloop: peer died: EOF 
+Aug  7 11:42:29 ns1 telnetd[10877]: ttloop: peer died: EOF 
+Aug  7 11:48:13 ns1 telnetd[11016]: ttloop: peer died: EOF 
+Aug  7 12:04:04 ns1 telnetd[11362]: ttloop: peer died: EOF 
+Aug  7 12:08:38 ns1 telnetd[11409]: ttloop: peer died: EOF 
+Aug  7 12:09:51 ns1 telnetd[11422]: ttloop: peer died: EOF 
+Aug  7 12:11:51 ns1 telnetd[11449]: ttloop: peer died: EOF 
+Aug  7 12:42:20 ns1 telnetd[11675]: ttloop: peer died: EOF 
+Aug  7 12:51:16 ns1 telnetd[10061]: ttloop: read: Connection timed out 
+Aug  7 12:56:11 ns1 telnetd[10140]: ttloop: read: Connection timed out 
+Aug  7 13:04:07 ns1 telnetd[11450]: ttloop: read: Connection reset by peer 
+Aug  7 13:09:23 ns1 telnetd[11901]: ttloop: peer died: EOF 
+Aug  7 13:09:54 ns1 telnetd[11905]: ttloop: peer died: EOF 
+Aug  7 13:17:04 ns1 telnetd[11951]: ttloop: peer died: EOF 
+Aug  7 13:18:53 ns1 telnetd[11018]: ttloop: read: Connection reset by peer 
+Aug  7 13:19:29 ns1 telnetd[11983]: ttloop: peer died: EOF 
+Aug  7 13:20:26 ns1 telnetd[12003]: ttloop: peer died: EOF 
+Aug  7 13:21:56 ns1 telnetd[10486]: ttloop: read: Connection timed out 
+Aug  7 13:25:41 ns1 telnetd[12080]: ttloop: peer died: EOF 
+Aug  7 13:26:42 ns1 telnetd[12093]: ttloop: peer died: EOF 
+Aug  7 13:27:41 ns1 telnetd[12107]: ttloop: peer died: EOF 
+Aug  7 13:28:32 ns1 telnetd[12120]: ttloop: peer died: EOF 
+Aug  7 13:40:23 ns1 telnetd[12269]: ttloop: peer died: EOF 
+Aug  7 13:41:56 ns1 telnetd[12286]: ttloop: peer died: EOF 
+Aug  7 13:45:15 ns1 telnetd[10878]: ttloop: read: Connection reset by peer 
+Aug  7 13:47:43 ns1 telnetd[12341]: ttloop: peer died: EOF 
+Aug  7 13:54:51 ns1 telnetd[12398]: ttloop: peer died: EOF 
+Aug  7 13:57:44 ns1 telnetd[12414]: ttloop: peer died: EOF 
+Aug  7 13:58:26 ns1 telnetd[12418]: ttloop: peer died: EOF 
+Aug  7 14:04:05 ns1 telnetd[11363]: ttloop: read: Connection reset by peer 
+Aug  7 14:04:19 ns1 telnetd[12459]: ttloop: peer died: EOF 
+Aug  7 14:07:32 ns1 telnetd[12475]: ttloop: peer died: EOF 
+Aug  7 14:10:30 ns1 telnetd[12495]: ttloop: peer died: EOF 
+Aug  7 14:17:03 ns1 telnetd[12287]: ttloop: read: Connection reset by peer 
+Aug  7 14:21:00 ns1 telnetd[12560]: ttloop: peer died: EOF 
+Aug  7 14:21:19 ns1 telnetd[12419]: ttloop: read: Connection reset by peer 
+Aug  7 14:23:31 ns1 telnetd[12580]: ttloop: peer died: EOF 
+Aug  7 14:25:34 ns1 telnetd[12586]: ttloop: peer died: EOF 
+Aug  7 14:26:51 ns1 telnetd[12399]: ttloop: read: Connection reset by peer 
+Aug  7 14:26:51 ns1 telnetd[12496]: ttloop: read: Connection reset by peer 
+Aug  7 14:27:12 ns1 telnetd[12596]: ttloop: peer died: EOF 
+Aug  7 14:29:31 ns1 telnetd[12607]: ttloop: peer died: EOF 
+Aug  7 14:34:30 ns1 telnetd[12639]: ttloop: peer died: EOF 
+Aug  7 14:35:12 ns1 telnetd[12644]: ttloop: peer died: EOF 
+Aug  7 14:35:15 ns1 telnetd[12646]: ttloop: peer died: EOF 
+Aug  7 14:35:55 ns1 telnetd[12415]: ttloop: read: Connection reset by peer 
+Aug  7 14:46:02 ns1 telnetd[12476]: ttloop: read: Connection reset by peer 
+Aug  7 14:47:24 ns1 telnetd[12608]: ttloop: read: Connection reset by peer 
+Aug  7 14:49:58 ns1 telnetd[12647]: ttloop: read: Connection reset by peer 
+Aug  7 15:20:50 ns1 telnetd[11952]: ttloop: read: Connection reset by peer 
+Aug  7 15:26:43 ns1 telnetd[12094]: ttloop: read: Connection reset by peer 
+Aug  7 15:28:33 ns1 telnetd[12121]: ttloop: read: Connection reset by peer 
+Aug  7 16:11:12 ns1 telnetd[12597]: ttloop: read: Connection reset by peer 
+Aug  7 16:11:48 ns1 telnetd[12004]: ttloop: read: Connection reset by peer 
+Aug  7 16:16:13 ns1 sshd(pam_unix)[13062]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=65.39.171.249  user=root
+Aug  7 16:16:13 ns1 sshd(pam_unix)[13063]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=65.39.171.249  user=root
+Aug  7 16:19:54 ns1 telnetd[11410]: ttloop: read: Connection timed out 
+Aug  7 16:42:22 ns1 telnetd[11676]: ttloop: read: Connection reset by peer 
+Aug  7 16:48:53 ns1 telnetd[9460]: ttloop: read: Connection timed out 
+Aug  7 17:35:27 ns1 telnetd[12645]: ttloop: read: Connection reset by peer 
+Aug  7 17:38:57 ns1 telnetd[12108]: ttloop: read: Connection timed out 
+Aug  7 17:58:59 ns1 telnetd[12342]: ttloop: read: Connection timed out 
+Aug  7 18:21:08 ns1 telnetd[11423]: ttloop: read: Connection timed out 
+Aug  7 19:20:25 ns1 telnetd[11902]: ttloop: read: Connection timed out 
+Aug  7 21:26:59 ns1 telnetd[12081]: ttloop: read: Connection reset by peer 
+Aug  7 22:45:47 ns1 telnetd[12640]: ttloop: read: Connection timed out 
+Aug  7 23:30:46 ns1 telnetd[11985]: ttloop: read: Connection timed out 
+Aug  8 02:19:36 ns1 telnetd[12587]: ttloop: read: Connection reset by peer 
+Aug  8 02:21:04 ns1 telnetd[12561]: ttloop: read: Connection reset by peer 
+Aug  8 03:37:06 ns1 ftpd[14425]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14424]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14426]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14435]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14434]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14432]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14431]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14430]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14429]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14427]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14436]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14428]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:06 ns1 ftpd[14433]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:25 ns1 ftpd[14424]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14429]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14425]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14434]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14432]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14430]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14428]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14426]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14427]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14435]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14431]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14433]: FTP session closed
+Aug  8 03:37:33 ns1 ftpd[14436]: FTP session closed
+Aug  8 03:37:36 ns1 ftpd[14438]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:36 ns1 ftpd[14441]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:36 ns1 ftpd[14440]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:36 ns1 ftpd[14439]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:36 ns1 ftpd[14437]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:36 ns1 ftpd[14443]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:36 ns1 ftpd[14442]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:36 ns1 ftpd[14444]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:36 ns1 ftpd[14445]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:37:38 ns1 ftpd[14446]: wu-ftpd - TLS settings: control allow, client_cert allow, data allow
+Aug  8 03:38:00 ns1 ftpd[14438]: FTP session closed
+Aug  8 03:38:00 ns1 ftpd[14437]: FTP session closed
+Aug  8 03:38:00 ns1 ftpd[14443]: FTP session closed
+Aug  8 03:38:00 ns1 ftpd[14439]: FTP session closed
+Aug  8 03:38:00 ns1 ftpd[14441]: FTP session closed
+Aug  8 03:38:00 ns1 ftpd[14442]: FTP session closed
+Aug  8 03:38:00 ns1 ftpd[14440]: FTP session closed
+Aug  8 03:38:00 ns1 ftpd[14444]: FTP session closed
+Aug  8 03:38:00 ns1 ftpd[14445]: FTP session closed
+Aug  8 03:38:02 ns1 ftpd[14446]: FTP session closed

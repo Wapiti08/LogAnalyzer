@@ -1,0 +1,34 @@
+EventId,EventTemplate,Occurrences
+93db07cc,gkr-pam: unlocked login keyring,58
+104ec55d,pam_unix(cron:session): session opened for user root by (uid=0),140
+20fe0864,pam_unix(cron:session): session closed for user root,140
+4a29d288,"asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",18
+cf39805e,[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),16
+7aef767d,System is powering down.,6
+835560a8,New seat seat0.,6
+3bf8ba4b,Watching system buttons on   ,24
+d069e105,Watching system buttons on /dev/input/event7 (Logitech USB Receiver),6
+f12e6680,Watching system buttons on      ,18
+bb6b9e55,pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),6
+37ec3e93,pam_unix(systemd-user:session): session opened for user  by (uid=0),12
+7c473141,New session  of user ,12
+57d21f6a,"Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)",12
+65359baa,pam_unix(gdm-password:session): session opened for user intern by (uid=0),6
+a4e5952b,pam_unix(polkit-1:session): session opened for user root by (uid=1000),8
+5de9616b,intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],8
+a1ef0b16,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,18
+087c8d6d,message repeated  times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern],4
+b2abba90,intern : TTY=pts/0 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/bin/cp -r . ../repos/jsoc-machine-learning/,1
+1b3c4b91,pam_unix(sudo:session): session opened for user root by (uid=0),47
+449b71b3,pam_unix(sudo:session): session closed for user root,47
+b8fe36c2,intern :  ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git add --all,2
+596cc0c8,intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all files are added from ML,1
+dc23202f,intern :  ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git ,5
+184a7ba0,intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git push --set-upstream origin master,1
+e046ae1f,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/bin/cp -r data derby.log For test future research Log format Process metastore_db package.xml __pycache__ README.md Research Articles spark System log Detection venv Web Security Detection Webshell Detection XSS Detection ../repos/jsoc-machine-learning/,1
+52ee0da2,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all the files are added from ML,1
+2d605606,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git pull https://bitbucket.org/Newt08/jsoc-machine-learning/src/master/ master,2
+58f835fd,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,30
+28af965e,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php --help,1
+a4ad45c5,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ;  install ,2
+e89f039f,"Delay lock is active (UID 1000/intern, PID 3991/gnome-session-b) but inhibitor timeout is reached.",1

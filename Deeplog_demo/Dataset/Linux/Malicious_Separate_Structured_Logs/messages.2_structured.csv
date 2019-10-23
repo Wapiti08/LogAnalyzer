@@ -1,0 +1,813 @@
+LineId,Month,Date,Time,Level,Component,PID,Content,EventId,EventTemplate
+1,Sep,26,04:02:20,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+2,Sep,26,04:02:20,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+3,Sep,26,04:02:20,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+4,Sep,26,07:16:23,ns1,ftpd,26002,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+5,Sep,26,07:16:23,ns1,ftpd,26000,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+6,Sep,26,07:16:23,ns1,ftpd,26003,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+7,Sep,26,07:16:23,ns1,ftpd,25998,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+8,Sep,26,07:16:23,ns1,ftpd,25999,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+9,Sep,26,07:16:23,ns1,ftpd,25991,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+10,Sep,26,07:16:23,ns1,ftpd,25989,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+11,Sep,26,07:16:23,ns1,ftpd,25988,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+12,Sep,26,07:16:23,ns1,ftpd,25994,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+13,Sep,26,07:16:23,ns1,ftpd,26001,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+14,Sep,26,07:16:23,ns1,ftpd,25995,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+15,Sep,26,07:16:23,ns1,ftpd,25996,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+16,Sep,26,07:16:23,ns1,ftpd,25997,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+17,Sep,26,07:16:23,ns1,ftpd,25990,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+18,Sep,26,07:16:23,ns1,ftpd,25993,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+19,Sep,26,07:16:23,ns1,ftpd,26004,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+20,Sep,26,07:16:23,ns1,ftpd,25992,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+21,Sep,26,07:16:23,ns1,ftpd,26005,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+22,Sep,26,07:16:23,ns1,ftpd,26006,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+23,Sep,26,07:16:23,ns1,ftpd,26007,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+24,Sep,26,07:16:23,ns1,ftpd,26008,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+25,Sep,26,07:16:23,ns1,ftpd,26009,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+26,Sep,26,07:16:23,ns1,ftpd,26010,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+27,Sep,26,07:18:15,ns1,ftpd,25988,FTP session closed,3262681b,FTP session closed
+28,Sep,26,07:19:11,ns1,ftpd,26000,FTP session closed,3262681b,FTP session closed
+29,Sep,26,07:19:11,ns1,ftpd,25994,FTP session closed,3262681b,FTP session closed
+30,Sep,26,07:19:11,ns1,ftpd,25999,FTP session closed,3262681b,FTP session closed
+31,Sep,26,07:19:11,ns1,ftpd,26002,FTP session closed,3262681b,FTP session closed
+32,Sep,26,07:19:11,ns1,ftpd,25995,FTP session closed,3262681b,FTP session closed
+33,Sep,26,07:19:11,ns1,ftpd,25998,FTP session closed,3262681b,FTP session closed
+34,Sep,26,07:19:11,ns1,ftpd,25996,FTP session closed,3262681b,FTP session closed
+35,Sep,26,07:19:11,ns1,ftpd,25993,FTP session closed,3262681b,FTP session closed
+36,Sep,26,07:19:11,ns1,ftpd,25997,FTP session closed,3262681b,FTP session closed
+37,Sep,26,07:19:11,ns1,ftpd,26006,FTP session closed,3262681b,FTP session closed
+38,Sep,26,07:19:11,ns1,ftpd,25990,FTP session closed,3262681b,FTP session closed
+39,Sep,26,07:19:11,ns1,ftpd,26004,FTP session closed,3262681b,FTP session closed
+40,Sep,26,07:19:11,ns1,ftpd,26003,FTP session closed,3262681b,FTP session closed
+41,Sep,26,07:19:11,ns1,ftpd,26001,FTP session closed,3262681b,FTP session closed
+42,Sep,26,07:19:12,ns1,ftpd,25989,FTP session closed,3262681b,FTP session closed
+43,Sep,26,07:19:12,ns1,ftpd,25991,FTP session closed,3262681b,FTP session closed
+44,Sep,26,07:19:12,ns1,ftpd,26007,FTP session closed,3262681b,FTP session closed
+45,Sep,26,07:19:12,ns1,ftpd,26005,FTP session closed,3262681b,FTP session closed
+46,Sep,26,07:19:12,ns1,ftpd,25992,FTP session closed,3262681b,FTP session closed
+47,Sep,26,07:19:12,ns1,ftpd,26009,FTP session closed,3262681b,FTP session closed
+48,Sep,26,07:19:12,ns1,ftpd,26008,FTP session closed,3262681b,FTP session closed
+49,Sep,26,07:19:12,ns1,ftpd,26010,FTP session closed,3262681b,FTP session closed
+50,Sep,26,10:48:34,ns1,ftpd,26303,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+51,Sep,26,10:48:34,ns1,ftpd,26306,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+52,Sep,26,10:48:34,ns1,ftpd,26304,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+53,Sep,26,10:48:34,ns1,ftpd,26307,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+54,Sep,26,10:48:34,ns1,ftpd,26305,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+55,Sep,26,10:48:34,ns1,ftpd,26309,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+56,Sep,26,10:48:34,ns1,ftpd,26308,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+57,Sep,26,10:48:34,ns1,ftpd,26311,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+58,Sep,26,10:48:34,ns1,ftpd,26310,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+59,Sep,26,10:48:34,ns1,ftpd,26312,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+60,Sep,26,10:50:26,ns1,ftpd,26303,FTP session closed,3262681b,FTP session closed
+61,Sep,26,10:51:22,ns1,ftpd,26306,FTP session closed,3262681b,FTP session closed
+62,Sep,26,10:51:22,ns1,ftpd,26304,FTP session closed,3262681b,FTP session closed
+63,Sep,26,10:51:22,ns1,ftpd,26305,FTP session closed,3262681b,FTP session closed
+64,Sep,26,10:51:22,ns1,ftpd,26307,FTP session closed,3262681b,FTP session closed
+65,Sep,26,10:51:23,ns1,ftpd,26309,FTP session closed,3262681b,FTP session closed
+66,Sep,26,10:51:23,ns1,ftpd,26308,FTP session closed,3262681b,FTP session closed
+67,Sep,26,10:51:23,ns1,ftpd,26311,FTP session closed,3262681b,FTP session closed
+68,Sep,26,10:51:23,ns1,ftpd,26312,FTP session closed,3262681b,FTP session closed
+69,Sep,26,10:51:23,ns1,ftpd,26310,FTP session closed,3262681b,FTP session closed
+70,Sep,26,19:26:19,ns1,ftpd,5217,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+71,Sep,26,19:26:19,ns1,ftpd,5216,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+72,Sep,26,19:26:19,ns1,ftpd,5215,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+73,Sep,26,19:26:19,ns1,ftpd,5220,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+74,Sep,26,19:26:19,ns1,ftpd,5223,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+75,Sep,26,19:26:19,ns1,ftpd,5222,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+76,Sep,26,19:26:19,ns1,ftpd,5226,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+77,Sep,26,19:26:19,ns1,ftpd,5225,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+78,Sep,26,19:26:19,ns1,ftpd,5218,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+79,Sep,26,19:26:19,ns1,ftpd,5229,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+80,Sep,26,19:26:19,ns1,ftpd,5228,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+81,Sep,26,19:26:19,ns1,ftpd,5232,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+82,Sep,26,19:26:19,ns1,ftpd,5224,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+83,Sep,26,19:26:19,ns1,ftpd,5221,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+84,Sep,26,19:26:19,ns1,ftpd,5219,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+85,Sep,26,19:26:19,ns1,ftpd,5214,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+86,Sep,26,19:26:19,ns1,ftpd,5230,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+87,Sep,26,19:26:19,ns1,ftpd,5227,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+88,Sep,26,19:26:19,ns1,ftpd,5231,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+89,Sep,26,19:26:19,ns1,ftpd,5234,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+90,Sep,26,19:26:19,ns1,ftpd,5233,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+91,Sep,26,19:26:19,ns1,ftpd,5235,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+92,Sep,26,19:26:20,ns1,ftpd,5236,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+93,Sep,26,19:28:12,ns1,ftpd,5214,FTP session closed,3262681b,FTP session closed
+94,Sep,26,19:29:08,ns1,ftpd,5226,FTP session closed,3262681b,FTP session closed
+95,Sep,26,19:29:08,ns1,ftpd,5220,FTP session closed,3262681b,FTP session closed
+96,Sep,26,19:29:08,ns1,ftpd,5217,FTP session closed,3262681b,FTP session closed
+97,Sep,26,19:29:08,ns1,ftpd,5219,FTP session closed,3262681b,FTP session closed
+98,Sep,26,19:29:08,ns1,ftpd,5224,FTP session closed,3262681b,FTP session closed
+99,Sep,26,19:29:08,ns1,ftpd,5229,FTP session closed,3262681b,FTP session closed
+100,Sep,26,19:29:08,ns1,ftpd,5225,FTP session closed,3262681b,FTP session closed
+101,Sep,26,19:29:08,ns1,ftpd,5222,FTP session closed,3262681b,FTP session closed
+102,Sep,26,19:29:08,ns1,ftpd,5227,FTP session closed,3262681b,FTP session closed
+103,Sep,26,19:29:08,ns1,ftpd,5215,FTP session closed,3262681b,FTP session closed
+104,Sep,26,19:29:08,ns1,ftpd,5232,FTP session closed,3262681b,FTP session closed
+105,Sep,26,19:29:08,ns1,ftpd,5228,FTP session closed,3262681b,FTP session closed
+106,Sep,26,19:29:08,ns1,ftpd,5221,FTP session closed,3262681b,FTP session closed
+107,Sep,26,19:29:08,ns1,ftpd,5216,FTP session closed,3262681b,FTP session closed
+108,Sep,26,19:29:08,ns1,ftpd,5234,FTP session closed,3262681b,FTP session closed
+109,Sep,26,19:29:08,ns1,ftpd,5235,FTP session closed,3262681b,FTP session closed
+110,Sep,26,19:29:08,ns1,ftpd,5233,FTP session closed,3262681b,FTP session closed
+111,Sep,26,19:29:08,ns1,ftpd,5236,FTP session closed,3262681b,FTP session closed
+112,Sep,26,19:29:47,ns1,ftpd,5231,FTP session closed,3262681b,FTP session closed
+113,Sep,26,19:30:09,ns1,ftpd,5223,FTP session closed,3262681b,FTP session closed
+114,Sep,26,19:30:44,ns1,ftpd,5218,FTP session closed,3262681b,FTP session closed
+115,Sep,26,19:35:11,ns1,ftpd,5230,FTP session closed,3262681b,FTP session closed
+116,Sep,28,05:48:08,ns1,ucd-snmp,919,Received SNMP packet(s) from 63.121.146.30,e56ad209,Received SNMP packet(s) from <*>
+117,Sep,28,05:48:11,ns1,kernel,,hdc: Disabling (U)DMA for SAMSUNG CD-ROM SN-124,7ba63a9c,hdc: Disabling (U)DMA for SAMSUNG CD-ROM SN-124
+118,Sep,28,05:48:11,ns1,kernel,,"hdc: ATAPI 24X CD-ROM drive, 128kB Cache",d5deba85,"hdc: ATAPI 24X CD-ROM drive, 128kB Cache"
+119,Sep,28,05:48:11,ns1,kernel,,Uniform CD-ROM driver Revision: 3.12,ee8ff558,Uniform CD-ROM driver Revision: 3.12
+120,Sep,28,05:48:11,ns1,kernel,,cdrom: open failed.,918c58e2,cdrom: open failed.
+121,Sep,28,05:48:11,ns1,kernel,,SCSI subsystem driver Revision: 1.00,1aaf6fa6,SCSI subsystem driver Revision: 1.00
+122,Sep,28,05:48:11,ns1,kernel,,"end_request: I/O error, dev 02:00 (floppy), sector 0",fa5e9a95,"end_request: I/O error, dev 02:00 (floppy), sector 0"
+123,Sep,28,05:49:11,ns1,kernel,,cdrom: open failed.,918c58e2,cdrom: open failed.
+124,Sep,28,05:49:11,ns1,kernel,,"end_request: I/O error, dev 02:00 (floppy), sector 0",fa5e9a95,"end_request: I/O error, dev 02:00 (floppy), sector 0"
+125,Sep,28,05:50:13,ns1,kernel,,cdrom: open failed.,918c58e2,cdrom: open failed.
+126,Sep,28,05:50:13,ns1,kernel,,"end_request: I/O error, dev 02:00 (floppy), sector 0",fa5e9a95,"end_request: I/O error, dev 02:00 (floppy), sector 0"
+127,Sep,28,05:51:15,ns1,kernel,,cdrom: open failed.,918c58e2,cdrom: open failed.
+128,Sep,28,05:51:15,ns1,kernel,,"end_request: I/O error, dev 02:00 (floppy), sector 0",fa5e9a95,"end_request: I/O error, dev 02:00 (floppy), sector 0"
+129,Sep,28,05:52:17,ns1,kernel,,cdrom: open failed.,918c58e2,cdrom: open failed.
+130,Sep,28,05:52:17,ns1,kernel,,"end_request: I/O error, dev 02:00 (floppy), sector 0",fa5e9a95,"end_request: I/O error, dev 02:00 (floppy), sector 0"
+131,Sep,28,05:53:18,ns1,kernel,,cdrom: open failed.,918c58e2,cdrom: open failed.
+132,Sep,28,05:53:18,ns1,kernel,,"end_request: I/O error, dev 02:00 (floppy), sector 0",fa5e9a95,"end_request: I/O error, dev 02:00 (floppy), sector 0"
+133,Sep,28,05:54:20,ns1,kernel,,cdrom: open failed.,918c58e2,cdrom: open failed.
+134,Sep,28,05:54:20,ns1,kernel,,"end_request: I/O error, dev 02:00 (floppy), sector 0",fa5e9a95,"end_request: I/O error, dev 02:00 (floppy), sector 0"
+135,Sep,28,05:55:22,ns1,kernel,,cdrom: open failed.,918c58e2,cdrom: open failed.
+136,Sep,28,05:55:22,ns1,kernel,,"end_request: I/O error, dev 02:00 (floppy), sector 0",fa5e9a95,"end_request: I/O error, dev 02:00 (floppy), sector 0"
+137,Sep,28,06:06:54,ns1,kernel,,Process accounting paused,a194ff7e,Process accounting paused
+138,Sep,28,06:10:00,ns1,kernel,,Uniform CD-ROM driver unloaded,1cfd4e6b,Uniform CD-ROM driver unloaded
+139,Sep,28,06:46:32,ns1,ftpd,8813,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+140,Sep,28,06:46:32,ns1,ftpd,8814,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+141,Sep,28,06:49:20,ns1,ftpd,8813,FTP session closed,3262681b,FTP session closed
+142,Sep,28,06:49:20,ns1,ftpd,8814,FTP session closed,3262681b,FTP session closed
+143,Sep,28,08:39:43,ns1,login(pam_unix),23818,session opened for user root by LOGIN(uid=0),91036a8b,session opened for user root by LOGIN(uid=0)
+144,Sep,28,08:39:43,ns1,-- root,23818,ROOT LOGIN ON tty1,6b2fbdec,ROOT LOGIN ON tty1
+145,Sep,28,08:41:27,ns1,adduser,9211,"new group: name=test, gid=509",45921a40,"new group: name=test, gid=509"
+146,Sep,28,08:41:27,ns1,adduser,9211,"new user: name=test, uid=509, gid=509, home=/home/test, shell=/bin/bash",36fec876,"new user: name=test, uid=509, gid=509, home=/home/test, shell=/bin/bash"
+147,Sep,28,08:44:35,ns1,rc,,Stopping keytable:  succeeded,ba7eea3e,Stopping keytable: succeeded
+148,Sep,28,08:44:36,ns1,Font Server,791,terminating,c0393cd4,terminating
+149,Sep,28,08:44:37,ns1,xfs,,xfs shutdown succeeded,f0f15d83,xfs shutdown succeeded
+150,Sep,28,08:44:37,ns1,gpm,,gpm shutdown succeeded,dca49ef0,gpm shutdown succeeded
+151,Sep,28,08:44:38,ns1,httpd,,httpd shutdown succeeded,83308403,httpd shutdown succeeded
+152,Sep,28,08:44:39,ns1,squid,,Stopping squid:,a17b99aa,Stopping squid:
+153,Sep,28,08:44:40,ns1,squid,894,Squid Parent: child process 895 exited with status 0,3437b024,Squid Parent: child process 895 exited with status 0
+154,Sep,28,08:44:41,ns1,rc,,Stopping squid:  succeeded,f8ff1509,Stopping squid: succeeded
+155,Sep,28,08:44:41,ns1,sshd,,sshd -TERM succeeded,b717dcb2,sshd -TERM succeeded
+156,Sep,28,08:44:42,ns1,sendmail,,sendmail shutdown succeeded,b4c66d13,sendmail shutdown succeeded
+157,Sep,28,08:44:43,ns1,smb,,smbd shutdown succeeded,f57a83e6,smbd shutdown succeeded
+158,Sep,28,08:44:44,ns1,smb,,nmbd shutdown succeeded,c89e9872,nmbd shutdown succeeded
+159,Sep,28,08:44:44,ns1,named,908,shutting down,bd167261,shutting down
+160,Sep,28,08:44:44,ns1,named,908,no longer listening on 127.0.0.1#53,6d0a0066,no longer listening on <*>#53
+161,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.67#53,6d0a0066,no longer listening on <*>#53
+162,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.69#53,6d0a0066,no longer listening on <*>#53
+163,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.70#53,6d0a0066,no longer listening on <*>#53
+164,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.71#53,6d0a0066,no longer listening on <*>#53
+165,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.72#53,6d0a0066,no longer listening on <*>#53
+166,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.73#53,6d0a0066,no longer listening on <*>#53
+167,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.75#53,6d0a0066,no longer listening on <*>#53
+168,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.80#53,6d0a0066,no longer listening on <*>#53
+169,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.81#53,6d0a0066,no longer listening on <*>#53
+170,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.82#53,6d0a0066,no longer listening on <*>#53
+171,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.83#53,6d0a0066,no longer listening on <*>#53
+172,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.84#53,6d0a0066,no longer listening on <*>#53
+173,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.85#53,6d0a0066,no longer listening on <*>#53
+174,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.87#53,6d0a0066,no longer listening on <*>#53
+175,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.89#53,6d0a0066,no longer listening on <*>#53
+176,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.90#53,6d0a0066,no longer listening on <*>#53
+177,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.95#53,6d0a0066,no longer listening on <*>#53
+178,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.100#53,6d0a0066,no longer listening on <*>#53
+179,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.105#53,6d0a0066,no longer listening on <*>#53
+180,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.110#53,6d0a0066,no longer listening on <*>#53
+181,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.115#53,6d0a0066,no longer listening on <*>#53
+182,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.120#53,6d0a0066,no longer listening on <*>#53
+183,Sep,28,08:44:44,ns1,named,908,no longer listening on 63.126.79.125#53,6d0a0066,no longer listening on <*>#53
+184,Sep,28,08:44:45,ns1,kernel,,Process accounting resumed,b96b6284,Process accounting resumed
+185,Sep,28,08:44:46,ns1,named,903,exiting,8d218b43,exiting
+186,Sep,28,08:44:48,ns1,named,,named shutdown succeeded,e697e623,named shutdown succeeded
+187,Sep,28,08:44:48,ns1,ucd-snmp,919,Received TERM or STOP signal...  shutting down...,18125aad,Received TERM or STOP signal... shutting down...
+188,Sep,28,08:44:49,ns1,snmpd,,snmpd shutdown succeeded,28a4242e,snmpd shutdown succeeded
+189,Sep,28,08:44:49,ns1,xinetd,682,Exiting...,ee665ed5,Exiting...
+190,Sep,28,08:44:50,ns1,xinetd,,xinetd shutdown succeeded,5f266c00,xinetd shutdown succeeded
+191,Sep,28,08:44:51,ns1,atd,,atd shutdown succeeded,bc58d29a,atd shutdown succeeded
+192,Sep,28,08:44:51,ns1,crond,,crond shutdown succeeded,1c424845,crond shutdown succeeded
+193,Sep,28,08:44:51,ns1,identd,,identd shutdown succeeded,8ce66722,identd shutdown succeeded
+194,Sep,28,08:44:51,ns1,autofs,,automount -USR2 succeeded,4498597f,automount -USR2 succeeded
+195,Sep,28,08:44:51,ns1,automount,635,"shutting down, path = /misc",95901a0d,"shutting down, path = /misc"
+196,Sep,28,08:44:53,ns1,apmd,586,Exiting,a2790190,Exiting
+197,Sep,28,08:44:54,ns1,apmd,,apmd shutdown succeeded,a1bca92d,apmd shutdown succeeded
+198,Sep,28,08:44:54,ns1,ntpd,931,ntpd exiting on signal 15,c4b9be2e,ntpd exiting on signal 15
+199,Sep,28,08:44:54,ns1,ntpd,,ntpd shutdown succeeded,3b19fca5,ntpd shutdown succeeded
+200,Sep,28,08:44:54,ns1,dd,,1+0 records in,d8595ace,1+0 records in
+201,Sep,28,08:44:54,ns1,dd,,1+0 records out,247ff452,1+0 records out
+202,Sep,28,08:44:54,ns1,random,,Saving random seed:  succeeded,7bef2001,Saving random seed: succeeded
+203,Sep,28,08:44:54,ns1,rpc.statd,502,"Caught signal 15, un-registering and exiting.",5094c608,"Caught signal 15, un-registering and exiting."
+204,Sep,28,08:44:55,ns1,nfslock,,rpc.statd shutdown succeeded,22d8ced3,rpc.statd shutdown succeeded
+205,Sep,28,08:44:56,ns1,portmap,,portmap shutdown succeeded,bd9326d4,portmap shutdown succeeded
+206,Sep,28,08:44:56,ns1,kernel,,Kernel logging (proc) stopped.,65a6d07f,Kernel logging (proc) stopped.
+207,Sep,28,08:44:56,ns1,kernel,,Kernel log daemon terminating.,b4bfecf1,Kernel log daemon terminating.
+208,Sep,28,08:44:57,ns1,syslog,,klogd shutdown succeeded,3acb8bf8,klogd shutdown succeeded
+209,Sep,28,08:46:00,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+210,Sep,28,08:46:00,ns1,syslog,,syslogd startup succeeded,e2e2f763,syslogd startup succeeded
+211,Sep,28,08:46:00,ns1,syslog,,klogd startup succeeded,c4abea2c,klogd startup succeeded
+212,Sep,28,08:46:00,ns1,kernel,,"klogd 1.4-0, log source = /proc/kmsg started.",88ed8793,"klogd 1.4-0, log source = /proc/kmsg started."
+213,Sep,28,08:46:00,ns1,kernel,,Inspecting /boot/System.map-2.4.2-2,d2c8279d,Inspecting /boot/System.map-2.4.2-2
+214,Sep,28,08:46:00,ns1,portmap,,portmap startup succeeded,e052d25e,portmap startup succeeded
+215,Sep,28,08:46:00,ns1,kernel,,Loaded 14301 symbols from /boot/System.map-2.4.2-2.,3878287f,Loaded 14301 symbols from /boot/System.map-2.4.2-2.
+216,Sep,28,08:46:00,ns1,kernel,,Symbols match kernel version 2.4.2.,ef6e215a,Symbols match kernel version 2.4.2.
+217,Sep,28,08:46:00,ns1,kernel,,Loaded 135 symbols from 4 modules.,89e4f50c,Loaded 135 symbols from 4 modules.
+218,Sep,28,08:46:00,ns1,kernel,,Linux version 2.4.2-2 (root@porky.devel.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.1 2.96-79)) #1 Sun Apr 8 20:41:30 EDT 2001,1e9c30f4,Linux version 2.4.2-2 (root@porky.devel.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.1 2.96-79)) #1 Sun Apr 8 <*> EDT 2001
+219,Sep,28,08:46:00,ns1,kernel,,BIOS-provided physical RAM map:,5cb4dcf4,BIOS-provided physical RAM map:
+220,Sep,28,08:46:00,ns1,kernel,,BIOS-e820: 00000000000a0000 @ 0000000000000000 (usable),fc7d4e48,BIOS-e820:  @  (usable)
+221,Sep,28,08:46:00,ns1,kernel,,BIOS-e820: 0000000000010000 @ 00000000000f0000 (reserved),c2dd52b6,BIOS-e820:  @  (reserved)
+222,Sep,28,08:46:00,ns1,kernel,,BIOS-e820: 0000000007dae000 @ 0000000000100000 (usable),fc7d4e48,BIOS-e820:  @  (usable)
+223,Sep,28,08:46:00,ns1,kernel,,BIOS-e820: 0000000000052000 @ 0000000007eae000 (reserved),c2dd52b6,BIOS-e820:  @  (reserved)
+224,Sep,28,08:46:00,ns1,kernel,,BIOS-e820: 0000000000100000 @ 0000000007f00000 (reserved),c2dd52b6,BIOS-e820:  @  (reserved)
+225,Sep,28,08:46:00,ns1,kernel,,BIOS-e820: 0000000000500000 @ 00000000ffb00000 (reserved),c2dd52b6,BIOS-e820:  @  (reserved)
+226,Sep,28,08:46:00,ns1,kernel,,On node 0 totalpages: 32430,89e41320,On node 0 totalpages: 32430
+227,Sep,28,08:46:00,ns1,kernel,,zone(0): 4096 pages.,6ede9d1e,zone(0): 4096 pages.
+228,Sep,28,08:46:01,ns1,nfslock,,rpc.statd startup succeeded,08cb21a6,rpc.statd startup succeeded
+229,Sep,28,08:46:01,ns1,rpc.statd,501,Version 0.3.1 Starting,d80483c1,Version 0.3.1 Starting
+230,Sep,28,08:46:01,ns1,kernel,,zone DMA has max 32 cached pages.,7037596d,zone  has max  cached pages.
+231,Sep,28,08:46:01,ns1,kernel,,zone(1): 28334 pages.,04229af8,zone(1): 28334 pages.
+232,Sep,28,08:46:01,ns1,kernel,,zone Normal has max 221 cached pages.,7037596d,zone  has max  cached pages.
+233,Sep,28,08:46:01,ns1,keytable,,Loading keymap:,b07067dc,Loading keymap:
+234,Sep,28,08:46:01,ns1,kernel,,zone(2): 0 pages.,41264989,zone(2): 0 pages.
+235,Sep,28,08:46:01,ns1,kernel,,zone HighMem has max 1 cached pages.,7037596d,zone  has max  cached pages.
+236,Sep,28,08:46:01,ns1,keytable,,Loading system font:,772cbfa7,Loading system font:
+237,Sep,28,08:46:01,ns1,kernel,,Kernel command line: auto BOOT_IMAGE=linux ro root=308 BOOT_FILE=/boot/vmlinuz-2.4.2-2,84044e98,Kernel command line: auto BOOT_IMAGE=linux ro root=308 BOOT_FILE=/boot/vmlinuz-2.4.2-2
+238,Sep,28,08:46:01,ns1,kernel,,Initializing CPU#0,11ffa6be,Initializing CPU#0
+239,Sep,28,08:46:01,ns1,kernel,,Detected 730.971 MHz processor.,22bc9187,Detected 730.971 MHz processor.
+240,Sep,28,08:46:01,ns1,kernel,,Console: colour VGA+ 80x25,75194edc,Console: colour VGA+ 80x25
+241,Sep,28,08:46:01,ns1,kernel,,Calibrating delay loop... 1458.17 BogoMIPS,d1a0a9b2,Calibrating delay loop... 1458.17 BogoMIPS
+242,Sep,28,08:46:01,ns1,rc,,Starting keytable:  succeeded,136e80b1,Starting keytable: succeeded
+243,Sep,28,08:46:01,ns1,kernel,,"Memory: 125148k/129720k available (1365k kernel code, 4188k reserved, 92k data, 236k init, 0k highmem)",fb9308b0,"Memory: 125148k/129720k available (1365k kernel code, 4188k reserved, 92k data, 236k init, 0k highmem)"
+244,Sep,28,08:46:01,ns1,kernel,,"Dentry-cache hash table entries: 16384 (order: 5, 131072 bytes)",ca600580,"Dentry-cache hash table entries: 16384 (order: 5, 131072 bytes)"
+245,Sep,28,08:46:01,ns1,kernel,,"Buffer-cache hash table entries: 4096 (order: 2, 16384 bytes)",cc73fd08,"Buffer-cache hash table entries: 4096 (order: 2, 16384 bytes)"
+246,Sep,28,08:46:01,ns1,kernel,,"Page-cache hash table entries: 32768 (order: 6, 262144 bytes)",dff121bc,"Page-cache hash table entries: 32768 (order: 6, 262144 bytes)"
+247,Sep,28,08:46:01,ns1,kernel,,"Inode-cache hash table entries: 8192 (order: 4, 65536 bytes)",01bbcc03,"Inode-cache hash table entries: 8192 (order: 4, 65536 bytes)"
+248,Sep,28,08:46:01,ns1,kernel,,VFS: Diskquotas version dquot_6.5.0 initialized,fcc88c49,VFS: Diskquotas version dquot_6.5.0 initialized
+249,Sep,28,08:46:01,ns1,kernel,,"CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0",8d7b117c,"CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0"
+250,Sep,28,08:46:01,ns1,kernel,,"CPU: L1 I cache: 16K, L1 D cache: 16K",33127630,"CPU: L1 I cache: 16K, L1 D cache: 16K"
+251,Sep,28,08:46:01,ns1,kernel,,CPU: L2 cache: 256K,875bf9ed,CPU: L2 cache: 256K
+252,Sep,28,08:46:01,ns1,kernel,,Intel machine check architecture supported.,3797c3f8,Intel machine check architecture supported.
+253,Sep,28,08:46:01,ns1,random,,Initializing random number generator:  succeeded,9f45ab13,Initializing random number generator: succeeded
+254,Sep,28,08:46:01,ns1,kernel,,Intel machine check reporting enabled on CPU#0.,e47ddd81,Intel machine check reporting enabled on CPU#0.
+255,Sep,28,08:46:01,ns1,kernel,,"CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000",1c5f6ebc,"CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000"
+256,Sep,28,08:46:01,ns1,kernel,,"CPU: After generic, caps: 0383f9ff 00000000 00000000 00000000",9e62b4f8,"CPU: After generic, caps: 0383f9ff 00000000 00000000 00000000"
+257,Sep,28,08:46:01,ns1,kernel,,CPU: Common caps: 0383f9ff 00000000 00000000 00000000,36fe0cdf,CPU: Common caps: 0383f9ff 00000000 00000000 00000000
+258,Sep,28,08:46:01,ns1,kernel,,CPU: Intel Pentium III (Coppermine) stepping 06,8f3f5cf7,CPU: Intel Pentium III (Coppermine) stepping 06
+259,Sep,28,08:46:01,ns1,kernel,,Enabling fast FPU save and restore... done.,6840ff9f,Enabling fast FPU save and restore... done.
+260,Sep,28,08:46:01,ns1,kernel,,Enabling unmasked SIMD FPU exception support... done.,8d0b0805,Enabling unmasked SIMD FPU exception support... done.
+261,Sep,28,08:46:01,ns1,kernel,,Checking 'hlt' instruction... OK.,8177bcff,Checking 'hlt' instruction... OK.
+262,Sep,28,08:46:01,ns1,kernel,,POSIX conformance testing by UNIFIX,cb7aa6e4,POSIX conformance testing by UNIFIX
+263,Sep,28,08:46:01,ns1,kernel,,mtrr: v1.37 (20001109) Richard Gooch (rgooch@atnf.csiro.au),1a67ac58,mtrr: v1.37 (20001109) Richard Gooch (rgooch@atnf.csiro.au)
+264,Sep,28,08:46:01,ns1,kernel,,mtrr: detected mtrr type: Intel,26533662,mtrr: detected mtrr type: Intel
+265,Sep,28,08:46:01,ns1,kernel,,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1",8630412f,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1"
+266,Sep,28,08:46:01,ns1,kernel,,PCI: Using configuration type 1,05be387f,PCI: Using configuration type 1
+267,Sep,28,08:46:01,ns1,kernel,,PCI: Probing PCI hardware,01e69759,PCI: Probing PCI hardware
+268,Sep,28,08:46:01,ns1,kernel,,PCI: Using IRQ router PIIX [8086/2410] at 00:1f.0,812e1982,PCI: Using IRQ router PIIX [8086/2410] at 00:1f.0
+269,Sep,28,08:46:01,ns1,kernel,,isapnp: Scanning for PnP cards...,7681522b,isapnp: Scanning for PnP cards...
+270,Sep,28,08:46:01,ns1,kernel,,isapnp: No Plug & Play device found,f73b80ae,isapnp: No Plug & Play device found
+271,Sep,28,08:46:01,ns1,kernel,,Linux NET4.0 for Linux 2.4,9d674399,Linux NET4.0 for Linux 2.4
+272,Sep,28,08:46:01,ns1,kernel,,Based upon Swansea University Computer Society NET3.039,84aff520,Based upon Swansea University Computer Society NET3.039
+273,Sep,28,08:46:01,ns1,kernel,,Initializing RT netlink socket,0a98e7aa,Initializing RT netlink socket
+274,Sep,28,08:46:01,ns1,kernel,,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.14),39852002,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.14)
+275,Sep,28,08:46:01,ns1,kernel,,Starting kswapd v1.8,cf4b0f97,Starting kswapd v1.8
+276,Sep,28,08:46:01,ns1,kernel,,pty: 256 Unix98 ptys configured,eab938ce,pty: 256 Unix98 ptys configured
+277,Sep,28,08:46:01,ns1,kernel,,"block: queued sectors max/low 83026kB/27675kB, 256 slots per queue",fc001f52,"block: queued sectors max/low 83026kB/27675kB, 256 slots per queue"
+278,Sep,28,08:46:01,ns1,kernel,,RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize,2bb5d19d,RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize
+279,Sep,28,08:46:01,ns1,kernel,,Uniform Multi-Platform E-IDE driver Revision: 6.31,af67a9fa,Uniform Multi-Platform E-IDE driver Revision: 6.31
+280,Sep,28,08:46:01,ns1,kernel,,ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx,7e77542a,ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+281,Sep,28,08:46:01,ns1,kernel,,PIIX4: IDE controller on PCI bus 00 dev f9,73a32f95,PIIX4: IDE controller on PCI bus 00 dev f9
+282,Sep,28,08:46:02,ns1,kernel,,PIIX4: chipset revision 2,56b86166,PIIX4: chipset revision 2
+283,Sep,28,08:46:02,ns1,kernel,,PIIX4: not 100%% native mode: will probe irqs later,038b422e,PIIX4: not 100%% native mode: will probe irqs later
+284,Sep,28,08:46:02,ns1,netfs,,Mounting other filesystems:  succeeded,40f43673,Mounting  filesystems: succeeded
+285,Sep,28,08:46:02,ns1,kernel,,"ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio",523917e5,"ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio"
+286,Sep,28,08:46:02,ns1,kernel,,"ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio",8ea7806f,"ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio"
+287,Sep,28,08:46:02,ns1,kernel,,"hda: IBM-DTLA-307015, ATA DISK drive",3fc2f5b5,"hda: IBM-DTLA-307015, ATA DISK drive"
+288,Sep,28,08:46:02,ns1,kernel,,"hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive",fb9cdc6b,"hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive"
+289,Sep,28,08:46:02,ns1,kernel,,"ide0 at 0x1f0-0x1f7,0x3f6 on irq 14",eaa372d7,"ide0 at 0x1f0-0x1f7,0x3f6 on irq 14"
+290,Sep,28,08:46:02,ns1,kernel,,"ide1 at 0x170-0x177,0x376 on irq 15",0a7c37c3,"ide1 at 0x170-0x177,0x376 on irq 15"
+291,Sep,28,08:46:02,ns1,kernel,,"hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=1826/255/63, UDMA(66)",aa6ed69c,"hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=1826/255/63, UDMA(66)"
+292,Sep,28,08:46:02,ns1,kernel,,Partition check:,7be06dfe,Partition check:
+293,Sep,28,08:46:02,ns1,kernel,,hda: hda1 hda2 < hda5 hda6 hda7 hda8 hda9 >,fbdeccd7,hda: hda1 hda2 < hda5 hda6 hda7 hda8 hda9 >
+294,Sep,28,08:46:02,ns1,kernel,,Floppy drive(s): fd0 is 1.44M,1d9bfc43,Floppy drive(s): fd0 is 1.44M
+295,Sep,28,08:46:02,ns1,kernel,,FDC 0 is a National Semiconductor PC87306,0df1ae9c,FDC 0 is a National Semiconductor PC87306
+296,Sep,28,08:46:02,ns1,kernel,,Serial driver version 5.02 (2000-08-09) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled,9b90a6d6,Serial driver version 5.02 (2000-08-09) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled
+297,Sep,28,08:46:02,ns1,kernel,,ttyS00 at 0x03f8 (irq = 4) is a 16550A,82fbf133,ttyS00 at 0x03f8 (irq = 4) is a 16550A
+298,Sep,28,08:46:02,ns1,kernel,,ttyS01 at 0x02f8 (irq = 3) is a 16550A,92dc0e54,ttyS01 at 0x02f8 (irq = 3) is a 16550A
+299,Sep,28,08:46:02,ns1,kernel,,Real Time Clock Driver v1.10d,4df0c950,Real Time Clock Driver v1.10d
+300,Sep,28,08:46:02,ns1,kernel,,"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27",937caf27,"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27"
+301,Sep,28,08:46:02,ns1,kernel,,md.c: sizeof(mdp_super_t) = 4096,822c8af3,md.c: sizeof(mdp_super_t) = 4096
+302,Sep,28,08:46:02,ns1,kernel,,autodetecting RAID arrays,ce86b78b,autodetecting RAID arrays
+303,Sep,28,08:46:02,ns1,kernel,,autorun ...,b51afeb3,autorun ...
+304,Sep,28,08:46:02,ns1,kernel,,... autorun DONE.,3bf8e71b,... autorun DONE.
+305,Sep,28,08:46:02,ns1,apmd,,apmd startup succeeded,51259001,apmd startup succeeded
+306,Sep,28,08:45:44,ns1,rc.sysinit,,Mounting proc filesystem:  succeeded,1d2b87b5,Mounting  filesystem: succeeded
+307,Sep,28,08:46:02,ns1,apmd,585,"Version 3.0final (APM BIOS 1.2, Linux driver 1.14)",a1a8da12,"Version 3.0final (APM BIOS 1.2, Linux driver 1.14)"
+308,Sep,28,08:46:02,ns1,kernel,,NET4: Linux TCP/IP 1.0 for NET4.0,28e9c62e,NET4: Linux TCP/IP 1.0 for NET4.0
+309,Sep,28,08:45:44,ns1,sysctl,,net.ipv4.ip_forward = 0,f0d87f59,net.ipv4.ip_forward = 0
+310,Sep,28,08:46:02,ns1,kernel,,"IP Protocols: ICMP, UDP, TCP, IGMP",bf49be40,"IP Protocols: ICMP, UDP, TCP, IGMP"
+311,Sep,28,08:46:02,ns1,apmd,585,Charge: * * * (-1% unknown),14527e51,Charge: * * * (-1% unknown)
+312,Sep,28,08:45:44,ns1,sysctl,,net.ipv4.conf.all.rp_filter = 1,023f2232,net.ipv4.conf.all.rp_filter = 1
+313,Sep,28,08:46:02,ns1,kernel,,"IP: routing cache hash table of 512 buckets, 4Kbytes",9c8fb69c,"IP: routing cache hash table of 512 buckets, 4Kbytes"
+314,Sep,28,08:45:44,ns1,sysctl,,kernel.sysrq = 0,a051941d,kernel.sysrq = 0
+315,Sep,28,08:46:02,ns1,kernel,,TCP: Hash tables configured (established 8192 bind 8192),2fff15ce,TCP: Hash tables configured (established 8192 bind 8192)
+316,Sep,28,08:45:44,ns1,rc.sysinit,,Configuring kernel parameters:  succeeded,1fcd53c8,Configuring kernel parameters: succeeded
+317,Sep,28,08:46:02,ns1,kernel,,Linux IP multicast router 0.06 plus PIM-SM,66f5400b,Linux IP multicast router 0.06 plus PIM-SM
+318,Sep,28,08:45:44,ns1,date,,Tue Sep 28 08:45:38 EDT 2004,88883a97,Tue Sep 28 <*> EDT 2004
+319,Sep,28,08:46:02,ns1,kernel,,NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.,122d0a49,NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.
+320,Sep,28,08:45:44,ns1,rc.sysinit,,Setting clock  (localtime): Tue Sep 28 08:45:38 EDT 2004 succeeded,9b7a4c2f,Setting clock (localtime): Tue Sep 28 <*> EDT 2004 succeeded
+321,Sep,28,08:46:02,ns1,kernel,,VFS: Mounted root (ext2 filesystem) readonly.,5dacb36f,VFS: Mounted root (ext2 filesystem) readonly.
+322,Sep,28,08:45:44,ns1,rc.sysinit,,Loading default keymap succeeded,f6d22637,Loading default keymap succeeded
+323,Sep,28,08:46:03,ns1,kernel,,Freeing unused kernel memory: 236k freed,7f1eb97b,Freeing unused kernel memory: 236k freed
+324,Sep,28,08:45:44,ns1,rc.sysinit,,Setting default font (lat0-sun16):  succeeded,8097b993,Setting default font (lat0-sun16): succeeded
+325,Sep,28,08:46:03,ns1,kernel,,Adding Swap: 265032k swap-space (priority -1),65470d77,Adding Swap: 265032k swap-space (priority -1)
+326,Sep,28,08:45:44,ns1,rc.sysinit,,Activating swap partitions:  succeeded,e4ff0c99,Activating swap partitions: succeeded
+327,Sep,28,08:46:03,ns1,kernel,,usb.c: registered new driver usbdevfs,5f0f5d7a,usb.c: registered new driver 
+328,Sep,28,08:45:44,ns1,rc.sysinit,,Setting hostname ns1.bkwconsulting.com:  succeeded,6fea38a8,Setting hostname ns1.bkwconsulting.com: succeeded
+329,Sep,28,08:46:03,ns1,kernel,,usb.c: registered new driver hub,5f0f5d7a,usb.c: registered new driver 
+330,Sep,28,08:45:44,ns1,rc.sysinit,,Mounting USB filesystem:  succeeded,1d2b87b5,Mounting  filesystem: succeeded
+331,Sep,28,08:46:03,ns1,kernel,,usb-uhci.c: $Revision: 1.251 $ time 20:53:29 Apr  8 2001,3f52c2b1,usb-uhci.c: $Revision: 1.251 $ time <*> Apr 8 2001
+332,Sep,28,08:45:44,ns1,rc.sysinit,,Initializing USB controller (usb-uhci):  succeeded,fd32c5f1,Initializing USB controller (usb-uhci): succeeded
+333,Sep,28,08:46:03,ns1,kernel,,usb-uhci.c: High bandwidth mode enabled,e259f378,usb-uhci.c: High bandwidth mode enabled
+334,Sep,28,08:45:44,ns1,fsck,,"/: clean, 17048/66264 files, 63479/265041 blocks",c126d73d,"/: clean, 17048/66264 files, 63479/265041 blocks"
+335,Sep,28,08:46:03,ns1,kernel,,PCI: Found IRQ 11 for device 00:1f.2,37ef7b7a,PCI: Found IRQ  for device 
+336,Sep,28,08:45:44,ns1,rc.sysinit,,Checking root filesystem succeeded,4fa0fd97,Checking root filesystem succeeded
+337,Sep,28,08:46:03,ns1,kernel,,PCI: Setting latency timer of device 00:1f.2 to 64,31032e65,PCI: Setting latency timer of device 00:1f.2 to 64
+338,Sep,28,08:45:44,ns1,rc.sysinit,,Remounting root filesystem in read-write mode:  succeeded,779ffa1c,Remounting root filesystem in read-write mode: succeeded
+339,Sep,28,08:46:03,ns1,kernel,,"usb-uhci.c: USB UHCI at I/O 0xff80, IRQ 11",d0f15ca2,"usb-uhci.c: USB UHCI at I/O 0xff80, IRQ 11"
+340,Sep,28,08:45:45,ns1,rc.sysinit,,Finding module dependencies:  succeeded,4b95975b,Finding module dependencies: succeeded
+341,Sep,28,08:46:03,ns1,automount,634,"starting automounter version 3.1.7, path = /misc, maptype = file, mapname = /etc/auto.misc",1759c811,"starting automounter version 3.1.7, path = /misc, maptype = file, mapname = /etc/auto.misc"
+342,Sep,28,08:46:03,ns1,kernel,,usb-uhci.c: Detected 2 ports,8874cc4e,usb-uhci.c: Detected 2 ports
+343,Sep,28,08:46:03,ns1,autofs,,autofs startup succeeded,7d0225bc,autofs startup succeeded
+344,Sep,28,08:45:45,ns1,fsck,,"/boot: clean, 26/14056 files, 5265/56196 blocks",43c50dc5,"/boot: clean, 26/14056 files, 5265/56196 blocks"
+345,Sep,28,08:46:03,ns1,kernel,,"usb.c: new USB bus registered, assigned bus number 1",97d683b4,"usb.c: new USB bus registered, assigned bus number 1"
+346,Sep,28,08:45:45,ns1,fsck,,"/home: clean, 26550/780288 files, 264425/1560305 blocks",3261563b,"/home: clean, 26550/780288 files, 264425/1560305 blocks"
+347,Sep,28,08:46:03,ns1,kernel,,hub.c: USB hub found,3a537d82,hub.c: USB hub found
+348,Sep,28,08:45:45,ns1,fsck,,"/usr: clean, 57799/780288 files, 266275/1560305 blocks",474e92fa,"/usr: clean, 57799/780288 files, 266275/1560305 blocks"
+349,Sep,28,08:46:03,ns1,kernel,,hub.c: 2 ports detected,662806b4,hub.c: 2 ports detected
+350,Sep,28,08:46:03,ns1,atd,,atd startup succeeded,452a7966,atd startup succeeded
+351,Sep,28,08:45:45,ns1,fsck,,"/var: clean, 23597/66264 files, 209906/265041 blocks",b602c774,"/var: clean, 23597/66264 files, 209906/265041 blocks"
+352,Sep,28,08:46:03,ns1,kernel,,"Winbond Super-IO detection, now testing ports 3F0,370,250,4E,2E ...",8b1a1e9e,"Winbond Super-IO detection, now testing ports 3F0,370,250,4E,2E ..."
+353,Sep,28,08:45:45,ns1,rc.sysinit,,Checking filesystems succeeded,0e686c5f,Checking filesystems succeeded
+354,Sep,28,08:46:03,ns1,kernel,,"SMSC Super-IO detection, now testing Ports 2F0, 370 ...",1675bdd1,"SMSC Super-IO detection, now testing Ports 2F0, 370 ..."
+355,Sep,28,08:45:46,ns1,rc.sysinit,,Mounting local filesystems:  succeeded,40f43673,Mounting  filesystems: succeeded
+356,Sep,28,08:46:03,ns1,kernel,,0x378: FIFO is 16 bytes,2ac6771b,0x378: FIFO is 16 bytes
+357,Sep,28,08:46:03,ns1,sshd,,Starting sshd:,681281ae,Starting sshd:
+358,Sep,28,08:45:46,ns1,rc.sysinit,,Turning on process accounting succeeded,581f76d8,Turning on process accounting succeeded
+359,Sep,28,08:46:03,ns1,kernel,,0x378: writeIntrThreshold is 8,fd0d21eb,0x378:  is 8
+360,Sep,28,08:45:46,ns1,rc.sysinit,,Turning on user and group quotas for local filesystems:  succeeded,279ed968,Turning on user and group quotas for local filesystems: succeeded
+361,Sep,28,08:46:04,ns1,kernel,,0x378: readIntrThreshold is 8,fd0d21eb,0x378:  is 8
+362,Sep,28,08:46:04,ns1,automount,634,using kernel protocol version 3,2d3bb485,using kernel protocol version 3
+363,Sep,28,08:45:47,ns1,rc.sysinit,,Enabling swap space:  succeeded,29bbeca6,Enabling swap space: succeeded
+364,Sep,28,08:45:48,ns1,init,,Entering runlevel: 3,3d598e42,Entering runlevel: 3
+365,Sep,28,08:45:49,ns1,kudzu,,Updating /etc/fstab succeeded,8a508e05,Updating /etc/fstab succeeded
+366,Sep,28,08:45:59,ns1,kudzu,,succeeded,32d0250e,succeeded
+367,Sep,28,08:45:59,ns1,sysctl,,net.ipv4.ip_forward = 0,f0d87f59,net.ipv4.ip_forward = 0
+368,Sep,28,08:46:04,ns1,kernel,,"parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,COMPAT,EPP,ECP]",7efdacf2,"parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,COMPAT,EPP,ECP]"
+369,Sep,28,08:45:59,ns1,sysctl,,net.ipv4.conf.all.rp_filter = 1,023f2232,net.ipv4.conf.all.rp_filter = 1
+370,Sep,28,08:46:04,ns1,sshd,,succeeded,32d0250e,succeeded
+371,Sep,28,08:46:04,ns1,kernel,,parport0: irq 7 detected,a143a7c3,parport0: irq 7 detected
+372,Sep,28,08:45:59,ns1,sysctl,,kernel.sysrq = 0,a051941d,kernel.sysrq = 0
+373,Sep,28,08:45:59,ns1,network,,Setting network parameters:  succeeded,aa511af6,Setting network parameters: succeeded
+374,Sep,28,08:45:59,ns1,network,,Bringing up interface lo:  succeeded,36e54035,Bringing up interface  succeeded
+375,Sep,28,08:46:00,ns1,network,,Bringing up interface eth0:  succeeded,36e54035,Bringing up interface  succeeded
+376,Sep,28,08:46:04,ns1,rc,,Starting sshd:  succeeded,c9e23cba,Starting sshd: succeeded
+377,Sep,28,08:46:04,ns1,kernel,,"ip_conntrack (1013 buckets, 8104 max)",2b91eeee,"ip_conntrack (1013 buckets, 8104 max)"
+378,Sep,28,08:46:05,ns1,kernel,,PCI: Found IRQ 5 for device 01:0c.0,37ef7b7a,PCI: Found IRQ  for device 
+379,Sep,28,08:46:05,ns1,kernel,,3c59x.c:LK1.1.13 27 Jan 2001  Donald Becker and others. http://www.scyld.com/network/vortex.html,a436f689,3c59x.c:LK1.1.13 27 Jan 2001 Donald Becker and others. http://www.scyld.com/network/vortex.html
+380,Sep,28,08:46:05,ns1,kernel,,See Documentation/networking/vortex.txt,0733c4da,See Documentation/networking/vortex.txt
+381,Sep,28,08:46:05,ns1,kernel,,"eth0: 3Com PCI 3c905C Tornado at 0xec80,  00:b0:d0:87:85:c3, IRQ 5",55114e45,"eth0: 3Com PCI 3c905C Tornado at 0xec80, 00:b0:d0:87:85:c3, IRQ 5"
+382,Sep,28,08:46:05,ns1,kernel,,product code 0000 rev 00.14 date 07-16-104,aedc4a09,product code 0000 rev 00.14 date 07-16-104
+383,Sep,28,08:46:05,ns1,kernel,,"8K byte-wide RAM 5:3 Rx:Tx split, autoselect/Autonegotiate interface.",a879cd61,"8K byte-wide RAM 5:3 Rx:Tx split, autoselect/Autonegotiate interface."
+384,Sep,28,08:46:05,ns1,kernel,,"MII transceiver found at address 24, status 782d.",700790c4,"MII transceiver found at address 24, status 782d."
+385,Sep,28,08:46:05,ns1,kernel,,Enabling bus-master transmits and whole-frame receives.,2df6dc49,Enabling bus-master transmits and whole-frame receives.
+386,Sep,28,08:46:05,ns1,kernel,,eth0: scatter/gather disabled. h/w checksums enabled,8513c4d7,eth0: scatter/gather disabled. h/w checksums enabled
+387,Sep,28,08:46:05,ns1,kernel,,"eth0: using NWAY device table, not 8",e8a19df5,"eth0: using NWAY device table, not 8"
+388,Sep,28,08:46:05,ns1,xinetd,681,"chargen disabled, removing",b689f7db,"chargen disabled, removing"
+389,Sep,28,08:46:05,ns1,xinetd,681,"chargen-udp disabled, removing",8933f0d2,"chargen-udp disabled, removing"
+390,Sep,28,08:46:05,ns1,xinetd,681,"time disabled, removing",5bcf5882,"time disabled, removing"
+391,Sep,28,08:46:05,ns1,xinetd,681,"time disabled, removing",5bcf5882,"time disabled, removing"
+392,Sep,28,08:46:05,ns1,xinetd,681,"daytime disabled, removing",f43b072c,"daytime disabled, removing"
+393,Sep,28,08:46:05,ns1,xinetd,681,"talk disabled, removing",e0537468,"talk disabled, removing"
+394,Sep,28,08:46:05,ns1,xinetd,681,"rsync disabled, removing",099f274e,"rsync disabled, removing"
+395,Sep,28,08:46:05,ns1,xinetd,681,"shell disabled, removing",cc209032,"shell disabled, removing"
+396,Sep,28,08:46:05,ns1,xinetd,681,"login disabled, removing",fa5af1ea,"login disabled, removing"
+397,Sep,28,08:46:05,ns1,xinetd,681,"exec disabled, removing",97940061,"exec disabled, removing"
+398,Sep,28,08:46:05,ns1,xinetd,681,"pop3s disabled, removing",984cab86,"pop3s disabled, removing"
+399,Sep,28,08:46:05,ns1,xinetd,681,"ntalk disabled, removing",859a899f,"ntalk disabled, removing"
+400,Sep,28,08:46:05,ns1,xinetd,681,"daytime-udp disabled, removing",da0b6e2d,"daytime-udp disabled, removing"
+401,Sep,28,08:46:05,ns1,xinetd,681,"pop2 disabled, removing",8f7a51a4,"pop2 disabled, removing"
+402,Sep,28,08:46:05,ns1,xinetd,681,"imaps disabled, removing",4c37b151,"imaps disabled, removing"
+403,Sep,28,08:46:05,ns1,xinetd,681,"echo disabled, removing",a608ea8f,"echo disabled, removing"
+404,Sep,28,08:46:05,ns1,xinetd,681,"finger disabled, removing",4a72028c,"finger disabled, removing"
+405,Sep,28,08:46:05,ns1,xinetd,681,"echo-udp disabled, removing",773b653a,"echo-udp disabled, removing"
+406,Sep,28,08:46:05,ns1,xinetd,681,xinetd Version 2.1.8.9pre14 started with,072a6783,xinetd Version <*>pre14 started with
+407,Sep,28,08:46:05,ns1,xinetd,681,libwrap,6f4d1c7f,libwrap
+408,Sep,28,08:46:05,ns1,xinetd,681,options compiled in.,9c3baeb1,options compiled in.
+409,Sep,28,08:46:05,ns1,xinetd,681,Started working: 4 available services,42339b3d,Started working: 4 available services
+410,Sep,28,08:46:08,ns1,xinetd,,xinetd startup succeeded,e3b3c521,xinetd startup succeeded
+411,Sep,28,08:46:09,ns1,sendmail,,sendmail startup succeeded,ac74e097,sendmail startup succeeded
+412,Sep,28,08:46:09,ns1,gpm,,gpm startup succeeded,c1cd3db1,gpm startup succeeded
+413,Sep,28,08:46:10,ns1,crond,,crond startup succeeded,a4c10530,crond startup succeeded
+414,Sep,28,08:46:11,ns1,xfs,,listening on port 7100,00691bd6,listening on port 7100
+415,Sep,28,08:46:11,ns1,xfs,,xfs startup succeeded,78fcfdec,xfs startup succeeded
+416,Sep,28,08:46:11,ns1,anacron,,anacron startup succeeded,7e31404a,anacron startup succeeded
+417,Sep,28,08:46:14,ns1,httpd,,httpd startup succeeded,baef46da,httpd startup succeeded
+418,Sep,28,08:46:14,ns1,squid,892,Squid Parent: child process 893 started,2785120f,Squid Parent: child process 893 started
+419,Sep,28,08:46:15,ns1,named,,named startup succeeded,8c68af4c,named startup succeeded
+420,Sep,28,08:46:15,ns1,named,902,starting BIND 9.1.0 -u named,cf189fc0,starting BIND 9.1.0 -u named
+421,Sep,28,08:46:15,ns1,named,902,using 1 CPU,95b1a825,using 1 CPU
+422,Sep,28,08:46:15,ns1,named,907,loading configuration from '/etc/named.conf',018ef2a8,loading configuration from '/etc/named.conf'
+423,Sep,28,08:46:15,ns1,named,907,the default for the 'auth-nxdomain' option is now 'no',7e3638b3,the default for the 'auth-nxdomain' option is now 'no'
+424,Sep,28,08:46:15,ns1,named,907,no IPv6 interfaces found,27bc5cea,no IPv6 interfaces found
+425,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface lo, 127.0.0.1#53",f920ba7b,listening on IPv4 interface  <*>#53
+426,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0, 63.126.79.67#53",f920ba7b,listening on IPv4 interface  <*>#53
+427,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:1, 63.126.79.69#53",f920ba7b,listening on IPv4 interface  <*>#53
+428,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:2, 63.126.79.70#53",f920ba7b,listening on IPv4 interface  <*>#53
+429,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:3, 63.126.79.71#53",f920ba7b,listening on IPv4 interface  <*>#53
+430,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:4, 63.126.79.72#53",f920ba7b,listening on IPv4 interface  <*>#53
+431,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:5, 63.126.79.73#53",f920ba7b,listening on IPv4 interface  <*>#53
+432,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:6, 63.126.79.75#53",f920ba7b,listening on IPv4 interface  <*>#53
+433,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:7, 63.126.79.80#53",f920ba7b,listening on IPv4 interface  <*>#53
+434,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:8, 63.126.79.81#53",f920ba7b,listening on IPv4 interface  <*>#53
+435,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:9, 63.126.79.82#53",f920ba7b,listening on IPv4 interface  <*>#53
+436,Sep,28,08:46:15,ns1,named,907,"listening on IPv4 interface eth0:10, 63.126.79.83#53",f920ba7b,listening on IPv4 interface  <*>#53
+437,Sep,28,08:46:16,ns1,named,907,"listening on IPv4 interface eth0:11, 63.126.79.84#53",f920ba7b,listening on IPv4 interface  <*>#53
+438,Sep,28,08:46:16,ns1,snmpd,,snmpd startup succeeded,10964d0b,snmpd startup succeeded
+439,Sep,28,08:46:16,ns1,named,907,"listening on IPv4 interface eth0:12, 63.126.79.85#53",f920ba7b,listening on IPv4 interface  <*>#53
+440,Sep,28,08:46:16,ns1,named,907,"listening on IPv4 interface eth0:13, 63.126.79.87#53",f920ba7b,listening on IPv4 interface  <*>#53
+441,Sep,28,08:46:16,ns1,named,907,"listening on IPv4 interface eth0:14, 63.126.79.89#53",f920ba7b,listening on IPv4 interface  <*>#53
+442,Sep,28,08:46:17,ns1,ntpd,930,ntpd 4.0.99k Mon Apr  9 14:50:09 EDT 2001 (1),9debbd7f,ntpd 4.0.99k Mon Apr 9 <*> EDT 2001 (1)
+443,Sep,28,08:46:17,ns1,ntpd,,ntpd startup succeeded,73b63daf,ntpd startup succeeded
+444,Sep,28,08:46:17,ns1,named,907,"listening on IPv4 interface eth0:15, 63.126.79.90#53",f920ba7b,listening on IPv4 interface  <*>#53
+445,Sep,28,08:46:17,ns1,named,907,"listening on IPv4 interface eth0:16, 63.126.79.95#53",f920ba7b,listening on IPv4 interface  <*>#53
+446,Sep,28,08:46:18,ns1,named,907,"listening on IPv4 interface eth0:17, 63.126.79.100#53",f920ba7b,listening on IPv4 interface  <*>#53
+447,Sep,28,08:46:18,ns1,ntpd,930,precision = 11 usec,5cb789e9,precision = 11 usec
+448,Sep,28,08:46:18,ns1,named,907,"listening on IPv4 interface eth0:18, 63.126.79.105#53",f920ba7b,listening on IPv4 interface  <*>#53
+449,Sep,28,08:46:18,ns1,ntpd,930,using kernel phase-lock loop 0040,31d2acbd,using kernel phase-lock loop 
+450,Sep,28,08:46:18,ns1,smb,,smbd startup succeeded,ce3b0820,smbd startup succeeded
+451,Sep,28,08:46:19,ns1,named,907,"listening on IPv4 interface eth0:19, 63.126.79.110#53",f920ba7b,listening on IPv4 interface  <*>#53
+452,Sep,28,08:46:19,ns1,ucd-snmp,919,UCD-SNMP version 4.2,7c60ab40,UCD-SNMP version 4.2
+453,Sep,28,08:46:19,ns1,named,907,"listening on IPv4 interface eth0:20, 63.126.79.115#53",f920ba7b,listening on IPv4 interface  <*>#53
+454,Sep,28,08:46:19,ns1,smb,,nmbd startup succeeded,f7ecd57f,nmbd startup succeeded
+455,Sep,28,08:46:19,ns1,ntpd,930,using kernel phase-lock loop 0041,31d2acbd,using kernel phase-lock loop 
+456,Sep,28,08:46:19,ns1,named,907,"listening on IPv4 interface eth0:21, 63.126.79.120#53",f920ba7b,listening on IPv4 interface  <*>#53
+457,Sep,28,08:46:20,ns1,ntpd,930,"bind() fd 8, family 2, port 123, addr 224.0.1.1, in_classd=1 flags=0 fails: Address already in use",b6b61057,"bind() fd 8, family 2, port 123, addr <*>, in_classd=1 flags=0 fails: Address already in use"
+458,Sep,28,08:46:20,ns1,named,907,"listening on IPv4 interface eth0:22, 63.126.79.125#53",f920ba7b,listening on IPv4 interface  <*>#53
+459,Sep,28,08:46:20,ns1,identd,,identd startup succeeded,f74dafe2,identd startup succeeded
+460,Sep,28,08:46:20,ns1,named,907,running,ea31f21f,running
+461,Sep,28,08:46:21,ns1,rsyncd,971,rsyncd version 2.4.6 starting,d24d5e98,rsyncd version 2.4.6 starting
+462,Sep,28,10:53:42,ns1,ftpd,1434,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+463,Sep,28,10:53:42,ns1,ftpd,1435,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+464,Sep,28,10:53:42,ns1,ftpd,1437,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+465,Sep,28,10:53:42,ns1,ftpd,1440,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+466,Sep,28,10:53:42,ns1,ftpd,1439,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+467,Sep,28,10:53:42,ns1,ftpd,1432,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+468,Sep,28,10:53:42,ns1,ftpd,1441,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+469,Sep,28,10:53:42,ns1,ftpd,1443,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+470,Sep,28,10:53:42,ns1,ftpd,1429,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+471,Sep,28,10:53:42,ns1,ftpd,1427,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+472,Sep,28,10:53:42,ns1,ftpd,1430,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+473,Sep,28,10:53:42,ns1,ftpd,1433,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+474,Sep,28,10:53:42,ns1,ftpd,1438,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+475,Sep,28,10:53:42,ns1,ftpd,1431,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+476,Sep,28,10:53:42,ns1,ftpd,1428,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+477,Sep,28,10:53:42,ns1,ftpd,1436,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+478,Sep,28,10:53:42,ns1,ftpd,1442,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+479,Sep,28,10:53:42,ns1,ftpd,1444,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+480,Sep,28,10:53:42,ns1,ftpd,1445,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+481,Sep,28,10:53:42,ns1,ftpd,1446,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+482,Sep,28,10:53:42,ns1,ftpd,1447,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+483,Sep,28,10:53:42,ns1,ftpd,1448,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+484,Sep,28,10:53:42,ns1,ftpd,1449,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+485,Sep,28,10:55:35,ns1,ftpd,1427,FTP session closed,3262681b,FTP session closed
+486,Sep,28,10:56:31,ns1,ftpd,1437,FTP session closed,3262681b,FTP session closed
+487,Sep,28,10:56:31,ns1,ftpd,1429,FTP session closed,3262681b,FTP session closed
+488,Sep,28,10:56:31,ns1,ftpd,1433,FTP session closed,3262681b,FTP session closed
+489,Sep,28,10:56:31,ns1,ftpd,1432,FTP session closed,3262681b,FTP session closed
+490,Sep,28,10:56:31,ns1,ftpd,1434,FTP session closed,3262681b,FTP session closed
+491,Sep,28,10:56:31,ns1,ftpd,1440,FTP session closed,3262681b,FTP session closed
+492,Sep,28,10:56:31,ns1,ftpd,1441,FTP session closed,3262681b,FTP session closed
+493,Sep,28,10:56:31,ns1,ftpd,1431,FTP session closed,3262681b,FTP session closed
+494,Sep,28,10:56:31,ns1,ftpd,1430,FTP session closed,3262681b,FTP session closed
+495,Sep,28,10:56:31,ns1,ftpd,1428,FTP session closed,3262681b,FTP session closed
+496,Sep,28,10:56:31,ns1,ftpd,1438,FTP session closed,3262681b,FTP session closed
+497,Sep,28,10:56:31,ns1,ftpd,1439,FTP session closed,3262681b,FTP session closed
+498,Sep,28,10:56:31,ns1,ftpd,1443,FTP session closed,3262681b,FTP session closed
+499,Sep,28,10:56:31,ns1,ftpd,1435,FTP session closed,3262681b,FTP session closed
+500,Sep,28,10:56:31,ns1,ftpd,1444,FTP session closed,3262681b,FTP session closed
+501,Sep,28,10:56:31,ns1,ftpd,1436,FTP session closed,3262681b,FTP session closed
+502,Sep,28,10:56:31,ns1,ftpd,1442,FTP session closed,3262681b,FTP session closed
+503,Sep,28,10:56:31,ns1,ftpd,1445,FTP session closed,3262681b,FTP session closed
+504,Sep,28,10:56:31,ns1,ftpd,1447,FTP session closed,3262681b,FTP session closed
+505,Sep,28,10:56:31,ns1,ftpd,1446,FTP session closed,3262681b,FTP session closed
+506,Sep,28,10:56:31,ns1,ftpd,1448,FTP session closed,3262681b,FTP session closed
+507,Sep,28,10:56:31,ns1,ftpd,1449,FTP session closed,3262681b,FTP session closed
+508,Sep,28,11:58:06,ns1,sshd(pam_unix),1607,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+509,Sep,28,11:58:06,ns1,sshd(pam_unix),1608,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+510,Sep,28,11:58:10,ns1,sshd(pam_unix),1609,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+511,Sep,28,11:58:11,ns1,sshd(pam_unix),1610,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+512,Sep,28,11:58:12,ns1,sshd(pam_unix),1611,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+513,Sep,28,11:58:14,ns1,sshd(pam_unix),1612,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+514,Sep,28,11:58:16,ns1,sshd(pam_unix),1613,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+515,Sep,28,11:58:16,ns1,sshd(pam_unix),1614,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+516,Sep,28,11:58:16,ns1,sshd(pam_unix),1615,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+517,Sep,28,11:58:16,ns1,sshd(pam_unix),1616,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.174.186.145  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+518,Sep,28,16:17:15,ns1,ftpd,1989,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+519,Sep,28,16:17:15,ns1,ftpd,1993,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+520,Sep,28,16:17:15,ns1,ftpd,1991,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+521,Sep,28,16:17:15,ns1,ftpd,1990,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+522,Sep,28,16:17:15,ns1,ftpd,1992,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+523,Sep,28,16:17:17,ns1,ftpd,1995,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+524,Sep,28,16:17:17,ns1,ftpd,1998,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+525,Sep,28,16:17:17,ns1,ftpd,1996,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+526,Sep,28,16:17:17,ns1,ftpd,1994,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+527,Sep,28,16:17:17,ns1,ftpd,2001,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+528,Sep,28,16:17:17,ns1,ftpd,2000,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+529,Sep,28,16:17:17,ns1,ftpd,1999,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+530,Sep,28,16:17:17,ns1,ftpd,1997,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+531,Sep,28,16:17:17,ns1,ftpd,2002,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+532,Sep,28,16:17:17,ns1,ftpd,2003,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+533,Sep,28,16:17:17,ns1,ftpd,2004,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+534,Sep,28,16:17:17,ns1,ftpd,2005,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+535,Sep,28,16:20:04,ns1,ftpd,1989,FTP session closed,3262681b,FTP session closed
+536,Sep,28,16:20:04,ns1,ftpd,1993,FTP session closed,3262681b,FTP session closed
+537,Sep,28,16:20:04,ns1,ftpd,1991,FTP session closed,3262681b,FTP session closed
+538,Sep,28,16:20:04,ns1,ftpd,1990,FTP session closed,3262681b,FTP session closed
+539,Sep,28,16:20:04,ns1,ftpd,1992,FTP session closed,3262681b,FTP session closed
+540,Sep,28,16:20:05,ns1,ftpd,1998,FTP session closed,3262681b,FTP session closed
+541,Sep,28,16:20:05,ns1,ftpd,1995,FTP session closed,3262681b,FTP session closed
+542,Sep,28,16:20:05,ns1,ftpd,1994,FTP session closed,3262681b,FTP session closed
+543,Sep,28,16:20:05,ns1,ftpd,1999,FTP session closed,3262681b,FTP session closed
+544,Sep,28,16:20:05,ns1,ftpd,2001,FTP session closed,3262681b,FTP session closed
+545,Sep,28,16:20:05,ns1,ftpd,2000,FTP session closed,3262681b,FTP session closed
+546,Sep,28,16:20:05,ns1,ftpd,1997,FTP session closed,3262681b,FTP session closed
+547,Sep,28,16:20:05,ns1,ftpd,1996,FTP session closed,3262681b,FTP session closed
+548,Sep,28,16:20:05,ns1,ftpd,2003,FTP session closed,3262681b,FTP session closed
+549,Sep,28,16:20:06,ns1,ftpd,2002,FTP session closed,3262681b,FTP session closed
+550,Sep,28,16:20:06,ns1,ftpd,2004,FTP session closed,3262681b,FTP session closed
+551,Sep,28,16:20:06,ns1,ftpd,2005,FTP session closed,3262681b,FTP session closed
+552,Sep,29,02:24:01,ns1,sshd(pam_unix),2789,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.240.65.3  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+553,Sep,29,02:24:02,ns1,sshd(pam_unix),2790,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.240.65.3  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+554,Sep,29,07:14:58,ns1,ftpd,6530,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+555,Sep,29,07:14:58,ns1,ftpd,6533,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+556,Sep,29,07:14:58,ns1,ftpd,6541,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+557,Sep,29,07:14:58,ns1,ftpd,6531,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+558,Sep,29,07:14:59,ns1,ftpd,6540,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+559,Sep,29,07:14:59,ns1,ftpd,6539,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+560,Sep,29,07:14:59,ns1,ftpd,6538,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+561,Sep,29,07:14:59,ns1,ftpd,6537,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+562,Sep,29,07:14:59,ns1,ftpd,6536,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+563,Sep,29,07:14:59,ns1,ftpd,6535,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+564,Sep,29,07:14:59,ns1,ftpd,6542,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+565,Sep,29,07:14:59,ns1,ftpd,6544,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+566,Sep,29,07:14:59,ns1,ftpd,6543,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+567,Sep,29,07:14:59,ns1,ftpd,6534,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+568,Sep,29,07:14:59,ns1,ftpd,6532,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+569,Sep,29,07:14:59,ns1,ftpd,6545,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+570,Sep,29,07:14:59,ns1,ftpd,6546,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+571,Sep,29,07:14:59,ns1,ftpd,6547,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+572,Sep,29,07:14:59,ns1,ftpd,6548,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+573,Sep,29,07:15:00,ns1,ftpd,6549,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+574,Sep,29,07:15:00,ns1,ftpd,6550,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+575,Sep,29,07:15:01,ns1,ftpd,6551,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+576,Sep,29,07:16:51,ns1,ftpd,6533,FTP session closed,3262681b,FTP session closed
+577,Sep,29,07:17:47,ns1,ftpd,6535,FTP session closed,3262681b,FTP session closed
+578,Sep,29,07:17:47,ns1,ftpd,6537,FTP session closed,3262681b,FTP session closed
+579,Sep,29,07:17:47,ns1,ftpd,6539,FTP session closed,3262681b,FTP session closed
+580,Sep,29,07:17:47,ns1,ftpd,6541,FTP session closed,3262681b,FTP session closed
+581,Sep,29,07:17:47,ns1,ftpd,6540,FTP session closed,3262681b,FTP session closed
+582,Sep,29,07:17:47,ns1,ftpd,6538,FTP session closed,3262681b,FTP session closed
+583,Sep,29,07:17:47,ns1,ftpd,6542,FTP session closed,3262681b,FTP session closed
+584,Sep,29,07:17:47,ns1,ftpd,6543,FTP session closed,3262681b,FTP session closed
+585,Sep,29,07:17:47,ns1,ftpd,6532,FTP session closed,3262681b,FTP session closed
+586,Sep,29,07:17:47,ns1,ftpd,6534,FTP session closed,3262681b,FTP session closed
+587,Sep,29,07:17:47,ns1,ftpd,6531,FTP session closed,3262681b,FTP session closed
+588,Sep,29,07:17:47,ns1,ftpd,6536,FTP session closed,3262681b,FTP session closed
+589,Sep,29,07:17:47,ns1,ftpd,6544,FTP session closed,3262681b,FTP session closed
+590,Sep,29,07:17:47,ns1,ftpd,6530,FTP session closed,3262681b,FTP session closed
+591,Sep,29,07:17:47,ns1,ftpd,6545,FTP session closed,3262681b,FTP session closed
+592,Sep,29,07:17:48,ns1,ftpd,6546,FTP session closed,3262681b,FTP session closed
+593,Sep,29,07:17:48,ns1,ftpd,6547,FTP session closed,3262681b,FTP session closed
+594,Sep,29,07:17:48,ns1,ftpd,6548,FTP session closed,3262681b,FTP session closed
+595,Sep,29,07:17:49,ns1,ftpd,6549,FTP session closed,3262681b,FTP session closed
+596,Sep,29,07:17:49,ns1,ftpd,6550,FTP session closed,3262681b,FTP session closed
+597,Sep,29,07:17:50,ns1,ftpd,6551,FTP session closed,3262681b,FTP session closed
+598,Sep,30,02:58:17,ns1,sshd(pam_unix),8329,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=216.234.56.11  user=nobody,54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody
+599,Sep,30,04:03:47,ns1,ftpd,8503,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+600,Sep,30,04:03:47,ns1,ftpd,8516,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+601,Sep,30,04:03:47,ns1,ftpd,8506,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+602,Sep,30,04:03:47,ns1,ftpd,8515,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+603,Sep,30,04:03:47,ns1,ftpd,8507,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+604,Sep,30,04:03:47,ns1,ftpd,8510,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+605,Sep,30,04:03:47,ns1,ftpd,8509,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+606,Sep,30,04:03:47,ns1,ftpd,8511,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+607,Sep,30,04:03:47,ns1,ftpd,8517,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+608,Sep,30,04:03:47,ns1,ftpd,8514,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+609,Sep,30,04:03:47,ns1,ftpd,8512,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+610,Sep,30,04:03:47,ns1,ftpd,8508,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+611,Sep,30,04:03:47,ns1,ftpd,8513,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+612,Sep,30,04:03:47,ns1,ftpd,8505,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+613,Sep,30,04:03:47,ns1,ftpd,8501,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+614,Sep,30,04:03:47,ns1,ftpd,8502,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+615,Sep,30,04:03:47,ns1,ftpd,8504,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+616,Sep,30,04:03:47,ns1,ftpd,8518,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+617,Sep,30,04:03:54,ns1,ftpd,8519,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+618,Sep,30,04:03:54,ns1,ftpd,8521,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+619,Sep,30,04:03:54,ns1,ftpd,8522,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+620,Sep,30,04:03:54,ns1,ftpd,8520,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+621,Sep,30,04:07:05,ns1,ftpd,8519,lost connection to 82.65.141.151 [82.65.141.151],08414a00,lost connection to <*> [<*>]
+622,Sep,30,04:07:05,ns1,ftpd,8519,FTP session closed,3262681b,FTP session closed
+623,Sep,30,04:07:05,ns1,ftpd,8521,lost connection to 82.65.141.151 [82.65.141.151],08414a00,lost connection to <*> [<*>]
+624,Sep,30,04:07:05,ns1,ftpd,8521,FTP session closed,3262681b,FTP session closed
+625,Sep,30,04:07:05,ns1,ftpd,8520,lost connection to 82.65.141.151 [82.65.141.151],08414a00,lost connection to <*> [<*>]
+626,Sep,30,04:07:05,ns1,ftpd,8520,FTP session closed,3262681b,FTP session closed
+627,Sep,30,04:07:05,ns1,ftpd,8522,lost connection to 82.65.141.151 [82.65.141.151],08414a00,lost connection to <*> [<*>]
+628,Sep,30,04:07:05,ns1,ftpd,8522,FTP session closed,3262681b,FTP session closed
+629,Sep,30,04:21:37,ns1,ftpd,8512,User unknown timed out after 900 seconds at Thu Sep 30 04:21:37 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+630,Sep,30,04:21:37,ns1,ftpd,8512,FTP session closed,3262681b,FTP session closed
+631,Sep,30,04:21:37,ns1,ftpd,8501,User unknown timed out after 900 seconds at Thu Sep 30 04:21:37 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+632,Sep,30,04:21:37,ns1,ftpd,8501,FTP session closed,3262681b,FTP session closed
+633,Sep,30,04:21:37,ns1,ftpd,8518,User unknown timed out after 900 seconds at Thu Sep 30 04:21:37 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+634,Sep,30,04:21:37,ns1,ftpd,8518,FTP session closed,3262681b,FTP session closed
+635,Sep,30,04:21:37,ns1,ftpd,8517,User unknown timed out after 900 seconds at Thu Sep 30 04:21:37 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+636,Sep,30,04:21:37,ns1,ftpd,8517,FTP session closed,3262681b,FTP session closed
+637,Sep,30,04:21:38,ns1,ftpd,8516,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+638,Sep,30,04:21:38,ns1,ftpd,8516,FTP session closed,3262681b,FTP session closed
+639,Sep,30,04:21:38,ns1,ftpd,8515,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+640,Sep,30,04:21:38,ns1,ftpd,8515,FTP session closed,3262681b,FTP session closed
+641,Sep,30,04:21:38,ns1,ftpd,8514,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+642,Sep,30,04:21:38,ns1,ftpd,8514,FTP session closed,3262681b,FTP session closed
+643,Sep,30,04:21:38,ns1,ftpd,8506,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+644,Sep,30,04:21:38,ns1,ftpd,8513,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+645,Sep,30,04:21:38,ns1,ftpd,8511,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+646,Sep,30,04:21:38,ns1,ftpd,8502,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+647,Sep,30,04:21:38,ns1,ftpd,8510,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+648,Sep,30,04:21:38,ns1,ftpd,8503,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+649,Sep,30,04:21:38,ns1,ftpd,8509,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+650,Sep,30,04:21:38,ns1,ftpd,8508,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+651,Sep,30,04:21:38,ns1,ftpd,8507,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+652,Sep,30,04:21:38,ns1,ftpd,8504,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+653,Sep,30,04:21:38,ns1,ftpd,8505,User unknown timed out after 900 seconds at Thu Sep 30 04:21:38 2004,998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004
+654,Sep,30,04:21:38,ns1,ftpd,8506,FTP session closed,3262681b,FTP session closed
+655,Sep,30,04:21:38,ns1,ftpd,8513,FTP session closed,3262681b,FTP session closed
+656,Sep,30,04:21:38,ns1,ftpd,8511,FTP session closed,3262681b,FTP session closed
+657,Sep,30,04:21:38,ns1,ftpd,8502,FTP session closed,3262681b,FTP session closed
+658,Sep,30,04:21:38,ns1,ftpd,8510,FTP session closed,3262681b,FTP session closed
+659,Sep,30,04:21:38,ns1,ftpd,8503,FTP session closed,3262681b,FTP session closed
+660,Sep,30,04:21:38,ns1,ftpd,8509,FTP session closed,3262681b,FTP session closed
+661,Sep,30,04:21:38,ns1,ftpd,8508,FTP session closed,3262681b,FTP session closed
+662,Sep,30,04:21:38,ns1,ftpd,8507,FTP session closed,3262681b,FTP session closed
+663,Sep,30,04:21:38,ns1,ftpd,8504,FTP session closed,3262681b,FTP session closed
+664,Sep,30,04:21:38,ns1,ftpd,8505,FTP session closed,3262681b,FTP session closed
+665,Sep,30,05:26:32,ns1,ftpd,8673,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+666,Sep,30,05:26:32,ns1,ftpd,8670,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+667,Sep,30,05:26:32,ns1,ftpd,8672,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+668,Sep,30,05:26:32,ns1,ftpd,8671,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+669,Sep,30,05:26:32,ns1,ftpd,8674,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+670,Sep,30,05:26:32,ns1,ftpd,8675,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+671,Sep,30,05:26:32,ns1,ftpd,8676,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+672,Sep,30,05:26:32,ns1,ftpd,8678,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+673,Sep,30,05:26:32,ns1,ftpd,8679,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+674,Sep,30,05:26:32,ns1,ftpd,8681,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+675,Sep,30,05:26:32,ns1,ftpd,8677,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+676,Sep,30,05:26:32,ns1,ftpd,8680,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+677,Sep,30,05:26:33,ns1,ftpd,8682,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+678,Sep,30,05:26:33,ns1,ftpd,8684,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+679,Sep,30,05:26:33,ns1,ftpd,8683,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+680,Sep,30,05:26:33,ns1,ftpd,8685,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+681,Sep,30,05:29:20,ns1,ftpd,8672,FTP session closed,3262681b,FTP session closed
+682,Sep,30,05:29:20,ns1,ftpd,8673,FTP session closed,3262681b,FTP session closed
+683,Sep,30,05:29:20,ns1,ftpd,8671,FTP session closed,3262681b,FTP session closed
+684,Sep,30,05:29:20,ns1,ftpd,8670,FTP session closed,3262681b,FTP session closed
+685,Sep,30,05:29:20,ns1,ftpd,8674,FTP session closed,3262681b,FTP session closed
+686,Sep,30,05:29:21,ns1,ftpd,8675,FTP session closed,3262681b,FTP session closed
+687,Sep,30,05:29:21,ns1,ftpd,8676,FTP session closed,3262681b,FTP session closed
+688,Sep,30,05:29:21,ns1,ftpd,8679,FTP session closed,3262681b,FTP session closed
+689,Sep,30,05:29:21,ns1,ftpd,8678,FTP session closed,3262681b,FTP session closed
+690,Sep,30,05:29:21,ns1,ftpd,8681,FTP session closed,3262681b,FTP session closed
+691,Sep,30,05:29:21,ns1,ftpd,8677,FTP session closed,3262681b,FTP session closed
+692,Sep,30,05:29:21,ns1,ftpd,8680,FTP session closed,3262681b,FTP session closed
+693,Sep,30,05:29:21,ns1,ftpd,8682,FTP session closed,3262681b,FTP session closed
+694,Sep,30,05:29:21,ns1,ftpd,8684,FTP session closed,3262681b,FTP session closed
+695,Sep,30,05:29:22,ns1,ftpd,8683,FTP session closed,3262681b,FTP session closed
+696,Sep,30,05:29:22,ns1,ftpd,8685,FTP session closed,3262681b,FTP session closed
+697,Sep,30,13:12:23,ns1,ftpd,9964,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+698,Sep,30,13:12:23,ns1,ftpd,9965,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+699,Sep,30,13:12:23,ns1,ftpd,9967,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+700,Sep,30,13:12:23,ns1,ftpd,9968,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+701,Sep,30,13:12:23,ns1,ftpd,9966,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+702,Sep,30,13:12:23,ns1,ftpd,9970,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+703,Sep,30,13:12:23,ns1,ftpd,9969,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+704,Sep,30,13:12:23,ns1,ftpd,9971,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+705,Sep,30,13:12:23,ns1,ftpd,9973,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+706,Sep,30,13:12:23,ns1,ftpd,9974,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+707,Sep,30,13:12:23,ns1,ftpd,9976,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+708,Sep,30,13:12:23,ns1,ftpd,9975,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+709,Sep,30,13:12:23,ns1,ftpd,9972,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+710,Sep,30,13:12:24,ns1,ftpd,9977,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+711,Sep,30,13:12:24,ns1,ftpd,9979,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+712,Sep,30,13:12:24,ns1,ftpd,9980,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+713,Sep,30,13:12:24,ns1,ftpd,9981,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+714,Sep,30,13:12:24,ns1,ftpd,9982,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+715,Sep,30,13:12:24,ns1,ftpd,9983,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+716,Sep,30,13:12:24,ns1,ftpd,9985,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+717,Sep,30,13:12:24,ns1,ftpd,9984,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+718,Sep,30,13:12:24,ns1,ftpd,9986,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+719,Sep,30,13:12:24,ns1,ftpd,9987,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+720,Sep,30,13:14:16,ns1,ftpd,9964,FTP session closed,3262681b,FTP session closed
+721,Sep,30,13:15:12,ns1,ftpd,9965,FTP session closed,3262681b,FTP session closed
+722,Sep,30,13:15:12,ns1,ftpd,9968,FTP session closed,3262681b,FTP session closed
+723,Sep,30,13:15:12,ns1,ftpd,9971,FTP session closed,3262681b,FTP session closed
+724,Sep,30,13:15:12,ns1,ftpd,9970,FTP session closed,3262681b,FTP session closed
+725,Sep,30,13:15:12,ns1,ftpd,9973,FTP session closed,3262681b,FTP session closed
+726,Sep,30,13:15:12,ns1,ftpd,9974,FTP session closed,3262681b,FTP session closed
+727,Sep,30,13:15:12,ns1,ftpd,9977,FTP session closed,3262681b,FTP session closed
+728,Sep,30,13:15:12,ns1,ftpd,9980,FTP session closed,3262681b,FTP session closed
+729,Sep,30,13:15:12,ns1,ftpd,9979,FTP session closed,3262681b,FTP session closed
+730,Sep,30,13:15:12,ns1,ftpd,9982,FTP session closed,3262681b,FTP session closed
+731,Sep,30,13:15:12,ns1,ftpd,9976,FTP session closed,3262681b,FTP session closed
+732,Sep,30,13:15:12,ns1,ftpd,9969,FTP session closed,3262681b,FTP session closed
+733,Sep,30,13:15:12,ns1,ftpd,9983,FTP session closed,3262681b,FTP session closed
+734,Sep,30,13:15:12,ns1,ftpd,9981,FTP session closed,3262681b,FTP session closed
+735,Sep,30,13:15:12,ns1,ftpd,9972,FTP session closed,3262681b,FTP session closed
+736,Sep,30,13:15:12,ns1,ftpd,9966,FTP session closed,3262681b,FTP session closed
+737,Sep,30,13:15:12,ns1,ftpd,9984,FTP session closed,3262681b,FTP session closed
+738,Sep,30,13:15:12,ns1,ftpd,9985,FTP session closed,3262681b,FTP session closed
+739,Sep,30,13:15:12,ns1,ftpd,9975,FTP session closed,3262681b,FTP session closed
+740,Sep,30,13:15:12,ns1,ftpd,9967,FTP session closed,3262681b,FTP session closed
+741,Sep,30,13:15:12,ns1,ftpd,9986,FTP session closed,3262681b,FTP session closed
+742,Sep,30,13:15:12,ns1,ftpd,9987,FTP session closed,3262681b,FTP session closed
+743,Oct,2,12:29:10,ns1,ftpd,13286,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+744,Oct,2,12:29:10,ns1,ftpd,13288,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+745,Oct,2,12:29:10,ns1,ftpd,13297,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+746,Oct,2,12:29:10,ns1,ftpd,13307,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+747,Oct,2,12:29:10,ns1,ftpd,13294,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+748,Oct,2,12:29:10,ns1,ftpd,13290,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+749,Oct,2,12:29:10,ns1,ftpd,13299,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+750,Oct,2,12:29:10,ns1,ftpd,13300,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+751,Oct,2,12:29:10,ns1,ftpd,13291,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+752,Oct,2,12:29:10,ns1,ftpd,13298,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+753,Oct,2,12:29:10,ns1,ftpd,13289,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+754,Oct,2,12:29:10,ns1,ftpd,13292,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+755,Oct,2,12:29:10,ns1,ftpd,13293,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+756,Oct,2,12:29:10,ns1,ftpd,13295,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+757,Oct,2,12:29:10,ns1,ftpd,13296,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+758,Oct,2,12:29:10,ns1,ftpd,13302,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+759,Oct,2,12:29:10,ns1,ftpd,13301,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+760,Oct,2,12:29:10,ns1,ftpd,13303,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+761,Oct,2,12:29:10,ns1,ftpd,13305,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+762,Oct,2,12:29:10,ns1,ftpd,13287,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+763,Oct,2,12:29:10,ns1,ftpd,13285,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+764,Oct,2,12:29:10,ns1,ftpd,13304,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+765,Oct,2,12:29:10,ns1,ftpd,13306,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+766,Oct,2,12:31:03,ns1,ftpd,13285,FTP session closed,3262681b,FTP session closed
+767,Oct,2,12:31:35,ns1,ftpd,13311,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+768,Oct,2,12:31:35,ns1,ftpd,13312,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+769,Oct,2,12:31:35,ns1,ftpd,13315,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+770,Oct,2,12:31:35,ns1,ftpd,13316,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+771,Oct,2,12:31:35,ns1,ftpd,13310,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+772,Oct,2,12:31:35,ns1,ftpd,13314,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+773,Oct,2,12:31:35,ns1,ftpd,13313,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+774,Oct,2,12:31:35,ns1,ftpd,13317,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+775,Oct,2,12:31:35,ns1,ftpd,13318,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+776,Oct,2,12:31:35,ns1,ftpd,13319,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+777,Oct,2,12:31:35,ns1,ftpd,13320,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+778,Oct,2,12:31:35,ns1,ftpd,13321,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+779,Oct,2,12:31:58,ns1,ftpd,13288,FTP session closed,3262681b,FTP session closed
+780,Oct,2,12:31:58,ns1,ftpd,13291,FTP session closed,3262681b,FTP session closed
+781,Oct,2,12:31:58,ns1,ftpd,13293,FTP session closed,3262681b,FTP session closed
+782,Oct,2,12:31:59,ns1,ftpd,13300,FTP session closed,3262681b,FTP session closed
+783,Oct,2,12:31:59,ns1,ftpd,13287,FTP session closed,3262681b,FTP session closed
+784,Oct,2,12:31:59,ns1,ftpd,13305,FTP session closed,3262681b,FTP session closed
+785,Oct,2,12:31:59,ns1,ftpd,13304,FTP session closed,3262681b,FTP session closed
+786,Oct,2,12:31:59,ns1,ftpd,13292,FTP session closed,3262681b,FTP session closed
+787,Oct,2,12:31:59,ns1,ftpd,13303,FTP session closed,3262681b,FTP session closed
+788,Oct,2,12:31:59,ns1,ftpd,13301,FTP session closed,3262681b,FTP session closed
+789,Oct,2,12:31:59,ns1,ftpd,13302,FTP session closed,3262681b,FTP session closed
+790,Oct,2,12:31:59,ns1,ftpd,13299,FTP session closed,3262681b,FTP session closed
+791,Oct,2,12:31:59,ns1,ftpd,13286,FTP session closed,3262681b,FTP session closed
+792,Oct,2,12:31:59,ns1,ftpd,13295,FTP session closed,3262681b,FTP session closed
+793,Oct,2,12:31:59,ns1,ftpd,13297,FTP session closed,3262681b,FTP session closed
+794,Oct,2,12:31:59,ns1,ftpd,13290,FTP session closed,3262681b,FTP session closed
+795,Oct,2,12:31:59,ns1,ftpd,13294,FTP session closed,3262681b,FTP session closed
+796,Oct,2,12:31:59,ns1,ftpd,13306,FTP session closed,3262681b,FTP session closed
+797,Oct,2,12:31:59,ns1,ftpd,13307,FTP session closed,3262681b,FTP session closed
+798,Oct,2,12:31:59,ns1,ftpd,13296,FTP session closed,3262681b,FTP session closed
+799,Oct,2,12:31:59,ns1,ftpd,13289,FTP session closed,3262681b,FTP session closed
+800,Oct,2,12:31:59,ns1,ftpd,13298,FTP session closed,3262681b,FTP session closed
+801,Oct,2,12:33:27,ns1,ftpd,13310,FTP session closed,3262681b,FTP session closed
+802,Oct,2,12:34:23,ns1,ftpd,13312,FTP session closed,3262681b,FTP session closed
+803,Oct,2,12:34:23,ns1,ftpd,13315,FTP session closed,3262681b,FTP session closed
+804,Oct,2,12:34:23,ns1,ftpd,13316,FTP session closed,3262681b,FTP session closed
+805,Oct,2,12:34:23,ns1,ftpd,13311,FTP session closed,3262681b,FTP session closed
+806,Oct,2,12:34:23,ns1,ftpd,13314,FTP session closed,3262681b,FTP session closed
+807,Oct,2,12:34:23,ns1,ftpd,13313,FTP session closed,3262681b,FTP session closed
+808,Oct,2,12:34:23,ns1,ftpd,13317,FTP session closed,3262681b,FTP session closed
+809,Oct,2,12:34:23,ns1,ftpd,13318,FTP session closed,3262681b,FTP session closed
+810,Oct,2,12:34:23,ns1,ftpd,13319,FTP session closed,3262681b,FTP session closed
+811,Oct,2,12:34:23,ns1,ftpd,13321,FTP session closed,3262681b,FTP session closed
+812,Oct,2,12:34:23,ns1,ftpd,13320,FTP session closed,3262681b,FTP session closed

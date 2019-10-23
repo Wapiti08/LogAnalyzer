@@ -1,0 +1,347 @@
+LineId,Month,Date,Time,Level,Component,PID,Content,EventId,EventTemplate
+1,Aug,8,04:02:10,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+2,Aug,8,04:02:10,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+3,Aug,8,04:02:10,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+4,Aug,8,04:02:10,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+5,Aug,8,04:02:10,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+6,Aug,8,11:00:49,ns1,rpc.statd,501,gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220,fbe96392,gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+7,Aug,8,11:00:50,ns1,rpc.statd,501,gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220,fbe96392,gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+8,Aug,8,11:00:51,ns1,rpc.statd,501,gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220,fbe96392,gethostbyname error for ^X\F7\FF\BF^X\F7\FF\BF^Z\F7\FF\BF^Z\F7\FF\BF%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+9,Aug,8,12:35:09,ns1,telnetd,22321,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+10,Aug,8,12:35:10,ns1,telnetd,22322,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+11,Aug,8,12:35:10,ns1,telnetd,22323,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+12,Aug,8,12:35:10,ns1,telnetd,22324,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+13,Aug,8,12:35:10,ns1,telnetd,22325,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+14,Aug,8,12:35:10,ns1,telnetd,22326,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+15,Aug,8,12:35:10,ns1,telnetd,22327,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+16,Aug,8,12:35:11,ns1,telnetd,22328,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+17,Aug,8,12:35:12,ns1,telnetd,22329,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+18,Aug,8,12:35:12,ns1,telnetd,22330,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+19,Aug,8,12:35:12,ns1,telnetd,22331,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+20,Aug,8,12:35:12,ns1,telnetd,22332,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+21,Aug,8,12:35:12,ns1,telnetd,22333,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+22,Aug,8,12:35:12,ns1,telnetd,22334,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+23,Aug,8,12:35:12,ns1,telnetd,22336,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+24,Aug,8,12:35:12,ns1,telnetd,22335,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+25,Aug,8,12:35:12,ns1,telnetd,22337,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+26,Aug,8,12:35:12,ns1,telnetd,22338,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+27,Aug,8,12:35:12,ns1,telnetd,22339,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+28,Aug,8,12:35:12,ns1,telnetd,22340,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+29,Aug,8,12:35:12,ns1,telnetd,22341,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+30,Aug,8,12:35:12,ns1,telnetd,22342,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+31,Aug,8,12:35:13,ns1,telnetd,22343,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+32,Aug,8,12:35:58,ns1,telnetd,12581,ttloop: read: Connection reset by peer,7fb6ca22,ttloop: read: Connection reset by peer
+33,Aug,8,14:18:53,ns1,sshd(pam_unix),22441,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=63.251.144.88  user=root,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+34,Aug,8,14:18:53,ns1,sshd(pam_unix),22440,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=63.251.144.88  user=root,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+35,Aug,8,14:18:57,ns1,sshd(pam_unix),22442,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=63.251.144.88  user=root,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+36,Aug,8,14:18:57,ns1,sshd(pam_unix),22443,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=63.251.144.88  user=root,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+37,Aug,8,14:18:57,ns1,sshd(pam_unix),22447,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=63.251.144.88  user=root,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+38,Aug,8,14:18:57,ns1,sshd(pam_unix),22444,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=63.251.144.88  user=root,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+39,Aug,8,14:18:57,ns1,sshd(pam_unix),22445,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=63.251.144.88  user=root,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+40,Aug,8,14:18:57,ns1,sshd(pam_unix),22446,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=63.251.144.88  user=root,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+41,Aug,8,15:50:18,ns1,ftpd,22485,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+42,Aug,8,15:50:19,ns1,ftpd,22486,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+43,Aug,8,15:50:19,ns1,ftpd,22487,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+44,Aug,8,15:50:19,ns1,ftpd,22488,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+45,Aug,8,15:50:19,ns1,ftpd,22490,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+46,Aug,8,15:50:19,ns1,ftpd,22491,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+47,Aug,8,15:50:19,ns1,ftpd,22492,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+48,Aug,8,15:50:19,ns1,ftpd,22495,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+49,Aug,8,15:50:19,ns1,ftpd,22489,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+50,Aug,8,15:50:19,ns1,ftpd,22497,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+51,Aug,8,15:50:19,ns1,ftpd,22494,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+52,Aug,8,15:50:19,ns1,ftpd,22493,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+53,Aug,8,15:50:19,ns1,ftpd,22496,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+54,Aug,8,15:50:42,ns1,ftpd,22485,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+55,Aug,8,15:50:42,ns1,ftpd,22485,FTP session closed,3262681b,FTP session closed
+56,Aug,8,15:50:49,ns1,ftpd,22498,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+57,Aug,8,15:50:49,ns1,ftpd,22498,getpeername (in.ftpd): Transport endpoint is not connected,10e7e392,getpeername (in.ftpd): Transport endpoint is not connected
+58,Aug,8,15:50:49,ns1,ftpd,22500,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+59,Aug,8,15:50:49,ns1,ftpd,22501,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+60,Aug,8,15:50:49,ns1,ftpd,22499,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+61,Aug,8,15:50:49,ns1,ftpd,22499,getpeername (in.ftpd): Transport endpoint is not connected,10e7e392,getpeername (in.ftpd): Transport endpoint is not connected
+62,Aug,8,15:50:49,ns1,ftpd,22500,getpeername (in.ftpd): Transport endpoint is not connected,10e7e392,getpeername (in.ftpd): Transport endpoint is not connected
+63,Aug,8,15:50:49,ns1,ftpd,22501,getpeername (in.ftpd): Transport endpoint is not connected,10e7e392,getpeername (in.ftpd): Transport endpoint is not connected
+64,Aug,8,15:50:51,ns1,ftpd,22487,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+65,Aug,8,15:50:52,ns1,ftpd,22490,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+66,Aug,8,15:50:52,ns1,ftpd,22489,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+67,Aug,8,15:50:52,ns1,ftpd,22486,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+68,Aug,8,15:50:52,ns1,ftpd,22488,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+69,Aug,8,15:50:52,ns1,ftpd,22492,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+70,Aug,8,15:50:52,ns1,ftpd,22493,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+71,Aug,8,15:50:52,ns1,ftpd,22494,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+72,Aug,8,15:50:52,ns1,ftpd,22491,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+73,Aug,8,15:50:52,ns1,ftpd,22490,FTP session closed,3262681b,FTP session closed
+74,Aug,8,15:50:52,ns1,ftpd,22487,FTP session closed,3262681b,FTP session closed
+75,Aug,8,15:50:52,ns1,ftpd,22495,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+76,Aug,8,15:50:52,ns1,ftpd,22486,FTP session closed,3262681b,FTP session closed
+77,Aug,8,15:50:52,ns1,ftpd,22489,FTP session closed,3262681b,FTP session closed
+78,Aug,8,15:50:52,ns1,ftpd,22488,FTP session closed,3262681b,FTP session closed
+79,Aug,8,15:50:52,ns1,ftpd,22496,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+80,Aug,8,15:50:52,ns1,ftpd,22493,FTP session closed,3262681b,FTP session closed
+81,Aug,8,15:50:52,ns1,ftpd,22494,FTP session closed,3262681b,FTP session closed
+82,Aug,8,15:50:52,ns1,ftpd,22495,FTP session closed,3262681b,FTP session closed
+83,Aug,8,15:50:52,ns1,ftpd,22492,FTP session closed,3262681b,FTP session closed
+84,Aug,8,15:50:52,ns1,ftpd,22491,FTP session closed,3262681b,FTP session closed
+85,Aug,8,15:50:52,ns1,ftpd,22496,FTP session closed,3262681b,FTP session closed
+86,Aug,8,15:50:52,ns1,ftpd,22497,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [80.11.173.58],37282dc5,lost connection to ALyon-209-1-6-58.w80-11.abo.wanadoo.fr [<*>]
+87,Aug,8,15:50:52,ns1,ftpd,22497,FTP session closed,3262681b,FTP session closed
+88,Aug,9,03:32:03,ns1,ftpd,22856,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+89,Aug,9,03:32:03,ns1,xinetd,22857,Bad line received from identity server at 211.138.142.34: 3965,dfe68aca,Bad line received from identity server at <*>: 
+90,Aug,9,03:32:03,ns1,xinetd,22858,Bad line received from identity server at 211.138.142.34: 3966,dfe68aca,Bad line received from identity server at <*>: 
+91,Aug,9,03:32:03,ns1,ftpd,22858,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+92,Aug,9,03:32:03,ns1,ftpd,22857,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+93,Aug,9,03:32:04,ns1,xinetd,22859,Bad line received from identity server at 211.138.142.34: 3967,dfe68aca,Bad line received from identity server at <*>: 
+94,Aug,9,03:32:04,ns1,ftpd,22859,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+95,Aug,9,03:32:06,ns1,xinetd,22860,Bad line received from identity server at 211.138.142.34: 3968,dfe68aca,Bad line received from identity server at <*>: 
+96,Aug,9,03:32:06,ns1,ftpd,22860,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+97,Aug,9,03:32:06,ns1,xinetd,22861,Bad line received from identity server at 211.138.142.34: 3969,dfe68aca,Bad line received from identity server at <*>: 
+98,Aug,9,03:32:06,ns1,ftpd,22861,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+99,Aug,9,03:32:06,ns1,xinetd,22862,Bad line received from identity server at 211.138.142.34: 3970,dfe68aca,Bad line received from identity server at <*>: 
+100,Aug,9,03:32:06,ns1,ftpd,22862,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+101,Aug,9,03:32:07,ns1,xinetd,22863,Bad line received from identity server at 211.138.142.34: 3971,dfe68aca,Bad line received from identity server at <*>: 
+102,Aug,9,03:32:07,ns1,ftpd,22863,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+103,Aug,9,03:32:07,ns1,xinetd,22864,Bad line received from identity server at 211.138.142.34: 3972,dfe68aca,Bad line received from identity server at <*>: 
+104,Aug,9,03:32:07,ns1,ftpd,22864,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+105,Aug,9,03:32:07,ns1,xinetd,22865,Bad line received from identity server at 211.138.142.34: 3973,dfe68aca,Bad line received from identity server at <*>: 
+106,Aug,9,03:32:07,ns1,ftpd,22865,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+107,Aug,9,03:32:09,ns1,xinetd,22866,Bad line received from identity server at 211.138.142.34: 3974,dfe68aca,Bad line received from identity server at <*>: 
+108,Aug,9,03:32:09,ns1,ftpd,22866,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+109,Aug,9,03:32:10,ns1,xinetd,22867,Bad line received from identity server at 211.138.142.34: 3975,dfe68aca,Bad line received from identity server at <*>: 
+110,Aug,9,03:32:10,ns1,ftpd,22867,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+111,Aug,9,03:32:11,ns1,xinetd,22868,Bad line received from identity server at 211.138.142.34: 3976,dfe68aca,Bad line received from identity server at <*>: 
+112,Aug,9,03:32:11,ns1,ftpd,22868,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+113,Aug,9,03:32:28,ns1,ftpd,22858,FTP session closed,3262681b,FTP session closed
+114,Aug,9,03:32:28,ns1,ftpd,22857,FTP session closed,3262681b,FTP session closed
+115,Aug,9,03:32:28,ns1,ftpd,22859,FTP session closed,3262681b,FTP session closed
+116,Aug,9,03:32:30,ns1,ftpd,22860,FTP session closed,3262681b,FTP session closed
+117,Aug,9,03:32:30,ns1,ftpd,22861,FTP session closed,3262681b,FTP session closed
+118,Aug,9,03:32:31,ns1,ftpd,22862,FTP session closed,3262681b,FTP session closed
+119,Aug,9,03:32:32,ns1,ftpd,22863,FTP session closed,3262681b,FTP session closed
+120,Aug,9,03:32:32,ns1,ftpd,22864,FTP session closed,3262681b,FTP session closed
+121,Aug,9,03:32:32,ns1,ftpd,22865,FTP session closed,3262681b,FTP session closed
+122,Aug,9,03:32:33,ns1,ftpd,22856,FTP session closed,3262681b,FTP session closed
+123,Aug,9,03:32:34,ns1,ftpd,22866,FTP session closed,3262681b,FTP session closed
+124,Aug,9,03:32:34,ns1,ftpd,22867,FTP session closed,3262681b,FTP session closed
+125,Aug,9,03:32:35,ns1,ftpd,22868,FTP session closed,3262681b,FTP session closed
+126,Aug,9,03:32:40,ns1,ftpd,22869,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+127,Aug,9,03:32:40,ns1,ftpd,22870,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+128,Aug,9,03:32:41,ns1,ftpd,22871,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+129,Aug,9,03:32:41,ns1,ftpd,22872,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+130,Aug,9,03:32:42,ns1,ftpd,22873,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+131,Aug,9,03:32:42,ns1,ftpd,22874,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+132,Aug,9,03:32:42,ns1,ftpd,22875,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+133,Aug,9,03:32:42,ns1,ftpd,22876,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+134,Aug,9,03:32:42,ns1,ftpd,22877,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+135,Aug,9,03:32:46,ns1,ftpd,22878,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+136,Aug,9,03:33:01,ns1,ftpd,22869,FTP session closed,3262681b,FTP session closed
+137,Aug,9,03:33:04,ns1,ftpd,22870,FTP session closed,3262681b,FTP session closed
+138,Aug,9,03:33:05,ns1,ftpd,22871,FTP session closed,3262681b,FTP session closed
+139,Aug,9,03:33:05,ns1,ftpd,22872,FTP session closed,3262681b,FTP session closed
+140,Aug,9,03:33:06,ns1,ftpd,22873,FTP session closed,3262681b,FTP session closed
+141,Aug,9,03:33:06,ns1,ftpd,22874,FTP session closed,3262681b,FTP session closed
+142,Aug,9,03:33:06,ns1,ftpd,22875,FTP session closed,3262681b,FTP session closed
+143,Aug,9,03:33:06,ns1,ftpd,22876,FTP session closed,3262681b,FTP session closed
+144,Aug,9,03:33:06,ns1,ftpd,22877,FTP session closed,3262681b,FTP session closed
+145,Aug,9,03:33:11,ns1,ftpd,22878,FTP session closed,3262681b,FTP session closed
+146,Aug,9,06:56:08,ns1,ftpd,23155,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+147,Aug,9,06:56:08,ns1,ftpd,23149,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+148,Aug,9,06:56:08,ns1,ftpd,23157,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+149,Aug,9,06:56:08,ns1,ftpd,23151,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+150,Aug,9,06:56:08,ns1,ftpd,23156,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+151,Aug,9,06:56:08,ns1,ftpd,23153,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+152,Aug,9,06:56:08,ns1,ftpd,23159,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+153,Aug,9,06:56:08,ns1,ftpd,23158,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+154,Aug,9,06:56:08,ns1,ftpd,23160,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+155,Aug,9,06:56:08,ns1,ftpd,23150,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+156,Aug,9,06:56:08,ns1,ftpd,23161,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+157,Aug,9,06:56:33,ns1,ftpd,23153,FTP session closed,3262681b,FTP session closed
+158,Aug,9,06:56:33,ns1,ftpd,23155,FTP session closed,3262681b,FTP session closed
+159,Aug,9,06:56:33,ns1,ftpd,23160,FTP session closed,3262681b,FTP session closed
+160,Aug,9,06:56:33,ns1,ftpd,23149,FTP session closed,3262681b,FTP session closed
+161,Aug,9,06:56:33,ns1,ftpd,23158,FTP session closed,3262681b,FTP session closed
+162,Aug,9,06:56:33,ns1,ftpd,23157,FTP session closed,3262681b,FTP session closed
+163,Aug,9,06:56:33,ns1,ftpd,23156,FTP session closed,3262681b,FTP session closed
+164,Aug,9,06:56:33,ns1,ftpd,23151,FTP session closed,3262681b,FTP session closed
+165,Aug,9,06:56:33,ns1,ftpd,23159,FTP session closed,3262681b,FTP session closed
+166,Aug,9,06:56:33,ns1,ftpd,23161,FTP session closed,3262681b,FTP session closed
+167,Aug,9,06:56:33,ns1,ftpd,23150,FTP session closed,3262681b,FTP session closed
+168,Aug,9,06:56:37,ns1,ftpd,23152,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+169,Aug,9,06:56:37,ns1,ftpd,23163,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+170,Aug,9,06:56:37,ns1,ftpd,23162,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+171,Aug,9,06:56:37,ns1,ftpd,23166,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+172,Aug,9,06:56:37,ns1,ftpd,23154,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+173,Aug,9,06:56:37,ns1,ftpd,23165,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+174,Aug,9,06:56:37,ns1,ftpd,23164,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+175,Aug,9,06:56:38,ns1,ftpd,23168,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+176,Aug,9,06:56:38,ns1,ftpd,23167,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+177,Aug,9,06:56:38,ns1,ftpd,23169,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+178,Aug,9,06:56:54,ns1,ftpd,23165,FTP session closed,3262681b,FTP session closed
+179,Aug,9,06:57:02,ns1,ftpd,23163,FTP session closed,3262681b,FTP session closed
+180,Aug,9,06:57:02,ns1,ftpd,23162,FTP session closed,3262681b,FTP session closed
+181,Aug,9,06:57:02,ns1,ftpd,23152,FTP session closed,3262681b,FTP session closed
+182,Aug,9,06:57:02,ns1,ftpd,23164,FTP session closed,3262681b,FTP session closed
+183,Aug,9,06:57:02,ns1,ftpd,23154,FTP session closed,3262681b,FTP session closed
+184,Aug,9,06:57:02,ns1,ftpd,23166,FTP session closed,3262681b,FTP session closed
+185,Aug,9,06:57:02,ns1,ftpd,23168,FTP session closed,3262681b,FTP session closed
+186,Aug,9,06:57:02,ns1,ftpd,23167,FTP session closed,3262681b,FTP session closed
+187,Aug,9,06:57:02,ns1,ftpd,23169,FTP session closed,3262681b,FTP session closed
+188,Aug,9,07:25:03,ns1,samba(pam_unix),23238,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+189,Aug,9,07:25:03,ns1,samba(pam_unix),23237,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+190,Aug,9,07:25:03,ns1,samba(pam_unix),23239,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+191,Aug,9,07:25:03,ns1,samba(pam_unix),23240,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+192,Aug,9,07:25:03,ns1,samba(pam_unix),23241,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+193,Aug,9,07:25:03,ns1,samba(pam_unix),23242,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+194,Aug,9,07:25:03,ns1,samba(pam_unix),23243,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+195,Aug,9,07:25:03,ns1,samba(pam_unix),23244,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+196,Aug,9,07:25:03,ns1,samba(pam_unix),23245,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+197,Aug,9,07:25:03,ns1,samba(pam_unix),23246,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+198,Aug,9,07:25:03,ns1,samba(pam_unix),23247,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+199,Aug,9,07:25:03,ns1,samba(pam_unix),23248,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+200,Aug,9,07:25:03,ns1,samba(pam_unix),23249,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+201,Aug,9,07:25:04,ns1,samba(pam_unix),23250,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+202,Aug,9,07:25:04,ns1,samba(pam_unix),23251,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+203,Aug,9,07:25:04,ns1,samba(pam_unix),23252,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+204,Aug,9,07:25:04,ns1,samba(pam_unix),23253,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+205,Aug,9,07:25:04,ns1,samba(pam_unix),23254,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+206,Aug,9,07:25:04,ns1,samba(pam_unix),23255,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+207,Aug,9,07:25:04,ns1,samba(pam_unix),23256,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+208,Aug,9,07:25:04,ns1,samba(pam_unix),23258,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+209,Aug,9,07:25:04,ns1,samba(pam_unix),23257,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+210,Aug,9,07:25:04,ns1,samba(pam_unix),23259,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+211,Aug,9,07:25:08,ns1,samba(pam_unix),23237,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+212,Aug,9,07:25:08,ns1,samba(pam_unix),23237,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+213,Aug,9,07:25:08,ns1,samba(pam_unix),23238,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+214,Aug,9,07:25:08,ns1,samba(pam_unix),23238,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+215,Aug,9,07:25:08,ns1,samba(pam_unix),23240,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+216,Aug,9,07:25:08,ns1,samba(pam_unix),23240,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+217,Aug,9,07:25:08,ns1,samba(pam_unix),23239,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+218,Aug,9,07:25:08,ns1,samba(pam_unix),23239,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+219,Aug,9,07:25:08,ns1,samba(pam_unix),23241,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+220,Aug,9,07:25:08,ns1,samba(pam_unix),23241,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+221,Aug,9,07:25:08,ns1,samba(pam_unix),23242,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+222,Aug,9,07:25:08,ns1,samba(pam_unix),23242,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+223,Aug,9,07:25:08,ns1,samba(pam_unix),23243,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+224,Aug,9,07:25:08,ns1,samba(pam_unix),23243,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+225,Aug,9,07:25:08,ns1,samba(pam_unix),23244,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+226,Aug,9,07:25:08,ns1,samba(pam_unix),23244,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+227,Aug,9,07:25:08,ns1,samba(pam_unix),23245,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+228,Aug,9,07:25:08,ns1,samba(pam_unix),23245,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+229,Aug,9,07:25:08,ns1,samba(pam_unix),23246,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+230,Aug,9,07:25:08,ns1,samba(pam_unix),23246,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+231,Aug,9,07:25:08,ns1,samba(pam_unix),23247,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+232,Aug,9,07:25:08,ns1,samba(pam_unix),23247,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+233,Aug,9,07:25:08,ns1,samba(pam_unix),23248,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+234,Aug,9,07:25:08,ns1,samba(pam_unix),23248,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+235,Aug,9,07:25:08,ns1,samba(pam_unix),23249,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+236,Aug,9,07:25:08,ns1,samba(pam_unix),23249,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+237,Aug,9,07:25:08,ns1,samba(pam_unix),23251,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+238,Aug,9,07:25:08,ns1,samba(pam_unix),23251,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+239,Aug,9,07:25:08,ns1,samba(pam_unix),23250,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+240,Aug,9,07:25:08,ns1,samba(pam_unix),23250,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+241,Aug,9,07:25:08,ns1,samba(pam_unix),23252,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+242,Aug,9,07:25:08,ns1,samba(pam_unix),23252,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+243,Aug,9,07:25:08,ns1,samba(pam_unix),23253,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+244,Aug,9,07:25:08,ns1,samba(pam_unix),23253,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+245,Aug,9,07:25:08,ns1,samba(pam_unix),23254,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+246,Aug,9,07:25:08,ns1,samba(pam_unix),23254,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+247,Aug,9,07:25:09,ns1,samba(pam_unix),23255,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+248,Aug,9,07:25:09,ns1,samba(pam_unix),23255,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+249,Aug,9,07:25:09,ns1,samba(pam_unix),23256,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+250,Aug,9,07:25:09,ns1,samba(pam_unix),23256,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+251,Aug,9,07:25:09,ns1,samba(pam_unix),23258,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+252,Aug,9,07:25:09,ns1,samba(pam_unix),23258,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+253,Aug,9,07:25:09,ns1,samba(pam_unix),23257,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+254,Aug,9,07:25:09,ns1,samba(pam_unix),23257,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+255,Aug,9,07:25:09,ns1,samba(pam_unix),23259,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+256,Aug,9,07:25:09,ns1,samba(pam_unix),23259,authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,7a3b512f,authentication failure; logname= uid=0 euid=0  ruser=  
+257,Aug,9,07:25:13,ns1,samba(pam_unix),23237,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+258,Aug,9,07:25:13,ns1,samba(pam_unix),23238,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+259,Aug,9,07:25:13,ns1,samba(pam_unix),23240,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+260,Aug,9,07:25:13,ns1,samba(pam_unix),23239,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+261,Aug,9,07:25:13,ns1,samba(pam_unix),23241,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+262,Aug,9,07:25:13,ns1,samba(pam_unix),23242,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+263,Aug,9,07:25:13,ns1,samba(pam_unix),23243,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+264,Aug,9,07:25:13,ns1,samba(pam_unix),23244,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+265,Aug,9,07:25:13,ns1,samba(pam_unix),23245,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+266,Aug,9,07:25:13,ns1,samba(pam_unix),23246,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+267,Aug,9,07:25:13,ns1,samba(pam_unix),23247,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+268,Aug,9,07:25:13,ns1,samba(pam_unix),23248,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+269,Aug,9,07:25:13,ns1,samba(pam_unix),23249,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+270,Aug,9,07:25:13,ns1,samba(pam_unix),23251,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+271,Aug,9,07:25:13,ns1,samba(pam_unix),23250,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+272,Aug,9,07:25:13,ns1,samba(pam_unix),23252,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+273,Aug,9,07:25:13,ns1,samba(pam_unix),23253,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+274,Aug,9,07:25:13,ns1,samba(pam_unix),23254,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+275,Aug,9,07:25:13,ns1,samba(pam_unix),23255,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+276,Aug,9,07:25:14,ns1,samba(pam_unix),23256,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+277,Aug,9,07:25:14,ns1,samba(pam_unix),23258,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+278,Aug,9,07:25:14,ns1,samba(pam_unix),23257,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+279,Aug,9,07:25:14,ns1,samba(pam_unix),23259,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=nobody,8717a554,1 more authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= user=nobody
+280,Aug,9,11:42:18,ns1,telnetd,12460,ttloop: read: Connection reset by peer,7fb6ca22,ttloop: read: Connection reset by peer
+281,Aug,9,11:42:36,ns1,ftpd,23376,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+282,Aug,9,11:42:36,ns1,ftpd,23382,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+283,Aug,9,11:42:36,ns1,ftpd,23380,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+284,Aug,9,11:42:36,ns1,ftpd,23379,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+285,Aug,9,11:42:36,ns1,ftpd,23388,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+286,Aug,9,11:42:36,ns1,ftpd,23387,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+287,Aug,9,11:42:36,ns1,ftpd,23386,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+288,Aug,9,11:42:36,ns1,ftpd,23385,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+289,Aug,9,11:42:36,ns1,ftpd,23383,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+290,Aug,9,11:42:36,ns1,ftpd,23378,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+291,Aug,9,11:42:36,ns1,ftpd,23377,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+292,Aug,9,11:42:36,ns1,ftpd,23384,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+293,Aug,9,11:42:36,ns1,ftpd,23381,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+294,Aug,9,11:42:52,ns1,ftpd,23376,FTP session closed,3262681b,FTP session closed
+295,Aug,9,11:43:00,ns1,ftpd,23382,FTP session closed,3262681b,FTP session closed
+296,Aug,9,11:43:00,ns1,ftpd,23387,FTP session closed,3262681b,FTP session closed
+297,Aug,9,11:43:00,ns1,ftpd,23383,FTP session closed,3262681b,FTP session closed
+298,Aug,9,11:43:00,ns1,ftpd,23386,FTP session closed,3262681b,FTP session closed
+299,Aug,9,11:43:01,ns1,ftpd,23388,FTP session closed,3262681b,FTP session closed
+300,Aug,9,11:43:01,ns1,ftpd,23385,FTP session closed,3262681b,FTP session closed
+301,Aug,9,11:43:01,ns1,ftpd,23378,FTP session closed,3262681b,FTP session closed
+302,Aug,9,11:43:01,ns1,ftpd,23381,FTP session closed,3262681b,FTP session closed
+303,Aug,9,11:43:01,ns1,ftpd,23377,FTP session closed,3262681b,FTP session closed
+304,Aug,9,11:43:01,ns1,ftpd,23384,FTP session closed,3262681b,FTP session closed
+305,Aug,9,11:43:01,ns1,ftpd,23379,FTP session closed,3262681b,FTP session closed
+306,Aug,9,11:43:01,ns1,ftpd,23380,FTP session closed,3262681b,FTP session closed
+307,Aug,9,11:43:05,ns1,ftpd,23389,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+308,Aug,9,11:43:05,ns1,ftpd,23391,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+309,Aug,9,11:43:05,ns1,ftpd,23390,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+310,Aug,9,11:43:05,ns1,ftpd,23394,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+311,Aug,9,11:43:05,ns1,ftpd,23393,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+312,Aug,9,11:43:05,ns1,ftpd,23392,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+313,Aug,9,11:43:05,ns1,ftpd,23395,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+314,Aug,9,11:43:05,ns1,ftpd,23397,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+315,Aug,9,11:43:05,ns1,ftpd,23396,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+316,Aug,9,11:43:05,ns1,ftpd,23398,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+317,Aug,9,11:43:29,ns1,ftpd,23389,FTP session closed,3262681b,FTP session closed
+318,Aug,9,11:43:29,ns1,ftpd,23392,FTP session closed,3262681b,FTP session closed
+319,Aug,9,11:43:29,ns1,ftpd,23390,FTP session closed,3262681b,FTP session closed
+320,Aug,9,11:43:29,ns1,ftpd,23391,FTP session closed,3262681b,FTP session closed
+321,Aug,9,11:43:30,ns1,ftpd,23394,FTP session closed,3262681b,FTP session closed
+322,Aug,9,11:43:30,ns1,ftpd,23393,FTP session closed,3262681b,FTP session closed
+323,Aug,9,11:43:30,ns1,ftpd,23395,FTP session closed,3262681b,FTP session closed
+324,Aug,9,11:43:30,ns1,ftpd,23396,FTP session closed,3262681b,FTP session closed
+325,Aug,9,11:43:30,ns1,ftpd,23398,FTP session closed,3262681b,FTP session closed
+326,Aug,9,11:43:30,ns1,ftpd,23397,FTP session closed,3262681b,FTP session closed
+327,Aug,9,18:34:00,ns1,ftpd,24467,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+328,Aug,9,18:34:07,ns1,identd,24472,request_thread: fd #9: input buffer full: closing down,88127cec,request_thread: fd #9: input buffer full: closing down
+329,Aug,9,18:34:08,ns1,identd,24473,request_thread: fd #9: input buffer full: closing down,88127cec,request_thread: fd #9: input buffer full: closing down
+330,Aug,9,18:34:11,ns1,ftpd,24467,FTP session closed,3262681b,FTP session closed
+331,Aug,9,18:51:06,ns1,ftpd,24485,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+332,Aug,9,18:51:12,ns1,identd,24490,request_thread: fd #9: input buffer full: closing down,88127cec,request_thread: fd #9: input buffer full: closing down
+333,Aug,9,18:51:14,ns1,identd,24491,request_thread: fd #9: input buffer full: closing down,88127cec,request_thread: fd #9: input buffer full: closing down
+334,Aug,9,18:51:19,ns1,ftpd,24485,FTP session closed,3262681b,FTP session closed
+335,Aug,11,04:03:39,ns1,telnetd,9519,ttloop: read: Connection reset by peer,7fb6ca22,ttloop: read: Connection reset by peer
+336,Aug,12,11:00:07,ns1,ftpd,30499,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+337,Aug,12,11:00:08,ns1,ftpd,30500,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+338,Aug,12,11:00:24,ns1,ftpd,30499,FTP session closed,3262681b,FTP session closed
+339,Aug,12,11:00:29,ns1,ftpd,30500,FTP session closed,3262681b,FTP session closed
+340,Aug,12,11:04:58,ns1,ftpd,30516,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+341,Aug,12,11:04:58,ns1,ftpd,30517,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow"
+342,Aug,12,11:05:31,ns1,ftpd,30517,FTP session closed,3262681b,FTP session closed
+343,Aug,12,11:05:36,ns1,ftpd,30516,FTP session closed,3262681b,FTP session closed
+344,Aug,12,12:13:29,ns1,telnetd,30549,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF
+345,Aug,12,12:13:29,ns1,telnetd,30548,ttloop: read: Connection reset by peer,7fb6ca22,ttloop: read: Connection reset by peer
+346,Aug,12,12:13:30,ns1,telnetd,30550,ttloop: peer died: EOF,620623a4,ttloop: peer died: EOF

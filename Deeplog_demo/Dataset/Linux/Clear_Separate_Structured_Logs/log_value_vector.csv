@@ -1,0 +1,1131 @@
+log message,log key,parameter value vector
+Sep 16 09:49:02 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[0]
+Sep 16 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1199]
+Sep 16 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 16 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 16 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 16 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 16 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 16 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 11:44:05 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[304]
+Sep 16 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1496]
+Sep 16 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 16 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 12:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 16 12:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 12:51:26 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[745]
+"Sep 16 12:54:51 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[205]
+"Sep 16 12:54:51 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 16 12:55:15 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[24]
+Sep 16 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[826]
+Sep 16 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 16 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 16 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 16 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 16 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 16 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 14:43:56 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[295]
+Sep 16 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1505]
+Sep 16 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 15:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 16 15:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 15:31:56 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[895]
+Sep 16 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[425]
+Sep 16 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 16 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 16:10:45 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[104]
+Sep 16 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[376]
+Sep 16 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 16 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 17:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 16 17:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 17:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 16 17:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 16 17:26:40 System is powering down.,System is powering down.,[579]
+Sep 17 09:47:18 New seat seat0.,New seat seat0.,[58838]
+Sep 17 09:47:18 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 17 09:47:18 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 17 09:47:18 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 17 09:47:18 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 17 09:47:18 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 17 09:47:18 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 17 09:47:18 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 17 09:47:18 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 17 09:47:20 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[2]
+Sep 17 09:47:20 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+Sep 17 09:47:20 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+"Sep 17 09:47:22 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[2, 'unix-session:c1', ':1.25']"
+Sep 17 09:47:40 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[18]
+Sep 17 09:47:40 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 17 09:47:40 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+Sep 17 09:47:46 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[6]
+"Sep 17 09:47:47 Registered Authentication Agent for unix-session:2 (system bus name :1.82 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[1, 'unix-session:2', ':1.82']"
+Sep 17 09:48:12 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[25]
+Sep 17 09:48:50 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[38]
+Sep 17 09:48:50 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 17 09:59:01 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[611]
+"Sep 17 10:05:32 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[391]
+"Sep 17 10:05:32 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 17 10:05:56 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[24]
+Sep 17 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[185]
+Sep 17 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 17 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 17 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 10:56:30 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1049]
+Sep 17 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[751]
+Sep 17 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 17 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 11:37:43 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1242]
+Sep 17 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[78]
+Sep 17 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 17 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 17 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 12:23:50 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[409, ' ']"
+Sep 17 12:23:57 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[7, ' ']"
+Sep 17 12:24:04 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[7]
+Sep 17 12:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[897]
+Sep 17 12:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 17 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 17 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 13:32:42 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[941]
+Sep 17 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[379]
+Sep 17 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 17 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 14:10:42 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[101]
+Sep 17 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[379]
+Sep 17 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 17 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 14:57:00 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1079]
+Sep 17 15:01:31 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[271, ' ']"
+Sep 17 15:01:39 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[8, ' ']"
+Sep 17 15:01:45 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+Sep 17 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[436]
+Sep 17 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 15:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 17 15:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 17 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 17 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 17 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 16:37:12 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1211]
+Sep 17 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[109]
+Sep 17 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 17:09:02 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1801]
+Sep 17 17:09:02 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 17:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[479]
+Sep 17 17:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 17 17:27:21 System is powering down.,System is powering down.,[620]
+Sep 18 09:35:56 New seat seat0.,New seat seat0.,[58115]
+Sep 18 09:35:56 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 18 09:35:56 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 18 09:35:56 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 18 09:35:56 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 18 09:35:56 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 18 09:35:56 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 18 09:35:56 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 18 09:35:56 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 18 09:35:57 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[1]
+Sep 18 09:35:57 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 18 09:35:57 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 18 09:36:00 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[3, 'unix-session:c1', ':1.25']"
+Sep 18 09:36:06 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[6]
+Sep 18 09:36:06 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 18 09:36:06 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 18 09:36:13 Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[7, 'unix-session:2', ':1.80']"
+Sep 18 09:36:24 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[11]
+Sep 18 09:37:16 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[52]
+Sep 18 09:37:16 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 18 09:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[105]
+Sep 18 09:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 09:40:14 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[73]
+Sep 18 09:40:14 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 18 09:46:13 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[359]
+Sep 18 09:58:42 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[749]
+Sep 18 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[619]
+Sep 18 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 10:12:38 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[217, ' ']"
+Sep 18 10:12:49 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[11]
+Sep 18 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[252]
+Sep 18 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 10:33:16 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[975]
+Sep 18 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[345]
+Sep 18 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 10:58:50 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1189]
+Sep 18 11:08:57 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[607]
+Sep 18 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[4]
+Sep 18 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 18 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 18 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 11:49:41 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[640]
+Sep 18 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1160]
+Sep 18 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 18 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 12:18:00 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[59]
+"Sep 18 12:18:03 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[3]
+"Sep 18 12:18:03 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 18 12:18:28 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[25]
+Sep 18 12:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1233]
+Sep 18 12:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 12:53:33 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[872]
+Sep 18 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[928]
+Sep 18 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 18 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 18 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 13:46:03 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[422]
+Sep 18 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1378]
+Sep 18 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 18 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 18 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 18 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 15:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 18 15:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 18 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 15:42:05 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[184]
+Sep 18 16:05:53 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1428]
+Sep 18 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[188]
+Sep 18 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 18 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 18 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 16:58:41 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1180]
+Sep 18 17:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[620]
+Sep 18 17:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 17:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 18 17:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 18 17:17:18 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[17]
+Sep 18 17:32:49 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[931]
+Sep 18 17:33:08 System is powering down.,System is powering down.,[19]
+Sep 19 09:37:49 New seat seat0.,New seat seat0.,[57881]
+Sep 19 09:37:49 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 19 09:37:49 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 19 09:37:49 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 19 09:37:49 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 19 09:37:49 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 19 09:37:49 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 19 09:37:49 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 19 09:37:49 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 19 09:37:51 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[2]
+Sep 19 09:37:51 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 19 09:37:51 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 19 09:37:54 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[3, 'unix-session:c1', ':1.25']"
+Sep 19 09:38:01 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[7]
+Sep 19 09:38:01 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 19 09:38:01 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 19 09:38:08 Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[7, 'unix-session:2', ':1.80']"
+Sep 19 09:38:17 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[9]
+Sep 19 09:39:00 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[43]
+Sep 19 09:39:00 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 09:39:11 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[11]
+Sep 19 09:39:11 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+"Sep 19 10:05:35 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[1584]
+"Sep 19 10:05:35 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+"Sep 19 10:05:43 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[8]
+"Sep 19 10:05:43 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 19 10:05:59 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[16]
+Sep 19 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[182]
+Sep 19 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 19 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 10:23:57 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[416]
+Sep 19 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[904]
+Sep 19 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 19 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 19 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 19 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 11:40:53 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[112]
+Sep 19 11:44:32 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[219, ' ']"
+Sep 19 11:44:43 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[11, ' ']"
+Sep 19 11:44:51 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[8]
+Sep 19 12:08:49 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1438]
+Sep 19 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[12]
+Sep 19 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 19 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 12:39:02 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1321]
+Sep 19 12:39:02 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 12:39:28 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[26, ' ']"
+Sep 19 12:39:34 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+"Sep 19 12:49:36 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[602]
+"Sep 19 12:49:36 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 19 12:50:01 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[25]
+"Sep 19 12:53:17 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[196]
+"Sep 19 12:53:17 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 19 12:53:42 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[25]
+Sep 19 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[919]
+Sep 19 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 19 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 19 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 19 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 19 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 19 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 15:00:37 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1296]
+Sep 19 15:02:45 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[128, ' ']"
+Sep 19 15:02:59 message repeated 2 times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern],message repeated  times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern],"[14, '2', ' ']"
+Sep 19 15:03:05 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+Sep 19 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[356]
+Sep 19 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 15:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 19 15:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 15:20:44 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[223, ' ']"
+Sep 19 15:21:20 message repeated 4 times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern],message repeated  times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern],"[36, '4', ' ']"
+Sep 19 15:21:57 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[37]
+Sep 19 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1024]
+Sep 19 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 16:06:00 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1619]
+Sep 19 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[181]
+Sep 19 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 19 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 19 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 16:50:06 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[665]
+Sep 19 17:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1135]
+Sep 19 17:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 17:15:12 intern : TTY=pts/0 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/bin/cp -r . ../repos/jsoc-machine-learning/,intern : TTY=pts/0 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/bin/cp -r . ../repos/jsoc-machine-learning/,[371]
+Sep 19 17:15:12 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 19 17:15:59 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[47]
+Sep 19 17:16:39 intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git add --all,intern :  ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git add --all,"[40, 'TTY=pts/0']"
+Sep 19 17:16:39 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 19 17:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[22]
+Sep 19 17:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 19 17:17:18 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[17]
+Sep 19 17:17:42 intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all files are added from ML,intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all files are added from ML,[24]
+Sep 19 17:17:42 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 19 17:17:44 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[2]
+Sep 19 17:18:15 intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git push,intern :  ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git ,"[31, 'TTY=pts/0', 'push']"
+Sep 19 17:18:15 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 19 17:18:15 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 19 17:23:32 intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git init,intern :  ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git ,"[317, 'TTY=pts/0', 'init']"
+Sep 19 17:23:32 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 19 17:23:32 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 19 17:23:34 intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git push,intern :  ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git ,"[2, 'TTY=pts/0', 'push']"
+Sep 19 17:23:34 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 19 17:23:34 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 19 17:24:07 intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git push --set-upstream origin master,intern : TTY=pts/0 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git push --set-upstream origin master,[33]
+Sep 19 17:24:07 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 19 17:24:07 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 19 17:25:28 System is powering down.,System is powering down.,[81]
+Sep 20 09:32:18 New seat seat0.,New seat seat0.,[58010]
+Sep 20 09:32:18 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 20 09:32:18 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 20 09:32:18 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 20 09:32:18 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 20 09:32:18 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 20 09:32:18 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 20 09:32:18 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 20 09:32:18 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 20 09:32:19 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[1]
+Sep 20 09:32:19 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 20 09:32:19 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 20 09:32:21 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[2, 'unix-session:c1', ':1.25']"
+Sep 20 09:32:32 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[11]
+Sep 20 09:32:32 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 20 09:32:32 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 20 09:32:39 Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[7, 'unix-session:2', ':1.80']"
+Sep 20 09:32:45 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[6]
+Sep 20 09:33:42 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[57]
+Sep 20 09:33:42 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 20 09:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[319]
+Sep 20 09:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 09:44:03 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[302, ' ']"
+Sep 20 09:44:30 message repeated 4 times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern],message repeated  times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern],"[27, '4', ' ']"
+Sep 20 09:44:37 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[7]
+Sep 20 10:06:18 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1301]
+Sep 20 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[163]
+Sep 20 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 20 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 20 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 10:44:04 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[303, ' ']"
+Sep 20 10:44:16 message repeated 2 times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern],message repeated  times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern],"[12, '2', ' ']"
+Sep 20 10:44:23 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[7]
+Sep 20 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1478]
+Sep 20 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 20 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 11:35:01 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/bin/cp -r data derby.log For test future research Log format Process metastore_db package.xml __pycache__ README.md Research Articles spark System log Detection venv Web Security Detection Webshell Detection XSS Detection ../repos/jsoc-machine-learning/,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/bin/cp -r data derby.log For test future research Log format Process metastore_db package.xml __pycache__ README.md Research Articles spark System log Detection venv Web Security Detection Webshell Detection XSS Detection ../repos/jsoc-machine-learning/,[1080]
+Sep 20 11:35:01 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 11:36:39 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[98]
+Sep 20 11:37:03 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git add --all,intern :  ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git add --all,"[24, 'TTY=pts/2']"
+Sep 20 11:37:03 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 11:37:38 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[35]
+Sep 20 11:38:05 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all the files are added from ML,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all the files are added from ML,[27]
+Sep 20 11:38:05 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 11:38:05 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 11:38:23 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git push,intern :  ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git ,"[18, 'TTY=pts/2', 'push']"
+Sep 20 11:38:23 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 11:38:23 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[38]
+Sep 20 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 11:56:28 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git pull,intern :  ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git ,"[1047, 'TTY=pts/2', 'pull']"
+Sep 20 11:56:28 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 11:56:28 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 11:56:57 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git pull https://bitbucket.org/Newt08/jsoc-machine-learning/src/master/ master,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git pull https://bitbucket.org/Newt08/jsoc-machine-learning/src/master/ master,[29]
+Sep 20 11:56:57 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 11:57:08 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[11]
+Sep 20 11:57:10 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git pull https://bitbucket.org/Newt08/jsoc-machine-learning/src/master/ master,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git pull https://bitbucket.org/Newt08/jsoc-machine-learning/src/master/ master,[2]
+Sep 20 11:57:10 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 11:57:20 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[10]
+Sep 20 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[701]
+Sep 20 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 20 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 12:28:00 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[659, ' ']"
+Sep 20 12:28:07 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[7]
+Sep 20 12:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[654]
+Sep 20 12:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+"Sep 20 12:42:05 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[184]
+"Sep 20 12:42:05 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 20 12:42:30 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[25]
+Sep 20 12:51:33 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[543, ' ']"
+Sep 20 12:51:41 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[8]
+Sep 20 13:06:11 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[870, ' ']"
+Sep 20 13:06:17 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[6, ' ']"
+Sep 20 13:06:23 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+Sep 20 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[158]
+Sep 20 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 13:16:22 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name .php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[441, '.php']"
+Sep 20 13:16:22 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 13:16:22 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 13:16:25 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name .php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[3, '.php']"
+Sep 20 13:16:25 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 13:16:25 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 13:16:38 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name .csv,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[13, '.csv']"
+Sep 20 13:16:38 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 13:16:38 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 13:16:48 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.csv,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[10, '*.csv']"
+Sep 20 13:16:48 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 13:16:48 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 13:16:59 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[11, '*.php']"
+Sep 20 13:16:59 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 13:16:59 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[2]
+Sep 20 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 13:18:24 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php --help,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php --help,"[83, '*']"
+Sep 20 13:18:24 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 13:18:24 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 13:18:30 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[6, '*.php']"
+Sep 20 13:18:30 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 13:18:30 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1231]
+Sep 20 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 14:00:30 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1289]
+Sep 20 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[511]
+Sep 20 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 20 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 14:33:28 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[987, ' ']"
+Sep 20 14:33:35 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[7, ' ']"
+Sep 20 14:33:41 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+Sep 20 14:36:43 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[182, '*.php']"
+Sep 20 14:36:43 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:36:43 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:36:56 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[13, '*.php']"
+Sep 20 14:36:56 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:36:56 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:37:07 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[11, '*.php']"
+Sep 20 14:37:07 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:37:07 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:37:23 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[16, '*.php']"
+Sep 20 14:37:23 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:37:24 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[1]
+Sep 20 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[97]
+Sep 20 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 14:39:42 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[41, '*.php']"
+Sep 20 14:39:42 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:39:42 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:39:43 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[1, '*.php']"
+Sep 20 14:39:43 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:39:44 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[1]
+Sep 20 14:44:30 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/apt install ucommon-utils,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ;  install ,"[286, 'COMMAND=/usr/bin/apt', 'ucommon-utils']"
+Sep 20 14:44:30 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:44:37 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[7]
+Sep 20 14:45:40 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[63]
+Sep 20 14:45:40 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 20 14:47:03 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[83, '*.php']"
+Sep 20 14:47:03 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:47:04 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[1]
+Sep 20 14:47:25 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[21, '*.php']"
+Sep 20 14:47:25 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:47:25 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:47:31 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[6, '*.php']"
+Sep 20 14:47:31 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:47:31 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:48:25 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[54, '*.php']"
+Sep 20 14:48:25 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:48:25 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:48:34 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[9, '*.php']"
+Sep 20 14:48:34 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:48:34 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:48:37 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[3, '*.php']"
+Sep 20 14:48:37 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:48:37 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:48:49 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[12, '*.php']"
+Sep 20 14:48:49 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:48:50 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[1]
+Sep 20 14:48:53 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[3, '*.php']"
+Sep 20 14:48:53 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:48:53 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:48:56 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[3, '*.php']"
+Sep 20 14:48:56 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:48:57 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[1]
+Sep 20 14:49:00 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[3, '*.php']"
+Sep 20 14:49:00 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:49:00 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:49:23 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[23, '*.php']"
+Sep 20 14:49:23 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:49:23 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:49:30 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[7, '*.php']"
+Sep 20 14:49:30 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:49:30 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:49:42 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *\.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[12, '*\\.php']"
+Sep 20 14:49:42 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:49:42 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:49:49 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *\.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[7, '*\\.php']"
+Sep 20 14:49:49 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:49:49 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:50:01 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *\.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[12, '*\\.php']"
+Sep 20 14:50:01 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:50:01 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:52:28 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *\.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[147, '*\\.php']"
+Sep 20 14:52:28 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:52:28 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 14:54:03 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *\.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[95, '*\\.php']"
+Sep 20 14:54:03 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 14:54:03 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 15:00:52 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name *\.php,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/find Desktop/ -name ,"[409, '*\\.php']"
+Sep 20 15:00:52 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 15:00:53 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[1]
+Sep 20 15:01:15 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/apt-get install shellcat,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ;  install ,"[22, 'COMMAND=/usr/bin/apt-get', 'shellcat']"
+Sep 20 15:01:15 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 20 15:01:15 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 20 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[466]
+Sep 20 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 15:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 20 15:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 15:34:16 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1035]
+Sep 20 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[285]
+Sep 20 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 20 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 20 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 20 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 17:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 20 17:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 20 17:10:57 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[116]
+Sep 20 17:11:27 System is powering down.,System is powering down.,[30]
+Sep 23 09:39:31 New seat seat0.,New seat seat0.,[232084]
+Sep 23 09:39:31 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 23 09:39:31 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 23 09:39:31 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 23 09:39:31 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 23 09:39:31 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 23 09:39:31 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 23 09:39:31 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 23 09:39:31 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 23 09:39:32 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[1]
+Sep 23 09:39:32 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 23 09:39:32 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 23 09:39:35 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[3, 'unix-session:c1', ':1.25']"
+Sep 23 09:39:41 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[6]
+Sep 23 09:39:41 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 23 09:39:41 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 23 09:39:49 Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[8, 'unix-session:2', ':1.80']"
+Sep 23 09:39:59 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[10]
+Sep 23 09:40:51 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[52]
+Sep 23 09:40:51 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 23 09:43:15 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[144]
+Sep 23 10:08:58 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1543]
+Sep 23 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[3]
+Sep 23 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 23 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 23 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 23 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 23 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 11:33:57 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1016]
+Sep 23 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[304]
+Sep 23 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+"Sep 23 12:02:14 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[1393]
+"Sep 23 12:02:14 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 23 12:02:39 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[25]
+Sep 23 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[382]
+Sep 23 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 23 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 12:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 23 12:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 23 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 13:10:26 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[85]
+Sep 23 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[395]
+Sep 23 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 23 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 23 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 23 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 14:25:52 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[531]
+Sep 23 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[789]
+Sep 23 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 23 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 15:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 23 15:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 15:25:17 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[496]
+Sep 23 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[824]
+Sep 23 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 15:48:01 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[540]
+Sep 23 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1260]
+Sep 23 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 23 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 16:34:53 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1072]
+Sep 23 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[248]
+Sep 23 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 17:03:03 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1442]
+Sep 23 17:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[358]
+Sep 23 17:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 23 17:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 23 17:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+"Sep 23 17:27:27 Delay lock is active (UID 1000/intern, PID 3991/gnome-session-b) but inhibitor timeout is reached.","Delay lock is active (UID 1000/intern, PID 3991/gnome-session-b) but inhibitor timeout is reached.",[626]
+Sep 23 17:27:27 System is powering down.,System is powering down.,[0]
+Sep 24 09:43:11 New seat seat0.,New seat seat0.,[58544]
+Sep 24 09:43:11 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 24 09:43:11 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 24 09:43:11 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 24 09:43:11 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 24 09:43:11 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 24 09:43:11 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 24 09:43:11 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 24 09:43:11 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 24 09:43:12 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[1]
+Sep 24 09:43:12 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 24 09:43:12 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 24 09:43:15 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[3, 'unix-session:c1', ':1.25']"
+Sep 24 09:43:22 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[7]
+Sep 24 09:43:22 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 24 09:43:22 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 24 09:43:29 Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[7, 'unix-session:2', ':1.80']"
+Sep 24 09:43:39 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[10]
+Sep 24 09:44:31 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[52]
+Sep 24 09:44:31 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 24 09:58:16 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[825]
+"Sep 24 09:59:22 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[66]
+"Sep 24 09:59:22 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 24 09:59:46 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[24]
+Sep 24 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[555]
+Sep 24 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 24 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 24 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 24 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 24 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 11:36:28 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1167]
+Sep 24 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[153]
+Sep 24 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 24 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 24 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 12:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 24 12:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 12:44:23 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[322]
+Sep 24 12:58:42 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[859]
+Sep 24 12:59:48 System is powering down.,System is powering down.,[66]
+Sep 24 13:03:44 New seat seat0.,New seat seat0.,[236]
+Sep 24 13:03:44 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 24 13:03:44 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 24 13:03:44 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 24 13:03:44 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 24 13:03:44 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 24 13:03:44 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 24 13:03:44 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 24 13:03:44 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 24 13:03:45 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[1]
+Sep 24 13:03:45 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 24 13:03:45 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 24 13:03:47 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[2, 'unix-session:c1', ':1.25']"
+Sep 24 13:03:54 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[7]
+Sep 24 13:03:54 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 24 13:03:54 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 24 13:04:00 Registered Authentication Agent for unix-session:2 (system bus name :1.83 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[6, 'unix-session:2', ':1.83']"
+Sep 24 13:04:12 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[12]
+Sep 24 13:05:04 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[52]
+Sep 24 13:05:04 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 24 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[237]
+Sep 24 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 24 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 24 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 13:46:58 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[477]
+Sep 24 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1323]
+Sep 24 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 24 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 14:36:46 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1185]
+Sep 24 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[135]
+Sep 24 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 14:45:52 System is powering down.,System is powering down.,[411]
+Sep 24 14:58:29 New seat seat0.,New seat seat0.,[757]
+Sep 24 14:58:29 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 24 14:58:29 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 24 14:58:29 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 24 14:58:29 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 24 14:58:29 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 24 14:58:29 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 24 14:58:29 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 24 14:58:29 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 24 14:58:30 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[1]
+Sep 24 14:58:30 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 24 14:58:30 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 24 14:58:32 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[2, 'unix-session:c1', ':1.25']"
+Sep 24 14:58:39 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[7, 'tty=/dev/tty1', ' ']"
+Sep 24 14:58:47 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[8]
+Sep 24 14:58:47 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 24 14:58:47 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 24 14:58:54 Registered Authentication Agent for unix-session:2 (system bus name :1.79 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[7, 'unix-session:2', ':1.79']"
+Sep 24 14:58:57 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[3]
+Sep 24 14:59:58 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[61]
+Sep 24 14:59:58 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 24 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[543]
+Sep 24 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+"Sep 24 15:11:46 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[165]
+"Sep 24 15:11:46 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 24 15:12:10 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[24]
+Sep 24 15:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[291]
+Sep 24 15:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 24 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 16:04:21 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1520]
+Sep 24 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[280]
+Sep 24 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 24 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 24 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 17:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 24 17:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 17:10:41 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[100]
+Sep 24 17:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[380]
+Sep 24 17:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 24 17:24:47 System is powering down.,System is powering down.,[466]
+Sep 25 09:39:14 New seat seat0.,New seat seat0.,[58467]
+Sep 25 09:39:14 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 25 09:39:14 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 25 09:39:14 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 25 09:39:14 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 25 09:39:14 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 25 09:39:14 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 25 09:39:14 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 25 09:39:14 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 25 09:39:16 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[2]
+Sep 25 09:39:16 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 25 09:39:16 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 25 09:39:18 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[2, 'unix-session:c1', ':1.25']"
+Sep 25 09:39:26 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[8]
+Sep 25 09:39:26 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 25 09:39:26 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 25 09:39:32 Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[6, 'unix-session:2', ':1.80']"
+Sep 25 09:39:42 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[10]
+Sep 25 09:40:36 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[54]
+Sep 25 09:40:36 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 25 10:03:57 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/,"[1401, '172.24.0.10']"
+Sep 25 10:03:57 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 25 10:03:57 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 25 10:04:16 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/,"[19, '172.24.0.10']"
+Sep 25 10:04:16 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 25 10:04:16 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 25 10:04:25 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/,"[9, '172.24.0.10']"
+Sep 25 10:04:25 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 25 10:04:25 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 25 10:04:34 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[9]
+Sep 25 10:04:34 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 25 10:05:55 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/ssh-keygen -f /root/.ssh/known_hosts -R 172.24.0.10,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/ssh-keygen -f /root/.ssh/known_hosts -R <*>,"[81, '172.24.0.10']"
+Sep 25 10:05:55 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 25 10:05:55 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 25 10:06:05 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/,"[10, '172.24.0.10']"
+Sep 25 10:06:05 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 25 10:06:17 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[12]
+Sep 25 10:06:19 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/,"[2, '172.24.0.10']"
+Sep 25 10:06:19 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 25 10:06:53 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[34]
+Sep 25 10:06:55 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/,"[2, '172.24.0.10']"
+Sep 25 10:06:55 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 25 10:07:30 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[35]
+Sep 25 10:07:32 intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@172.24.0.10:~/System\ log\ Detection/,intern : TTY=pts/2 ; PWD=/home/intern ; USER=root ; COMMAND=/usr/bin/scp -r Desktop/ML/System log Detection/anomaly_log_key.pkl Desktop/ML/System log Detection/Deeplog Desktop/ML/System log Detection/history_3_1_ran7 Desktop/ML/System log Detection/Log3C-master Desktop/ML/System log Detection/loglizer-master Desktop/ML/System log Detection/logparser-master Desktop/ML/System log Detection/Model_Experiment Desktop/ML/System log Detection/__pycache__ Desktop/ML/System log Detection/System Log Analysis(Raw Version) Desktop/ML/System log Detection/Test_data for Parameter Detection Desktop/ML/System log Detection/Test for spark analysis newt@<*>:~/System\ log\ Detection/,"[2, '172.24.0.10']"
+Sep 25 10:07:32 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 25 10:08:38 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[66]
+Sep 25 10:09:02 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[24]
+Sep 25 10:09:02 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 10:13:34 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[272]
+Sep 25 10:13:34 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 25 10:15:01 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[87]
+Sep 25 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[120]
+Sep 25 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 25 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 25 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 25 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 25 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 11:54:01 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[900]
+"Sep 25 11:54:34 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[33]
+"Sep 25 11:54:34 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 25 11:54:58 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[24]
+Sep 25 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[843]
+Sep 25 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 25 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 12:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 25 12:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 12:41:31 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[150]
+Sep 25 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1650]
+Sep 25 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 25 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 25 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 25 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 25 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 14:18:10 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[69]
+Sep 25 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1251]
+Sep 25 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 25 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 15:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 25 15:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 15:27:01 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[600]
+Sep 25 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[720]
+Sep 25 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 15:57:08 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[1087, 'tty=/dev/tty2', ' ']"
+Sep 25 15:57:15 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[7, 'tty=/dev/tty2', ' ']"
+Sep 25 15:57:21 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+Sep 25 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[700]
+Sep 25 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 25 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 25 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 17:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 25 17:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 17:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 25 17:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 25 17:25:10 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[489]
+"Sep 25 17:26:53 Delay lock is active (UID 1000/intern, PID 4073/gnome-session-b) but inhibitor timeout is reached.","Delay lock is active (UID 1000/intern, PID 4073/gnome-session-b) but inhibitor timeout is reached.",[103]
+Sep 25 17:26:53 System is powering down.,System is powering down.,[0]
+Sep 26 09:36:30 New seat seat0.,New seat seat0.,[58177]
+Sep 26 09:36:30 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 26 09:36:30 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 26 09:36:30 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 26 09:36:30 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 26 09:36:30 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 26 09:36:30 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 26 09:36:30 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 26 09:36:30 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 26 09:36:32 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[2]
+Sep 26 09:36:32 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 26 09:36:32 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 26 09:36:35 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[3, 'unix-session:c1', ':1.25']"
+Sep 26 09:36:52 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[17]
+Sep 26 09:36:52 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 26 09:36:52 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 26 09:36:59 Registered Authentication Agent for unix-session:2 (system bus name :1.83 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[7, 'unix-session:2', ':1.83']"
+Sep 26 09:36:59 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[0]
+Sep 26 09:38:00 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[61]
+Sep 26 09:38:00 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 26 09:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[61]
+Sep 26 09:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 10:04:58 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1557]
+Sep 26 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[243]
+Sep 26 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 26 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+"Sep 26 10:32:15 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[914]
+"Sep 26 10:32:15 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 26 10:32:39 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[24]
+Sep 26 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[382]
+Sep 26 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 26 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 11:14:57 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[356]
+Sep 26 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[124]
+Sep 26 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 26 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 11:59:18 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[1217, 'tty=/dev/tty2', ' ']"
+Sep 26 11:59:25 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[7]
+Sep 26 12:05:06 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[341, 'tty=/dev/tty2', ' ']"
+Sep 26 12:05:14 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[8, 'tty=/dev/tty2', ' ']"
+Sep 26 12:05:20 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+Sep 26 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[221]
+Sep 26 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 26 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 12:29:19 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[738, 'tty=/dev/tty2', ' ']"
+Sep 26 12:29:25 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[6, 'tty=/dev/tty2', ' ']"
+Sep 26 12:29:35 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[10]
+"Sep 26 12:35:35 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[360]
+"Sep 26 12:35:35 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[0]
+Sep 26 12:36:00 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[25]
+Sep 26 12:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[181]
+Sep 26 12:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 26 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 26 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 13:20:18 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[197]
+Sep 26 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1123]
+Sep 26 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 26 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 26 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 14:36:42 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1181]
+Sep 26 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[139]
+Sep 26 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 26 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 15:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 26 15:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 26 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 15:49:41 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[640]
+Sep 26 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1160]
+Sep 26 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 16:10:59 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[118, 'tty=/dev/tty2', ' ']"
+Sep 26 16:11:08 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[9]
+Sep 26 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[353]
+Sep 26 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 26 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 16:48:46 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[585]
+Sep 26 17:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1215]
+Sep 26 17:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 17:09:24 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[23]
+Sep 26 17:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[457]
+Sep 26 17:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 26 17:25:51 System is powering down.,System is powering down.,[530]
+Sep 27 09:35:09 New seat seat0.,New seat seat0.,[58158]
+Sep 27 09:35:09 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 27 09:35:09 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 27 09:35:09 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 27 09:35:09 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 27 09:35:09 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 27 09:35:09 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 27 09:35:09 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 27 09:35:09 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 27 09:35:10 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[1]
+Sep 27 09:35:10 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 27 09:35:10 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 27 09:35:12 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[2, 'unix-session:c1', ':1.25']"
+Sep 27 09:35:19 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[7]
+Sep 27 09:35:19 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 27 09:35:19 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 27 09:35:26 Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[7, 'unix-session:2', ':1.80']"
+Sep 27 09:35:37 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[11]
+Sep 27 09:36:29 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[52]
+Sep 27 09:36:29 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 27 09:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[152]
+Sep 27 09:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 27 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 27 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 10:17:47 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[46]
+Sep 27 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1274]
+Sep 27 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 10:49:15 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[614]
+Sep 27 11:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1186]
+Sep 27 11:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 11:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 27 11:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 11:26:51 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[590]
+Sep 27 11:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[730]
+Sep 27 11:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 12:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 27 12:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 12:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 27 12:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 12:26:05 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[544]
+Sep 27 12:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[776]
+Sep 27 12:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 12:39:55 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[54, 'tty=/dev/tty2', ' ']"
+Sep 27 12:40:01 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[6, 'tty=/dev/tty2', ' ']"
+Sep 27 12:40:07 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+"Sep 27 12:43:02 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[175]
+"Sep 27 12:43:03 asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered","asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered",[1]
+Sep 27 12:43:27 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[24]
+Sep 27 13:03:44 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[1217, 'tty=/dev/tty2', ' ']"
+Sep 27 13:04:11 message repeated 3 times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern],message repeated 3 times: [ pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern],"[27, ' ']"
+Sep 27 13:04:17 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+Sep 27 13:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[284]
+Sep 27 13:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 13:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 27 13:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 13:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 27 13:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 14:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 27 14:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 14:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 27 14:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 14:24:54 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[473]
+Sep 27 14:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[847]
+Sep 27 14:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 15:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 27 15:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 15:12:35 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[214]
+Sep 27 15:16:57 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[262, 'tty=/dev/tty2', ' ']"
+Sep 27 15:17:02 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[5]
+Sep 27 15:17:02 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 15:17:04 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0  ruser= rhost= user=intern,"[2, 'tty=/dev/tty2', ' ']"
+Sep 27 15:17:10 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[6]
+Sep 27 15:35:44 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[1114]
+Sep 27 15:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[197]
+Sep 27 15:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 16:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 27 16:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 16:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[480]
+Sep 27 16:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 16:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1320]
+Sep 27 16:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 17:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[1800]
+Sep 27 17:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 27 17:11:58 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[177]
+Sep 27 17:16:30 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[272]
+Sep 27 17:16:47 System is powering down.,System is powering down.,[17]
+Sep 30 09:34:55 New seat seat0.,New seat seat0.,[231488]
+Sep 30 09:34:55 Watching system buttons on /dev/input/event3 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event3', '(Power', 'Button)']"
+Sep 30 09:34:55 Watching system buttons on /dev/input/event0 (Power Button),Watching system buttons on   ,"[0, '/dev/input/event0', '(Power', 'Button)']"
+Sep 30 09:34:55 Watching system buttons on /dev/input/event2 (Lid Switch),Watching system buttons on   ,"[0, '/dev/input/event2', '(Lid', 'Switch)']"
+Sep 30 09:34:55 Watching system buttons on /dev/input/event1 (Sleep Button),Watching system buttons on   ,"[0, '/dev/input/event1', '(Sleep', 'Button)']"
+Sep 30 09:34:55 Watching system buttons on /dev/input/event7 (Logitech USB Receiver),Watching system buttons on /dev/input/event7 (Logitech USB Receiver),[0]
+Sep 30 09:34:55 Watching system buttons on /dev/input/event9 (Logitech USB Receiver Consumer Control),Watching system buttons on      ,"[0, '/dev/input/event9', '(Logitech', 'USB', 'Receiver', 'Consumer', 'Control)']"
+Sep 30 09:34:55 Watching system buttons on /dev/input/event10 (Logitech USB Receiver System Control),Watching system buttons on      ,"[0, '/dev/input/event10', '(Logitech', 'USB', 'Receiver', 'System', 'Control)']"
+Sep 30 09:34:55 Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),Watching system buttons on      ,"[0, '/dev/input/event4', '(AT', 'Translated', 'Set', '2', 'keyboard)']"
+Sep 30 09:34:57 pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0),[2]
+Sep 30 09:34:57 New session c1 of user gdm.,New session  of user ,"[0, 'c1', 'gdm.']"
+Sep 30 09:34:57 pam_unix(systemd-user:session): session opened for user gdm by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'gdm']"
+"Sep 30 09:35:00 Registered Authentication Agent for unix-session:c1 (system bus name :1.25 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[3, 'unix-session:c1', ':1.25']"
+Sep 30 09:35:06 pam_unix(gdm-password:session): session opened for user intern by (uid=0),pam_unix(gdm-password:session): session opened for user intern by (uid=0),[6]
+Sep 30 09:35:06 New session 2 of user intern.,New session  of user ,"[0, '2', 'intern.']"
+Sep 30 09:35:06 pam_unix(systemd-user:session): session opened for user intern by (uid=0),pam_unix(systemd-user:session): session opened for user  by (uid=0),"[0, 'intern']"
+"Sep 30 09:35:14 Registered Authentication Agent for unix-session:2 (system bus name :1.80 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","Registered Authentication Agent for  (system bus name  [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)","[8, 'unix-session:2', ':1.80']"
+Sep 30 09:35:24 [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms),[10]
+Sep 30 09:36:14 pam_unix(polkit-1:session): session opened for user root by (uid=1000),pam_unix(polkit-1:session): session opened for user root by (uid=1000),[50]
+Sep 30 09:36:14 intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],intern: Executing command [USER=root] [TTY=unknown] [CWD=/home/intern] [COMMAND=/usr/lib/update-notifier/package-system-locked],[0]
+Sep 30 09:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[167]
+Sep 30 09:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 30 09:45:27 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/usr/bin/scp -r data derby.log For test future research Log format Process metastore_db package.xml __pycache__ README.md Research Articles spark System log Detection venv Web Security Detection Webshell Detection XSS Detection ../repos/jsoc-machine-learning/,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/usr/bin/scp -r data derby.log For test future research Log format Process metastore_db package.xml __pycache__ README.md Research Articles spark System log Detection venv Web Security Detection Webshell Detection XSS Detection ../repos/jsoc-machine-learning/,[386]
+Sep 30 09:45:27 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 09:46:29 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[62]
+Sep 30 09:50:20 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all files are added from ML,intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all files are added from ML,[231]
+Sep 30 09:50:20 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 09:50:20 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 09:52:45 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git add --all,intern : TTY=pts/1 ;  ; USER=root ; COMMAND=/usr/bin/git add --all,"[145, 'PWD=/home/intern/Desktop/repos/jsoc-machine-learning']"
+Sep 30 09:52:45 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 09:52:45 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 09:52:50 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all files are added from ML,intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git commit -m all files are added from ML,[5]
+Sep 30 09:52:50 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 09:52:50 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 09:53:41 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning ; USER=root ; COMMAND=/usr/bin/git push,intern : TTY=pts/1 ;  ; USER=root ; COMMAND=/usr/bin/git push,"[51, 'PWD=/home/intern/Desktop/repos/jsoc-machine-learning']"
+Sep 30 09:53:41 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 09:53:52 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[11]
+Sep 30 09:59:35 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git push -u origin master,intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git push -u origin master,[343]
+Sep 30 09:59:35 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 09:59:35 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 09:59:44 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git remote add origin git@bitbucket.org:Newt08/jsoc-machine-learning-2.git,intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git remote add origin git@bitbucket.org:Newt08/jsoc-machine-learning-2.git,[9]
+Sep 30 09:59:44 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 09:59:44 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 09:59:47 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git push -u origin master,intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git push -u origin master,[3]
+Sep 30 09:59:47 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 09:59:47 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 10:03:17 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/usr/bin/scp -r ./System log Detection/Deeplog ../repos/jsoc-machine-learning-2/,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/usr/bin/scp -r ./System log Detection/Deeplog ../repos/jsoc-machine-learning-2/,[210]
+Sep 30 10:03:17 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 10:03:17 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 10:03:26 intern : TTY=pts/2 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/usr/bin/scp -r ./System log Detection/Deeplog ../repos/jsoc-machine-learning-2/,intern : TTY=pts/2 ; PWD=/home/intern/Desktop/ML ; USER=root ; COMMAND=/usr/bin/scp -r ./System log Detection/Deeplog ../repos/jsoc-machine-learning-2/,[9]
+Sep 30 10:03:26 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 10:03:26 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 10:03:51 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git add --all,intern : TTY=pts/1 ;  ; USER=root ; COMMAND=/usr/bin/git add --all,"[25, 'PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2']"
+Sep 30 10:03:51 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 10:03:52 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[1]
+Sep 30 10:04:28 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git commit -m all files are added from ML/System log Detection,intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git commit -m all files are added from ML/System log Detection,[36]
+Sep 30 10:04:28 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 10:04:28 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 10:05:04 intern : TTY=pts/1 ; PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2 ; USER=root ; COMMAND=/usr/bin/git push,intern : TTY=pts/1 ;  ; USER=root ; COMMAND=/usr/bin/git push,"[36, 'PWD=/home/intern/Desktop/repos/jsoc-machine-learning-2']"
+Sep 30 10:05:04 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 10:05:05 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[1]
+Sep 30 10:09:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[236]
+Sep 30 10:09:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 30 10:14:25 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[324]
+Sep 30 10:17:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[156]
+Sep 30 10:17:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 30 10:31:37 pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=intern,pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost= user=intern,"[876, ' ']"
+Sep 30 10:31:47 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[10]
+Sep 30 10:33:31 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[104]
+Sep 30 10:35:29 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[118]
+Sep 30 10:39:01 pam_unix(cron:session): session opened for user root by (uid=0),pam_unix(cron:session): session opened for user root by (uid=0),[212]
+Sep 30 10:39:01 pam_unix(cron:session): session closed for user root,pam_unix(cron:session): session closed for user root,[0]
+Sep 30 10:39:25 pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/3 ruser=intern rhost=  user=intern,pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/3 ruser=intern rhost= user=intern,"[24, ' ']"
+Sep 30 10:39:35 intern : TTY=pts/3 ; PWD=/home/intern/Desktop/ML/System log Detection/Deeplog/Dataset/Linux/Clear ; USER=root ; COMMAND=/bin/cp syslog syslog.1 syslog.2.gz syslog.3.gz syslog.4.gz syslog.5.gz syslog.6.gz syslog.7.gz /var/log/alternatives.log /var/log/alternatives.log.1 /var/log/alternatives.log.2.gz /var/log/apport.log /var/log/apport.log.1 /var/log/apport.log.2.gz /var/log/apport.log.3.gz /var/log/apport.log.4.gz /var/log/apport.log.5.gz /var/log/apport.log.6.gz /var/log/apport.log.7.gz /var/log/apt /var/log/auth.log /var/log/auth.log.1 /var/log/auth.log.2.gz /var/log/auth.log.3.gz /var/log/auth.log.4.gz /var/log/boot.log /var/log/bootstrap.log /var/log/btmp /var/log/btmp.1 /var/log/cups /var/log/dist-upgrade /var/log/dpkg.log /var/log/dpkg.log.1 /var/log/dpkg.log.2.gz /var/log/faillog /var/log/fontconfig.log /var/log/gdm3 /var/log/gpu-manager.log /var/log/gpu-manager-switch.log /var/log/hp /var/log/installer /var/log/journal /var/log/kern.log,intern : TTY=pts/3 ; PWD=/home/intern/Desktop/ML/System log Detection/Deeplog/Dataset/Linux/Clear ; USER=root ; COMMAND=/bin/cp syslog syslog.1 syslog.2.gz syslog.3.gz syslog.4.gz syslog.5.gz syslog.6.gz syslog.7.gz /var/log/alternatives.log /var/log/alternatives.log.1 /var/log/alternatives.log.2.gz /var/log/apport.log /var/log/apport.log.1 /var/log/apport.log.2.gz /var/log/apport.log.3.gz /var/log/apport.log.4.gz /var/log/apport.log.5.gz /var/log/apport.log.6.gz /var/log/apport.log.7.gz /var/log/apt /var/log/auth.log /var/log/auth.log.1 /var/log/auth.log.2.gz /var/log/auth.log.3.gz /var/log/auth.log.4.gz /var/log/boot.log /var/log/bootstrap.log /var/log/btmp /var/log/btmp.1 /var/log/cups /var/log/dist-upgrade /var/log/dpkg.log /var/log/dpkg.log.1 /var/log/dpkg.log.2.gz /var/log/faillog /var/log/fontconfig.log /var/log/gdm3 /var/log/gpu-manager.log /var/log/gpu-manager-switch.log /var/log/hp /var/log/installer /var/log/journal /var/log/kern.log,[10]
+Sep 30 10:39:35 intern : (command continued) /var/log/kern.log.1 /var/log/kern.log.2.gz /var/log/kern.log.3.gz /var/log/kern.log.4.gz /var/log/lastlog /var/log/speech-dispatcher /var/log/syslog /var/log/syslog.1 /var/log/syslog.2.gz /var/log/syslog.3.gz /var/log/syslog.4.gz /var/log/syslog.5.gz /var/log/syslog.6.gz /var/log/syslog.7.gz /var/log/tallylog /var/log/unattended-upgrades /var/log/vbox-setup.log /var/log/vbox-setup.log.1 /var/log/vbox-setup.log.2 /var/log/vbox-setup.log.3 /var/log/vmware /var/log/vmware-installer /var/log/vnetlib /var/log/wpslog /var/log/wtmp /var/log/wtmp.1 /var/log/Xorg.0.log /var/log/Xorg.0.log.old .,intern : (command continued) /var/log/kern.log.1 /var/log/kern.log.2.gz /var/log/kern.log.3.gz /var/log/kern.log.4.gz /var/log/lastlog /var/log/speech-dispatcher /var/log/syslog /var/log/syslog.1 /var/log/syslog.2.gz /var/log/syslog.3.gz /var/log/syslog.4.gz /var/log/syslog.5.gz /var/log/syslog.6.gz /var/log/syslog.7.gz /var/log/tallylog /var/log/unattended-upgrades /var/log/vbox-setup.log /var/log/vbox-setup.log.1 /var/log/vbox-setup.log.2 /var/log/vbox-setup.log.3 /var/log/vmware /var/log/vmware-installer /var/log/vnetlib /var/log/wpslog /var/log/wtmp /var/log/wtmp.1 /var/log/Xorg.0.log /var/log/Xorg.0.log.old .,[0]
+Sep 30 10:39:35 pam_unix(sudo:session): session opened for user root by (uid=0),pam_unix(sudo:session): session opened for user root by (uid=0),[0]
+Sep 30 10:39:35 pam_unix(sudo:session): session closed for user root,pam_unix(sudo:session): session closed for user root,[0]
+Sep 30 10:46:40 gkr-pam: unlocked login keyring,gkr-pam: unlocked login keyring,[425]

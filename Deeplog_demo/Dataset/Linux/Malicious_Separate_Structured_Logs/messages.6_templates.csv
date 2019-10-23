@@ -1,0 +1,4 @@
+EventId,EventTemplate,Occurrences
+78996bdd,restart.,2
+13fc0eeb,session opened for user tguy by LOGIN(uid=0),1
+2904380a,LOGIN ON tty2 BY tguy,1

@@ -1,0 +1,270 @@
+EventId,EventTemplate,Occurrences
+78996bdd,restart.,4
+4d2b3456,"wu-ftpd - TLS settings: control allow, client_cert allow, data allow",216
+3262681b,FTP session closed,216
+e56ad209,Received SNMP packet(s) from <*>,1
+7ba63a9c,hdc: Disabling (U)DMA for SAMSUNG CD-ROM SN-124,1
+d5deba85,"hdc: ATAPI 24X CD-ROM drive, 128kB Cache",1
+ee8ff558,Uniform CD-ROM driver Revision: 3.12,1
+918c58e2,cdrom: open failed.,8
+1aaf6fa6,SCSI subsystem driver Revision: 1.00,1
+fa5e9a95,"end_request: I/O error, dev 02:00 (floppy), sector 0",8
+a194ff7e,Process accounting paused,1
+1cfd4e6b,Uniform CD-ROM driver unloaded,1
+91036a8b,session opened for user root by LOGIN(uid=0),1
+6b2fbdec,ROOT LOGIN ON tty1,1
+45921a40,"new group: name=test, gid=509",1
+36fec876,"new user: name=test, uid=509, gid=509, home=/home/test, shell=/bin/bash",1
+ba7eea3e,Stopping keytable: succeeded,1
+c0393cd4,terminating,1
+f0f15d83,xfs shutdown succeeded,1
+dca49ef0,gpm shutdown succeeded,1
+83308403,httpd shutdown succeeded,1
+a17b99aa,Stopping squid:,1
+3437b024,Squid Parent: child process 895 exited with status 0,1
+f8ff1509,Stopping squid: succeeded,1
+b717dcb2,sshd -TERM succeeded,1
+b4c66d13,sendmail shutdown succeeded,1
+f57a83e6,smbd shutdown succeeded,1
+c89e9872,nmbd shutdown succeeded,1
+bd167261,shutting down,1
+6d0a0066,no longer listening on <*>#53,24
+b96b6284,Process accounting resumed,1
+8d218b43,exiting,1
+e697e623,named shutdown succeeded,1
+18125aad,Received TERM or STOP signal... shutting down...,1
+28a4242e,snmpd shutdown succeeded,1
+ee665ed5,Exiting...,1
+5f266c00,xinetd shutdown succeeded,1
+bc58d29a,atd shutdown succeeded,1
+1c424845,crond shutdown succeeded,1
+8ce66722,identd shutdown succeeded,1
+4498597f,automount -USR2 succeeded,1
+95901a0d,"shutting down, path = /misc",1
+a2790190,Exiting,1
+a1bca92d,apmd shutdown succeeded,1
+c4b9be2e,ntpd exiting on signal 15,1
+3b19fca5,ntpd shutdown succeeded,1
+d8595ace,1+0 records in,1
+247ff452,1+0 records out,1
+7bef2001,Saving random seed: succeeded,1
+5094c608,"Caught signal 15, un-registering and exiting.",1
+22d8ced3,rpc.statd shutdown succeeded,1
+bd9326d4,portmap shutdown succeeded,1
+65a6d07f,Kernel logging (proc) stopped.,1
+b4bfecf1,Kernel log daemon terminating.,1
+3acb8bf8,klogd shutdown succeeded,1
+e2e2f763,syslogd startup succeeded,1
+c4abea2c,klogd startup succeeded,1
+88ed8793,"klogd 1.4-0, log source = /proc/kmsg started.",1
+d2c8279d,Inspecting /boot/System.map-2.4.2-2,1
+e052d25e,portmap startup succeeded,1
+3878287f,Loaded 14301 symbols from /boot/System.map-2.4.2-2.,1
+ef6e215a,Symbols match kernel version 2.4.2.,1
+89e4f50c,Loaded 135 symbols from 4 modules.,1
+1e9c30f4,Linux version 2.4.2-2 (root@porky.devel.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.1 2.96-79)) #1 Sun Apr 8 <*> EDT 2001,1
+5cb4dcf4,BIOS-provided physical RAM map:,1
+fc7d4e48,BIOS-e820:  @  (usable),2
+c2dd52b6,BIOS-e820:  @  (reserved),4
+89e41320,On node 0 totalpages: 32430,1
+6ede9d1e,zone(0): 4096 pages.,1
+08cb21a6,rpc.statd startup succeeded,1
+d80483c1,Version 0.3.1 Starting,1
+7037596d,zone  has max  cached pages.,3
+04229af8,zone(1): 28334 pages.,1
+b07067dc,Loading keymap:,1
+41264989,zone(2): 0 pages.,1
+772cbfa7,Loading system font:,1
+84044e98,Kernel command line: auto BOOT_IMAGE=linux ro root=308 BOOT_FILE=/boot/vmlinuz-2.4.2-2,1
+11ffa6be,Initializing CPU#0,1
+22bc9187,Detected 730.971 MHz processor.,1
+75194edc,Console: colour VGA+ 80x25,1
+d1a0a9b2,Calibrating delay loop... 1458.17 BogoMIPS,1
+136e80b1,Starting keytable: succeeded,1
+fb9308b0,"Memory: 125148k/129720k available (1365k kernel code, 4188k reserved, 92k data, 236k init, 0k highmem)",1
+ca600580,"Dentry-cache hash table entries: 16384 (order: 5, 131072 bytes)",1
+cc73fd08,"Buffer-cache hash table entries: 4096 (order: 2, 16384 bytes)",1
+dff121bc,"Page-cache hash table entries: 32768 (order: 6, 262144 bytes)",1
+01bbcc03,"Inode-cache hash table entries: 8192 (order: 4, 65536 bytes)",1
+fcc88c49,VFS: Diskquotas version dquot_6.5.0 initialized,1
+8d7b117c,"CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0",1
+33127630,"CPU: L1 I cache: 16K, L1 D cache: 16K",1
+875bf9ed,CPU: L2 cache: 256K,1
+3797c3f8,Intel machine check architecture supported.,1
+9f45ab13,Initializing random number generator: succeeded,1
+e47ddd81,Intel machine check reporting enabled on CPU#0.,1
+1c5f6ebc,"CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000",1
+9e62b4f8,"CPU: After generic, caps: 0383f9ff 00000000 00000000 00000000",1
+36fe0cdf,CPU: Common caps: 0383f9ff 00000000 00000000 00000000,1
+8f3f5cf7,CPU: Intel Pentium III (Coppermine) stepping 06,1
+6840ff9f,Enabling fast FPU save and restore... done.,1
+8d0b0805,Enabling unmasked SIMD FPU exception support... done.,1
+8177bcff,Checking 'hlt' instruction... OK.,1
+cb7aa6e4,POSIX conformance testing by UNIFIX,1
+1a67ac58,mtrr: v1.37 (20001109) Richard Gooch (rgooch@atnf.csiro.au),1
+26533662,mtrr: detected mtrr type: Intel,1
+8630412f,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1",1
+05be387f,PCI: Using configuration type 1,1
+01e69759,PCI: Probing PCI hardware,1
+812e1982,PCI: Using IRQ router PIIX [8086/2410] at 00:1f.0,1
+7681522b,isapnp: Scanning for PnP cards...,1
+f73b80ae,isapnp: No Plug & Play device found,1
+9d674399,Linux NET4.0 for Linux 2.4,1
+84aff520,Based upon Swansea University Computer Society NET3.039,1
+0a98e7aa,Initializing RT netlink socket,1
+39852002,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.14),1
+cf4b0f97,Starting kswapd v1.8,1
+eab938ce,pty: 256 Unix98 ptys configured,1
+fc001f52,"block: queued sectors max/low 83026kB/27675kB, 256 slots per queue",1
+2bb5d19d,RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize,1
+af67a9fa,Uniform Multi-Platform E-IDE driver Revision: 6.31,1
+7e77542a,ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx,1
+73a32f95,PIIX4: IDE controller on PCI bus 00 dev f9,1
+56b86166,PIIX4: chipset revision 2,1
+038b422e,PIIX4: not 100%% native mode: will probe irqs later,1
+40f43673,Mounting  filesystems: succeeded,2
+523917e5,"ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio",1
+8ea7806f,"ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio",1
+3fc2f5b5,"hda: IBM-DTLA-307015, ATA DISK drive",1
+fb9cdc6b,"hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive",1
+eaa372d7,"ide0 at 0x1f0-0x1f7,0x3f6 on irq 14",1
+0a7c37c3,"ide1 at 0x170-0x177,0x376 on irq 15",1
+aa6ed69c,"hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=1826/255/63, UDMA(66)",1
+7be06dfe,Partition check:,1
+fbdeccd7,hda: hda1 hda2 < hda5 hda6 hda7 hda8 hda9 >,1
+1d9bfc43,Floppy drive(s): fd0 is 1.44M,1
+0df1ae9c,FDC 0 is a National Semiconductor PC87306,1
+9b90a6d6,Serial driver version 5.02 (2000-08-09) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled,1
+82fbf133,ttyS00 at 0x03f8 (irq = 4) is a 16550A,1
+92dc0e54,ttyS01 at 0x02f8 (irq = 3) is a 16550A,1
+4df0c950,Real Time Clock Driver v1.10d,1
+937caf27,"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27",1
+822c8af3,md.c: sizeof(mdp_super_t) = 4096,1
+ce86b78b,autodetecting RAID arrays,1
+b51afeb3,autorun ...,1
+3bf8e71b,... autorun DONE.,1
+51259001,apmd startup succeeded,1
+1d2b87b5,Mounting  filesystem: succeeded,2
+a1a8da12,"Version 3.0final (APM BIOS 1.2, Linux driver 1.14)",1
+28e9c62e,NET4: Linux TCP/IP 1.0 for NET4.0,1
+f0d87f59,net.ipv4.ip_forward = 0,2
+bf49be40,"IP Protocols: ICMP, UDP, TCP, IGMP",1
+14527e51,Charge: * * * (-1% unknown),1
+023f2232,net.ipv4.conf.all.rp_filter = 1,2
+9c8fb69c,"IP: routing cache hash table of 512 buckets, 4Kbytes",1
+a051941d,kernel.sysrq = 0,2
+2fff15ce,TCP: Hash tables configured (established 8192 bind 8192),1
+1fcd53c8,Configuring kernel parameters: succeeded,1
+66f5400b,Linux IP multicast router 0.06 plus PIM-SM,1
+88883a97,Tue Sep 28 <*> EDT 2004,1
+122d0a49,NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.,1
+9b7a4c2f,Setting clock (localtime): Tue Sep 28 <*> EDT 2004 succeeded,1
+5dacb36f,VFS: Mounted root (ext2 filesystem) readonly.,1
+f6d22637,Loading default keymap succeeded,1
+7f1eb97b,Freeing unused kernel memory: 236k freed,1
+8097b993,Setting default font (lat0-sun16): succeeded,1
+65470d77,Adding Swap: 265032k swap-space (priority -1),1
+e4ff0c99,Activating swap partitions: succeeded,1
+5f0f5d7a,usb.c: registered new driver ,2
+6fea38a8,Setting hostname ns1.bkwconsulting.com: succeeded,1
+3f52c2b1,usb-uhci.c: $Revision: 1.251 $ time <*> Apr 8 2001,1
+fd32c5f1,Initializing USB controller (usb-uhci): succeeded,1
+e259f378,usb-uhci.c: High bandwidth mode enabled,1
+c126d73d,"/: clean, 17048/66264 files, 63479/265041 blocks",1
+37ef7b7a,PCI: Found IRQ  for device ,2
+4fa0fd97,Checking root filesystem succeeded,1
+31032e65,PCI: Setting latency timer of device 00:1f.2 to 64,1
+779ffa1c,Remounting root filesystem in read-write mode: succeeded,1
+d0f15ca2,"usb-uhci.c: USB UHCI at I/O 0xff80, IRQ 11",1
+4b95975b,Finding module dependencies: succeeded,1
+1759c811,"starting automounter version 3.1.7, path = /misc, maptype = file, mapname = /etc/auto.misc",1
+8874cc4e,usb-uhci.c: Detected 2 ports,1
+7d0225bc,autofs startup succeeded,1
+43c50dc5,"/boot: clean, 26/14056 files, 5265/56196 blocks",1
+97d683b4,"usb.c: new USB bus registered, assigned bus number 1",1
+3261563b,"/home: clean, 26550/780288 files, 264425/1560305 blocks",1
+3a537d82,hub.c: USB hub found,1
+474e92fa,"/usr: clean, 57799/780288 files, 266275/1560305 blocks",1
+662806b4,hub.c: 2 ports detected,1
+452a7966,atd startup succeeded,1
+b602c774,"/var: clean, 23597/66264 files, 209906/265041 blocks",1
+8b1a1e9e,"Winbond Super-IO detection, now testing ports 3F0,370,250,4E,2E ...",1
+0e686c5f,Checking filesystems succeeded,1
+1675bdd1,"SMSC Super-IO detection, now testing Ports 2F0, 370 ...",1
+2ac6771b,0x378: FIFO is 16 bytes,1
+681281ae,Starting sshd:,1
+581f76d8,Turning on process accounting succeeded,1
+fd0d21eb,0x378:  is 8,2
+279ed968,Turning on user and group quotas for local filesystems: succeeded,1
+2d3bb485,using kernel protocol version 3,1
+29bbeca6,Enabling swap space: succeeded,1
+3d598e42,Entering runlevel: 3,1
+8a508e05,Updating /etc/fstab succeeded,1
+32d0250e,succeeded,2
+7efdacf2,"parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,COMPAT,EPP,ECP]",1
+a143a7c3,parport0: irq 7 detected,1
+aa511af6,Setting network parameters: succeeded,1
+36e54035,Bringing up interface  succeeded,2
+c9e23cba,Starting sshd: succeeded,1
+2b91eeee,"ip_conntrack (1013 buckets, 8104 max)",1
+a436f689,3c59x.c:LK1.1.13 27 Jan 2001 Donald Becker and others. http://www.scyld.com/network/vortex.html,1
+0733c4da,See Documentation/networking/vortex.txt,1
+55114e45,"eth0: 3Com PCI 3c905C Tornado at 0xec80, 00:b0:d0:87:85:c3, IRQ 5",1
+aedc4a09,product code 0000 rev 00.14 date 07-16-104,1
+a879cd61,"8K byte-wide RAM 5:3 Rx:Tx split, autoselect/Autonegotiate interface.",1
+700790c4,"MII transceiver found at address 24, status 782d.",1
+2df6dc49,Enabling bus-master transmits and whole-frame receives.,1
+8513c4d7,eth0: scatter/gather disabled. h/w checksums enabled,1
+e8a19df5,"eth0: using NWAY device table, not 8",1
+b689f7db,"chargen disabled, removing",1
+8933f0d2,"chargen-udp disabled, removing",1
+5bcf5882,"time disabled, removing",2
+f43b072c,"daytime disabled, removing",1
+e0537468,"talk disabled, removing",1
+099f274e,"rsync disabled, removing",1
+cc209032,"shell disabled, removing",1
+fa5af1ea,"login disabled, removing",1
+97940061,"exec disabled, removing",1
+984cab86,"pop3s disabled, removing",1
+859a899f,"ntalk disabled, removing",1
+da0b6e2d,"daytime-udp disabled, removing",1
+8f7a51a4,"pop2 disabled, removing",1
+4c37b151,"imaps disabled, removing",1
+a608ea8f,"echo disabled, removing",1
+4a72028c,"finger disabled, removing",1
+773b653a,"echo-udp disabled, removing",1
+072a6783,xinetd Version <*>pre14 started with,1
+6f4d1c7f,libwrap,1
+9c3baeb1,options compiled in.,1
+42339b3d,Started working: 4 available services,1
+e3b3c521,xinetd startup succeeded,1
+ac74e097,sendmail startup succeeded,1
+c1cd3db1,gpm startup succeeded,1
+a4c10530,crond startup succeeded,1
+00691bd6,listening on port 7100,1
+78fcfdec,xfs startup succeeded,1
+7e31404a,anacron startup succeeded,1
+baef46da,httpd startup succeeded,1
+2785120f,Squid Parent: child process 893 started,1
+8c68af4c,named startup succeeded,1
+cf189fc0,starting BIND 9.1.0 -u named,1
+95b1a825,using 1 CPU,1
+018ef2a8,loading configuration from '/etc/named.conf',1
+7e3638b3,the default for the 'auth-nxdomain' option is now 'no',1
+27bc5cea,no IPv6 interfaces found,1
+f920ba7b,listening on IPv4 interface  <*>#53,24
+10964d0b,snmpd startup succeeded,1
+9debbd7f,ntpd 4.0.99k Mon Apr 9 <*> EDT 2001 (1),1
+73b63daf,ntpd startup succeeded,1
+5cb789e9,precision = 11 usec,1
+31d2acbd,using kernel phase-lock loop ,2
+ce3b0820,smbd startup succeeded,1
+7c60ab40,UCD-SNMP version 4.2,1
+f7ecd57f,nmbd startup succeeded,1
+b6b61057,"bind() fd 8, family 2, port 123, addr <*>, in_classd=1 flags=0 fails: Address already in use",1
+f74dafe2,identd startup succeeded,1
+ea31f21f,running,1
+d24d5e98,rsyncd version 2.4.6 starting,1
+54b829f8,authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=nobody,13
+08414a00,lost connection to <*> [<*>],4
+998c0e2f,User unknown timed out after 900 seconds at Thu Sep 30 <*> 2004,18

@@ -1,0 +1,5 @@
+LineId,Month,Date,Time,Level,Component,PID,Content,EventId,EventTemplate
+1,Aug,29,04:02:12,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+2,Aug,29,04:02:12,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+3,Aug,31,06:37:15,ns1,login(pam_unix),3474,session opened for user tguy by LOGIN(uid=0),13fc0eeb,session opened for user tguy by LOGIN(uid=0)
+4,Aug,31,06:37:16,ns1,-- tguy,3474,LOGIN ON tty2 BY tguy,2904380a,LOGIN ON tty2 BY tguy

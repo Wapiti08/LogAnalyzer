@@ -1,0 +1,3 @@
+../Dataset/Linux/Malicious_Separate_Structured_Logs/Integrated_structured_log.csv
+../Dataset/Linux/Malicious_Separate_Structured_Logs/log_value_vector_mali.csv
+../Dataset/Linux/Malicious_Separate_Structured_Logs/Event_npy/

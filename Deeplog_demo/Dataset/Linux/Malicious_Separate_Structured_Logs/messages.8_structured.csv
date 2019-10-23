@@ -1,0 +1,328 @@
+LineId,Month,Date,Time,Level,Component,PID,Content,EventId,EventTemplate
+1,Aug,15,04:02:12,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+2,Aug,15,04:02:12,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+3,Aug,15,04:02:12,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+4,Aug,17,10:28:47,ns1,rc,,Stopping keytable:  succeeded,ba7eea3e,Stopping keytable: succeeded
+5,Aug,17,10:28:47,ns1,Font Server,790,terminating,c0393cd4,terminating
+6,Aug,17,10:28:48,ns1,xfs,,xfs shutdown succeeded,f0f15d83,xfs shutdown succeeded
+7,Aug,17,10:28:49,ns1,gpm,,gpm shutdown succeeded,dca49ef0,gpm shutdown succeeded
+8,Aug,17,10:28:50,ns1,httpd,,httpd shutdown succeeded,83308403,httpd shutdown succeeded
+9,Aug,17,10:28:50,ns1,squid,,Stopping squid:,a17b99aa,Stopping squid:
+10,Aug,17,10:28:52,ns1,squid,900,Squid Parent: child process 901 exited with status 0,8249d6b5,Squid Parent: child process 901 exited with status 0
+11,Aug,17,10:28:53,ns1,rc,,Stopping squid:  succeeded,f8ff1509,Stopping squid: succeeded
+12,Aug,17,10:28:53,ns1,sshd,,sshd -TERM succeeded,b717dcb2,sshd -TERM succeeded
+13,Aug,17,10:28:53,ns1,sendmail,,sendmail shutdown succeeded,b4c66d13,sendmail shutdown succeeded
+14,Aug,17,10:28:54,ns1,smb,,smbd shutdown succeeded,f57a83e6,smbd shutdown succeeded
+15,Aug,17,10:28:55,ns1,smb,,nmbd shutdown succeeded,c89e9872,nmbd shutdown succeeded
+16,Aug,17,10:28:56,ns1,named,907,shutting down,bd167261,shutting down
+17,Aug,17,10:28:56,ns1,named,907,no longer listening on 127.0.0.1#53,6d0a0066,no longer listening on <*>#53
+18,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.67#53,6d0a0066,no longer listening on <*>#53
+19,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.69#53,6d0a0066,no longer listening on <*>#53
+20,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.70#53,6d0a0066,no longer listening on <*>#53
+21,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.71#53,6d0a0066,no longer listening on <*>#53
+22,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.72#53,6d0a0066,no longer listening on <*>#53
+23,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.73#53,6d0a0066,no longer listening on <*>#53
+24,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.75#53,6d0a0066,no longer listening on <*>#53
+25,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.80#53,6d0a0066,no longer listening on <*>#53
+26,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.81#53,6d0a0066,no longer listening on <*>#53
+27,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.82#53,6d0a0066,no longer listening on <*>#53
+28,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.83#53,6d0a0066,no longer listening on <*>#53
+29,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.84#53,6d0a0066,no longer listening on <*>#53
+30,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.85#53,6d0a0066,no longer listening on <*>#53
+31,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.87#53,6d0a0066,no longer listening on <*>#53
+32,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.89#53,6d0a0066,no longer listening on <*>#53
+33,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.90#53,6d0a0066,no longer listening on <*>#53
+34,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.95#53,6d0a0066,no longer listening on <*>#53
+35,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.100#53,6d0a0066,no longer listening on <*>#53
+36,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.105#53,6d0a0066,no longer listening on <*>#53
+37,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.110#53,6d0a0066,no longer listening on <*>#53
+38,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.115#53,6d0a0066,no longer listening on <*>#53
+39,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.120#53,6d0a0066,no longer listening on <*>#53
+40,Aug,17,10:28:56,ns1,named,907,no longer listening on 63.126.79.125#53,6d0a0066,no longer listening on <*>#53
+41,Aug,17,10:28:57,ns1,named,902,exiting,8d218b43,exiting
+42,Aug,17,10:29:00,ns1,named,,named shutdown succeeded,e697e623,named shutdown succeeded
+43,Aug,17,10:29:00,ns1,ucd-snmp,919,Received TERM or STOP signal...  shutting down...,18125aad,Received TERM or STOP signal... shutting down...
+44,Aug,17,10:29:01,ns1,snmpd,,snmpd shutdown succeeded,28a4242e,snmpd shutdown succeeded
+45,Aug,17,10:29:01,ns1,xinetd,681,Exiting...,ee665ed5,Exiting...
+46,Aug,17,10:29:02,ns1,xinetd,,xinetd shutdown succeeded,5f266c00,xinetd shutdown succeeded
+47,Aug,17,10:29:02,ns1,atd,,atd shutdown succeeded,bc58d29a,atd shutdown succeeded
+48,Aug,17,10:29:02,ns1,crond,,crond shutdown succeeded,1c424845,crond shutdown succeeded
+49,Aug,17,10:29:02,ns1,identd,,identd shutdown succeeded,8ce66722,identd shutdown succeeded
+50,Aug,17,10:29:02,ns1,autofs,,automount -USR2 succeeded,4498597f,automount -USR2 succeeded
+51,Aug,17,10:29:03,ns1,automount,634,"shutting down, path = /misc",95901a0d,"shutting down, path = /misc"
+52,Aug,17,10:29:04,ns1,apmd,585,Exiting,a2790190,Exiting
+53,Aug,17,10:29:05,ns1,apmd,,apmd shutdown succeeded,a1bca92d,apmd shutdown succeeded
+54,Aug,17,10:29:05,ns1,ntpd,930,ntpd exiting on signal 15,c4b9be2e,ntpd exiting on signal 15
+55,Aug,17,10:29:05,ns1,ntpd,,ntpd shutdown succeeded,3b19fca5,ntpd shutdown succeeded
+56,Aug,17,10:29:05,ns1,dd,,1+0 records in,d8595ace,1+0 records in
+57,Aug,17,10:29:05,ns1,dd,,1+0 records out,247ff452,1+0 records out
+58,Aug,17,10:29:05,ns1,random,,Saving random seed:  succeeded,7bef2001,Saving random seed: succeeded
+59,Aug,17,10:29:05,ns1,rpc.statd,501,"Caught signal 15, un-registering and exiting.",5094c608,"Caught signal 15, un-registering and exiting."
+60,Aug,17,10:29:06,ns1,nfslock,,rpc.statd shutdown succeeded,22d8ced3,rpc.statd shutdown succeeded
+61,Aug,17,10:29:07,ns1,portmap,,portmap shutdown succeeded,bd9326d4,portmap shutdown succeeded
+62,Aug,17,10:29:07,ns1,kernel,,Kernel logging (proc) stopped.,65a6d07f,Kernel logging (proc) stopped.
+63,Aug,17,10:29:07,ns1,kernel,,Kernel log daemon terminating.,b4bfecf1,Kernel log daemon terminating.
+64,Aug,17,10:29:08,ns1,syslog,,klogd shutdown succeeded,3acb8bf8,klogd shutdown succeeded
+65,Aug,17,10:30:10,ns1,syslogd 1.4-0,,restart.,78996bdd,restart.
+66,Aug,17,10:30:10,ns1,syslog,,syslogd startup succeeded,e2e2f763,syslogd startup succeeded
+67,Aug,17,10:30:10,ns1,syslog,,klogd startup succeeded,c4abea2c,klogd startup succeeded
+68,Aug,17,10:30:10,ns1,kernel,,"klogd 1.4-0, log source = /proc/kmsg started.",88ed8793,"klogd 1.4-0, log source = /proc/kmsg started."
+69,Aug,17,10:30:10,ns1,kernel,,Inspecting /boot/System.map-2.4.2-2,d2c8279d,Inspecting /boot/System.map-2.4.2-2
+70,Aug,17,10:30:10,ns1,portmap,,portmap startup succeeded,e052d25e,portmap startup succeeded
+71,Aug,17,10:30:10,ns1,kernel,,Loaded 14301 symbols from /boot/System.map-2.4.2-2.,3878287f,Loaded 14301 symbols from /boot/System.map-2.4.2-2.
+72,Aug,17,10:30:10,ns1,kernel,,Symbols match kernel version 2.4.2.,ef6e215a,Symbols match kernel version 2.4.2.
+73,Aug,17,10:30:10,ns1,kernel,,Loaded 135 symbols from 4 modules.,89e4f50c,Loaded 135 symbols from 4 modules.
+74,Aug,17,10:30:10,ns1,kernel,,Linux version 2.4.2-2 (root@porky.devel.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.1 2.96-79)) #1 Sun Apr 8 20:41:30 EDT 2001,1e9c30f4,Linux version 2.4.2-2 (root@porky.devel.redhat.com) (gcc version 2.96 20000731 (Red Hat Linux 7.1 2.96-79)) #1 Sun Apr 8 <*> EDT 2001
+75,Aug,17,10:30:10,ns1,kernel,,BIOS-provided physical RAM map:,5cb4dcf4,BIOS-provided physical RAM map:
+76,Aug,17,10:30:10,ns1,kernel,,BIOS-e820: 00000000000a0000 @ 0000000000000000 (usable),fc7d4e48,BIOS-e820:  @  (usable)
+77,Aug,17,10:30:10,ns1,kernel,,BIOS-e820: 0000000000010000 @ 00000000000f0000 (reserved),c2dd52b6,BIOS-e820:  @  (reserved)
+78,Aug,17,10:30:10,ns1,kernel,,BIOS-e820: 0000000007dae000 @ 0000000000100000 (usable),fc7d4e48,BIOS-e820:  @  (usable)
+79,Aug,17,10:30:10,ns1,kernel,,BIOS-e820: 0000000000052000 @ 0000000007eae000 (reserved),c2dd52b6,BIOS-e820:  @  (reserved)
+80,Aug,17,10:30:10,ns1,kernel,,BIOS-e820: 0000000000100000 @ 0000000007f00000 (reserved),c2dd52b6,BIOS-e820:  @  (reserved)
+81,Aug,17,10:30:10,ns1,kernel,,BIOS-e820: 0000000000500000 @ 00000000ffb00000 (reserved),c2dd52b6,BIOS-e820:  @  (reserved)
+82,Aug,17,10:30:10,ns1,kernel,,On node 0 totalpages: 32430,89e41320,On node 0 totalpages: 32430
+83,Aug,17,10:30:10,ns1,kernel,,zone(0): 4096 pages.,6ede9d1e,zone(0): 4096 pages.
+84,Aug,17,10:30:10,ns1,kernel,,zone DMA has max 32 cached pages.,7037596d,zone  has max  cached pages.
+85,Aug,17,10:30:10,ns1,kernel,,zone(1): 28334 pages.,04229af8,zone(1): 28334 pages.
+86,Aug,17,10:30:10,ns1,nfslock,,rpc.statd startup succeeded,08cb21a6,rpc.statd startup succeeded
+87,Aug,17,10:30:10,ns1,rpc.statd,501,Version 0.3.1 Starting,d80483c1,Version 0.3.1 Starting
+88,Aug,17,10:30:10,ns1,kernel,,zone Normal has max 221 cached pages.,7037596d,zone  has max  cached pages.
+89,Aug,17,10:30:10,ns1,kernel,,zone(2): 0 pages.,41264989,zone(2): 0 pages.
+90,Aug,17,10:30:10,ns1,kernel,,zone HighMem has max 1 cached pages.,7037596d,zone  has max  cached pages.
+91,Aug,17,10:30:10,ns1,kernel,,Kernel command line: auto BOOT_IMAGE=linux ro root=308 BOOT_FILE=/boot/vmlinuz-2.4.2-2,84044e98,Kernel command line: auto BOOT_IMAGE=linux ro root=308 BOOT_FILE=/boot/vmlinuz-2.4.2-2
+92,Aug,17,10:30:10,ns1,kernel,,Initializing CPU#0,11ffa6be,Initializing CPU#0
+93,Aug,17,10:30:10,ns1,kernel,,Detected 730.971 MHz processor.,22bc9187,Detected 730.971 MHz processor.
+94,Aug,17,10:30:11,ns1,keytable,,Loading keymap:,b07067dc,Loading keymap:
+95,Aug,17,10:30:10,ns1,kernel,,Console: colour VGA+ 80x25,75194edc,Console: colour VGA+ 80x25
+96,Aug,17,10:30:11,ns1,kernel,,Calibrating delay loop... 1458.17 BogoMIPS,d1a0a9b2,Calibrating delay loop... 1458.17 BogoMIPS
+97,Aug,17,10:30:11,ns1,kernel,,"Memory: 125148k/129720k available (1365k kernel code, 4188k reserved, 92k data, 236k init, 0k highmem)",fb9308b0,"Memory: 125148k/129720k available (1365k kernel code, 4188k reserved, 92k data, 236k init, 0k highmem)"
+98,Aug,17,10:30:11,ns1,kernel,,"Dentry-cache hash table entries: 16384 (order: 5, 131072 bytes)",ca600580,"Dentry-cache hash table entries: 16384 (order: 5, 131072 bytes)"
+99,Aug,17,10:30:11,ns1,kernel,,"Buffer-cache hash table entries: 4096 (order: 2, 16384 bytes)",cc73fd08,"Buffer-cache hash table entries: 4096 (order: 2, 16384 bytes)"
+100,Aug,17,10:30:11,ns1,kernel,,"Page-cache hash table entries: 32768 (order: 6, 262144 bytes)",dff121bc,"Page-cache hash table entries: 32768 (order: 6, 262144 bytes)"
+101,Aug,17,10:30:11,ns1,kernel,,"Inode-cache hash table entries: 8192 (order: 4, 65536 bytes)",01bbcc03,"Inode-cache hash table entries: 8192 (order: 4, 65536 bytes)"
+102,Aug,17,10:30:11,ns1,kernel,,VFS: Diskquotas version dquot_6.5.0 initialized,fcc88c49,VFS: Diskquotas version dquot_6.5.0 initialized
+103,Aug,17,10:30:11,ns1,kernel,,"CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0",8d7b117c,"CPU: Before vendor init, caps: 0383f9ff 00000000 00000000, vendor = 0"
+104,Aug,17,10:30:11,ns1,keytable,,Loading system font:,772cbfa7,Loading system font:
+105,Aug,17,10:30:11,ns1,kernel,,"CPU: L1 I cache: 16K, L1 D cache: 16K",33127630,"CPU: L1 I cache: 16K, L1 D cache: 16K"
+106,Aug,17,10:30:11,ns1,kernel,,CPU: L2 cache: 256K,875bf9ed,CPU: L2 cache: 256K
+107,Aug,17,10:30:11,ns1,kernel,,Intel machine check architecture supported.,3797c3f8,Intel machine check architecture supported.
+108,Aug,17,10:30:11,ns1,kernel,,Intel machine check reporting enabled on CPU#0.,e47ddd81,Intel machine check reporting enabled on CPU#0.
+109,Aug,17,10:30:11,ns1,kernel,,"CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000",1c5f6ebc,"CPU: After vendor init, caps: 0383f9ff 00000000 00000000 00000000"
+110,Aug,17,10:30:11,ns1,kernel,,"CPU: After generic, caps: 0383f9ff 00000000 00000000 00000000",9e62b4f8,"CPU: After generic, caps: 0383f9ff 00000000 00000000 00000000"
+111,Aug,17,10:30:11,ns1,kernel,,CPU: Common caps: 0383f9ff 00000000 00000000 00000000,36fe0cdf,CPU: Common caps: 0383f9ff 00000000 00000000 00000000
+112,Aug,17,10:30:11,ns1,kernel,,CPU: Intel Pentium III (Coppermine) stepping 06,8f3f5cf7,CPU: Intel Pentium III (Coppermine) stepping 06
+113,Aug,17,10:30:11,ns1,kernel,,Enabling fast FPU save and restore... done.,6840ff9f,Enabling fast FPU save and restore... done.
+114,Aug,17,10:30:11,ns1,rc,,Starting keytable:  succeeded,136e80b1,Starting keytable: succeeded
+115,Aug,17,10:30:11,ns1,kernel,,Enabling unmasked SIMD FPU exception support... done.,8d0b0805,Enabling unmasked SIMD FPU exception support... done.
+116,Aug,17,10:30:11,ns1,kernel,,Checking 'hlt' instruction... OK.,8177bcff,Checking 'hlt' instruction... OK.
+117,Aug,17,10:30:11,ns1,kernel,,POSIX conformance testing by UNIFIX,cb7aa6e4,POSIX conformance testing by UNIFIX
+118,Aug,17,10:30:11,ns1,kernel,,mtrr: v1.37 (20001109) Richard Gooch (rgooch@atnf.csiro.au),1a67ac58,mtrr: v1.37 (20001109) Richard Gooch (rgooch@atnf.csiro.au)
+119,Aug,17,10:30:11,ns1,kernel,,mtrr: detected mtrr type: Intel,26533662,mtrr: detected mtrr type: Intel
+120,Aug,17,10:30:11,ns1,kernel,,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1",8630412f,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1"
+121,Aug,17,10:30:11,ns1,kernel,,PCI: Using configuration type 1,05be387f,PCI: Using configuration type 1
+122,Aug,17,10:30:11,ns1,kernel,,PCI: Probing PCI hardware,01e69759,PCI: Probing PCI hardware
+123,Aug,17,10:30:11,ns1,kernel,,PCI: Using IRQ router PIIX [8086/2410] at 00:1f.0,812e1982,PCI: Using IRQ router PIIX [8086/2410] at 00:1f.0
+124,Aug,17,10:30:11,ns1,kernel,,isapnp: Scanning for PnP cards...,7681522b,isapnp: Scanning for PnP cards...
+125,Aug,17,10:30:11,ns1,kernel,,isapnp: No Plug & Play device found,f73b80ae,isapnp: No Plug & Play device found
+126,Aug,17,10:30:11,ns1,kernel,,Linux NET4.0 for Linux 2.4,9d674399,Linux NET4.0 for Linux 2.4
+127,Aug,17,10:30:11,ns1,kernel,,Based upon Swansea University Computer Society NET3.039,84aff520,Based upon Swansea University Computer Society NET3.039
+128,Aug,17,10:30:11,ns1,kernel,,Initializing RT netlink socket,0a98e7aa,Initializing RT netlink socket
+129,Aug,17,10:30:11,ns1,kernel,,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.14),39852002,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.14)
+130,Aug,17,10:30:11,ns1,kernel,,Starting kswapd v1.8,cf4b0f97,Starting kswapd v1.8
+131,Aug,17,10:30:11,ns1,kernel,,pty: 256 Unix98 ptys configured,eab938ce,pty: 256 Unix98 ptys configured
+132,Aug,17,10:30:11,ns1,kernel,,"block: queued sectors max/low 83026kB/27675kB, 256 slots per queue",fc001f52,"block: queued sectors max/low 83026kB/27675kB, 256 slots per queue"
+133,Aug,17,10:30:11,ns1,kernel,,RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize,2bb5d19d,RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize
+134,Aug,17,10:30:11,ns1,kernel,,Uniform Multi-Platform E-IDE driver Revision: 6.31,af67a9fa,Uniform Multi-Platform E-IDE driver Revision: 6.31
+135,Aug,17,10:30:11,ns1,kernel,,ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx,7e77542a,ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+136,Aug,17,10:30:11,ns1,random,,Initializing random number generator:  succeeded,9f45ab13,Initializing random number generator: succeeded
+137,Aug,17,10:30:11,ns1,kernel,,PIIX4: IDE controller on PCI bus 00 dev f9,73a32f95,PIIX4: IDE controller on PCI bus 00 dev f9
+138,Aug,17,10:30:11,ns1,kernel,,PIIX4: chipset revision 2,56b86166,PIIX4: chipset revision 2
+139,Aug,17,10:30:11,ns1,kernel,,PIIX4: not 100%% native mode: will probe irqs later,038b422e,PIIX4: not 100%% native mode: will probe irqs later
+140,Aug,17,10:30:11,ns1,kernel,,"ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio",523917e5,"ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio"
+141,Aug,17,10:30:11,ns1,kernel,,"ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio",8ea7806f,"ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio"
+142,Aug,17,10:30:11,ns1,kernel,,"hda: IBM-DTLA-307015, ATA DISK drive",3fc2f5b5,"hda: IBM-DTLA-307015, ATA DISK drive"
+143,Aug,17,10:30:11,ns1,kernel,,"hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive",fb9cdc6b,"hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive"
+144,Aug,17,10:30:11,ns1,kernel,,"ide0 at 0x1f0-0x1f7,0x3f6 on irq 14",eaa372d7,"ide0 at 0x1f0-0x1f7,0x3f6 on irq 14"
+145,Aug,17,10:30:11,ns1,kernel,,"ide1 at 0x170-0x177,0x376 on irq 15",0a7c37c3,"ide1 at 0x170-0x177,0x376 on irq 15"
+146,Aug,17,10:30:11,ns1,kernel,,"hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=1826/255/63, UDMA(66)",aa6ed69c,"hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=1826/255/63, UDMA(66)"
+147,Aug,17,10:30:11,ns1,kernel,,Partition check:,7be06dfe,Partition check:
+148,Aug,17,10:30:11,ns1,kernel,,hda: hda1 hda2 < hda5 hda6 hda7 hda8 hda9 >,fbdeccd7,hda: hda1 hda2 < hda5 hda6 hda7 hda8 hda9 >
+149,Aug,17,10:30:11,ns1,kernel,,Floppy drive(s): fd0 is 1.44M,1d9bfc43,Floppy drive(s): fd0 is 1.44M
+150,Aug,17,10:30:11,ns1,kernel,,FDC 0 is a National Semiconductor PC87306,0df1ae9c,FDC 0 is a National Semiconductor PC87306
+151,Aug,17,10:30:11,ns1,kernel,,Serial driver version 5.02 (2000-08-09) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled,9b90a6d6,Serial driver version 5.02 (2000-08-09) with MANY_PORTS MULTIPORT SHARE_IRQ SERIAL_PCI ISAPNP enabled
+152,Aug,17,10:30:11,ns1,kernel,,ttyS00 at 0x03f8 (irq = 4) is a 16550A,82fbf133,ttyS00 at 0x03f8 (irq = 4) is a 16550A
+153,Aug,17,10:30:11,ns1,kernel,,ttyS01 at 0x02f8 (irq = 3) is a 16550A,92dc0e54,ttyS01 at 0x02f8 (irq = 3) is a 16550A
+154,Aug,17,10:30:11,ns1,kernel,,Real Time Clock Driver v1.10d,4df0c950,Real Time Clock Driver v1.10d
+155,Aug,17,10:30:11,ns1,kernel,,"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27",937caf27,"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27"
+156,Aug,17,10:30:11,ns1,kernel,,md.c: sizeof(mdp_super_t) = 4096,822c8af3,md.c: sizeof(mdp_super_t) = 4096
+157,Aug,17,10:30:11,ns1,kernel,,autodetecting RAID arrays,ce86b78b,autodetecting RAID arrays
+158,Aug,17,10:30:11,ns1,kernel,,autorun ...,b51afeb3,autorun ...
+159,Aug,17,10:30:11,ns1,kernel,,... autorun DONE.,3bf8e71b,... autorun DONE.
+160,Aug,17,10:30:11,ns1,kernel,,NET4: Linux TCP/IP 1.0 for NET4.0,28e9c62e,NET4: Linux TCP/IP 1.0 for NET4.0
+161,Aug,17,10:30:11,ns1,kernel,,"IP Protocols: ICMP, UDP, TCP, IGMP",bf49be40,"IP Protocols: ICMP, UDP, TCP, IGMP"
+162,Aug,17,10:30:11,ns1,kernel,,"IP: routing cache hash table of 512 buckets, 4Kbytes",9c8fb69c,"IP: routing cache hash table of 512 buckets, 4Kbytes"
+163,Aug,17,10:30:11,ns1,kernel,,TCP: Hash tables configured (established 8192 bind 8192),2fff15ce,TCP: Hash tables configured (established 8192 bind 8192)
+164,Aug,17,10:30:11,ns1,kernel,,Linux IP multicast router 0.06 plus PIM-SM,66f5400b,Linux IP multicast router 0.06 plus PIM-SM
+165,Aug,17,10:30:11,ns1,kernel,,NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.,122d0a49,NET4: Unix domain sockets 1.0/SMP for Linux NET4.0.
+166,Aug,17,10:30:11,ns1,kernel,,VFS: Mounted root (ext2 filesystem) readonly.,5dacb36f,VFS: Mounted root (ext2 filesystem) readonly.
+167,Aug,17,10:30:11,ns1,kernel,,Freeing unused kernel memory: 236k freed,7f1eb97b,Freeing unused kernel memory: 236k freed
+168,Aug,17,10:30:11,ns1,kernel,,Adding Swap: 265032k swap-space (priority -1),65470d77,Adding Swap: 265032k swap-space (priority -1)
+169,Aug,17,10:30:11,ns1,kernel,,usb.c: registered new driver usbdevfs,5f0f5d7a,usb.c: registered new driver 
+170,Aug,17,10:30:11,ns1,kernel,,usb.c: registered new driver hub,5f0f5d7a,usb.c: registered new driver 
+171,Aug,17,10:30:11,ns1,kernel,,usb-uhci.c: $Revision: 1.251 $ time 20:53:29 Apr  8 2001,3f52c2b1,usb-uhci.c: $Revision: 1.251 $ time <*> Apr 8 2001
+172,Aug,17,10:30:11,ns1,kernel,,usb-uhci.c: High bandwidth mode enabled,e259f378,usb-uhci.c: High bandwidth mode enabled
+173,Aug,17,10:30:12,ns1,kernel,,PCI: Found IRQ 11 for device 00:1f.2,37ef7b7a,PCI: Found IRQ  for device 
+174,Aug,17,10:30:12,ns1,netfs,,Mounting other filesystems:  succeeded,40f43673,Mounting  filesystems: succeeded
+175,Aug,17,10:30:12,ns1,kernel,,PCI: Setting latency timer of device 00:1f.2 to 64,31032e65,PCI: Setting latency timer of device 00:1f.2 to 64
+176,Aug,17,10:30:12,ns1,kernel,,"usb-uhci.c: USB UHCI at I/O 0xff80, IRQ 11",d0f15ca2,"usb-uhci.c: USB UHCI at I/O 0xff80, IRQ 11"
+177,Aug,17,10:30:12,ns1,kernel,,usb-uhci.c: Detected 2 ports,8874cc4e,usb-uhci.c: Detected 2 ports
+178,Aug,17,10:30:12,ns1,kernel,,"usb.c: new USB bus registered, assigned bus number 1",97d683b4,"usb.c: new USB bus registered, assigned bus number 1"
+179,Aug,17,10:30:12,ns1,kernel,,hub.c: USB hub found,3a537d82,hub.c: USB hub found
+180,Aug,17,10:30:12,ns1,kernel,,hub.c: 2 ports detected,662806b4,hub.c: 2 ports detected
+181,Aug,17,10:30:12,ns1,kernel,,"Winbond Super-IO detection, now testing ports 3F0,370,250,4E,2E ...",8b1a1e9e,"Winbond Super-IO detection, now testing ports 3F0,370,250,4E,2E ..."
+182,Aug,17,10:30:12,ns1,kernel,,"SMSC Super-IO detection, now testing Ports 2F0, 370 ...",1675bdd1,"SMSC Super-IO detection, now testing Ports 2F0, 370 ..."
+183,Aug,17,10:30:12,ns1,apmd,,apmd startup succeeded,51259001,apmd startup succeeded
+184,Aug,17,10:30:12,ns1,apmd,585,"Version 3.0final (APM BIOS 1.2, Linux driver 1.14)",a1a8da12,"Version 3.0final (APM BIOS 1.2, Linux driver 1.14)"
+185,Aug,17,10:30:12,ns1,kernel,,0x378: FIFO is 16 bytes,2ac6771b,0x378: FIFO is 16 bytes
+186,Aug,17,10:30:12,ns1,kernel,,0x378: writeIntrThreshold is 8,fd0d21eb,0x378:  is 8
+187,Aug,17,10:30:12,ns1,kernel,,0x378: readIntrThreshold is 8,fd0d21eb,0x378:  is 8
+188,Aug,17,10:30:12,ns1,kernel,,"parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,COMPAT,EPP,ECP]",7efdacf2,"parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,COMPAT,EPP,ECP]"
+189,Aug,17,10:30:12,ns1,kernel,,parport0: irq 7 detected,a143a7c3,parport0: irq 7 detected
+190,Aug,17,10:30:12,ns1,kernel,,"ip_conntrack (1013 buckets, 8104 max)",2b91eeee,"ip_conntrack (1013 buckets, 8104 max)"
+191,Aug,17,10:29:54,ns1,rc.sysinit,,Mounting proc filesystem:  succeeded,1d2b87b5,Mounting  filesystem: succeeded
+192,Aug,17,10:30:12,ns1,apmd,585,Charge: * * * (-1% unknown),14527e51,Charge: * * * (-1% unknown)
+193,Aug,17,10:30:12,ns1,kernel,,PCI: Found IRQ 5 for device 01:0c.0,37ef7b7a,PCI: Found IRQ  for device 
+194,Aug,17,10:29:54,ns1,sysctl,,net.ipv4.ip_forward = 0,f0d87f59,net.ipv4.ip_forward = 0
+195,Aug,17,10:30:12,ns1,kernel,,3c59x.c:LK1.1.13 27 Jan 2001  Donald Becker and others. http://www.scyld.com/network/vortex.html,a436f689,3c59x.c:LK1.1.13 27 Jan 2001 Donald Becker and others. http://www.scyld.com/network/vortex.html
+196,Aug,17,10:29:54,ns1,sysctl,,net.ipv4.conf.all.rp_filter = 1,023f2232,net.ipv4.conf.all.rp_filter = 1
+197,Aug,17,10:30:12,ns1,kernel,,See Documentation/networking/vortex.txt,0733c4da,See Documentation/networking/vortex.txt
+198,Aug,17,10:29:54,ns1,sysctl,,kernel.sysrq = 0,a051941d,kernel.sysrq = 0
+199,Aug,17,10:30:12,ns1,kernel,,"eth0: 3Com PCI 3c905C Tornado at 0xec80,  00:b0:d0:87:85:c3, IRQ 5",55114e45,"eth0: 3Com PCI 3c905C Tornado at 0xec80, 00:b0:d0:87:85:c3, IRQ 5"
+200,Aug,17,10:29:54,ns1,rc.sysinit,,Configuring kernel parameters:  succeeded,1fcd53c8,Configuring kernel parameters: succeeded
+201,Aug,17,10:30:12,ns1,kernel,,product code 0000 rev 00.14 date 07-16-104,aedc4a09,product code 0000 rev 00.14 date 07-16-104
+202,Aug,17,10:29:54,ns1,date,,Tue Aug 17 10:29:48 EDT 2004,30f3b4fa,Tue Aug 17 <*> EDT 2004
+203,Aug,17,10:30:12,ns1,kernel,,"8K byte-wide RAM 5:3 Rx:Tx split, autoselect/Autonegotiate interface.",a879cd61,"8K byte-wide RAM 5:3 Rx:Tx split, autoselect/Autonegotiate interface."
+204,Aug,17,10:29:54,ns1,rc.sysinit,,Setting clock  (localtime): Tue Aug 17 10:29:48 EDT 2004 succeeded,e093cfb6,Setting clock (localtime): Tue Aug 17 <*> EDT 2004 succeeded
+205,Aug,17,10:30:12,ns1,kernel,,"MII transceiver found at address 24, status 782d.",700790c4,"MII transceiver found at address 24, status 782d."
+206,Aug,17,10:29:54,ns1,rc.sysinit,,Loading default keymap succeeded,f6d22637,Loading default keymap succeeded
+207,Aug,17,10:30:12,ns1,kernel,,Enabling bus-master transmits and whole-frame receives.,2df6dc49,Enabling bus-master transmits and whole-frame receives.
+208,Aug,17,10:29:54,ns1,rc.sysinit,,Setting default font (lat0-sun16):  succeeded,8097b993,Setting default font (lat0-sun16): succeeded
+209,Aug,17,10:30:12,ns1,kernel,,eth0: scatter/gather disabled. h/w checksums enabled,8513c4d7,eth0: scatter/gather disabled. h/w checksums enabled
+210,Aug,17,10:29:54,ns1,rc.sysinit,,Activating swap partitions:  succeeded,e4ff0c99,Activating swap partitions: succeeded
+211,Aug,17,10:30:12,ns1,kernel,,"eth0: using NWAY device table, not 8",e8a19df5,"eth0: using NWAY device table, not 8"
+212,Aug,17,10:29:54,ns1,rc.sysinit,,Setting hostname ns1.bkwconsulting.com:  succeeded,6fea38a8,Setting hostname ns1.bkwconsulting.com: succeeded
+213,Aug,17,10:29:54,ns1,rc.sysinit,,Mounting USB filesystem:  succeeded,1d2b87b5,Mounting  filesystem: succeeded
+214,Aug,17,10:29:54,ns1,rc.sysinit,,Initializing USB controller (usb-uhci):  succeeded,fd32c5f1,Initializing USB controller (usb-uhci): succeeded
+215,Aug,17,10:29:54,ns1,fsck,,"/: clean, 17046/66264 files, 63476/265041 blocks",683a2f9a,"/: clean, 17046/66264 files, 63476/265041 blocks"
+216,Aug,17,10:29:54,ns1,rc.sysinit,,Checking root filesystem succeeded,4fa0fd97,Checking root filesystem succeeded
+217,Aug,17,10:29:54,ns1,rc.sysinit,,Remounting root filesystem in read-write mode:  succeeded,779ffa1c,Remounting root filesystem in read-write mode: succeeded
+218,Aug,17,10:30:13,ns1,automount,634,"starting automounter version 3.1.7, path = /misc, maptype = file, mapname = /etc/auto.misc",1759c811,"starting automounter version 3.1.7, path = /misc, maptype = file, mapname = /etc/auto.misc"
+219,Aug,17,10:30:13,ns1,autofs,,autofs startup succeeded,7d0225bc,autofs startup succeeded
+220,Aug,17,10:29:55,ns1,rc.sysinit,,Finding module dependencies:  succeeded,4b95975b,Finding module dependencies: succeeded
+221,Aug,17,10:29:55,ns1,fsck,,"/boot: clean, 26/14056 files, 5265/56196 blocks",43c50dc5,"/boot: clean, 26/14056 files, 5265/56196 blocks"
+222,Aug,17,10:29:55,ns1,fsck,,"/home: clean, 911/780288 files, 200825/1560305 blocks",329e7435,"/home: clean, 911/780288 files, 200825/1560305 blocks"
+223,Aug,17,10:29:55,ns1,fsck,,"/usr: clean, 51695/780288 files, 240738/1560305 blocks",21f535a9,"/usr: clean, 51695/780288 files, 240738/1560305 blocks"
+224,Aug,17,10:29:55,ns1,fsck,,"/var: clean, 20533/66264 files, 193376/265041 blocks",e95142b3,"/var: clean, 20533/66264 files, 193376/265041 blocks"
+225,Aug,17,10:29:55,ns1,rc.sysinit,,Checking filesystems succeeded,0e686c5f,Checking filesystems succeeded
+226,Aug,17,10:30:13,ns1,atd,,atd startup succeeded,452a7966,atd startup succeeded
+227,Aug,17,10:29:56,ns1,rc.sysinit,,Mounting local filesystems:  succeeded,40f43673,Mounting  filesystems: succeeded
+228,Aug,17,10:29:56,ns1,rc.sysinit,,Turning on process accounting succeeded,581f76d8,Turning on process accounting succeeded
+229,Aug,17,10:29:56,ns1,rc.sysinit,,Turning on user and group quotas for local filesystems:  succeeded,279ed968,Turning on user and group quotas for local filesystems: succeeded
+230,Aug,17,10:29:57,ns1,rc.sysinit,,Enabling swap space:  succeeded,29bbeca6,Enabling swap space: succeeded
+231,Aug,17,10:29:58,ns1,init,,Entering runlevel: 3,3d598e42,Entering runlevel: 3
+232,Aug,17,10:29:58,ns1,kudzu,,Updating /etc/fstab succeeded,8a508e05,Updating /etc/fstab succeeded
+233,Aug,17,10:30:09,ns1,kudzu,,succeeded,32d0250e,succeeded
+234,Aug,17,10:30:09,ns1,sysctl,,net.ipv4.ip_forward = 0,f0d87f59,net.ipv4.ip_forward = 0
+235,Aug,17,10:30:13,ns1,sshd,,Starting sshd:,681281ae,Starting sshd:
+236,Aug,17,10:30:09,ns1,sysctl,,net.ipv4.conf.all.rp_filter = 1,023f2232,net.ipv4.conf.all.rp_filter = 1
+237,Aug,17,10:30:09,ns1,sysctl,,kernel.sysrq = 0,a051941d,kernel.sysrq = 0
+238,Aug,17,10:30:14,ns1,automount,634,using kernel protocol version 3,2d3bb485,using kernel protocol version 3
+239,Aug,17,10:30:09,ns1,network,,Setting network parameters:  succeeded,aa511af6,Setting network parameters: succeeded
+240,Aug,17,10:30:09,ns1,network,,Bringing up interface lo:  succeeded,36e54035,Bringing up interface  succeeded
+241,Aug,17,10:30:10,ns1,network,,Bringing up interface eth0:  succeeded,36e54035,Bringing up interface  succeeded
+242,Aug,17,10:30:14,ns1,sshd,,succeeded,32d0250e,succeeded
+243,Aug,17,10:30:14,ns1,rc,,Starting sshd:  succeeded,c9e23cba,Starting sshd: succeeded
+244,Aug,17,10:30:15,ns1,xinetd,681,"chargen disabled, removing",b689f7db,"chargen disabled, removing"
+245,Aug,17,10:30:15,ns1,xinetd,681,"chargen-udp disabled, removing",8933f0d2,"chargen-udp disabled, removing"
+246,Aug,17,10:30:15,ns1,xinetd,681,"time disabled, removing",5bcf5882,"time disabled, removing"
+247,Aug,17,10:30:15,ns1,xinetd,681,"time disabled, removing",5bcf5882,"time disabled, removing"
+248,Aug,17,10:30:15,ns1,xinetd,681,"daytime disabled, removing",f43b072c,"daytime disabled, removing"
+249,Aug,17,10:30:15,ns1,xinetd,681,"talk disabled, removing",e0537468,"talk disabled, removing"
+250,Aug,17,10:30:15,ns1,xinetd,681,"rsync disabled, removing",099f274e,"rsync disabled, removing"
+251,Aug,17,10:30:15,ns1,xinetd,681,"shell disabled, removing",cc209032,"shell disabled, removing"
+252,Aug,17,10:30:15,ns1,xinetd,681,"login disabled, removing",fa5af1ea,"login disabled, removing"
+253,Aug,17,10:30:15,ns1,xinetd,681,"exec disabled, removing",97940061,"exec disabled, removing"
+254,Aug,17,10:30:15,ns1,xinetd,681,"pop3s disabled, removing",984cab86,"pop3s disabled, removing"
+255,Aug,17,10:30:15,ns1,xinetd,681,"ntalk disabled, removing",859a899f,"ntalk disabled, removing"
+256,Aug,17,10:30:15,ns1,xinetd,681,"daytime-udp disabled, removing",da0b6e2d,"daytime-udp disabled, removing"
+257,Aug,17,10:30:15,ns1,xinetd,681,"pop2 disabled, removing",8f7a51a4,"pop2 disabled, removing"
+258,Aug,17,10:30:15,ns1,xinetd,681,"imaps disabled, removing",4c37b151,"imaps disabled, removing"
+259,Aug,17,10:30:15,ns1,xinetd,681,"echo disabled, removing",a608ea8f,"echo disabled, removing"
+260,Aug,17,10:30:15,ns1,xinetd,681,"finger disabled, removing",4a72028c,"finger disabled, removing"
+261,Aug,17,10:30:15,ns1,xinetd,681,"echo-udp disabled, removing",773b653a,"echo-udp disabled, removing"
+262,Aug,17,10:30:15,ns1,xinetd,681,xinetd Version 2.1.8.9pre14 started with,072a6783,xinetd Version <*>pre14 started with
+263,Aug,17,10:30:15,ns1,xinetd,681,libwrap,6f4d1c7f,libwrap
+264,Aug,17,10:30:15,ns1,xinetd,681,options compiled in.,9c3baeb1,options compiled in.
+265,Aug,17,10:30:15,ns1,xinetd,681,Started working: 4 available services,42339b3d,Started working: 4 available services
+266,Aug,17,10:30:18,ns1,xinetd,,xinetd startup succeeded,e3b3c521,xinetd startup succeeded
+267,Aug,17,10:30:19,ns1,sendmail,,sendmail startup succeeded,ac74e097,sendmail startup succeeded
+268,Aug,17,10:30:19,ns1,gpm,,gpm startup succeeded,c1cd3db1,gpm startup succeeded
+269,Aug,17,10:30:20,ns1,crond,,crond startup succeeded,a4c10530,crond startup succeeded
+270,Aug,17,10:30:21,ns1,xfs,,listening on port 7100,00691bd6,listening on port 7100
+271,Aug,17,10:30:21,ns1,xfs,,xfs startup succeeded,78fcfdec,xfs startup succeeded
+272,Aug,17,10:30:21,ns1,anacron,,anacron startup succeeded,7e31404a,anacron startup succeeded
+273,Aug,17,10:30:23,ns1,httpd,,httpd startup succeeded,baef46da,httpd startup succeeded
+274,Aug,17,10:30:24,ns1,squid,892,Squid Parent: child process 893 started,2785120f,Squid Parent: child process 893 started
+275,Aug,17,10:30:24,ns1,named,,named startup succeeded,8c68af4c,named startup succeeded
+276,Aug,17,10:30:24,ns1,named,902,starting BIND 9.1.0 -u named,cf189fc0,starting BIND 9.1.0 -u named
+277,Aug,17,10:30:24,ns1,named,902,using 1 CPU,95b1a825,using 1 CPU
+278,Aug,17,10:30:24,ns1,named,908,loading configuration from '/etc/named.conf',018ef2a8,loading configuration from '/etc/named.conf'
+279,Aug,17,10:30:25,ns1,named,908,the default for the 'auth-nxdomain' option is now 'no',7e3638b3,the default for the 'auth-nxdomain' option is now 'no'
+280,Aug,17,10:30:25,ns1,named,908,no IPv6 interfaces found,27bc5cea,no IPv6 interfaces found
+281,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface lo, 127.0.0.1#53",f920ba7b,listening on IPv4 interface  <*>#53
+282,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0, 63.126.79.67#53",f920ba7b,listening on IPv4 interface  <*>#53
+283,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:1, 63.126.79.69#53",f920ba7b,listening on IPv4 interface  <*>#53
+284,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:2, 63.126.79.70#53",f920ba7b,listening on IPv4 interface  <*>#53
+285,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:3, 63.126.79.71#53",f920ba7b,listening on IPv4 interface  <*>#53
+286,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:4, 63.126.79.72#53",f920ba7b,listening on IPv4 interface  <*>#53
+287,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:5, 63.126.79.73#53",f920ba7b,listening on IPv4 interface  <*>#53
+288,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:6, 63.126.79.75#53",f920ba7b,listening on IPv4 interface  <*>#53
+289,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:7, 63.126.79.80#53",f920ba7b,listening on IPv4 interface  <*>#53
+290,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:8, 63.126.79.81#53",f920ba7b,listening on IPv4 interface  <*>#53
+291,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:9, 63.126.79.82#53",f920ba7b,listening on IPv4 interface  <*>#53
+292,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:10, 63.126.79.83#53",f920ba7b,listening on IPv4 interface  <*>#53
+293,Aug,17,10:30:25,ns1,snmpd,,snmpd startup succeeded,10964d0b,snmpd startup succeeded
+294,Aug,17,10:30:25,ns1,named,908,"listening on IPv4 interface eth0:11, 63.126.79.84#53",f920ba7b,listening on IPv4 interface  <*>#53
+295,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:12, 63.126.79.85#53",f920ba7b,listening on IPv4 interface  <*>#53
+296,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:13, 63.126.79.87#53",f920ba7b,listening on IPv4 interface  <*>#53
+297,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:14, 63.126.79.89#53",f920ba7b,listening on IPv4 interface  <*>#53
+298,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:15, 63.126.79.90#53",f920ba7b,listening on IPv4 interface  <*>#53
+299,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:16, 63.126.79.95#53",f920ba7b,listening on IPv4 interface  <*>#53
+300,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:17, 63.126.79.100#53",f920ba7b,listening on IPv4 interface  <*>#53
+301,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:18, 63.126.79.105#53",f920ba7b,listening on IPv4 interface  <*>#53
+302,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:19, 63.126.79.110#53",f920ba7b,listening on IPv4 interface  <*>#53
+303,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:20, 63.126.79.115#53",f920ba7b,listening on IPv4 interface  <*>#53
+304,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:21, 63.126.79.120#53",f920ba7b,listening on IPv4 interface  <*>#53
+305,Aug,17,10:30:26,ns1,named,908,"listening on IPv4 interface eth0:22, 63.126.79.125#53",f920ba7b,listening on IPv4 interface  <*>#53
+306,Aug,17,10:30:26,ns1,ntpd,,ntpd startup succeeded,73b63daf,ntpd startup succeeded
+307,Aug,17,10:30:26,ns1,ntpd,930,ntpd 4.0.99k Mon Apr  9 14:50:09 EDT 2001 (1),9debbd7f,ntpd 4.0.99k Mon Apr 9 <*> EDT 2001 (1)
+308,Aug,17,10:30:26,ns1,ntpd,930,precision = 11 usec,5cb789e9,precision = 11 usec
+309,Aug,17,10:30:26,ns1,ntpd,930,using kernel phase-lock loop 0040,31d2acbd,using kernel phase-lock loop 
+310,Aug,17,10:30:26,ns1,named,908,running,ea31f21f,running
+311,Aug,17,10:30:26,ns1,ntpd,930,frequency initialized 0.000 from /etc/ntp/drift,bf9b797a,frequency initialized 0.000 from /etc/ntp/drift
+312,Aug,17,10:30:27,ns1,ntpd,930,using kernel phase-lock loop 0041,31d2acbd,using kernel phase-lock loop 
+313,Aug,17,10:30:27,ns1,ntpd,930,...multicast address 224.0.1.1 using wildcard socket,af8eaf49,...multicast address <*> using wildcard socket
+314,Aug,17,10:30:28,ns1,smb,,smbd startup succeeded,ce3b0820,smbd startup succeeded
+315,Aug,17,10:30:28,ns1,smb,,nmbd startup succeeded,f7ecd57f,nmbd startup succeeded
+316,Aug,17,10:30:28,ns1,ucd-snmp,919,UCD-SNMP version 4.2,7c60ab40,UCD-SNMP version 4.2
+317,Aug,17,10:30:29,ns1,identd,,identd startup succeeded,f74dafe2,identd startup succeeded
+318,Aug,17,10:30:29,ns1,rsyncd,971,rsyncd version 2.4.6 starting,d24d5e98,rsyncd version 2.4.6 starting
+319,Aug,20,09:46:56,ns1,login(pam_unix),974,bad username [ ],8f50abd3,bad username [ ]
+320,Aug,20,09:46:56,ns1,login,974,"FAILED LOGIN 1 FROM (null) FOR  , Authentication failure",5d87e4a5,FAILED LOGIN  FROM (null) FOR  Authentication failure
+321,Aug,20,09:46:56,ns1,login(pam_unix),974,bad username [],6d866ac9,bad username []
+322,Aug,20,09:46:56,ns1,login,974,"FAILED LOGIN 2 FROM (null) FOR , Authentication failure",5d87e4a5,FAILED LOGIN  FROM (null) FOR  Authentication failure
+323,Aug,20,09:47:03,ns1,login(pam_unix),974,authentication failure; logname=LOGIN uid=0 euid=0 tty=tty1 ruser= rhost=  user=tguy,61311a79,authentication failure; logname=LOGIN uid=0 euid=0 tty=tty1 ruser= rhost= user=tguy
+324,Aug,20,09:47:05,ns1,login,974,"FAILED LOGIN 3 FROM (null) FOR tguy, Authentication failure",5d87e4a5,FAILED LOGIN  FROM (null) FOR  Authentication failure
+325,Aug,20,09:47:08,ns1,login(pam_unix),975,session opened for user tguy by LOGIN(uid=0),13fc0eeb,session opened for user tguy by LOGIN(uid=0)
+326,Aug,20,09:47:08,ns1,-- tguy,975,LOGIN ON tty2 BY tguy,2904380a,LOGIN ON tty2 BY tguy
+327,Aug,20,09:49:00,ns1,login(pam_unix),975,session closed for user tguy,d594a625,session closed for user tguy
