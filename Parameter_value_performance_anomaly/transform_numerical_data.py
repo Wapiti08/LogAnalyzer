@@ -40,7 +40,7 @@ def key_to_EventId(df):
         # the item is string type
         key_name_dict['E'+str(i)] = item
     # convert the hashed values into numerical values
-    df['log key'].map(items_dict)
+    df['log key'].map(key_name_dict)
 
     return log_key_sequence, key_name_dict, K
 
