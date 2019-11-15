@@ -18,32 +18,6 @@ def template_filter(parameters):
         parameter = re.sub(pattern, '', parameter)
     return parameters
 
-def key_to_EventId(df):
-    '''
-    :param df: normally, the log key column in df is hashed values
-    :return: log_key_sequence: the column of log key
-             key_name_dict: format is {Exx: SRWEDFFW(hashed value),...}
-             K: the number of unique log key events
-    '''
-    df = df.copy()
-    log_key_sequence = df['log key']
-    log_key_sequence = list(log_key_sequence)
-    # get the unique list
-    items = set(log_key_sequence)
-    # define the total number of log keys
-    K = None
-    K = len(items)
-    print("the number of unique log keys is:", len(items))
-    key_name_dict = {}
-
-    for i, item in enumerate(items):
-        # the item is string type
-        key_name_dict['E'+str(i)] = item
-    # convert the hashed values into numerical values
-    df['log key'] = df['log key'].map(key_name_dict)
-
-    return log_key_sequence, key_name_dict, K
-
 
 # ================= get the vocabulary set ==================
 def vocabulary_generate(fd, key_para_dict_filename, key_para_dict_index_filename):
@@ -193,31 +167,3 @@ def delete_repeated_line(fd_value,filename):
     fd_value = fd_value.drop(['ColumnX'], axis=1)
     fd_value.to_csv(filename, index=False)
 
-if __name__ == '__main__':
-    # get the log_value_vector csv (log message, log key, parameter value vector)
-    log_value_vector_csv = '../Dataset/Linux/Malicious_Separate_Structured_Logs/log_value_vector_mali.csv'
-    fd = pd.read_csv(log_value_vector_csv)
-
-    # input the normal fd file
-    key_para_dict_filename = '../Dataset/Linux/Malicious_Separate_Structured_Logs/key_para_dict.csv'
-
-    key_para_dict, fd_id = vocabulary_generate(fd, key_para_dict_filename)
-
-    # module to process the exception in template computation
-    tokens = tokens_generate(key_para_dict)
-
-    # the format is 'ate awte awet':[34,234,13]
-    tokens_dict_filename = '../Dataset/Linux/Malicious_Separate_Structured_Logs/tokens_dict.pkl'
-    token_encode_dict = token_dict(tokens, tokens_dict_filename)
-
-    # split the parameter value vector into different columns
-    fd_id, list_name = split_vectors(fd_id, log_value_vector_csv)
-
-    # replace the textual data to numerical data
-    fd_value = map_vectors(fd_id, list_name, log_value_vector_csv, token_encode_dict)
-
-    # integrate the vector lines into one
-    integrated_fd_value = integrate_lines(fd_value, list_name)
-
-    # delete repeated column in csv
-    delete_repeated_line(integrated_fd_value, log_value_vector_csv)
