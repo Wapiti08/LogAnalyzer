@@ -60,9 +60,8 @@ def mean_squared_error_modified(y_true, y_pred):
 def training_data_generate(matrix, n_steps):
     '''
     :param matrix: the paramter value vectors for a single log key
-    :param n_steps_in: the length of sequence, which depends on how long the matrix is
-    :param n_steps_out: always one, we just need one really parameter vector
-    :return:
+    :param n_steps: the history length for LSTM algorithm
+    :return: X, Y
     '''
     X, Y = list(), list()
     for i in range(matrix.shape[0]):
