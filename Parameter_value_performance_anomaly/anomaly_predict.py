@@ -2,7 +2,7 @@ import numpy as np
 import scipy.stats as st
 
 def confidence_interval(confidence, mses_list):
-    # define the intervial tuple
+    # define the interval tuple
     intervial = None
     intervial = st.t.interval(confidence, len(mses_list)-1, loc=np.mean(mses_list), scale=st.sem(mses_list))
 
