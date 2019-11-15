@@ -154,16 +154,15 @@ def map_vectors(fd_id, list_name, filename, token_encode_dict):
 
     return fd_value
 
+def integrate_lines(fd_value, filename):
+    ''''''
+    # integrate multiple parameter columns into one column
+    df_num_para = fd_value.copy()
+    df_num_para['parameter value vector'] = df_num_para[df_num_para.columns[3:]].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+    # drop the splitted columns
+    df_num_para = df_num_para.drop(df_num_para.columns[3:], axis=1)
 
-def integrate_lines(fd_value, list_name):
-    fd_value['ColumnX'] = fd_value[fd_value.columns[3:19]].apply(lambda x: ','.join(x.dropna().astype(str)),axis=1)
-    fd_value = fd_value.drop(['parameter value vector'], axis=1)
-    fd_value = fd_value.drop(list_name, axis=1)
+    # save the integrated result
+    df_num_para.to_csv(df_num_para_filename, index=False)
 
-    return fd_value
-
-def delete_repeated_line(fd_value,filename):
-    fd_value['parameter value vector'] = fd_value['ColumnX']
-    fd_value = fd_value.drop(['ColumnX'], axis=1)
-    fd_value.to_csv(filename, index=False)
-
+    return df_num_para
