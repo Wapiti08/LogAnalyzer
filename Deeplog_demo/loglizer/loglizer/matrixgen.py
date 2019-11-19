@@ -86,7 +86,7 @@ if __name__ == "__main__":
     para['window_size'] = 24 # 24 hours ---- one day
     para['step_size'] = 3 # 3 hours
 
-    # =============================== generate the event matrix for norcom linux logs =========================
+    # =============================== generate the event matrix for normal linux logs =========================
 
     # set the format of command input
     parser = optparse.OptionParser('usage %prog --p1 <structured log filename for training data> \
@@ -188,7 +188,7 @@ if __name__ == "__main__":
 
 
 
-    # =============================== generate the event matrix for comicious linux logs =========================
+    # =============================== generate the event matrix for malicious linux logs =========================
 
     para_com = {}
     para_com['save_path'] = '../../Dataset_ML/Linux/Clear/'

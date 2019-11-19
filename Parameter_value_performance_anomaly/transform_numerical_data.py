@@ -19,38 +19,6 @@ def template_filter(parameters):
     return parameters
 
 
-def key_to_EventId(df):
-
-    '''
-    :param df: normaly, the log key column in df is hashed values
-    :return: log_key_sequence: the column of log key
-             key_name_dict: format is {Exx: SRWEDFFW(hashed value),...}
-             K: the number of unique log key events
-    '''
-
-    df = df.copy()
-    log_key_sequence = df['log key']
-    log_key_sequence = list(log_key_sequence)
-    # get the unique list
-    items = set(log_key_sequence)
-    # define the total number of log keys
-    K = None
-    K = len(items)
-    print("the length of log_key_sequence is:", len(items))
-    key_name_dict = {}
-
-    for i, item in enumerate(items):
-        # items is a set
-        # columns are the lines of log key sequence
-        for j in range(len(log_key_sequence)):
-            if log_key_sequence[j] == item:
-                name = 'E' + str(i)
-                # log_key_sequence[j]='k'+str(i)
-                key_name_dict[name] = log_key_sequence[j].strip('\n')
-
-    return log_key_sequence, key_name_dict, K
-
-
 # ================= get the vocabulary set ==================
 def vocabulary_generate(fd, key_para_dict_filename, key_para_dict_index_filename):
     '''
@@ -59,6 +27,7 @@ def vocabulary_generate(fd, key_para_dict_filename, key_para_dict_index_filename
              key_para_dict: the format is {Exx:[textual parameter 1],[textual parameter 2],...}
     '''
 
+    # key_para_dict will save the some key name Exx with all parameters
     key_para_dict, key_para_dict_index = {}, {}
     log_key_sequence, key_name_dict, K = key_to_EventId(fd)
     fd_id = fd.copy()
@@ -80,7 +49,7 @@ def vocabulary_generate(fd, key_para_dict_filename, key_para_dict_index_filename
         parameters = template_filter(parameters)
         # transform the series object to list type
         parameters_index = list(parameters)
-        parameters_index.insert(0,str(para_index))
+        parameters_index.insert(0, str(para_index))
         key_para_dict[uni_log_key_id[i]] = parameters.values[:]
         key_para_dict_index[uni_log_key_id[i]] = parameters_index
 
@@ -92,7 +61,6 @@ def vocabulary_generate(fd, key_para_dict_filename, key_para_dict_index_filename
     # add the index of original index to the dict
     df_dict_para_index.to_csv(key_para_dict_index_filename, index = False, header=key_para_dict_index.keys())
     return key_para_dict, fd_id
-
 
 
 def tokens_generate(key_para_dict):
@@ -143,18 +111,18 @@ def token_dict(tokens, tokens_dict_filename):
 
     return token_encode_dict
 
-
+# split one column into different columns according to cluster name
 def split_vectors(fd_id, filename):
     '''
     :param fd_id: copied fd dataframe, in order to protect the original data
-    :param filename: the position to store csv
+    :param filename: the location to store csv
     :return: fd_id: csv with parameter value vector splitted into various columns according to the max length of vector
             list_name: the format is: value0, value1, value2, ....
     '''
     list_length = []
     for var in fd_id['parameter value vector']:
         list_length.append(len(var.split(',')))
-    # max(list_length) ---- 16
+
     # list_length
     list_name = []
     for i in range(max(list_length)):
@@ -166,7 +134,7 @@ def split_vectors(fd_id, filename):
         for var in range(len(fd_id[name])):
             # we should use fd_id[x] to rewrite value in
             if fd_id[name][var] != None:
-                fd_id[name][var] = re.sub("[\[|\]|']|\s+|\.|\-", '', fd_id[name][var])
+                fd_id[name][var] = fd_id[name][var].str.replace("[\[|\]|']|\s+|\.|\-", '')
     fd_id.to_csv(filename, index=False)
 
     return fd_id, list_name
@@ -186,45 +154,15 @@ def map_vectors(fd_id, list_name, filename, token_encode_dict):
 
     return fd_value
 
+def integrate_lines(fd_value, filename):
+    ''''''
+    # integrate multiple parameter columns into one column
+    df_num_para = fd_value.copy()
+    df_num_para['parameter value vector'] = df_num_para[df_num_para.columns[3:]].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+    # drop the splitted columns
+    df_num_para = df_num_para.drop(df_num_para.columns[3:], axis=1)
 
-def integrate_lines(fd_value, list_name):
-    fd_value['ColumnX'] = fd_value[fd_value.columns[3:19]].apply(lambda x: ','.join(x.dropna().astype(str)),axis=1)
-    fd_value = fd_value.drop(['parameter value vector'], axis=1)
-    fd_value = fd_value.drop(list_name, axis=1)
+    # save the integrated result
+    df_num_para.to_csv(df_num_para_filename, index=False)
 
-    return fd_value
-
-def delete_repeated_line(fd_value,filename):
-    fd_value['parameter value vector'] = fd_value['ColumnX']
-    fd_value = fd_value.drop(['ColumnX'], axis=1)
-    fd_value.to_csv(filename, index=False)
-
-
-if __name__ == '__main__':
-    # get the log_value_vector csv (log message, log key, parameter value vector)
-    log_value_vector_csv = '../Dataset/Linux/Malicious_Separate_Structured_Logs/log_value_vector_mali.csv'
-    fd = pd.read_csv(log_value_vector_csv)
-
-    # input the normal fd file
-    key_para_dict_filename = '../Dataset/Linux/Malicious_Separate_Structured_Logs/key_para_dict.csv'
-
-    key_para_dict, fd_id = vocabulary_generate(fd, key_para_dict_filename)
-
-    # module to process the exception in template computation
-    tokens = tokens_generate(key_para_dict)
-
-    # the format is 'ate awte awet':[34,234,13]
-    tokens_dict_filename = '../Dataset/Linux/Malicious_Separate_Structured_Logs/tokens_dict.pkl'
-    token_encode_dict = token_dict(tokens, tokens_dict_filename)
-
-    # split the parameter value vector into different columns
-    fd_id, list_name = split_vectors(fd_id, log_value_vector_csv)
-
-    # replace the textual data to numerical data
-    fd_value = map_vectors(fd_id, list_name, log_value_vector_csv, token_encode_dict)
-
-    # integrate the vector lines into one
-    integrated_fd_value = integrate_lines(fd_value, list_name)
-
-    # delete repeated column in csv
-    delete_repeated_line(integrated_fd_value, log_value_vector_csv)
+    return df_num_para
