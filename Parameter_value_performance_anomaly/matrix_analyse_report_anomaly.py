@@ -46,15 +46,28 @@ from visualized_value_vector import visualize_value
 
 
 # ======================= generate the normal rmses.pkl and rmses_dict.pkl ================================
-
 def mean_squared_error_modified(y_true, y_pred):
+    ''' modified mse to compute squared error
+
+    :param y_true: the test y --- array
+    :param y_pred: the predict y --- array
+    :return: the mean of errors, the errors list
+    '''
+    # define the minus between two values
     d_matrix = subtract(y_true, y_pred)
     print("the d_matrix is:", d_matrix)
-    means = []
-    for i in range(d_matrix.shape[1]):
-        means.append(np.mean(d_matrix[:, i] * d_matrix[:, i], axis=-1))
-    print("the means are:", means)
-    return np.mean(means), means
+    mses = []
+    # define the sum of minus
+    sum_minus = 0
+    # compute mse for every row
+    for i in range(d_matrix.shape[0]):
+        for j in range(d_matrix.shape[1]):
+            sum_minus += d_matrix[:, i] * d_matrix[:, i]
+        # compute the mse for every row
+        mse = np.mean(sum_minus)
+        mses.append(mse)
+    return mses
+
 
 
 def training_data_generate(matrix, n_steps):
