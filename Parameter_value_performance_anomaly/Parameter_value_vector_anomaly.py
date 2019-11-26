@@ -165,7 +165,7 @@ if __name__ == "__main__":
             pass
         else:
             # part to print the picture of means with line chart
-            plt.plot(x_list, rmses)
+            plt.plot(x_list, mses)
             # add the threshold lines with percentage
             print(threshold1,threshold2,threshold3)
             plt.axhline(y=threshold1, linestyle = "-", label = '98%')
