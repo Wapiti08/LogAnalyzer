@@ -101,8 +101,8 @@ if __name__ == "__main__":
                     filenames.append(os.path.join(r, file))
     # set the random seed
     seed = 0
-    rmses = []
-    rmses_dict = {}
+    mses = []
+    mses_dict = {}
 
     # record the anomaly logs with the name of file and the anomaly logs order
     suspicious_anomaly_dict, fp_logs_dict = {}, {}
@@ -144,10 +144,10 @@ if __name__ == "__main__":
             # use the mean square error to compare the difference between predicted y and validation y
             # the error follows the Gaussian distribution ---- normal, otherwise abnormal
             # save the result
-            rmses_dict[file] = mses
+            mses_dict[file] = mses
             # save the results to files
-            joblib.dump(mses, file + '_rmses.pkl')
-            joblib.dump(mses_dict, file + '_rmses_dict.pkl')
+            joblib.dump(mses, file + '_mses.pkl')
+            joblib.dump(mses_dict, file + '_mses_dict.pkl')
 
         # ===== part to predict the anomaly logs ====
 
