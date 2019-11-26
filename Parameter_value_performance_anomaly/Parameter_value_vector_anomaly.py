@@ -138,31 +138,28 @@ if __name__ == "__main__":
             yhat = model.predict(test_x)
             # delete the time step element
             print("the predicted y is:", yhat)
-
-            rmse, means = matrix_analyse_report_anomaly.mean_squared_error_modified(test_y, yhat)
-            # rmse, meams = mean_squared_error(test_y, yhat)
-            rmse = sqrt(rmse)
-            print('Test RMSE: %.3f' % rmse)
+            # return the list of mse 
+            mses = matrix_analyse_report_anomaly.mean_squared_error_modified(test_y, yhat)
+          
             # use the mean square error to compare the difference between predicted y and validation y
             # the error follows the Gaussian distribution ---- normal, otherwise abnormal
-            rmses.append(rmse)
             # save the result
-            rmses_dict[file] = rmse
+            rmses_dict[file] = mses
             # save the results to files
-            joblib.dump(rmses, file + '_rmses.pkl')
-            joblib.dump(rmses_dict, file + '_rmses_dict.pkl')
+            joblib.dump(mses, file + '_rmses.pkl')
+            joblib.dump(mses_dict, file + '_rmses_dict.pkl')
 
         # ===== part to predict the anomaly logs ====
 
 
         file_number = re.findall('\d+', file)
         threshold1, threshold2, threshold3, suspicious_logs, \
-            fp_logs = anomaly_predict.anomaly_report(rmses,file_number)
+            fp_logs = anomaly_predict.anomaly_report(mses, file_number)
 
         # part to print the picture of means with bar chart
         # create the x axis labels for plot
         x_list = []
-        for i in range(len(rmses)):
+        for i in range(len(mses)):
             x_list.append(i)
         if len(x_list)<=1:
             pass
