@@ -35,9 +35,11 @@ Basiclly, we have two modules.
 - Finally, we will implement parameter values anomaly detection with Parameter_value_performance_anomaly.py	
 
 
-If you want to implement the raw version, please execute:
+## Addition:
+If you want to implement the raw version, please run the following command before you go:
+```
 pip install -r requirement.txt
-
+```
 
 ## References：
 *1.Execution Anomaly Detection in Distributed Systems through Unstructured Log Analysis*
