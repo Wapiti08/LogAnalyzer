@@ -11,12 +11,11 @@ This is the achievement of core DeepLog and it is a manual version not for indus
 This is the instruction how to use the a series of modules to pre-process the raw system logs to key logs
 
 ## Statement:
-Currently, the model is based on off-line work, we will achieve online real-time detection in the future
+The model is based on off-line work, we will achieve online real-time detection in the future
 
 The following is the instructions on how to implement the whole module:
 ##  1. Source data:
-
-the data got from clients is all csv format, we need translate them into txt format files.
+When the data format is in csv, we need translate them into txt files.
 
 ##  2. Data analysis:
 we use the logparser tool to transform the source txt log files into structured csvs under a folder, the folder is named by the start and end time
