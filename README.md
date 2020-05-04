@@ -1,9 +1,9 @@
 # DeepLog
-This is the achievement of core DeepLog, it is a manual version not for industrial usage.
+This is the achievement of core DeepLog and it is a manual version not for industrial usage.
 
-For privacy consideration, the dataset is not provided. You can put your own data into that folder.
+> For privacy consideration, the dataset is not provided. You can put your own data into that folder.
 
-The Deeplog_demo is a relatively complete package, you can try to implement that.
+**The Deeplog_demo is a relatively complete package, you can try to implement that.**
 
 ![workflow](https://github.com/Wapiti08/DeepLog/blob/master/Deeplog_demo/Pic/Deeplog_dataflow.png)
 
