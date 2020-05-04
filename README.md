@@ -18,12 +18,16 @@ The following is the instructions on how to implement the whole module:
 When the data format is in csv, we need translate them into txt files.
 
 ##  2. Data analysis:
-we use the logparser tool to transform the source txt log files into structured csvs under a folder, the folder is named by the start and end time
-*(use Lenma_demo.py with python2)
-In the stage, we calculate the EventTemplate for every log
+we use the logparser tool to transform the source txt log files into structured csv files under a folder, the folder is named by the start and end time.
+
+**(use Lenma_demo.py with python2)** ---> The python3 version is not provided here.
+
+In the stage, we calculate the EventTemplate for every log. 
 
 ##  3. Variable Selection:
-The log_value_vector_1.py will be used to generate the csv file like Parameter_vector.png, which will be used to implement the anomaly detections later. (and has been integrated into models already)
+The log_value_vector_1.py will be used to generate the csv file like Parameter_vector.png, which will be used to implement the anomaly detections later. 
+
+**(and has been integrated into models already in demo)**
 
 ##  4. Model detection:
 Basiclly, we have two modules. 
