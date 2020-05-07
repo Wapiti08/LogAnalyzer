@@ -150,7 +150,7 @@ def lstm_model(x, y ,callbacks):
     # to see the summary of input and output shape
     model.summary()
     print('the accuracy for single lstm model is:', model.evaluate(x, y, batch_size=batch_size, verbose=0))
-    joblib.dump(model, 'Deeplog/path_anomaly_model.pkl')
+    model.save('Deeplog/path_anomaly_model.h5')
     return model
 
 # ============ part to prediction ==============
