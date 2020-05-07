@@ -102,7 +102,7 @@ def LSTM_model(trainx, trainy):
     # model.fit(trainx, trainy, epochs = 50, verbose=2, callbacks=[callbacks])
     model.fit(trainx, trainy, epochs=50, verbose=2)
     model.summary()
-    joblib.dump(model,'model.pkl')
+    model.save('model.h5')
     return model
 
 
