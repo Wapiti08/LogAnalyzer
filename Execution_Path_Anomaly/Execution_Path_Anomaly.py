@@ -44,7 +44,6 @@ from keras.layers import Dense, Embedding, Dropout
 from keras.layers import LSTM
 from keras.utils import *
 import numpy as np
-import tensorflow as tf
 import joblib
 import os
 from sklearn.metrics import mean_squared_error
@@ -136,11 +135,11 @@ def get_train(log_key_sequence_str, n_steps, path_filename):
 
 # ================= part to generate the training data ======================
 # function of callback
-class Mycallback(tf.keras.callbacks.Callback):
+class Mycallback(keras.callbacks.Callback):
     def on_epoch_end(self, epoch, logs={}):
         if (logs.get('acc') > 0.95):
-            print("Reached 80% accuracy so stopping training")
-            self.model.stop_learning = True
+            print("Reached 95% accuracy so stopping training")
+            self.model.stop_training = True
 
 # # ============  Implement the lstm model ==================
 
