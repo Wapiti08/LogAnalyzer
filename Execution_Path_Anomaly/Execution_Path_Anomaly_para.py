@@ -49,7 +49,6 @@ from keras.layers import Dense, Embedding, Dropout
 from keras.layers import LSTM
 from keras.utils import *
 import numpy as np
-import tensorflow as tf
 import joblib
 import os
 from sklearn.metrics import mean_squared_error
@@ -142,11 +141,11 @@ def get_train(log_key_sequence_str, n_steps, path_filename):
 
 # ================= part to generate the training data ======================
 # function of callback
-class Mycallback(tf.keras.callbacks.Callback):
+class Mycallback(keras.callbacks.Callback):
     def on_epoch_end(self, epoch, logs={}):
-        if logs.get('acc') > 0.95:
+        if logs.get('accuracy') > 0.95:
             print("Reached 95% accuracy so stopping training")
-            self.model.stop_learning = True
+            self.model.stop_training = True
 
 
 # # ============  Implement the lstm model ==================
@@ -169,7 +168,7 @@ def lstm_model(x, y, callbacks):
     # to see the summary of input and output shape
     model.summary()
     print('the accuracy for single lstm model is:', model.evaluate(x, y, batch_size=batch_size, verbose=0))
-    joblib.dump(model, 'path_anomaly_model.pkl')
+    model.save('path_anomaly_model.h5')
     return model
 
 
