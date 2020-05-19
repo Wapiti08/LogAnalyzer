@@ -412,9 +412,6 @@ if __name__ == "__main__":
     X_com, Y_com = get_train(log_key_id_sequence_str_com, n_steps, path_filename_com)
     # reshape the X_normal to make it suitable for training ---- time_steps = 5
     X_com = np.reshape(X_com, (-1, 5, 1))
-    Y_com = keras.utils.to_categorical(Y_com, num_classes=(K_com + K))
-    # in order to update the model or rebuild the model with the new output
-    Y_normal = keras.utils.to_categorical(Y_normal, num_classes=(K_com + K))
     # make the parameters understandable
     y_train = Y_normal
     x_test = X_com
