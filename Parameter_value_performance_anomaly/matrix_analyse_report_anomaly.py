@@ -33,7 +33,7 @@ from math import sqrt, pow
 from numpy import concatenate, subtract
 from pandas import DataFrame
 from pandas import concat
-from keras.layers import Dense, LSTM
+from keras.layers import Dense, LSTM, Bidirectional
 from keras.models import Sequential
 from sklearn.model_selection import KFold
 from sklearn import model_selection
@@ -94,10 +94,9 @@ def training_data_generate(matrix, n_steps):
 def LSTM_model(trainx, trainy):
     # use the train
     model = Sequential()
-    model.add(LSTM(100, activation = 'relu', return_sequences = True, input_shape=(trainx.shape[1], trainx.shape[2])))
-    print("the train x is {} and its shape is {}".format(trainx, trainx.shape))
-    model.add(LSTM(100, activation = 'relu'))
-    model.add(Dense(trainx.shape[2]))
+    model.add(Bidirectional(LSTM(32, activation='relu',return_sequences=True, input_shape=(x.shape[1], x.shape[2]))))
+    model.add(Bidirectional(LSTM(32, activation='relu')))
+    model.add(Dense(1))
     model.compile(loss='mse', optimizer='adam')
     # model.fit(trainx, trainy, epochs = 50, verbose=2, callbacks=[callbacks])
     model.fit(trainx, trainy, epochs=50, verbose=2)
