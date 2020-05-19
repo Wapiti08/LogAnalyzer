@@ -46,7 +46,7 @@ import pandas as pd
 from keras.models import Sequential
 import keras
 from keras.layers import Dense, Embedding, Dropout
-from keras.layers import LSTM
+from keras.layers import LSTM, Bidirectional
 from keras.utils import *
 import numpy as np
 import tensorflow as tf
@@ -158,10 +158,11 @@ def lstm_model(x, y, callbacks):
     model = Sequential()
     # =============== model 1 ===================
     # input data shape: (batch_size, timesteps, data_dim)
-    model.add(LSTM(32, activation='relu', input_shape=(x.shape[1], x.shape[2])))
+    model.add(Bidirectional(LSTM(32, activation='relu',return_sequences=True, input_shape=(x.shape[1], x.shape[2]))))
+    model.add(Bidirectional(LSTM(32, activation='relu')))
     # output layer with a single value prediction (1,K)
     model.add(Dense(1))
-    model.compile(loss="categorical_crossentropy", optimizer='adam', metrics=['accuracy'])
+    model.compile(loss="mse", optimizer='adam', metrics=['accuracy'])
     # to ensure the training data patterns remain sequential --- disable the shuffle
     # make it stateful, we add batch_size
     model.fit(x, y, epochs=500, batch_size=batch_size, verbose=2, callbacks=[callbacks], shuffle=False)
