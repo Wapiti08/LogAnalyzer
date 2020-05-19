@@ -158,8 +158,7 @@ def lstm_model(x, y, callbacks):
     model = Sequential()
     # =============== model 1 ===================
     # input data shape: (batch_size, timesteps, data_dim)
-    model.add(LSTM(32, activation='relu', return_sequences=True, input_shape=(x.shape[1], x.shape[2])))
-    model.add(LSTM(32, activation='relu', return_sequences=False))
+    model.add(LSTM(32, activation='relu', input_shape=(x.shape[1], x.shape[2])))
     # output layer with a single value prediction (1,K)
     model.add(Dense(1))
     model.compile(loss="categorical_crossentropy", optimizer='adam', metrics=['accuracy'])
