@@ -160,7 +160,7 @@ def lstm_model(x, y, callbacks):
     model.add(LSTM(32, activation='relu', return_sequences=True, input_shape=(x.shape[1], x.shape[2])))
     model.add(LSTM(32, activation='relu', return_sequences=False))
     # output layer with a single value prediction (1,K)
-    model.add(Dense(y.shape[1], activation='softmax'))
+    model.add(Dense(1))
     model.compile(loss="categorical_crossentropy", optimizer='adam', metrics=['accuracy'])
     # to ensure the training data patterns remain sequential --- disable the shuffle
     # make it stateful, we add batch_size
