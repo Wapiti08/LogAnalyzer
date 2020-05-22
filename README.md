@@ -23,7 +23,7 @@ we use the logparser tool to transform the source txt log files into structured 
 In the stage, we calculate the EventTemplate for every log. 
 
 ###  3. Variable Selection:
-The log_value_vector.py will be used to generate the csv file,,which will be used to implement the anomaly detection later. 
+The log_value_vector.py will be used to generate the csv file, which will be used to implement the anomaly detection later. 
 
 ![Parameter_vector.png](https://github.com/Wapiti08/DeepLog/blob/master/Deeplog_demo/Pic/Dataframe.png)
 
