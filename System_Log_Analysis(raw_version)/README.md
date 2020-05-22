@@ -1,1 +1,1 @@
-#Please check the readme.md at the first page.
+**All the manual manipulations have been replaced by the logparser tool**
