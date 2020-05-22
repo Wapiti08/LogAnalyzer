@@ -25,7 +25,7 @@ we use the logparser tool to transform the source txt log files into structured 
 In the stage, we calculate the EventTemplate for every log. 
 
 ##  3. Variable Selection:
-The log_value_vector_1.py will be used to generate the csv file like Parameter_vector.png, which will be used to implement the anomaly detections later. 
+The log_value_vector.py will be used to generate the csv file like Parameter_vector.png, which will be used to implement the anomaly detections later. 
 
 **(and has been integrated into models already in demo)**
 
