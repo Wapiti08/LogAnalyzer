@@ -5,8 +5,6 @@ It is the thought on how to use the a series of modules to pre-process the raw s
 
 > For the dataset, I give some examples and you can put your own data into that folder.
 
-**The Deeplog_demo is a relatively complete package, you can try to implement that.**
-
 
 ## Instructions (In Deeplog_demo folder):
 
