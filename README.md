@@ -1,9 +1,9 @@
 # DeepLog
-This is the achievement of core DeepLog and it is a manual version not for industrial usage.
+This is the achievement of core DeepLog for research aim.
 
-It is the thought on how to use the a series of modules to pre-process the raw system logs to key logs and report the potential malicious logs.
+**It is the thought on how to use the a series of modules to pre-process the raw system logs to key logs and report the potential malicious logs.**
 
-> For the dataset, I give some examples and you can put your own data into that folder.
+For the dataset, I have given some examples and you can put your own data into that folder.
 
 
 ## Instructions (In Deeplog_demo folder):
