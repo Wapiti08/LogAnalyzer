@@ -7,18 +7,29 @@ It is the thought on how to use the a series of modules to pre-process the raw s
 
 **The Deeplog_demo is a relatively complete package, you can try to implement that.**
 
-![workflow](https://github.com/Wapiti08/DeepLog/blob/master/Deeplog_demo/Pic/Deeplog_dataflow.png)
 
-
-## Instructions:
+## Instructions (In Deeplog_demo folder):
 
 ###  1. Source data:
-When the data format is in csv, we need translate them into txt files.
+When the data format is in csv, we need translate them into txt files and split them into batches.
+```
+python3 csv_txt_trans.py 
+```
+You will get notice on inputing the source location and output location.
 
 ###  2. Data analysis:
-we use the logparser tool to transform the source txt log files into structured csv files under a folder, the folder is named by the start and end time.
+we use the logparser tool to transform the source txt log files into structured csv files under a folder, the folder is named by the start and end time. (Find the Lenma_demo under the logparser/logparser/demo)
 
 **(use Lenma_demo.py with python2)** ---> The python3 version is not provided here.
+You need to set the locations first:
+```
+input_dir = '../../Dataset/Linux/Clear/'   # set the location to yours
+output_dir = '../../Dataset/Linux/Clear_Separate_Structured_Logs/'    # set the location to yours
+```
+Then you can execute the demo file with python 2.x:
+```
+python Lenma_demo.py 
+```
 
 In the stage, we calculate the EventTemplate for every log. 
 
@@ -32,14 +43,18 @@ The log_value_vector.py will be used to generate the csv file, which will be use
 **(and has been integrated into models already in demo)**
 
 ###  4. Model detection:
-Basiclly, we have two modules. 
+Basiclly, we have two modules for DeepLog 
 
 - Whereas, before implementing the modules, we will first see whether there is obvious malicious logs, we will report them first.
-	
+
 - After that, we will first implement execution path anomaly detection with Execution_Path_Anomaly.py
 	
 - Finally, we will implement parameter values anomaly detection with Parameter_value_performance_anomaly.py	
 
+- As a plus, there is the ML model using PCA in loglizer.
+```
+python3 PCA_demo_without_labels.py --p1 xxx --p2 xxx
+```
 
 ## Addition:
 If you want to implement the raw version, please run the following command before you go:
