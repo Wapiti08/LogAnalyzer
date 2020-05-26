@@ -63,6 +63,7 @@ pip install -r requirement.txt
 ## Statement:
 - *The model is based on off-line work, the online real-time detection is not available now.*
 - The [loglizer](https://github.com/logpai/loglizer) and [logparser](https://github.com/logpai/logparser) are open source tools, author's rights are reserved.
+- I enriched the two tools in the project, notice the differences from the original version.
 
 ## References：
 *1.Execution Anomaly Detection in Distributed Systems through Unstructured Log Analysis*
