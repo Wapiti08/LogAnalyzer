@@ -1,6 +1,8 @@
 # DeepLog
 This is the achievement of core DeepLog for research aim.
 
+## Function:
+
 **It is the thought on how to use the a series of modules to pre-process the raw system logs to key logs and report the potential malicious logs.**
 
 For the dataset, I have given some examples and you can put your own data into that folder.
