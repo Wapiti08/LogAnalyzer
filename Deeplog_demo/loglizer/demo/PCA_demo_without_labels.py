@@ -8,6 +8,10 @@
         model.fit(): fit the model
         model.predict(): predict anomalies on given data
         model.evaluate(): evaluate model accuracy with labeled data
+        
+   How to run this example:
+        python3 PCA_demo_without_labels.py --p1 xxx --p2 xxx
+
 '''
 
 import sys
