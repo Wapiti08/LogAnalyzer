@@ -52,9 +52,6 @@ Basiclly, we have two modules for DeepLog
 - Finally, we will implement parameter values anomaly detection with Parameter_value_performance_anomaly.py	
 
 - As a plus, there is the ML model using PCA in loglizer.
-```
-python3 PCA_demo_without_labels.py --p1 xxx --p2 xxx
-```
 
 ## Addition:
 If you want to implement the raw version, please run the following command before you go:
