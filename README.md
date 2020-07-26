@@ -1,5 +1,7 @@
 # DeepLog
-This is the achievement of core DeepLog for research aim.
+- This is the achievement of core DeepLog for research aim.
+
+- The **Online Update** part for models is waiting to go....
 
 ## Function:
 
