@@ -70,3 +70,5 @@ pip install -r requirement.txt
 *1.Execution Anomaly Detection in Distributed Systems through Unstructured Log Analysis*
 
 *2.DeepLog: Anomaly Detection and Diagnosis from System Logs*
+
+*3.Incremental Construction of LSTM Recurrent Neural Network*
