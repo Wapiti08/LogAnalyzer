@@ -1,7 +1,7 @@
 # DeepLog
 - This is the achievement of core DeepLog for research aim.
 
-- The **Online Update** part for models is waiting to go....
+- For the **Online Update** part for models please check [Online Update](https://gist.github.com/Wapiti08/d47787beb01cbb5777bdf655cfffef64)
 
 ## Function:
 
