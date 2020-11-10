@@ -1,4 +1,13 @@
 # DeepLog
+
+![Authour](https://img.shields.io/badge/Author-Wapiti08-blue.svg) 
+![Python](https://img.shields.io/badge/Python-3.7-brightgreen.svg) 
+![RNN](https://img.shields.io/badge/RNN-GRU-redgreen.svg)
+![Analysis](https://img.shields.io/badge/Analysis-Anomaly%20logs-redgreen.svg)
+![License](https://img.shields.io/badge/license-MIT3.0-green.svg)
+
+---
+
 - This is the achievement of core DeepLog for research aim.
 
 - The **Online Update** part for models please check [Online Update](https://gist.github.com/Wapiti08/d47787beb01cbb5777bdf655cfffef64)
