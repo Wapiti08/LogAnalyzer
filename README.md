@@ -1,7 +1,7 @@
 # DeepLog
 
 ![Authour](https://img.shields.io/badge/Author-Wapiti08-blue.svg) 
-![Python](https://img.shields.io/badge/Python-3.7-brightgreen.svg) 
+![Python](https://img.shields.io/badge/Python-3.8-brightgreen.svg) 
 ![RNN](https://img.shields.io/badge/RNN-GRU-redgreen.svg)
 ![Analysis](https://img.shields.io/badge/Analysis-Anomaly%20logs-redgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT3.0-green.svg)
