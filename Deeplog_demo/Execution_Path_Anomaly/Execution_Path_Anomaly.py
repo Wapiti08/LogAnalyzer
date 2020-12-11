@@ -54,7 +54,7 @@ import joblib
 import os
 from sklearn.metrics import mean_squared_error
 import re
-import log_value_vector_1
+import log_value_vector
 import optparse
 
 
@@ -222,7 +222,7 @@ def log_value_vector_gen(integrated_filename, batch_variables_path, log_value_ve
     fd_linux = pd.read_csv(integrated_filename)
     fd_linux = fd_linux.copy()
     # create the first column in dataframe with 'log message'
-    log_messages = log_value_vector_1.log_messages_create(fd_linux)
+    log_messages = log_value_vector.log_messages_create(fd_linux)
 
     log_keys = fd_linux['EventTemplate']
 
@@ -239,14 +239,14 @@ def log_value_vector_gen(integrated_filename, batch_variables_path, log_value_ve
     for k in range(len(fd_linux['Month'])):
         # print("we are transferring the month:",fd_linux['Month'][k])
         if fd_linux['Month'][k]:
-            month_number = log_value_vector_1.month_string_to_number(fd_linux['Month'][k])
+            month_number = log_value_vector.month_string_to_number(fd_linux['Month'][k])
             month_list.append(month_number)
         else:
             break
     # call the generated month, day, time list to get the seconds
-    seconds_list = log_value_vector_1.trans_seconds(month_list, day_list, time_list)
+    seconds_list = log_value_vector.trans_seconds(month_list, day_list, time_list)
     # input the seconds_list into the time_gap functions to get the series of time difference
-    times = log_value_vector_1.time_gap(seconds_list)
+    times = log_value_vector.time_gap(seconds_list)
     # process special case in log message to generate right values
     for i in range(len(fd_linux['Content'])):
         fd_linux['Content'][i] = re.sub('(\(\))', '(0)', fd_linux['Content'][i])
@@ -264,12 +264,12 @@ def log_value_vector_gen(integrated_filename, batch_variables_path, log_value_ve
 
     else:
         # generate the batch_variables
-        batch_variables = log_value_vector_1.show_diff(strings=strings, strings1=strings1)
+        batch_variables = log_value_vector.show_diff(strings=strings, strings1=strings1)
         # save the middle data
         joblib.dump(batch_variables, batch_variables_path)
 
     # create the parameter dataframe
-    log_value_vector_csv_fd = log_value_vector_1.parameter_vector(log_messages, log_keys, times, batch_variables,
+    log_value_vector_csv_fd = log_value_vector.parameter_vector(log_messages, log_keys, times, batch_variables,
                                                                   log_value_vector_filename)
     return log_value_vector_csv_fd
 
