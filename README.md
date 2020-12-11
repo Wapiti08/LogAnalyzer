@@ -10,14 +10,28 @@
 
 - This is the achievement of core DeepLog for research aim.
 
+**It is the thought on how to use the a series of modules to pre-process the raw system logs to key logs and report the potential malicious logs.**
+
 - The **Online Update** part for models please check [Online Update](https://gist.github.com/Wapiti08/d47787beb01cbb5777bdf655cfffef64)
 
-## Function:
+## Feature:
 
-**It is the thought on how to use the a series of modules to pre-process the raw system logs to key logs and report the potential malicious logs.**
+- convert the logs to structured pandas framework
+- extract the log keys from raw logs
+- analyse the log key exeuction path
+- analyse the paramaters in log key
+- combine results from both model
+- analyse the time series data generated from window size and time interval by PCA. 
 
 For the dataset, I have given some examples and you can put your own data into that folder.
 
+## pre-preparation:
+
+```
+# in order to match the libraries versions, please run and build the project in virtual environment
+virtualenv env
+pip3 install -r requirement.txt
+```
 
 ## Instructions (In Deeplog_demo folder):
 
@@ -65,12 +79,6 @@ Basiclly, we have two modules for DeepLog
 - As a plus, there is the ML model using PCA in loglizer.
 
 For basic instructions, please also check the ![Deeplog_datafrom.png](https://github.com/Wapiti08/DeepLog/blob/master/Deeplog_demo/Deeplog_dataflow.png).
-
-## Addition:
-If you want to implement the raw version, please run the following command before you go:
-```
-pip install -r requirement.txt
-```
 
 ## Statement:
 - The model is based on off-line work, the online real-time detection is not available.
