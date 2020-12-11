@@ -64,7 +64,7 @@ Basiclly, we have two modules for DeepLog
 
 - As a plus, there is the ML model using PCA in loglizer.
 
-For basic instructions, please also check the ![Parameter_vector.png](https://github.com/Wapiti08/DeepLog/blob/master/Deeplog_demo/Pic/Dataframe.png).
+For basic instructions, please also check the ![Deeplog_datafrom.png](https://github.com/Wapiti08/DeepLog/blob/master/Deeplog_demo/Deeplog_dataflow.png).
 
 ## Addition:
 If you want to implement the raw version, please run the following command before you go:
