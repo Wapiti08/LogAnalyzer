@@ -10,7 +10,7 @@
 
 - This is the achievement of core DeepLog for research aim.
 
-**It is the thought on how to use the a series of modules to pre-process the raw system logs to key logs and report the potential malicious logs.**
+- It is the basic thought with feature engineering to analyse raw logs and finally report the potential malicious logs based on a series of processings.
 
 - The **Online Update** part for models please check [Online Update](https://gist.github.com/Wapiti08/d47787beb01cbb5777bdf655cfffef64)
 
