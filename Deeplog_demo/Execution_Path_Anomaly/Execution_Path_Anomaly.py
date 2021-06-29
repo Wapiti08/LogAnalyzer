@@ -45,6 +45,7 @@ sys.path.append('../')
 import pandas as pd
 from keras.models import Sequential
 import keras
+from keras.callbacks import EarlyStopping
 from keras.layers import Dense, Embedding, Dropout
 from keras.layers import LSTM, Bidirectional
 from keras.utils import *
@@ -141,35 +142,24 @@ def get_train(log_key_sequence_str, n_steps, path_filename):
 
 
 # ================= part to generate the training data ======================
-# function of callback
-class Mycallback(tf.keras.callbacks.Callback):
-    def on_epoch_end(self, epoch, logs={}):
-        if logs.get('acc') > 0.95:
-            print("Reached 95% accuracy so stopping training")
-            self.model.stop_learning = True
-
 
 # # ============  Implement the lstm model ==================
 
 
-def lstm_model(x, y, callbacks):
-    batch_size = 16
+def lstm_model(x, y, callbacks, class_num):
+    earlystopping = EarlyStopping(monitor='acc', patience=10)
     # according to the article, we will stack two layers of LSTM, the model about stacked LSTM for sequence classification
     model = Sequential()
-    # =============== model 1 ===================
-    # input data shape: (batch_size, timesteps, data_dim)
-    model.add(Bidirectional(LSTM(32, activation='relu',return_sequences=True, input_shape=(x.shape[1], x.shape[2]))))
-    model.add(Bidirectional(LSTM(32, activation='relu')))
-    # output layer with a single value prediction (1,K)
-    model.add(Dense(1))
-    model.compile(loss="mse", optimizer='adam', metrics=['accuracy'])
-    # to ensure the training data patterns remain sequential --- disable the shuffle
-    # make it stateful, we add batch_size
-    model.fit(x, y, epochs=500, batch_size=batch_size, verbose=2, callbacks=[callbacks], shuffle=False)
-    # to see the summary of input and output shape
-    model.summary()
-    print('the accuracy for single lstm model is:', model.evaluate(x, y, batch_size=batch_size, verbose=0))
-    joblib.dump(model, 'path_anomaly_model.pkl')
+    # input dim is the length of steps/history
+    model.add(Dense(16, input_dim=5, activation='relu'))
+    model.add(Dense(16, activation='relu'))
+    # output unit is the number of classes
+    model.add(Dense(class_num,activation='softmax'))
+    model.compile(loss='categorical_crossentropy', optimizer='adam',metrics=['accuracy'])
+    batch_size = 16
+    model.fit(x, y, epochs=500, batch_size =16,validation_split=0.2,  callbacks = [earlystopping], verbose=2)
+  
+    model.save(model, 'path_anomaly_model.h5')
     return model
 
 
