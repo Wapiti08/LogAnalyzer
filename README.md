@@ -12,8 +12,6 @@
 
 - It is the basic thought with feature engineering to analyse raw logs and finally report the potential malicious logs based on a series of processings.
 
-- The **Online Update** part for models please check [Online Update](https://gist.github.com/Wapiti08/d47787beb01cbb5777bdf655cfffef64)
-
 ## Ongoing:
 - dvc experiments
 - dvc dags
@@ -26,6 +24,7 @@
 - analyse the paramaters in log key
 - combine results from both model
 - analyse the time series data generated from window size and time interval by PCA. 
+- online learning for feedback
 
 For the dataset, I have given some examples and you can put your own data into that folder.
 
