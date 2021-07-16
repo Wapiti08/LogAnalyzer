@@ -2,7 +2,8 @@
 
 ![Authour](https://img.shields.io/badge/Author-Wapiti08-blue.svg) 
 ![Python](https://img.shields.io/badge/Python-3.8-brightgreen.svg) 
-![RNN](https://img.shields.io/badge/RNN-GRU-redgreen.svg)
+![Classification](https://img.shields.io/badge/Multi-Class%20Classification-redgreen.svg)
+![LSTM](https://img.shields.io/badge/RNN-LSTM-redgreen.svg)
 ![Analysis](https://img.shields.io/badge/Analysis-Anomaly%20logs-redgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT3.0-green.svg)
 
