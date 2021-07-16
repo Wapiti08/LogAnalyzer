@@ -24,7 +24,7 @@
 - analyse the paramaters in log key
 - combine results from both model
 - analyse the time series data generated from window size and time interval by PCA. 
-- online learning for feedback
+- online learning for feedbacks
 
 For the dataset, I have given some examples and you can put your own data into that folder.
 
@@ -83,6 +83,12 @@ Basiclly, we have two modules for DeepLog
 
 For basic instructions, please also check the ![Deeplog_datafrom.png](https://github.com/Wapiti08/DeepLog/blob/master/Deeplog_demo/Deeplog_dataflow.png).
 
+```
+# go to the folder of model
+python3 Execution_Path_Anomaly.py
+# go to the folder of model
+python3 Parameter_Value_Vector.py 
+```
 ## Statement:
 - The model is based on off-line work, the online real-time detection is not available.
 - The [loglizer](https://github.com/logpai/loglizer) and [logparser](https://github.com/logpai/logparser) are open source tools, author's rights are reserved.
