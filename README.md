@@ -22,7 +22,6 @@
 - extract the log keys from raw logs
 - analyse the log key exeuction path
 - analyse the paramaters in log key
-- combine results from both model
 - analyse the time series data generated from window size and time interval by PCA. 
 - online learning for feedbacks
 
