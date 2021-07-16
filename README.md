@@ -81,8 +81,6 @@ Basiclly, we have two modules for DeepLog
 
 - As a plus, there is the ML model using PCA in loglizer.
 
-For basic instructions, please also check the ![Deeplog_datafrom.png](https://github.com/Wapiti08/DeepLog/blob/master/Deeplog_demo/Deeplog_dataflow.png).
-
 ```
 # go to the folder of model
 python3 Execution_Path_Anomaly.py
