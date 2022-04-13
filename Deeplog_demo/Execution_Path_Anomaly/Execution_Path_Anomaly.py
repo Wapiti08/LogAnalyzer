@@ -146,7 +146,7 @@ def get_train(log_key_sequence_str, n_steps, path_filename):
 # # ============  Implement the lstm model ==================
 
 
-def lstm_model(x, y, class_num):
+def lstm_model(x, y):
     earlystopping = EarlyStopping(monitor='acc', patience=10)
     # according to the article, we will stack two layers of LSTM, the model about stacked LSTM for sequence classification
     model = Sequential()
@@ -154,7 +154,7 @@ def lstm_model(x, y, class_num):
     model.add(Dense(16, input_dim=5, activation='relu'))
     model.add(Dense(16, activation='relu'))
     # output unit is the number of classes
-    model.add(Dense(class_num,activation='softmax'))
+    model.add(Dense(y.shape[1],activation='softmax'))
     model.compile(loss='categorical_crossentropy', optimizer='adam',metrics=['accuracy'])
     batch_size = 16
     model.fit(x, y, epochs=500, batch_size =16,validation_split=0.2, callbacks = [earlystopping], verbose=2)
