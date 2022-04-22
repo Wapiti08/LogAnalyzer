@@ -15,16 +15,16 @@ from sklearn.model_selection import train_test_split
 from scipy.stats import shapiro, normaltest
 
 # load the visualized part (if needed)
-from Parameter_value_performance_anomaly import visualized_value_vector
+from Parameter_Value_Vector import visualized_value_vector
 # load the module to transform the value vector to numerical data --- step1
-from Parameter_value_performance_anomaly import transform_numerical_data
+from Parameter_Value_Vector import transform_numerical_data
 # load the module to generate the matrix for every log key sequence --- step2
-from Parameter_value_performance_anomaly import gen_log_key_matrix
+from Parameter_Value_Vector import gen_log_key_matrix
 # load the module to analyse the matrix for anomaly detection --- step3
-from Parameter_value_performance_anomaly import matrix_analyse_report_anomaly
+from Parameter_Value_Vector import matrix_analyse_report_anomaly
 import optparse
 # compute the confidence intervial
-from Parameter_value_performance_anomaly import anomaly_predict
+from Parameter_Value_Vector import anomaly_predict
 
 
 if __name__ == "__main__":

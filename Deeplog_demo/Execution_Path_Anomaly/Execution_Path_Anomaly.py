@@ -44,10 +44,8 @@ sys.path.append('../')
 
 import pandas as pd
 from keras.models import Sequential
-import keras
 from keras.callbacks import EarlyStopping
-from keras.layers import Dense, Embedding, Dropout
-from keras.layers import LSTM, Bidirectional
+from keras.layers import Dense
 from keras.utils import *
 import numpy as np
 import tensorflow as tf
@@ -146,7 +144,7 @@ def get_train(log_key_sequence_str, n_steps, path_filename):
 # # ============  Implement the lstm model ==================
 
 
-def lstm_model(x, y, callbacks, class_num):
+def lstm_model(x, y):
     earlystopping = EarlyStopping(monitor='acc', patience=10)
     # according to the article, we will stack two layers of LSTM, the model about stacked LSTM for sequence classification
     model = Sequential()
@@ -154,10 +152,10 @@ def lstm_model(x, y, callbacks, class_num):
     model.add(Dense(16, input_dim=5, activation='relu'))
     model.add(Dense(16, activation='relu'))
     # output unit is the number of classes
-    model.add(Dense(class_num,activation='softmax'))
+    model.add(Dense(y.shape[1],activation='softmax'))
     model.compile(loss='categorical_crossentropy', optimizer='adam',metrics=['accuracy'])
     batch_size = 16
-    model.fit(x, y, epochs=500, batch_size =16,validation_split=0.2,  callbacks = [earlystopping], verbose=2)
+    model.fit(x, y, epochs=500, batch_size =16,validation_split=0.2, callbacks = [earlystopping], verbose=2)
   
     model.save(model, 'path_anomaly_model.h5')
     return model
@@ -412,14 +410,13 @@ if __name__ == "__main__":
     print("the shape of training data is {} and testing data is {}".format(X_normal.shape, X_com.shape))
     # check whether the model has existed
     filename = 'path_anomaly_model.pkl'
-    # load the callback instance
-    callbacks = Mycallback()
+  
     if os.path.isfile(filename):
         print("model has been generated before")
         model = joblib.load(filename)
         model_predict(model, x_test, y_test)
         model_predict_trace(model, x_test, y_test, key_name_dict)
     else:
-        model = lstm_model(x_train, y_train, callbacks)
+        model = lstm_model(x_train, y_train)
         model_predict(model, x_test, y_test)
         model_predict_trace(model, x_test, y_test, key_name_dict)
