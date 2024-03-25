@@ -1,4 +1,4 @@
-# DeepLog
+# LogAnalyzer
 
 ![Authour](https://img.shields.io/badge/Author-Wapiti08-blue.svg) 
 ![Python](https://img.shields.io/badge/Python-3.8-brightgreen.svg) 
@@ -9,7 +9,7 @@
 
 ---
 
-- This is the achievement of core DeepLog for research aim.
+- Ensemble framework of some log based anomaly detection work.
 
 - It is the basic thought with feature engineering to analyse raw logs and finally report the potential malicious logs based on a series of processings.
 
