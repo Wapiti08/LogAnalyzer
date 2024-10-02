@@ -6,6 +6,7 @@
 ![LSTM](https://img.shields.io/badge/RNN-LSTM-redgreen.svg)
 ![Analysis](https://img.shields.io/badge/Analysis-Anomaly%20logs-redgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT3.0-green.svg)
+[![DOI](https://zenodo.org/badge/209313171.svg)](https://doi.org/10.5281/zenodo.13881252)
 
 ---
 
